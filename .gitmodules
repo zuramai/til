@@ -1,0 +1,4 @@
+[submodule "themes/upgan"]
+	path = themes/upgan
+	branch = main
+	url = https://github.com/zuramai/upgan

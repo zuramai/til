@@ -1,0 +1,76 @@
+baseURL = "https://til.saugi.me/"
+languageCode = "en-us"
+title = "Today I Learned - Saugi"
+theme = "upgan"
+
+summaryLength = 17
+sectionPagesMenu = "main"
+
+defaultContentLanguage = "en"
+
+[pagination]
+  pagerSize = 999
+
+googleAnalytics = "G-KXD1G8P0DP"
+
+enableEmoji = true
+enableGitInfo = false
+enableRobotsTXT = true
+canonifyURLs = true
+
+[module]
+  [[module.imports]]
+    path = "upgan"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[params]
+  description = "Ahmad Saugi's blog and daily writing about thoughts, tutorial, and a bit of theories. Saugi's blog may help you to open your mind up."
+  author = "Ahmad Saugi"
+  faviconURL = "/favicon.svg"
+  og_image = "/images/author/saugi.jpg"
+  sitename = "Today I Learned - Saugi"
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    languageCode = "en-us"
+    weight = 1
+
+  [languages.id]
+    languageName = "Indonesia"
+    languageCode = "id"
+    weight = 2
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Main Site"
+    url = "https://saugi.me"
+    weight = 2
+
+[markup]
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineAnchors = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = "monokai"
+    tabWidth = 4
+
+  [markup.goldmark.renderer]
+    unsafe= true
+
+[services]
+  [services.disqus]
+    shortname = "blog-saugi"
