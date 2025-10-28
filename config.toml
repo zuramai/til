@@ -32,6 +32,7 @@ canonifyURLs = true
   faviconURL = "/favicon.svg"
   og_image = "/images/author/saugi.jpg"
   sitename = "Today I Learned - Saugi"
+  home_show_tags = true
 
 [languages]
   [languages.en]
