@@ -1,9 +1,7 @@
 ---
 title: "Economy Terms"
 date: 2025-10-29T14:34:41+07:00
-draft: true
-featured_image: thumbnail.jpg
-comments: true # Enable Disqus comments for specific page
+draft: false
 tags:
     - Economy
 
