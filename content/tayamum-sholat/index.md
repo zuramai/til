@@ -9,7 +9,7 @@ tags:
 
 # Author
 author: "Ahmad Saugi"
-language: en
+language: id
 author_image: "/static/images/author/saugi.jpg"
 ---
 
