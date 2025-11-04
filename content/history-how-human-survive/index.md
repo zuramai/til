@@ -1,5 +1,5 @@
 ---
-title: "Pernikahan: How humans survived"
+title: "How humans survived"
 date: 2025-10-31T19:14:11+07:00
 draft: false
 featured_image: thumbnail.jpg
