@@ -2,7 +2,7 @@
 title: "Startup Situation"
 date: 2025-11-05T23:18:00+07:00
 draft: false
-categories:
+tags:
     - Business
 
 # Author
