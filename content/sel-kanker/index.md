@@ -20,3 +20,7 @@ Kanker berawal dari sel yang sehat, tapi ketika aktivitas dalam sel terganggu, m
 Tapi jika cell yang rusak itu tidak dapat apoptosis, mereka akan berakumulasi dan membentuk clout sehingga terbentuklah tumor. Sel yang rusak itu akan terus menyebar dan bermutasi. 
 
 Sel sel tersebut akan bergerak through the blood vessels. Ketika sel kanker itu traveling, banyak dari mereka akan diserang oleh immune system dan tidak survive.
+
+### Stages of cancer
+
+![stages of cancer](./cancer-stages.png)
