@@ -13,6 +13,8 @@ author_image: "/static/images/author/saugi.jpg"
 
 Law of large numbers adalah ketika semakin banyak sampel (n) yang random, semakin dekat dengan expected value. Contohnya, kalo kita ngelempar koin dengan dua sisi, angka atau gambar, which has 50% probability akan keluar angka atau gambar. Semakin banyak kita melempar koin tersebut, akan menghasilkan rata-rata probabilitas keluar angka/gambar yang mendekati expected valuenya, which is 50%.
 
+![coin statistics](coin.png)
+
 AVG(X(n)) -> E(x) which n -> infinity
 
 Kita "independence" untuk mendapatkan hasil dari law ini sesuai ekspektasi. Independence means data random ini tidak dipengaruhi dengan data sebelumnya atau "fresh randomness". Kalo dependent, dapat membuat variance (ukuran seberapa besar penyebaran data) menjadi lebih besar.
