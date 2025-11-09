@@ -4,6 +4,7 @@ date: 2025-11-09T14:09:57+07:00
 draft: false
 tags:
     - Math
+    - Statistics
 
 # Author
 author: "Ahmad Saugi"
@@ -20,5 +21,5 @@ AVG(X(n)) -> E(x) which n -> infinity
 Kita "independence" untuk mendapatkan hasil dari law ini sesuai ekspektasi. Independence means data random ini tidak dipengaruhi dengan data sebelumnya atau "fresh randomness". Kalo dependent, dapat membuat variance (ukuran seberapa besar penyebaran data) menjadi lebih besar.
 
 Contoh independence: coin flip, karena tiap lemparannya itu unpredictable. Probabilitasnya secara konstan adalah 0.5.
-Contoh dependence: mengambil kartu dari 52 card deck. Probabilitas mendapatkan kartu pertama kartu As adalah 4/52 (0.076). Tapi ketika sudah mengambil kartu pertama dan mendapatkan Ace, dan kita ingin mengambil kartu kedua, probabilitas mendapatkan kartu Ace kedua adalah 3/51 (0.058). Tapi jika kartu pertamanya bukan ace, probabilitasnya menjadi 4/51 (0.078).
+Contoh dependence: mengambil kartu dari 52 card deck solitaire. Probabilitas mendapatkan kartu pertama kartu As adalah 4/52 (0.076). Tapi ketika sudah mengambil kartu pertama dan mendapatkan Ace, dan kita ingin mengambil kartu kedua, probabilitas mendapatkan kartu Ace kedua adalah 3/51 (0.058). Tapi jika kartu pertamanya bukan ace, probabilitasnya menjadi 4/51 (0.078).
 
