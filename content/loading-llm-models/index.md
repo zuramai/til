@@ -4,6 +4,7 @@ date: 2025-11-07T20:47:43+07:00
 draft: false
 tags:
     - Tech
+    - AI
 # Author
 author: "Ahmad Saugi"
 language: en
