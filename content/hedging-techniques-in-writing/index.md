@@ -10,26 +10,17 @@ language: id
 ---
 
 
-## Hedging technique dalam bahasa sehari-hari
-
-Kalau dalam bahasa indonesia sehari-hari, hedging digunakan untuk memperhalus bahasa sehingga terdengar lebih sopan dan less assertive dengan menggunakan kata-kata seperti kayaknya, menurut saya, setau saya, kurang, agak, lumayan, sekitar, sih.
+Kalau dalam sehari-hari, hedging digunakan untuk memperhalus bahasa sehingga terdengar lebih sopan dan less assertive dengan menggunakan kata-kata seperti kayaknya, menurut saya, setau saya, kurang, agak, lumayan, sekitar, sih.
 
 ### Contoh (Bahasa Indonesia)
 
-Gw ga suka makanan ini ❌
-Makanan ini **kurang** cocok di lidah gw ✅
-
-Parfum ini baunya gak enak ❌
-**Menurut gw**, parfum ini baunya **kurang** enak  ✅
-
-Soal matematika ini gampang ❌
-Soal matematika ini lumayan gampang sih ✅
-
-Game ini gampang dimainin ❌
-Game ini lumayan gampang dimainin sih ✅
-
-Acaranya besok jam 8 pagi ❌
-**Setau gw**, acaranya besok **kurang lebih** jam 8 pagi
+| Jangan ❌ | Lakukan ✅ |
+| ------ | ------- |
+| Gw ga suka makanan ini | Makanan ini **kurang** cocok di lidah gw |
+| Parfum ini baunya gak enak | **Menurut gw**, parfum ini baunya **kurang** enak  |
+| Soal matematika ini gampang | Soal matematika ini **lumayan** gampang sih |
+| Game ini gampang dimainin | Game ini lumayan gampang dimainin sih |
+| Acaranya besok jam 8 pagi | **Setau gw**, acaranya besok **kurang lebih** jam 8 pagi |
 
 
 ## Hedging technique in writing (academic)
