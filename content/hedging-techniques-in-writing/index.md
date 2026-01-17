@@ -25,4 +25,6 @@ Kalau dalam sehari-hari, hedging digunakan untuk memperhalus bahasa sehingga ter
 
 ## Hedging technique in writing (academic)
 
-Hedging is a technique to protect us from negative consequences when expressing uncertainty or caution. Avoiding bold statement to show modesty and professionalism. We use this technique because we acknowledge limitations and different perspective.
+Hedging is a technique to protect us from negative consequences when expressing uncertainty or caution. Avoiding bold statement (being dogmatic) to show modesty and professionalism. We use this technique because we acknowledge limitations and different perspective.
+
+Dogmatic = characterized by or given to the expression of opinions very strongly or positively as if they were facts
