@@ -17,8 +17,8 @@ In conclusion, choose coffee if someone wants immediate jolt of energy and opt f
 
 ### AI improved version for C1 level
 
-Matcha and coffee have gained widespread popularity for their focus-enhancing properties, primarily attributed to their caffeine content. Both beverages are incorporated into a diverse range of consumable forms, including iced drinks, cakes, desserts, and puddings.
+Matcha and coffee have **gained** **widespread** popularity for their focus-enhancing **properties**, primarily **attributed** to their caffeine content. Both beverages are **incorporated** into a diverse range of **consumable forms**, including iced drinks, cakes, desserts, and puddings.
 
-In general, matcha contains a lower concentration of caffeine compared to coffee. Nevertheless, matcha delivers more sustained energy owing to L-theanine, an amino acid that moderates caffeine absorption and promotes a gradual release of energy. Conversely, coffee produces an immediate energy surge; however, this is frequently followed by a noticeable crash as the caffeine dissipates.
+In general, matcha contains a **lower concentration** of caffeine compared to coffee. **Nevertheless**, matcha delivers more sustained energy owing to L-theanine, an amino acid that moderates caffeine absorption and **promotes** a **gradual** release of energy. **Conversely**, coffee produces an immediate energy surge; however, this is **frequently** followed by a noticeable crash as the caffeine **dissipates**.
 
-To summarise, those seeking an instant boost of energy would benefit from coffee, whereas individuals prioritising sustained focus and mental clarity would be better served by opting for matcha.
+**To summarise**, those seeking an instant boost of energy would benefit from coffee, **whereas individuals** prioritising sustained focus and mental clarity would be better served by opting for matcha.
