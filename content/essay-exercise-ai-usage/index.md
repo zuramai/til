@@ -1,6 +1,6 @@
 ---
 title: "Essay Exercise: AI Controversy"
-date: 2026-01-17T20:36:48+07:00
+date: 2026-01-18T20:36:48+07:00
 draft: false
 tags:
     - Language
