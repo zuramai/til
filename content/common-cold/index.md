@@ -26,3 +26,5 @@ When a human body reacts to allergens.
 - Nonallergic Rhintis
 
 When inflammation builds up in the nasal tissues that caused by viral illnesss (illness caused by virus) or exposed by certain triggers. Such as stress, paint, spicy food, hormonal change, sinusitis, etc.
+
+To relieve a runny or stuffy nose, we can take **pseudophedrine**.
