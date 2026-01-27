@@ -6,7 +6,7 @@ tags:
     - Language
 
 # Author
-language: false
+language: en
 ---
 
 Linguistic prescription is the creation of rules defined by publicly preferred usage. It's how the "correct" rules of usage is enforced rather than how it is actually spoken (descriptive).
