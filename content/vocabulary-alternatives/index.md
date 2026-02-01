@@ -9,4 +9,4 @@ tags:
 language: en
 ---
 
-![a.jpg]
+![a.jpg](a.jpg)
