@@ -9,7 +9,7 @@ tags:
 language: en
 ---
 
-When we eat sugar, blood sugar spikes. Pancreas releases insulin to absorb sugar for energy and suppress blood sugar level. We call this 'sugar crash' that causes fatigue because of energy fluctuations. 
+When we eat sugar, blood sugar spikes. Pancreas releases insulin to absorb sugar for energy and suppress blood sugar level. We call this 'sugar crash' that causes fatigue because of energy fluctuations.
 
 We will feel sluggish as the body processes the sugar influx and balance the hormones. Sugar influx = rapid entry of sugar into the bloodstream.
 

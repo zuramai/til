@@ -45,3 +45,15 @@ Rata-rata orang mengecek media sosial selama 2.5 jam sehari. Coba pikirin, apa y
 Kita gak akan ketinggalan info kok. Ternyata, info-info di medsos itu gak sepenting yang kita bayangkan sehingga kita perlu mengeceknya tiap waktu. Kita bisa subscribe berita premium seperti Tempo, New York Times, The Atlantic, untuk bacaan berkualitas.
 
 Sejak saat itu, aku membuka sosial media bukan karena keinginan *to kill time*, tapi memang karena secara sadar dan sengaja di waktu-waktu yang bukan waktu produktif.
+
+### Jadi, apa yang harus dilakukan?
+
+1. Konsumsi sosmed secara aktif, bukan pasif. Harus tau tujuannya pas awal buka sosmed.
+2. Kalo mau berita terbaru, cari juga beritanya secara intensional (e.g. buka web berita)
+3. Sosmed terlalu banyak noise.
+
+
+### 30 Hari Puasa Sosmed
+
+1. Kasih tau ke semua orang terdekat bahwa aku tidak dapat dihubungi, kalo mau chat, bisa lewat whatsapp aja (the only social media i use).
+2. 

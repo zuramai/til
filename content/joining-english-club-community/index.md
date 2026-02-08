@@ -13,7 +13,7 @@ This was the very first time I joined an english community. I have never been ab
 
 In most of the social environments in Indonesia, you will be likely to be judged if you speak english partially or as a whole. A supportive environment is needed to boost your skill improvement.
 
-Whenever I tried to speak English directly it feels kinda weird unless the partner you're speaking to already knows that you have that character (that you are english speaker) and he/she understand english.
+Whenever I tried to speak English directly, it felt somewhat awkward unless the conversation partner already knew that you are english speaker and could understand.
 
 I learned many accents and I feel like aussie-american accent suits me a lot and could increase my confidence when speaking. The problem is I can't really use the accent because no one will understand me. Switching accent to Indonesian accent is needed for understandability, although it lowers my confidence.
 

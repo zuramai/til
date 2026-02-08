@@ -17,3 +17,5 @@ Statistically, luck can be created. Naval Ravikant in his podcast said that ther
 2. Hustle luck, a luck that happens because of your effort that eventually the luck will find you. You work very hard
 3. Skill luck, you are really good at your field that will make you really good at spotting luck, when the luck will show up, based on your knowledge and experience.
 4. Unique luck, your unique set of attributes attracts a specific luck. the luck will eventually find you.
+
+Richard Wiseman launched School of Luck

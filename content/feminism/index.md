@@ -26,4 +26,4 @@ Kekerasan Berbasis Gender Online
 - Psikologis
 - Ekonomi
 - Sensor diri/menutup diri
-- Mobilitas
+- Mobilitas diri 
