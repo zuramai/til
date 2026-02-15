@@ -21,6 +21,6 @@ For example:
 4. Surprise: Brows up, jaw drop
 5. Happiness: cheeks lifted, muscles around the eye tighten
 6. Sadness: lip corner lowered, brows raised
-6. Contempt: one side of lip raised (sneer)
+7. Contempt: one side of lip raised (sneer)
 
 ![senku](./images.jpg)
