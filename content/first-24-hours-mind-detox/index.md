@@ -9,13 +9,13 @@ tags:
 language: en
 ---
 
-Mind detox is cleaning ourself from any kind of distraction that would degrade our quality of mind, including thinking and focusing. The distractions may come from social media, short form videos, playing games, listening to music, useless conversation or debate, and so on. It depends on what the person is easily distracted to. We're all deprived from solitude.
+Mind detox is cleaning ourself from any distractions that would **diminish** our mental clarity and focus, including thinking and focusing. The distractions can **manifest as** social media engagement, short-form videos, playing games, listening to music, engaging in unproductive conversations or debates, among other things. It depends on what the person is easily distracted to. Many of us are deprived from solitude.
 
-Starting yesterday, I tried to remove all of the distractions from my life. No social media, no games, no music, no watching shorts. It sounds extreme especially because we're living in a busy modern digital world.
+Starting yesterday, I tried to eliminate all distractions from my life. This meant **abstaining** from social media, no games, no music, no watching shorts. It sounds extreme especially because we're living in a busy modern digital world.
 
-Cal Newport, in his book Digital Minimalism said being able to disconnect from digital world is one of the important ability that everyone misses. It is correct that social media benefits us with connection with other people, at the cost of addiction. Furthermore, many researches suggest that constant connectivity may lead to increased anxiety and stress.
+Cal Newport, in his book Digital Minimalism, **states** that being able to disconnect from the digital world is a **crucial** skill that people **overlook**. While it is true that social media benefits us with connection with others, **this often comes** at the cost of **fostering** addiction. Furthermore, **numerous studies** suggest that constant connectivity may lead to increased anxiety and stress.
 
-What I feel in the first 24 hours:
+My **observations** during the **initial** 24 hours:
 
 - Sharper
 - More creative
@@ -26,7 +26,7 @@ At the cost of:
 - Lonely, disconnected from the digital networking
 - Anxious, leg shaking a lot
 
-I used to [quit social media for a whole month](https://blog.saugi.me/i-quit-social-media-for-thirty-days-addict/) and this feedback is normal. Our mind need to be calibrated to not depends on the phone to seek pleasure. After few days, we will feel better and gain independence from what confine our mind. 
+I used to [quit social media for a whole month](https://blog.saugi.me/i-quit-social-media-for-thirty-days-addict/) and this feedback is normal. Our mind need to be recalibrated to not depends on the phone to seek pleasure. After few days, we **typically** begin to feel better and gain independence from what previously confined our mind. 
 
 
 In addition, social media is free to use. But nothing is actually free in this world. When something is free, you are the product. They hold your data. You are giving your time.
