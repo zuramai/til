@@ -27,13 +27,13 @@ Hunayn bin Ishaq adalah salah satu cendekiawan sekaligus penerjemah utama di Bag
 
 ### Beberapa figur penting
 
-1. **Al-Khwarizmi (780-850)---**Bapak dari aljabar. "Algorithm" adalah bentuk latin yang "corrupted" dari namanya.
-2. **Ibnu Sina / Avicenna (980-1037)---**Filsuf, dokter, ia menulis lebih dari 450 karya.
-3. **Al-Biruni (973-1048)---**orang yang menghitung keliling lingkaran bumi dengan akurat, dan bumi berputar pada porosnya.
-4. **Ibnu Al-Haytam (965-1040)---**experimental scientist dan bapaknya optik.
-5. **Ibnu Rusyd / Averroes (1126-1198)---**komentator Aristotle. Karyanya Ibnu Rusyd ini mengenalkan kembali Aristotle pada Eropa.
-6. **Al-Zahrawi (936-1013)---**bapak daripada operasi.
-7. **Omar Khayyam (1048-1131)---**matematikawan dan astronom, ia mengembangkan kalender matahari yang lebih akurat dari kalender Gregorian yang dipakai pada saat ini. Gregorian calendar itu adalah kalender matahari yang terdiri dari 365 hari dan loncat setiap 4 tahun. Omar Khayyam mengenalkan Jalali calendar yang lebih precise, yaitu satu tahun adalah 365.24219858156 hari.
+1. **Al-Khwarizmi (780-850)**---Bapak dari aljabar. "Algorithm" adalah bentuk latin yang "corrupted" dari namanya.
+2. **Ibnu Sina / Avicenna (980-1037)**---Filsuf, dokter, ia menulis lebih dari 450 karya.
+3. **Al-Biruni (973-1048)**---orang yang menghitung keliling lingkaran bumi dengan akurat, dan bumi berputar pada porosnya.
+4. **Ibnu Al-Haytam (965-1040)**---experimental scientist dan bapaknya optik.
+5. **Ibnu Rusyd / Averroes (1126-1198)**---komentator Aristotle. Karyanya Ibnu Rusyd ini mengenalkan kembali Aristotle pada Eropa.
+6. **Al-Zahrawi (936-1013)**---bapak daripada operasi.
+7. **Omar Khayyam (1048-1131)**---matematikawan dan astronom, ia mengembangkan kalender matahari yang lebih akurat dari kalender Gregorian yang dipakai pada saat ini. Gregorian calendar itu adalah kalender matahari yang terdiri dari 365 hari dan loncat setiap 4 tahun. Omar Khayyam mengenalkan Jalali calendar yang lebih precise, yaitu satu tahun adalah 365.24219858156 hari.
 
 
 ### Downfall
