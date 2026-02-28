@@ -23,6 +23,14 @@ Narcissism correlate positively with *extraversion* and *openness*, but lack of 
 
 Extreme narcissist can be emotionally abusive and violent if they're not given the special treatment they expect.
 
+**How to spot a narcissist**:
+
+- Always talk about themselves
+- Exaggerating their achievements 
+- Believe they deserve special treatments
+- Admiration-seeker
+- Tend to be anti-critic and responds with rage and defensiveness
+
 ### Machiavellianism
 
 This personality trait is ascribed to **manipulative personality** who deceive to achieve their goals, motivated by self-interest. It is named after Niccolò Machiavelli because of his famous work *The Prince* (1532) that highlights pragmatic, ruthless, and manipulative tactics to gain power.
@@ -31,12 +39,23 @@ They are a strategist who would do anything to achieve their goals. They look in
 
 Different from narcissist, machiavelian tend to be calm and not doing anything aggressive, but they manipulate people psychologycally.
 
-**How to spot machiavellian?**
+**How to spot a machiavellian:**
 
-They have cold, calculative, and manipulative behavior in focus of gaining power, money, or status, or anything they want. They are skilled liars "*pembohong handal*" who often acts as "**puppet master**" who use charm and deception to control situation. They use charm, invent a strategic vulnerability to make you feel special, using "the favor trap" when they offer help first and expecting repayment later. They rarely moved by other emotions and keep a cold demeanor to stay focused on their objectives.
+- They have cold, calculative, and manipulative behavior in focus of gaining power, money, or status, or anything they want. 
+- They are skilled liars "*pembohong handal*" who often acts as "**puppet master**" who use charm and deception to control situation. 
+- They use charm, invent a strategic vulnerability to make you feel special
+- Using "the favor trap" when they offer help first and expecting repayment later. 
+- They rarely moved by other emotions and keep a cold demeanor to stay focused on their objectives.
 
 ### Psychopathy
 
 Psychopathy is considered to be the **"darkest" trait** in the dark triad. They lack empathy and remorse. They have low level of empathy and high level of impulsivity and thrill-seeking.
 
 They don't care with other's feelings and well-being even their safety.
+
+**How to spot a psychopath**:
+
+- Irresponsibility
+- Showing lack of empathy
+- Feeling superior
+- Impulsive, they act without considering the consequences
