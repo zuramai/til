@@ -43,4 +43,4 @@ Ia menghapus berbagai bea cukai dan pungutan liar di perbatasan wilayah yang men
 
 ### Kematian Umar
 
-Umar mati dibunuh karena makanannya diracuni. Orang yang meracuni itu tidak punya pilihan selain memasukkan racun ke dalam makanannya, atau ia akan dibunuh. Ketika Umar sakit dan sekarat, orang itu menjenguk Umar. "Aku sudah tahu bahwa kau yang meracuni makananku, dan engkau sudah aku maafkan" bisik Umar kepada orang itu.
+Umar mati dibunuh karena makanannya diracuni. Seorang pelayan diancam untuk meracuni makanan Umar, jika ia sukses maka akan mendapatkan 1000 dirham, tetapi jika menolak ia akan dibunuh. Setelah Umar memakan makanan yang diracuni itu, Umar jatuh sakit selama kurang lebih 20 hari. Ketika Umar sakit dan sekarat, peracun itu menjenguk Umar. "Aku sudah tahu bahwa kau yang meracuni makananku, dan engkau sudah aku maafkan. Ambillah dirham itu untuk keluargamu dan pergilah jauh-jauh dari sini" bisik Umar kepada orang itu.
