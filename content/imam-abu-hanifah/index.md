@@ -1,6 +1,6 @@
 ---
 title: "Penyiksaan Imam Abu Hanifah"
-date: 2026-03-02T22:36:18+07:00
+date: 2026-03-03T22:36:18+07:00
 draft: false
 tags:
     - History
