@@ -17,7 +17,7 @@ CDN is a servers that are distributed across the globe to serve cached content c
 - **Increased security** and protects from DDoS.
 - **Increased content availability**, the content is replicated to multiple servers globally. So if one server goes down, there are many server that back it up.
 
-## How CDN works
+## How Cloudflare caches its data?
 
 The cached content are stored in high [IOPS NVME SSD storage](https://blog.cloudflare.com/why-we-started-putting-unpopular-assets-in-memory/). Cloudflare uses RAM for caching unpopular content, and SSD for popular content. This kinda counterintuitive from the fact that RAM is significantly faster than SSD. Why don't use RAM for popular content? The main reason is SSD is bad for writes. It will make the SSD worn out faster and causes slower reads. The unpopular content mostly rely on writes than reads The popular assets stay on SSD where read performance is matter most. Doing this way will extend SSD lifespan.
 
