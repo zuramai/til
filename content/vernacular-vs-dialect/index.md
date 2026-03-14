@@ -27,3 +27,5 @@ Dialect is a different version of a language with its own grammar, accent, and w
 Indonesian learners study formal and standard Indonesian language (*bahasa baku*). Meanwhile locals use a distinct version of Indonesian that already vernacularized (*bahasa gaul*). We don't say "*Saya tidak tahu*", we say "*nggak tau*." Many words are dismissed from the sentence for simplicity.
 
 But *bahasa gaul* and *bahasa baku* are coexisted in the society, each are used depending on the situation. This is called ***diglossia***.
+
+Another example of diglossia is Arabic Fusha---which used in the holy Al-Quran---and Arabic Amiyah that is used in daily life. Same like bahasa gaul, Arabic Amiyah speakers cut out i'rab (last harakat) of words for simpler pronunciation.
