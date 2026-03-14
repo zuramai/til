@@ -9,7 +9,7 @@ tags:
 language: en
 ---
 
-Life is full of decisions. Some sources suggest that we make roughly 2000 decisions a day. But does this enormous number really holds up? I wonder how this number was derived at the first place. 
+Life is full of decisions. Some sources suggest that we make roughly 2000 decisions an hour. But does this enormous number really holds up? I wonder how this number was derived at the first place. 
 
 Think this way, opening this article is a decision, reading this paragraph is a decision, thinking about whether to continue to read after the first paragraph is a decision, ignoring your notification while reading is also a decision, not having a coffee is also a decision. Both positive and negative actions we took are a decision.
 
