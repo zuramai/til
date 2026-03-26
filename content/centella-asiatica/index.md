@@ -26,6 +26,8 @@ More benefits:
 
 In an experiment in India, there is an increase in brain capacity 3 to 60 times in a rat that is given centella asiatica extract compared to rat that is not given. 
 
+Moreover, in a [research](https://iopscience.iop.org/article/10.1088/1755-1315/755/1/012064) whose participants are women aged more than 70, it is proven that consuming 500mg of Centella Asiatica improves semantic fluency and visual memory. 
+
 **What is reactive oxygen?**
 
 *Reactive Oxygen Species (ROS)* is produced as a natural byproduct of normal metabolism. Excessive ROS leads to oxidative stress, which can cause aging, cancer, and neurodegenerative disease like Alzheimer.
