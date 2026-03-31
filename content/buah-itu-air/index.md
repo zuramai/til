@@ -1,5 +1,5 @@
 ---
-title: "Buah itu Air"
+title: "Fruit is Water"
 date: 2026-03-31T16:15:42+07:00
 draft: false
 tags:
