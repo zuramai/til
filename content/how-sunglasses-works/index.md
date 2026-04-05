@@ -13,6 +13,8 @@ There are many benefits from using sunglasses. It blocks UV radiation and helps 
 
 Cheap sunglasses is different from an 'actual' sunglasses. The one that is extremely cheap that we usually found in the street or market is probably fake (**beware of it!**) because it's just a simple plastic that is coated with thin tinted coating on them.
 
+![spectrum](lightspectrum.png)
+
 Sunglasses also blocks specific spectrum of light, like the ultraviolet radiation---an electromagnetic radiation that is roughly between 100 to 400 nm.
 
 There are technologies that are used to make a sunglass: tinting, polarization, photochromic lenses, mirroring, anti-reflective coating, and UV coating.
