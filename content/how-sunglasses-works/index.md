@@ -1,5 +1,5 @@
 ---
-title: "How Sunglasses Works"
+title: "How Sunglasses Work?"
 date: 2026-04-05T23:37:52+07:00
 draft: false
 tags:
