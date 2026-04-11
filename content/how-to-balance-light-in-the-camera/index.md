@@ -1,6 +1,6 @@
 ---
 title: "How to Balance Light in the Camera"
-date: 2026-04-05T23:37:52+07:00
+date: 2026-04-11T23:37:52+07:00
 draft: false
 tags:
   - Photography
