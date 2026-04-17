@@ -3,7 +3,7 @@ title: "Why Gratitude Is Good for Us"
 date: 2026-04-17T07:05:25+07:00
 draft: false
 tags:
-  - Language
+  - Mental Health
 
 # Author
 language: en
