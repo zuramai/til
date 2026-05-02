@@ -1,5 +1,5 @@
 ---
-title: "Cap Theorem"
+title: "Photography Composition Technique"
 date: 2026-05-02T05:48:24+07:00
 draft: false
 tags:
