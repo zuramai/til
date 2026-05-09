@@ -19,3 +19,7 @@ Ada dua jenis distorsi optim:
 Jadi, gunakan lensa sesuai kebutuhan. Kalo butuh portrait, pake lensa dengan focal length normal seperti 35mm. Kalo butuh landscape dan street photography, 15-27mm is a great idea.
 
 Coba mundur dikit kalo pake lensa yg focal lengthnya lebih gede.
+
+![img](./img.png)
+
+source img: https://www.youtube.com/watch?v=mDGEHrv9FyY
