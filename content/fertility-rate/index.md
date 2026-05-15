@@ -3,7 +3,7 @@ title: "Fertility Rate"
 date: 2026-05-15T14:15:02+07:00
 draft: false
 tags:
-  -
+  - Statistics
 
 # Author
 language: en
