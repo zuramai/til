@@ -6,7 +6,7 @@ tags:
   - Relationship
 
 # Author
-language: en
+language: id
 ---
 
 I have no fuckin clue :')

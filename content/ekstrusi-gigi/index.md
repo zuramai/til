@@ -6,7 +6,7 @@ tags:
   - Random
 
 # Author
-language: de
+language: id
 ---
 
 Ekstrusi gigi adalah ketika gigi bergeser secara vertikal akibat dari gigi antagonis tidak ada. Pergerakan gigi ini bisa keluar dari soket atau rahang. Misalnya, gigi bawahnya dicabut, ini akan menyebabkan gigi atasnya turun ke bawah.
