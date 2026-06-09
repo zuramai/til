@@ -1,6 +1,6 @@
 ---
 title: "Karpathy's LLM Wiki"
-date: 2026-06-10T05:25:43+07:00
+date: 2026-06-09T05:25:43+07:00
 draft: false
 tags:
   - AI
