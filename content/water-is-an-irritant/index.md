@@ -1,6 +1,6 @@
 ---
 title: "Water Is an Irritant"
-date: 2026-06-11T05:27:03+07:00
+date: 2026-06-10T05:27:03+07:00
 draft: false
 tags:
   - Science
