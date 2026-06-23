@@ -1,7 +1,7 @@
 ---
 title: "Kenapa Tahafut Al-Falasifah Kontroversial?"
 date: 2026-06-23T23:49:46+07:00
-draft: true
+draft: false
 tags:
   - Why
   - History
