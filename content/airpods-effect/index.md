@@ -1,7 +1,7 @@
 ---
 title: "Airpods Effect"
 date: 2026-06-19T23:11:17+07:00
-draft: true
+draft: false
 tags:
   - Language
 

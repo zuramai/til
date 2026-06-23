@@ -1,7 +1,7 @@
 ---
 title: "Kenapa Orang Indonesia Suka Ngaret"
 date: 2026-06-21T13:45:45+07:00
-draft: true
+draft: false
 tags:
   - Language
 
