@@ -3,7 +3,7 @@ title: "How to Get Into Masters Easily"
 date: 2026-08-01T21:53:43-04:00
 draft: false
 tags:
-  - Academia
+  - Academic
 
 # Author
 language: en
