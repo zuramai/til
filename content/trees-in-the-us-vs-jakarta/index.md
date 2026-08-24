@@ -1,7 +1,7 @@
 ---
 title: "Trees in the U.S. vs Jakarta"
-date: 2026-07-07T19:50:34-04:00
-draft: true
+date: 2026-07-08T19:50:34-04:00
+draft: false
 tags:
   - Language
 
