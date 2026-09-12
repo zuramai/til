@@ -9,4 +9,4 @@ tags:
 language: en
 ---
 
-{{ image src="fitzpatrick.webp" caption="Fitzpatrick skin type. Source: profesionalskincare }}
+{{< image src="fitzpatrick.webp" caption="Fitzpatrick skin type. Source: profesionalskincare >}}
