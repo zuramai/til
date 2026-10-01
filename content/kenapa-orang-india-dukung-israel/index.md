@@ -1,5 +1,5 @@
 ---
-title: "Kenapa Orang India Dukung Israel"
+title: "Kenapa India Dukung Israel"
 date: 2026-10-01T21:36:52+07:00
 draft: false
 tags:
