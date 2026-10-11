@@ -13,7 +13,7 @@ Kemaren gw ngobrol lagi sama panutan gw. Gw mulai dengan pertanyaan "Lu percaya 
 
 Jujur gw agak tertampar sih sama responnya, soalnya selama ini gw masih mencong mencong jalannya. Ini bukan pesan bullshit dari motivator atau orang yang jualan kelas, tapi real experience orang yang grinding dari awal.
 
-![5-persen](./.5-persen.jpeg)
+![5-persen](./5-persen.jpeg)
 
 Satu hal yang gw notice dari menjadi disiplin itu kalo di awal udah konsisten, tapi ada satu hari bolong tanpa ada valid excuse dan rasa bersalah, percayalah itu tanda-tanda akan kehilangan habit.
 
