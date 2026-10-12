@@ -4,6 +4,7 @@ date: 2026-10-12T21:11:36+07:00
 draft: false
 tags:
   - Chemistry
+  - Science
 
 # Author
 language: en
