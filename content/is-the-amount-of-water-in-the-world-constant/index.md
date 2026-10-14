@@ -3,7 +3,8 @@ title: "Is the Amount of Water in the World Constant?"
 date: 2026-10-07T05:58:57+07:00
 draft: false
 tags:
-  - Random
+  - Science
+  - Why
 
 # Author
 language: en
