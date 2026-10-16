@@ -19,12 +19,12 @@ language: en
 
 **Goals to be met:**
 
-- English proficiency. Acceptance criteria: IELTS Band 7.5 and excel in mock interview. Able to elaborate thoughts and have constructed arguments into a clear articulation.
-- Software engineering knowledge. Acceptance criteria: understand, memorize, and able to explain the software engineering practices and system design in proficient english.
-- Leetcode. Acceptance criteria: at least 150-200 problems mixed topics and difficulties. Able to produce good solution in mind at a short glance to the problem. Able to elaborate my solutions in english.
-- AI Engineering. Acceptance criteria: able to build services that handle an AI model efficiently. Able to deploy and scale AI services in production. Able to use, train, and fine-tune AI models based on dataset given.
-- Low-level knowledge. Acceptance criteria: utilize C++ or Rust to significantly improve performance in the workflow. Able to utilize GPU for performance enhancement.
-- Open source. Acceptance criteria: build a hand-made open-source project related to AI and low-level.
+- **English proficiency**. Acceptance criteria: IELTS Band 7.5 and excel in mock interview. Able to elaborate thoughts and have constructed arguments into a clear articulation.
+- **Software engineering knowledge**. Acceptance criteria: understand, memorize, and able to explain the software engineering practices and system design in proficient english.
+- **Leetcode**. Acceptance criteria: at least 150-200 problems mixed topics and difficulties. Able to produce good solution in mind at a short glance to the problem. Able to elaborate my solutions in english.
+- **AI Engineering**. Acceptance criteria: able to build services that handle an AI model efficiently. Able to deploy and scale AI services in production. Able to use, train, and fine-tune AI models based on dataset given.
+- **Low-level knowledge**. Acceptance criteria: utilize C++ or Rust to significantly improve performance in the workflow. Able to utilize GPU for performance enhancement.
+- **Open source**. Acceptance criteria: build a hand-made open-source project related to AI and low-level.
 
 **Strategies:**
 
