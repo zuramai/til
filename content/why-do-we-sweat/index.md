@@ -1,9 +1,9 @@
 ---
 title: Why Do We Sweat
 date: 2026-10-22T20:38:04+07:00
-draft: true
+draft: false
 tags:
-  - Language
+  - science
 language: en
 ---
 Sweating is our body response to stabilize body temperature back to 36-37 celcius. It's called thermoregulation, control core body temperature and trigger sweat.
