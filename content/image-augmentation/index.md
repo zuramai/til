@@ -2,7 +2,8 @@
 title: Image Augmentation
 date: 2026-10-23T22:57:10+07:00
 draft: false
-tags: []
+tags:
+  - AI
 language: en
 ---
 Image augmentation, or better addressed as data augmentation, is a method to make training samples have more variations to cover many possibilities of inputs that the client will send. In computer vision, it is advisable to create changes in the image we use for training. For example, add a little of rotation, blur, darken, or compress. Every time the model sees the image during training, it sees a slightly different version.
