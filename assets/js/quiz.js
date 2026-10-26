@@ -75,8 +75,10 @@
 
   function formatInterval(ms) {
     if (ms < MIN) return "<1m";
-    if (ms < 60 * MIN) return `${Math.round(ms / MIN)}m`;
-    if (ms < DAY) return `${trimZero(ms / (60 * MIN))}h`;
+    const minutes = Math.round(ms / MIN);
+    if (minutes < 60) return `${minutes}m`;
+    const hours = ms / (60 * MIN);
+    if (hours < 23.95) return `${trimZero(hours)}h`;
     const days = ms / DAY;
     if (days < 30) return `${Math.round(days)}d`;
     if (days < 365) return `${trimZero(days / 30)}mo`;
