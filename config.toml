@@ -51,9 +51,13 @@ canonifyURLs = true
     url = "/"
     weight = 1
   [[menu.main]]
+    name = "Quiz"
+    url = "/quiz/"
+    weight = 2
+  [[menu.main]]
     name = "Main Site"
     url = "https://saugi.me"
-    weight = 2
+    weight = 3
 
 [markup]
   [markup.highlight]

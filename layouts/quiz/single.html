@@ -1,0 +1,20 @@
+{{ define "main" }}
+{{- $decks := slice -}}
+{{- range site.Data.quiz -}}
+  {{- if .cards -}}
+    {{- $decks = $decks | append (dict "slug" .slug "title" .title "url" .url "cards" .cards) -}}
+  {{- end -}}
+{{- end -}}
+{{- $res := resources.FromString "quiz/decks.json" (jsonify $decks) | minify | fingerprint -}}
+{{- with resources.Get "css/quiz.css" | minify | fingerprint }}
+<link rel="stylesheet" href="{{ .RelPermalink }}">
+{{- end }}
+<div class="container">
+  <div id="quiz-app" class="quiz" data-decks="{{ $res.RelPermalink }}">
+    <noscript>The quiz needs JavaScript.</noscript>
+  </div>
+</div>
+{{- with resources.Get "js/quiz.js" | minify | fingerprint }}
+<script defer src="{{ .RelPermalink }}"></script>
+{{- end }}
+{{ end }}
