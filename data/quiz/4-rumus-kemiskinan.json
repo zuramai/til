@@ -1,0 +1,47 @@
+{
+  "slug": "4-rumus-kemiskinan",
+  "title": "4 Rumus Kemiskinan",
+  "url": "/4-rumus-kemiskinan/",
+  "sourceHash": "0023228b54d31615d65c3a8ae759eba3ce04dffef0cc6077ee74eef85328f8c0",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.114Z",
+  "cards": [
+    {
+      "id": "4-rumus-kemiskinan-223b0804d8",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Sebutkan empat 'rumus kemiskinan' yang membuat seseorang berpotensi miskin.",
+      "answer": "Gengsian, malas, bodoh, dan pengecut/takut."
+    },
+    {
+      "id": "4-rumus-kemiskinan-d4ee2ce600",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Jika seseorang memiliki dua dari empat sifat rumus kemiskinan sekaligus, apa kesimpulannya?",
+      "options": [
+        "Tidak berpengaruh",
+        "Berpotensi miskin saja",
+        "Hampir pasti miskin",
+        "Pasti kaya"
+      ],
+      "correct": 2,
+      "answer": "Hampir pasti miskin."
+    },
+    {
+      "id": "4-rumus-kemiskinan-25102361f5",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Punya satu saja dari empat sifat rumus kemiskinan (gengsian, malas, bodoh, pengecut) sudah membuatmu berpotensi miskin.",
+      "correct": true,
+      "answer": "Fakta: satu sifat saja sudah memberi potensi kemiskinan."
+    },
+    {
+      "id": "4-rumus-kemiskinan-0e841ed4d1",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Dina menolak jualan online karena malu dilihat teman, dan takut rugi kalau mencoba. Dua sifat rumus kemiskinan mana yang tampak?",
+      "answer": "Gengsian (malu) dan pengecut/takut (takut rugi)."
+    }
+  ]
+}

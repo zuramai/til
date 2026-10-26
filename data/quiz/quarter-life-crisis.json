@@ -1,0 +1,75 @@
+{
+  "slug": "quarter-life-crisis",
+  "title": "Quarter Life Crisis",
+  "url": "/quarter-life-crisis/",
+  "sourceHash": "397711330a81636073664696a3f401c3f39b4eba9fa7baeb71eac332bf73153f",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.154Z",
+  "cards": [
+    {
+      "id": "quarter-life-crisis-6593edefb0",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What age range does a quarter life crisis typically hit?",
+      "answer": "Young people aged about 18-30."
+    },
+    {
+      "id": "quarter-life-crisis-9efa1fb53a",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "A quarter life crisis feels like missing your life ____, with doubts about career, relationships and finances.",
+      "answer": "compass"
+    },
+    {
+      "id": "quarter-life-crisis-0d9ac3d0e0",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why does life feel stuck after school, when it felt like climbing stairs before?",
+      "answer": "At school you had clear steps like good grades, new grades and graduating. After you start working, those steps flatten and every day looks the same, so you feel lost."
+    },
+    {
+      "id": "quarter-life-crisis-3b88d0b345",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Why does your brain read \"no challenges\" as \"no future\"?",
+      "options": [
+        "It craves challenge and novelty because completing them releases dopamine",
+        "It dislikes dopamine",
+        "It only cares about money",
+        "It cannot compare things"
+      ],
+      "correct": 0,
+      "answer": "The brain seeks challenges and novelty because completing them releases rewarding dopamine."
+    },
+    {
+      "id": "quarter-life-crisis-19c62caca5",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Which is NOT listed as a reason we always need more?",
+      "options": [
+        "Lack of gratitude",
+        "Brain seeking novelty",
+        "Social media comparison",
+        "Too many exams"
+      ],
+      "correct": 3,
+      "answer": "The reasons are lack of gratitude, brain craving novelty and social media comparison."
+    },
+    {
+      "id": "quarter-life-crisis-5f5334333d",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "At 26 your routine is wake, work, sleep, and you wonder if the next 50 years will be the same. What explains this feeling?",
+      "answer": "The tangible milestones of school are gone, so the brain gets no clear dopamine hits and sees no visible next steps."
+    },
+    {
+      "id": "quarter-life-crisis-6e976e4b4d",
+      "type": "myth_or_fact",
+      "difficulty": "hard",
+      "prompt": "Constantly comparing yourself to people on social media can deepen quarter life feelings.",
+      "correct": true,
+      "answer": "Yes, social media sets how society should look, so comparison fuels the crisis."
+    }
+  ]
+}

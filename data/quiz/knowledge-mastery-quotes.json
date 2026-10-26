@@ -1,0 +1,75 @@
+{
+  "slug": "knowledge-mastery-quotes",
+  "title": "Knowledge and Mastery Quotes",
+  "url": "/knowledge-mastery-quotes/",
+  "sourceHash": "087193015f8b67f4125f2e387905d29f270be97252004622d4d58c741533e0e5",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.147Z",
+  "cards": [
+    {
+      "id": "knowledge-mastery-quotes-4fd74716cb",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "According to Robert Greene's Mastery, what are the two kinds of failure?",
+      "answer": "One from never trying out ideas due to fear or waiting for perfect time (cannot learn from it), and one from bold trying (greatly outweighed by learning)."
+    },
+    {
+      "id": "knowledge-mastery-quotes-389380e567",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Rereading a text for hours is a reliable way to build durable memory.",
+      "correct": false,
+      "answer": "Myth: rereading is time consuming, gives non-durable memory, and familiarity feels like mastery."
+    },
+    {
+      "id": "knowledge-mastery-quotes-1dae13bfa3",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Learning that is easy is like writing in ____: here today and gone tomorrow.",
+      "answer": "sand"
+    },
+    {
+      "id": "knowledge-mastery-quotes-0f84562de5",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Cal Newport's two core abilities for the new economy are mastering hard things quickly and...",
+      "options": [
+        "producing at an elite level in quality and speed",
+        "networking with many people",
+        "working longer hours",
+        "switching careers often"
+      ],
+      "correct": 0,
+      "answer": "Producing at an elite level, in both quality and speed."
+    },
+    {
+      "id": "knowledge-mastery-quotes-37002b854e",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You are about to read a new math chapter. Per Make It Stick, what should you do before reading the solution, even if you may get it wrong?",
+      "answer": "Try to solve the problem first; attempting before being taught leads to better learning even with errors."
+    },
+    {
+      "id": "knowledge-mastery-quotes-d9f4e5389b",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why do jobs often feel easier to enjoy than free time?",
+      "answer": "Jobs come with goals, feedback and challenges that pull you in. Free time has no structure, so you must shape it into something fun yourself."
+    },
+    {
+      "id": "knowledge-mastery-quotes-7b4ec0aa93",
+      "type": "odd_one_out",
+      "difficulty": "hard",
+      "prompt": "Mastery can be earned only one way. Which option is that way, unlike the other three that cannot get you mastery?",
+      "options": [
+        "Buying it with money",
+        "Rushing it impatiently",
+        "Inheriting it through privilege",
+        "Hard work"
+      ],
+      "correct": 3,
+      "answer": "Mastery can only be earned through hard work; money, impatience and privilege cannot give it."
+    }
+  ]
+}

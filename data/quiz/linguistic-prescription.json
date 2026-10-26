@@ -1,0 +1,68 @@
+{
+  "slug": "linguistic-prescription",
+  "title": "Linguistic Prescription vs Description",
+  "url": "/linguistic-prescription/",
+  "sourceHash": "ed42a7772f8b41dc5b16c10e0f76c4b73e860e3f26d48712960beb089ff18aac",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.147Z",
+  "cards": [
+    {
+      "id": "linguistic-prescription-e0c46dfad7",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is linguistic prescription versus description?",
+      "answer": "Prescription enforces how language 'should' be used; description records how it is actually spoken."
+    },
+    {
+      "id": "linguistic-prescription-f0dd1908ac",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Where does English tend to be more prescriptive?",
+      "options": [
+        "In the classroom",
+        "In daily chats",
+        "In text messages",
+        "In songs"
+      ],
+      "correct": 0,
+      "answer": "In the classroom, where students must follow grammar rules."
+    },
+    {
+      "id": "linguistic-prescription-e5ce7d8130",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Indonesians don't follow ____ (subject-predicate-object-adverb) in daily conversation.",
+      "answer": "SPOK"
+    },
+    {
+      "id": "linguistic-prescription-08d4d6ea7f",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Indonesian in daily use is very descriptive rather than strictly prescriptive.",
+      "correct": true,
+      "answer": "Fact: people loosely follow rules in daily speech."
+    },
+    {
+      "id": "linguistic-prescription-6487fda92d",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A foreigner learns textbook Indonesian ('Apakah kamu ingin makan?') but is confused when locals say 'Makan ga kamu?'. Why?",
+      "answer": "Daily Indonesian is descriptive, with many variants carrying the same meaning, which differ from textbook rules."
+    },
+    {
+      "id": "linguistic-prescription-d080bf5608",
+      "type": "odd_one_out",
+      "difficulty": "hard",
+      "prompt": "Which is NOT a casual variation of 'Apakah kamu ingin makan?'",
+      "options": [
+        "Mau makan?",
+        "Makan ga kamu?",
+        "Mau makan ga kamu?",
+        "Apakah kamu ingin makan?"
+      ],
+      "correct": 3,
+      "answer": "It is the formal, prescriptive form; the others are casual."
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "slug": "inside-the-earth",
+  "title": "Inside the Earth",
+  "url": "/inside-the-earth/",
+  "sourceHash": "e47187dd015ad54c3f109e89b481752d846853e194e54380f2f0abc174c69510",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.143Z",
+  "cards": [
+    {
+      "id": "inside-the-earth-d310e5a6dd",
+      "type": "sequence",
+      "difficulty": "easy",
+      "prompt": "Order Earth's layers from the surface down to the center.",
+      "items": [
+        "Crust",
+        "Mantle",
+        "Outer core",
+        "Inner core"
+      ],
+      "answer": "Crust, mantle, outer core, then inner core."
+    },
+    {
+      "id": "inside-the-earth-04a238d460",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is the deepest known point of the sea, and roughly how deep is it?",
+      "answer": "The Mariana Trench, about 10,973 metres (11 km)."
+    },
+    {
+      "id": "inside-the-earth-6f70b306d2",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which layer of Earth is the thickest?",
+      "options": [
+        "Crust",
+        "Mantle",
+        "Outer core",
+        "Inner core"
+      ],
+      "correct": 1,
+      "answer": "The mantle, which is denser than the crust and very hot."
+    },
+    {
+      "id": "inside-the-earth-f31d578e88",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why is the mantle's rock not liquid even though it is 1000 to 3700 degrees Celsius?",
+      "answer": "The mantle is so hot that rock could melt, but the squeezing pressure down there is huge. That pressure keeps the rock acting like a solid.",
+      "explanation": "Heat tries to melt it, pressure holds it solid."
+    },
+    {
+      "id": "inside-the-earth-70c24a2db6",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "What protective role does the outer core play for life on Earth?",
+      "answer": "It generates enormous electric currents that protect us from cosmic radiation from space."
+    },
+    {
+      "id": "inside-the-earth-15acaaaac8",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "The deepest hole humans have dug, the Kola Superdeep Borehole, reached ____ metres.",
+      "answer": "12,262"
+    },
+    {
+      "id": "inside-the-earth-868264121b",
+      "type": "myth_or_fact",
+      "difficulty": "hard",
+      "prompt": "Humans have dug deeper into the Earth than the Mariana Trench is deep.",
+      "correct": true,
+      "answer": "Fact: the Kola Superdeep Borehole reached 12,262 m, deeper than the trench's roughly 10,973 m."
+    },
+    {
+      "id": "inside-the-earth-c165955e1c",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Why was drilling at the Kola Superdeep Borehole stopped in 1992?",
+      "answer": "The temperature at the bottom was about 180 degrees Celsius, and the drill melted, so digging was halted."
+    },
+    {
+      "id": "inside-the-earth-9f54e36557",
+      "type": "riddle",
+      "difficulty": "hard",
+      "prompt": "I am the hottest part of Earth, and scientists suspect there may be a core inside me. What am I?",
+      "answer": "The inner core"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "slug": "how-to-play-yoyo",
+  "title": "How to Play Yoyo",
+  "url": "/how-to-play-yoyo/",
+  "sourceHash": "9c7e40876cd5b81de2b8fa9999b0ab545d44a2d4b7e61bf453bec1c55bef1ce7",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.140Z",
+  "cards": [
+    {
+      "id": "how-to-play-yoyo-851eef7950",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is the difference between responsive and unresponsive yoyos?",
+      "answer": "A responsive yoyo returns to hand when you tug; an unresponsive one does not."
+    },
+    {
+      "id": "how-to-play-yoyo-cba3a1448c",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "To bring an unresponsive yoyo back to your hand, you must do a ____.",
+      "answer": "bind"
+    },
+    {
+      "id": "how-to-play-yoyo-6d32a00928",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which yoyo is better for a beginner?",
+      "options": [
+        "Unresponsive",
+        "Responsive",
+        "Either, no difference",
+        "Neither"
+      ],
+      "correct": 1,
+      "answer": "Responsive, because it is easy to play."
+    },
+    {
+      "id": "how-to-play-yoyo-ecec1daf88",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Why do advanced players prefer unresponsive yoyos?",
+      "answer": "They spin longer, which enables more advanced tricks."
+    },
+    {
+      "id": "how-to-play-yoyo-cba35f185d",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A friend wants to learn yoyo and buys an unresponsive one first. What problem will they likely face?",
+      "answer": "They can't make it return by tugging; they'd need to learn to bind, which is hard for a beginner."
+    },
+    {
+      "id": "how-to-play-yoyo-b0bc5fbb5f",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "A yoyo that doesn't return when tugged is broken.",
+      "correct": false,
+      "answer": "Myth: it is probably unresponsive by design and requires a bind."
+    }
+  ]
+}

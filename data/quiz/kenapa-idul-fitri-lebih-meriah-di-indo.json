@@ -1,0 +1,61 @@
+{
+  "slug": "kenapa-idul-fitri-lebih-meriah-di-indo",
+  "title": "Kenapa Idul Fitri Lebih Meriah Dibanding Idul Adha",
+  "url": "/kenapa-idul-fitri-lebih-meriah-di-indo/",
+  "sourceHash": "e04cdf4f9365752f0a7e5ca608c4d4b5c6eff15d74200132f3d983656110aaf6",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.145Z",
+  "cards": [
+    {
+      "id": "kenapa-idul-fitri-lebih-meriah-di-indo-97aad922b0",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "Di Timur Tengah, Idul Adha dirayakan lebih meriah daripada Idul Fitri.",
+      "correct": true,
+      "answer": "Benar, di Timur Tengah Idul Adha lebih megah, kebalikan dari Indonesia."
+    },
+    {
+      "id": "kenapa-idul-fitri-lebih-meriah-di-indo-6df2540ab3",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Bagaimana orang di Timur Tengah sering merayakan Idul Fitri, dan kenapa?",
+      "answer": "Dengan tidur, karena selama Ramadhan kurang tidur akibat waktu diisi ibadah."
+    },
+    {
+      "id": "kenapa-idul-fitri-lebih-meriah-di-indo-97193f4d4b",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "Mana yang BUKAN alasan Idul Fitri meriah di Indonesia?",
+      "options": [
+        "Ketupat dan baju baru",
+        "Mudik",
+        "Pesta makan karena selesai menahan lapar sebulan",
+        "Libur Idul Adha yang lebih lama"
+      ],
+      "correct": 3,
+      "answer": "Libur Idul Adha lebih lama adalah ciri Timur Tengah, bukan alasan keramaian Idul Fitri di Indonesia."
+    },
+    {
+      "id": "kenapa-idul-fitri-lebih-meriah-di-indo-7e5a8fdf34",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Sebutkan tiga alasan Idul Fitri meriah di Indonesia.",
+      "answer": "Alasan budaya (ketupat, baju baru, kumpul keluarga, maaf-maafan), anggapan harus meriah dengan makan-makan setelah sebulan puasa, dan mudik."
+    },
+    {
+      "id": "kenapa-idul-fitri-lebih-meriah-di-indo-3817da9dc2",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "Menurut penjelasan itu, Idul Adha seharusnya hari raya ____, sedangkan Idul Fitri hari raya kecil.",
+      "answer": "besar"
+    },
+    {
+      "id": "kenapa-idul-fitri-lebih-meriah-di-indo-c3b2776e35",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Temanmu dari Arab bingung kenapa Idul Fitri di Indonesia sangat ramai. Apa yang bisa kamu jelaskan?",
+      "answer": "Tradisi turun-temurun seperti ketupat, baju baru dan maaf-maafan, ditambah mudik dan pesta makan setelah sebulan puasa."
+    }
+  ]
+}

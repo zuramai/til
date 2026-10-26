@@ -1,0 +1,60 @@
+{
+  "slug": "feminism",
+  "title": "Feminism",
+  "url": "/feminism/",
+  "sourceHash": "f769e17a859a6fa35b2a351eac2a1108e94633e995ea53f2005c8e9e0eaa8836",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.133Z",
+  "cards": [
+    {
+      "id": "feminism-e5263d7f9f",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Sebutkan tiga tujuan feminisme menurut catatan ini.",
+      "answer": "Kesetaraan semua gender, digital safety untuk perempuan, dan menghilangkan penindasan berbasis gender."
+    },
+    {
+      "id": "feminism-513e61e377",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "KBGO adalah singkatan dari Kekerasan Berbasis Gender ____.",
+      "answer": "Online"
+    },
+    {
+      "id": "feminism-f2a71d01a1",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Mana yang BUKAN contoh KBGO?",
+      "options": [
+        "Revenge porn",
+        "Impersonation (deepfake)",
+        "Doxing",
+        "Belanja online"
+      ],
+      "correct": 3,
+      "answer": "Revenge porn, deepfake impersonation, dan doxing termasuk KBGO; berbelanja online tidak."
+    },
+    {
+      "id": "feminism-48dc4a4e75",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Apa dampak KBGO terhadap korban?",
+      "options": [
+        "Hanya dampak fisik",
+        "Psikologis, ekonomi, sensor diri, mobilitas",
+        "Tidak ada dampak nyata",
+        "Hanya dampak hukum"
+      ],
+      "correct": 1,
+      "answer": "Dampak psikologis, ekonomi, sensor diri, dan terbatasnya mobilitas."
+    },
+    {
+      "id": "feminism-5c02207eee",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Seorang perempuan jadi takut posting dan keluar rumah setelah fotonya dibuat deepfake. Dampak KBGO apa yang tampak?",
+      "answer": "Sensor diri/menutup diri dan terbatasnya mobilitas, selain dampak psikologis."
+    }
+  ]
+}

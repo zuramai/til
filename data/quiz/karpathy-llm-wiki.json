@@ -1,0 +1,60 @@
+{
+  "slug": "karpathy-llm-wiki",
+  "title": "Karpathy's LLM Wiki",
+  "url": "/karpathy-llm-wiki/",
+  "sourceHash": "266320b41ebb050fd614e70e15dd89cd270eab5dd866dbf774519e92030b894f",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.144Z",
+  "cards": [
+    {
+      "id": "karpathy-llm-wiki-ba638e90a7",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is the core idea of the 'LLM Wiki' concept?",
+      "answer": "An LLM maintains its own wiki as its base knowledge."
+    },
+    {
+      "id": "karpathy-llm-wiki-01ed8d8d90",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: how does the usual way of asking an LLM about a file differ from the LLM Wiki way?",
+      "answer": "Usually the LLM cuts your file into pieces and uses the relevant ones to answer. With an LLM Wiki, it writes notes and merges each new source into its existing wiki, so knowledge builds up."
+    },
+    {
+      "id": "karpathy-llm-wiki-cf0d91338d",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "When you add a new source to an LLM Wiki, what does the LLM do?",
+      "options": [
+        "Replaces the whole wiki",
+        "Extracts key information and integrates it into the existing wiki",
+        "Deletes older sources",
+        "Only stores the raw file"
+      ],
+      "correct": 1,
+      "answer": "It extracts key information and integrates it into the existing wiki."
+    },
+    {
+      "id": "karpathy-llm-wiki-cfd42c9037",
+      "type": "odd_one_out",
+      "difficulty": "hard",
+      "prompt": "In the LLM Wiki split of work, which task is the human's, not the LLM's?",
+      "options": [
+        "Summarizing",
+        "Cross-referencing",
+        "Asking the right questions",
+        "Book-keeping"
+      ],
+      "correct": 2,
+      "answer": "Humans handle sourcing, exploring and asking the right questions; the LLM does summarizing, cross-referencing, filing and book-keeping."
+    },
+    {
+      "id": "karpathy-llm-wiki-3ff3655bfa",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You keep dropping research PDFs into a chatbot and it never remembers connections between them. How could an LLM Wiki approach help?",
+      "answer": "Let the LLM write and maintain a wiki, integrating each new PDF into existing pages with cross-references, so knowledge accumulates instead of being re-derived from chunks each time."
+    }
+  ]
+}

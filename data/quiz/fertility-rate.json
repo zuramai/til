@@ -1,0 +1,89 @@
+{
+  "slug": "fertility-rate",
+  "title": "Fertility Rate",
+  "url": "/fertility-rate/",
+  "sourceHash": "dd8a3137f8d09043e76bebf10ced9f559ca0be1933563a2728a45478e60b455a",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.133Z",
+  "cards": [
+    {
+      "id": "fertility-rate-5f3eb0e125",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What does fertility rate measure?",
+      "answer": "The number of births per woman in her lifetime."
+    },
+    {
+      "id": "fertility-rate-a66e0c4446",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Replacement level fertility is ____ children per woman.",
+      "answer": "2.1"
+    },
+    {
+      "id": "fertility-rate-bf7a3f395d",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Why is replacement level 2.1 and not 2.0?",
+      "options": [
+        "Rounding",
+        "Sex ratio and mortality needs a buffer",
+        "Tradition",
+        "Twins are common"
+      ],
+      "correct": 1,
+      "answer": "More boys are born (105 per 100 girls), some do not have children, and not every child survives to reproductive age, so 0.1 is a buffer."
+    },
+    {
+      "id": "fertility-rate-52b9b4d2fe",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Population starts shrinking the instant fertility falls below 2.1.",
+      "correct": false,
+      "answer": "Myth: population momentum keeps it growing for decades."
+    },
+    {
+      "id": "fertility-rate-bfe7fc7fee",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Which country has the highest fertility rate listed?",
+      "answer": "Chad (5.84)."
+    },
+    {
+      "id": "fertility-rate-18bcb101e0",
+      "type": "explain",
+      "difficulty": "hard",
+      "prompt": "Explain like I'm 10: what is population momentum?",
+      "answer": "Even when families have fewer babies, there are many young people who will still grow up and have babies. So the population keeps growing for a few decades before it shrinks."
+    },
+    {
+      "id": "fertility-rate-c6f8643481",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Which is NOT a reason for 2.1 instead of 2.0?",
+      "options": [
+        "More boys than girls are born",
+        "Some people choose not to have children",
+        "Not every child reaches reproductive age",
+        "Elderly living longer"
+      ],
+      "correct": 3,
+      "answer": "Mortality, sex ratio and choosing not to have kids matter; life expectancy of the elderly is unrelated."
+    },
+    {
+      "id": "fertility-rate-632352084d",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "When is world population predicted to peak?",
+      "answer": "Around 2060 to 2100."
+    },
+    {
+      "id": "fertility-rate-e93b149686",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A country has TFR of 1.8 but its population is still growing. How is that possible?",
+      "answer": "Due to population momentum, growth continues for decades even with fewer births per person."
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "slug": "llm-reflexes-and-guardrail",
+  "title": "LLM Reflexes and Guardrail",
+  "url": "/llm-reflexes-and-guardrail/",
+  "sourceHash": "0ba86c99a696e21c9d3fd279f6852b83ef7ca14527bbde35022ba8430fa779e5",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.148Z",
+  "cards": [
+    {
+      "id": "llm-reflexes-and-guardrail-0bcbf8f2f5",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "An LLM model itself executes shell commands directly.",
+      "correct": false,
+      "answer": "Myth: the model only requests; the machine does the execution."
+    },
+    {
+      "id": "llm-reflexes-and-guardrail-19d6fa6927",
+      "type": "sequence",
+      "difficulty": "medium",
+      "prompt": "Order the guardrail layers from Layer 0 to Layer 4.",
+      "items": [
+        "Don't give it the hands",
+        "Deterministic reflexes",
+        "Ask the human",
+        "LLM judges the LLM",
+        "Make it recoverable"
+      ],
+      "answer": "No tools, then rules, then human approval, then LLM judge, then recovery (git, sandboxes)."
+    },
+    {
+      "id": "llm-reflexes-and-guardrail-836a6d7e89",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is the cheapest guardrail (Layer 0) for LLM agents?",
+      "answer": "Don't give them tools, since each exposed tool is attack and accident surface."
+    },
+    {
+      "id": "llm-reflexes-and-guardrail-e54beb69c2",
+      "type": "scenario",
+      "difficulty": "medium",
+      "prompt": "Your agent might write to ~/.ssh or .env, or run commands with --force. Which layer helps?",
+      "answer": "Layer 1, deterministic reflexes: protect paths and use allowlists or denylists, such as asking first on --force."
+    },
+    {
+      "id": "llm-reflexes-and-guardrail-95f013aa59",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which pattern is an example of Layer 2 (asking the human)?",
+      "options": [
+        "Auto-approve reads, ask for writes",
+        "Block all tools",
+        "Have a second model check commands",
+        "Use git checkout after damage"
+      ],
+      "correct": 0,
+      "answer": "Auto-approve reads, ask for writes, keeps a human in the loop."
+    },
+    {
+      "id": "llm-reflexes-and-guardrail-cc8104a6d7",
+      "type": "explain",
+      "difficulty": "hard",
+      "prompt": "Explain like I'm 10: why do sandboxes and git help when an AI agent already made a mistake?",
+      "answer": "They make mistakes recoverable. Git lets you go back to an earlier commit, and sandboxes stop damage from leaving the contained area, enforced by the operating system."
+    },
+    {
+      "id": "llm-reflexes-and-guardrail-afe603f4b6",
+      "type": "odd_one_out",
+      "difficulty": "hard",
+      "prompt": "Which is NOT part of Layer 4, recovering from accidents?",
+      "options": [
+        "Git checkout or stash",
+        "Switching back to a specific commit",
+        "OS-level sandboxes",
+        "Asking another LLM to approve the command"
+      ],
+      "correct": 3,
+      "answer": "That is Layer 3 (LLM judging LLM), a preventive layer."
+    }
+  ]
+}

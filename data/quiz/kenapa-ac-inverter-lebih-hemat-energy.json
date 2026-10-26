@@ -1,0 +1,68 @@
+{
+  "slug": "kenapa-ac-inverter-lebih-hemat-energy",
+  "title": "Kenapa AC Inverter Lebih Hemat Energy",
+  "url": "/kenapa-ac-inverter-lebih-hemat-energy/",
+  "sourceHash": "f4af65f2882502ab8a89e02b39ad19f640a01349f5c2cc1ff22a320003f9ab8e",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.144Z",
+  "cards": [
+    {
+      "id": "kenapa-ac-inverter-lebih-hemat-energy-20f4125f99",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Di bagian mana perbedaan utama AC inverter dan AC biasa?",
+      "answer": "Di kompresornya."
+    },
+    {
+      "id": "kenapa-ac-inverter-lebih-hemat-energy-cb29ddac25",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Apa fungsi freon (refrigerant) di AC?",
+      "answer": "Mentransfer panas dari ruangan (indoor) lalu membuangnya ke luar (outdoor)."
+    },
+    {
+      "id": "kenapa-ac-inverter-lebih-hemat-energy-bace55e53c",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Bagaimana AC non-inverter mengatur suhu?",
+      "options": [
+        "Menyesuaikan daya kompresor terus-menerus",
+        "Menyalakan dan mematikan kompresor",
+        "Mengganti freon berkala",
+        "Menurunkan tegangan listrik"
+      ],
+      "correct": 1,
+      "answer": "Dengan menyala-matikan kompresor, dan konsumsi listriknya konstan saat menyala."
+    },
+    {
+      "id": "kenapa-ac-inverter-lebih-hemat-energy-ccdddc2542",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "AC inverter bisa turun dari 900 watt menjadi sekitar ____ watt ketika suhu sudah dingin dan stabil.",
+      "answer": "300"
+    },
+    {
+      "id": "kenapa-ac-inverter-lebih-hemat-energy-2c8d987b60",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Kompresor AC inverter mati total begitu ruangan dingin.",
+      "correct": false,
+      "answer": "Kompresor inverter tetap menyala tapi menyesuaikan konsumsi listriknya, sehingga hemat."
+    },
+    {
+      "id": "kenapa-ac-inverter-lebih-hemat-energy-426d4a2993",
+      "type": "explain",
+      "difficulty": "hard",
+      "prompt": "Jelaskan seperti ke anak 10 tahun: kenapa AC inverter lebih hemat listrik?",
+      "answer": "Seperti mobil yang pelan saat jalan stabil, bukan ngebut lalu berhenti terus. AC inverter mengurangi tenaga kompresor kalau ruangan sudah dingin, sedangkan AC biasa terus menyala-mati dengan tenaga penuh."
+    },
+    {
+      "id": "kenapa-ac-inverter-lebih-hemat-energy-0bdb11b228",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Teman bilang tagihan listrik AC biasanya sama saja dengan inverter karena keduanya selalu menyala penuh. Apa koreksimu?",
+      "answer": "AC inverter makan listrik dinamis sesuai kebutuhan dan turun saat suhu stabil; AC non-inverter konstan sehingga lebih boros."
+    }
+  ]
+}

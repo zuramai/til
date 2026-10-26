@@ -1,0 +1,53 @@
+{
+  "slug": "plato-aristotle-alexander",
+  "title": "Plato - Aristotle - Alexander the Great",
+  "url": "/plato-aristotle-alexander/",
+  "sourceHash": "7b7f10e7e95b6e4a00185a6d9e27419ef50b1d6fc22a16a9ae8d1560191da925",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.154Z",
+  "cards": [
+    {
+      "id": "plato-aristotle-alexander-c1501caec1",
+      "type": "sequence",
+      "difficulty": "easy",
+      "prompt": "Order the mentorship chain from earliest teacher to final student.",
+      "items": [
+        "Socrates",
+        "Plato",
+        "Aristotle",
+        "Alexander the Great"
+      ],
+      "answer": "Socrates taught Plato, who taught Aristotle, who taught Alexander."
+    },
+    {
+      "id": "plato-aristotle-alexander-12e4cba11f",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Plato personally taught Alexander the Great.",
+      "correct": false,
+      "answer": "Plato never met Alexander; they were connected through Aristotle."
+    },
+    {
+      "id": "plato-aristotle-alexander-868d9b82b9",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "Plato taught Aristotle at Plato's ____ for nearly 20 years.",
+      "answer": "Academy"
+    },
+    {
+      "id": "plato-aristotle-alexander-e2ed083bf8",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "When did Aristotle start teaching Alexander?",
+      "answer": "In 342 BCE."
+    },
+    {
+      "id": "plato-aristotle-alexander-60f555adbf",
+      "type": "riddle",
+      "difficulty": "hard",
+      "prompt": "I was taught by a philosopher, yet I became a conqueror of an empire, not a thinker. Who am I?",
+      "answer": "Alexander the Great."
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "slug": "benefits-learning-music",
+  "title": "Benefits of Learning Musical Instruments",
+  "url": "/benefits-learning-music/",
+  "sourceHash": "28c14c67b41918a2c30444c2071d907489f4c04bcd5598d8afca1e29e1f1cbf9",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.124Z",
+  "cards": [
+    {
+      "id": "benefits-learning-music-aec308797d",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Which three skills does playing piano make you integrate?",
+      "answer": "Auditory, visual, and motor skills."
+    },
+    {
+      "id": "benefits-learning-music-0e005ac6c3",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "Which brain area for memory grows gray matter with musical training?",
+      "options": [
+        "Hippocampus",
+        "Cerebellum",
+        "Amygdala",
+        "Occipital lobe"
+      ],
+      "correct": 0,
+      "answer": "The hippocampus (memory) and the auditory cortex."
+    },
+    {
+      "id": "benefits-learning-music-851ab8886b",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "Musical training boosts ____, which increases gray matter in the brain.",
+      "answer": "neuroplasticity"
+    },
+    {
+      "id": "benefits-learning-music-e4bda80e42",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Musicians perform better than non-musicians on memory tasks in studies.",
+      "correct": true,
+      "answer": "A study showed musicians outperform non-musicians on memory tasks."
+    },
+    {
+      "id": "benefits-learning-music-7797c00878",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why is playing piano good for the brain?",
+      "answer": "You read notes, move both hands and feet, and listen all at once. This mixing of seeing, hearing, and moving makes the brain stronger in memory and focus."
+    },
+    {
+      "id": "benefits-learning-music-6eda995f73",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Where is the auditory cortex located?",
+      "options": [
+        "Frontal lobe",
+        "Temporal lobe",
+        "Occipital lobe",
+        "Parietal lobe"
+      ],
+      "correct": 1,
+      "answer": "The temporal lobe, which processes sound."
+    },
+    {
+      "id": "benefits-learning-music-c2cbe9f6d8",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "What is the Mozart Effect?",
+      "answer": "Listening to classical music improving spatial-reasoning skill."
+    },
+    {
+      "id": "benefits-learning-music-dc1da8fc76",
+      "type": "mcq",
+      "difficulty": "hard",
+      "prompt": "Besides classical music, what else improves spatial reasoning?",
+      "options": [
+        "Puzzles",
+        "Sleeping longer",
+        "Speed reading",
+        "Fasting"
+      ],
+      "correct": 0,
+      "answer": "Playing puzzles also improves imagining and manipulating 2D/3D objects mentally."
+    },
+    {
+      "id": "benefits-learning-music-e42471e7b0",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Your cousin wants to sharpen memory and focus and asks whether learning an instrument is worth it. What would you say?",
+      "answer": "Yes: it requires multitasking, boosts neuroplasticity in memory and auditory areas, and musicians do better on memory tasks."
+    }
+  ]
+}

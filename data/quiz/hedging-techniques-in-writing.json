@@ -1,0 +1,75 @@
+{
+  "slug": "hedging-techniques-in-writing",
+  "title": "Teknik Hedging dalam Bahasa Sehari-hari",
+  "url": "/hedging-techniques-in-writing/",
+  "sourceHash": "2b44f1c7f74feaf586451d458a5e09ec1dca40faa4fe05701d8751e0f0465074",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.137Z",
+  "cards": [
+    {
+      "id": "hedging-techniques-in-writing-2270b2c4e1",
+      "type": "explain",
+      "difficulty": "easy",
+      "prompt": "Explain like I'm 10: What is hedging when we talk or write?",
+      "answer": "It means softening what you say so you don't sound too sure or harsh, like saying 'kayaknya' instead of a blunt statement."
+    },
+    {
+      "id": "hedging-techniques-in-writing-6158316d17",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Sebutkan tiga kata hedging dalam bahasa sehari-hari.",
+      "answer": "Misalnya kayaknya, menurut saya, setau saya, kurang, agak, lumayan, sekitar, sih."
+    },
+    {
+      "id": "hedging-techniques-in-writing-79528143f6",
+      "type": "scenario",
+      "difficulty": "medium",
+      "prompt": "Kamu tidak suka makanan temanmu tapi ingin tetap sopan. Ubah 'Makanan ini gak enak' dengan hedging.",
+      "answer": "Misalnya 'Makanan ini kurang cocok di lidah gw' menggunakan kata 'kurang'."
+    },
+    {
+      "id": "hedging-techniques-in-writing-7635155350",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Why do academic writers use hedging?",
+      "options": [
+        "To make text longer",
+        "To hide mistakes",
+        "To avoid dogmatic claims and show professionalism",
+        "To sound more confident"
+      ],
+      "correct": 2,
+      "answer": "To show modesty and professionalism, acknowledging limits and other views instead of being dogmatic."
+    },
+    {
+      "id": "hedging-techniques-in-writing-7728dea32d",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Dogmatic means stating opinions very ____ as if they were facts.",
+      "answer": "strongly"
+    },
+    {
+      "id": "hedging-techniques-in-writing-3210921cfc",
+      "type": "myth_or_fact",
+      "difficulty": "hard",
+      "prompt": "Hedging in academic writing means you are weak and unsure of your research.",
+      "correct": false,
+      "answer": "Myth: it protects from negative consequences when expressing uncertainty and shows acknowledgment of limits."
+    },
+    {
+      "id": "hedging-techniques-in-writing-25be015223",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Which kalimat bukan hedging?",
+      "options": [
+        "Setau gw, acaranya besok kurang lebih jam 8",
+        "Lumayan gampang sih",
+        "Menurut gw, baunya kurang enak",
+        "Acaranya besok jam 8 pagi"
+      ],
+      "correct": 3,
+      "answer": "'Acaranya besok jam 8 pagi' adalah pernyataan tegas tanpa pelunak."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "slug": "kenapa-tahafut-al-falasifah-kontroversial",
+  "title": "Kenapa Tahafut Al-Falasifah Kontroversial?",
+  "url": "/kenapa-tahafut-al-falasifah-kontroversial/",
+  "sourceHash": "5100dc8293de79bc5e3422c4d8364b633a8bf35c46cdd49e598891c70321e57e",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.146Z",
+  "cards": [
+    {
+      "id": "kenapa-tahafut-al-falasifah-kontroversial-bea0449aa8",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Apa arti judul Tahafut Al-Falasifah?",
+      "answer": "Kerancuan para filsuf."
+    },
+    {
+      "id": "kenapa-tahafut-al-falasifah-kontroversial-37650b1611",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "Filsuf mana yang terutama dikritik dalam Tahafut Al-Falasifah?",
+      "options": [
+        "Ibnu Sina dan Al-Farabi",
+        "Ibn Rusyd dan Aristoteles",
+        "Thomas Aquinas dan Hume",
+        "Plato dan Socrates"
+      ],
+      "correct": 0,
+      "answer": "Ibnu Sina dan Al-Farabi."
+    },
+    {
+      "id": "kenapa-tahafut-al-falasifah-kontroversial-35a5a03e6c",
+      "type": "sequence",
+      "difficulty": "medium",
+      "prompt": "Urutkan dari kritik pertama hingga ketiga yang dianggap kafir dalam kitab tersebut.",
+      "items": [
+        "Alam semesta tanpa permulaan",
+        "Tuhan hanya tahu perkara umum",
+        "Hanya ruh yang dibangkitkan"
+      ],
+      "answer": "Alam tanpa permulaan, lalu pengetahuan Tuhan hanya umum, lalu hanya ruh yang dibangkitkan."
+    },
+    {
+      "id": "kenapa-tahafut-al-falasifah-kontroversial-11641daf7b",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Kitab ini pernah dituduh menyebabkan mundurnya Islam di masa keemasan, dan tuduhan itu disebut bias.",
+      "correct": true,
+      "answer": "Fakta: pernah dianggap penyebab kemunduran, tetapi pimpinan Muhammadiyah menyebutnya bias."
+    },
+    {
+      "id": "kenapa-tahafut-al-falasifah-kontroversial-d20d1608d0",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Seseorang bilang tak ada yang pernah membantah Al-Ghazali. Siapa yang membantah setelah wafatnya dan atas alasan apa?",
+      "answer": "Ibn Rusyd dari Andalusia, karena Al-Ghazali dan Ibn Sina dinilai salah memahami pemikiran Aristoteles."
+    },
+    {
+      "id": "kenapa-tahafut-al-falasifah-kontroversial-6ed17a0e7e",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "Tahafut Al-Falasifah menginspirasi filsuf besar seperti Thomas Aquinas dan ____.",
+      "answer": "David Hume"
+    }
+  ]
+}

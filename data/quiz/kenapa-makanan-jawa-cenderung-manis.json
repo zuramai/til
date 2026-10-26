@@ -1,0 +1,62 @@
+{
+  "slug": "kenapa-makanan-jawa-cenderung-manis",
+  "title": "Kenapa Makanan Jawa Cenderung Manis?",
+  "url": "/kenapa-makanan-jawa-cenderung-manis/",
+  "sourceHash": "137f60201239ec10fe5c8ed2fec7a83061ac2dd0c2243f1e3d275d8f24fc5137",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.145Z",
+  "cards": [
+    {
+      "id": "kenapa-makanan-jawa-cenderung-manis-eb35dbea87",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Tanaman apa yang tumbuh berlimpah di Jawa sehingga masyarakatnya akrab dengan rasa manis?",
+      "answer": "Pohon tebu."
+    },
+    {
+      "id": "kenapa-makanan-jawa-cenderung-manis-4f6965b9b3",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Salah satu inovasi dari melimpahnya tebu dan kelapa di Jawa adalah ____.",
+      "answer": "gula jawa"
+    },
+    {
+      "id": "kenapa-makanan-jawa-cenderung-manis-0380e1d2c1",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Siapa gubernur penjajah yang memaksakan tanam tebu di Jawa Tengah dan sebagian Jawa Timur?",
+      "options": [
+        "Daendels",
+        "Van der Bosch",
+        "Raffles",
+        "Coen"
+      ],
+      "correct": 1,
+      "answer": "Van der Bosch, lewat sistem tanam paksa."
+    },
+    {
+      "id": "kenapa-makanan-jawa-cenderung-manis-77efb97cc9",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Di Jawa Barat, tanam paksa yang diterapkan adalah tebu, sama seperti Jawa Tengah.",
+      "correct": false,
+      "answer": "Mitos: di Jawa Barat yang ditanam adalah teh, tebu di Jawa Tengah dan sebagian Jawa Timur."
+    },
+    {
+      "id": "kenapa-makanan-jawa-cenderung-manis-d2a134e11c",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Temanmu bilang makanan Jawa manis cuma karena selera orang Jawa. Sebutkan minimal dua faktor sejarah atau alam yang menjelaskannya.",
+      "answer": "Alam: tebu dan kelapa melimpah sehingga gula jawa mudah dibuat. Sejarah: sejak Majapahit suka manis, dan tanam paksa tebu oleh penjajah menambah penanaman tebu."
+    },
+    {
+      "id": "kenapa-makanan-jawa-cenderung-manis-1fb9e8757f",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: kenapa gula jawa mudah dibuat di Pulau Jawa?",
+      "answer": "Di Jawa banyak tumbuh pohon kelapa dan tebu, jadi bahan manisnya gampang didapat. Karena bahannya melimpah, orang pun membuat gula jawa dan suka makanan manis.",
+      "explanation": "Alam yang memanjakan membuat produksi mudah."
+    }
+  ]
+}

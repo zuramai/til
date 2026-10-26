@@ -1,0 +1,66 @@
+{
+  "slug": "tiga-level-ikhlas",
+  "title": "Tiga Level Keikhlasan",
+  "url": "/tiga-level-ikhlas/",
+  "sourceHash": "56215065a8e3b24ab43a6146f40982d2a0ad67e9db3e4e4662bcb9b21162b423",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.159Z",
+  "cards": [
+    {
+      "id": "tiga-level-ikhlas-ecc2a2da6e",
+      "type": "sequence",
+      "difficulty": "medium",
+      "prompt": "Urutkan tiga level keikhlasan dari yang terendah ke tertinggi.",
+      "items": [
+        "Ikhlas karena berharap urusan dunia",
+        "Ikhlas karena berharap urusan akhirat",
+        "Ikhlas semata-mata untuk ridho Allah"
+      ],
+      "answer": "Dari urusan dunia, lalu akhirat, sampai semata-mata ridho Allah."
+    },
+    {
+      "id": "tiga-level-ikhlas-ab1b7b2f0e",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Apa level ikhlas yang tertinggi?",
+      "answer": "Beramal hanya untuk mendapat ridho Allah, tanpa mengharap dunia maupun akhirat."
+    },
+    {
+      "id": "tiga-level-ikhlas-d7a2ea9388",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Membaca Al-Waqiah supaya rezeki lancar termasuk level ikhlas apa?",
+      "options": [
+        "Ikhlas karena ridho Allah",
+        "Ikhlas karena urusan akhirat",
+        "Ikhlas karena urusan dunia",
+        "Bukan ikhlas sama sekali"
+      ],
+      "correct": 2,
+      "answer": "Ikhlas karena urusan dunia, level paling awal."
+    },
+    {
+      "id": "tiga-level-ikhlas-5e99adc930",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Contoh ikhlas level akhirat itu apa saja?",
+      "answer": "Berharap surga, husnul khotimah, dan bertemu Nabi serta keluarganya di surga."
+    },
+    {
+      "id": "tiga-level-ikhlas-66e0a1b5ae",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Temanmu merasa bersalah karena berdoa minta dilunasi utang, dia takut tidak ikhlas. Apa nasihatmu?",
+      "answer": "Bagi pemula, ikhlas karena urusan dunia dulu tidak apa-apa. Makin banyak meminta kepada Allah, makin Allah senang, dan lama-lama levelnya naik.",
+      "explanation": "Levelnya bisa di-upgrade bertahap."
+    },
+    {
+      "id": "tiga-level-ikhlas-6f1442cb29",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Dalam ikhlas tertinggi, kita rela bahkan jika ridho Allah berarti masuk ____.",
+      "answer": "neraka"
+    }
+  ]
+}

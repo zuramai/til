@@ -1,0 +1,39 @@
+{
+  "slug": "valentine-history",
+  "title": "Valentine's Day History",
+  "url": "/valentine-history/",
+  "sourceHash": "0581a55788d1ade50252319759eeaf366e6aa54880bfea5ac776e7158d9b94b4",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:27:36.652Z",
+  "cards": [
+    {
+      "id": "valentine-history-111a858823",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What ancient Roman festival is linked to the origins of Valentine's Day?",
+      "answer": "Lupercalia, a mid-February fertility festival."
+    },
+    {
+      "id": "valentine-history-8a61ac398e",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which figure swapped the Roman Lupercalia festival for a day honoring a Christian martyr named Valentine?",
+      "options": [
+        "Emperor Constantine",
+        "Pope Gelasius",
+        "Saint Patrick",
+        "Emperor Claudius II"
+      ],
+      "correct": 1,
+      "answer": "Pope Gelasius, who replaced the pagan festival with a Christian feast day."
+    },
+    {
+      "id": "valentine-history-fd67a711e9",
+      "type": "cloze",
+      "difficulty": "hard",
+      "prompt": "Valentine became popular in the ____ and sending love letters spread across Europe.",
+      "answer": "1700s"
+    }
+  ]
+}

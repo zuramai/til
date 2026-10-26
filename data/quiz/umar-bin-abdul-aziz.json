@@ -1,0 +1,82 @@
+{
+  "slug": "umar-bin-abdul-aziz",
+  "title": "Pemerintahan Umar bin Abdul Aziz",
+  "url": "/umar-bin-abdul-aziz/",
+  "sourceHash": "6170e2800ce1af27e2dfe295b27301bc4e7e26d247d61f3c544d51c19d8099bb",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.161Z",
+  "cards": [
+    {
+      "id": "umar-bin-abdul-aziz-1c293276c1",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Mengapa Umar bin Abdul Aziz kesulitan mencari penerima zakat?",
+      "answer": "Karena kesejahteraan merata dan semua orang tercukupi."
+    },
+    {
+      "id": "umar-bin-abdul-aziz-4d32358825",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Apa tanda di tubuh Umar bin Abdul Aziz yang sesuai mimpi Umar bin Khattab, dan apa penyebabnya?",
+      "answer": "Luka di kening karena ditendang kuda jantan."
+    },
+    {
+      "id": "umar-bin-abdul-aziz-395ed1b097",
+      "type": "sequence",
+      "difficulty": "medium",
+      "prompt": "Urutkan peristiwa pada kematian Umar.",
+      "items": [
+        "Pelayan diancam dan dijanjikan 1000 dirham",
+        "Makanan Umar diracuni",
+        "Umar sakit sekitar 20 hari",
+        "Umar memaafkan peracun dan memberi dirham"
+      ],
+      "answer": "Pelayan diancam, meracuni makanan, Umar sakit sekitar 20 hari, lalu memaafkan peracun."
+    },
+    {
+      "id": "umar-bin-abdul-aziz-addda40458",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Berapa gaji Umar bin Abdul Aziz per bulan yang ia sebut kepada bangsawan?",
+      "options": [
+        "60 dirham",
+        "600 dirham",
+        "1000 dirham",
+        "6 dirham"
+      ],
+      "correct": 0,
+      "answer": "60 dirham."
+    },
+    {
+      "id": "umar-bin-abdul-aziz-bcc8c3b26b",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Umar menganggap tradisi tunjangan bangsawan dari kas negara boleh diteruskan.",
+      "correct": false,
+      "answer": "Mitos: ia menghapus semuanya secara tiba-tiba."
+    },
+    {
+      "id": "umar-bin-abdul-aziz-c83b7ae7a6",
+      "type": "recall",
+      "difficulty": "hard",
+      "prompt": "Siapa yang akhirnya ditunjuk Sulaiman menjadi penerusnya dan siapa penerus berikutnya?",
+      "answer": "Umar bin Abdul Aziz, lalu Yazid bin Abdul Malik."
+    },
+    {
+      "id": "umar-bin-abdul-aziz-3dec4bb355",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Seorang pejabat korup menolak hadir ke pengadilan. Bagaimana tanggapan Umar?",
+      "answer": "Umar menantangnya dengan 'Cukup kepalanya aja yang dibawa', lalu orang itu takut dan mengembalikan harta rakyat.",
+      "explanation": "Tidak ada orang kebal hukum."
+    },
+    {
+      "id": "umar-bin-abdul-aziz-7953c7abfd",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Dua kebijakan ekonomi Umar selain zakat apa?",
+      "answer": "Menghapus bea cukai dan pungutan liar di perbatasan, dan melarang monopoli yang menaikkan harga sepihak."
+    }
+  ]
+}

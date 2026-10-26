@@ -1,0 +1,81 @@
+{
+  "slug": "ielts-writing-chart",
+  "title": "IELTS Writing: Chart",
+  "url": "/ielts-writing-chart/",
+  "sourceHash": "83a5cf0eb1473d5f895a42bafa43273b31d15d24fbd9741efc132d065e5370a1",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.141Z",
+  "cards": [
+    {
+      "id": "ielts-writing-chart-e969d423a3",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Give three connectors for IELTS chart writing, like for contrast.",
+      "answer": "However, In contrast, Nevertheless."
+    },
+    {
+      "id": "ielts-writing-chart-b81e269e73",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Which word does NOT describe a negative change in a chart?",
+      "options": [
+        "Plummeted",
+        "Rocketed",
+        "Collapse",
+        "Deteriorate"
+      ],
+      "correct": 1,
+      "answer": "Rocketed means rising sharply."
+    },
+    {
+      "id": "ielts-writing-chart-9d56e0806a",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which verb means a sharp, sudden fall (anjlok)?",
+      "options": [
+        "Gained",
+        "Plummeted",
+        "Peaked",
+        "Improved"
+      ],
+      "correct": 1,
+      "answer": "Plummeted means to fall sharply."
+    },
+    {
+      "id": "ielts-writing-chart-a7eb8022f4",
+      "type": "odd_one_out",
+      "difficulty": "hard",
+      "prompt": "Which word is NOT an adjective/adverb for describing speed or size of change?",
+      "options": [
+        "Dramatically",
+        "Gradually",
+        "Peaked",
+        "Substantially"
+      ],
+      "correct": 2,
+      "answer": "Peaked is a verb (positive group)."
+    },
+    {
+      "id": "ielts-writing-chart-a90facfd0d",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Which connectors can open a summary at the end of a chart description?",
+      "answer": "Overall, To summarize, In short."
+    },
+    {
+      "id": "ielts-writing-chart-054f17929d",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "'Plunged' means 'terjun', and 'plummeted' means ____ in Indonesian.",
+      "answer": "anjlok"
+    },
+    {
+      "id": "ielts-writing-chart-d0b79045d5",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A line chart rises quickly then falls unpredictably. Which two words describe this?",
+      "answer": "Rocketed/Rose rapidly, then fluctuate/erratic."
+    }
+  ]
+}

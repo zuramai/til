@@ -1,0 +1,75 @@
+{
+  "slug": "sex-education",
+  "title": "Sex Education",
+  "url": "/sex-education/",
+  "sourceHash": "23eb638aa1c2e766bfe63d7a79aebc3150278b7915a98cda8188545621f64797",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.156Z",
+  "cards": [
+    {
+      "id": "sex-education-ed3d34a6ae",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "Pendidikan seks mengajarkan teknik seks dan menyuruh orang berhubungan seks.",
+      "correct": false,
+      "answer": "Mitos: ia mengajarkan tanggung jawab menjaga kesehatan reproduksi diri dan orang lain."
+    },
+    {
+      "id": "sex-education-dc0cbca393",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Apa itu Tarbiyah Jinsiyah?",
+      "answer": "Pendidikan seks untuk anak sejak dini agar mengenal identitas gender, batasan aurat, dan menjaga diri."
+    },
+    {
+      "id": "sex-education-94735061a4",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Apa itu khalwat?",
+      "answer": "Menyepinya laki-laki dan perempuan yang bukan mahram di suatu tempat."
+    },
+    {
+      "id": "sex-education-05d0f36f15",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Kenapa banyak orang takut tes HIV menurut materi ini?",
+      "answer": "Karena stigma sosial."
+    },
+    {
+      "id": "sex-education-eb64c27a6d",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "Pendidikan seks menurut dr Boyke dianggap tabu, bahkan kata medis seperti penis dianggap ____.",
+      "answer": "jorok"
+    },
+    {
+      "id": "sex-education-868a881eb0",
+      "type": "mcq",
+      "difficulty": "hard",
+      "prompt": "Mana yang termasuk faktor kesehatan seksual?",
+      "options": [
+        "Kualitas tidur",
+        "Pola makan",
+        "Olahraga",
+        "Semua benar"
+      ],
+      "correct": 3,
+      "answer": "Kualitas tidur, stres, pola makan, olahraga semuanya berkontribusi."
+    },
+    {
+      "id": "sex-education-fc1fe42796",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Apa itu fetish?",
+      "answer": "Ketertarikan seksual pada benda-benda non-seksual."
+    },
+    {
+      "id": "sex-education-1db27fdde9",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Pasangan suami-istri merasa kehidupan seksnya tidak memuaskan dan rumah tangga kurang harmonis. Ke siapa bisa konsultasi?",
+      "answer": "Seksologi, andrologi, psikiater, atau ustad."
+    }
+  ]
+}

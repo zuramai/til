@@ -1,0 +1,68 @@
+{
+  "slug": "aperture-and-focal-length",
+  "title": "Aperture and Focal Length",
+  "url": "/aperture-and-focal-length/",
+  "sourceHash": "4b72b71e681a6ed6df50c602638b32384b6da2e6768f30b116c9718fa1e1fff0",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.120Z",
+  "cards": [
+    {
+      "id": "aperture-and-focal-length-67279d990e",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What does aperture control in a lens?",
+      "answer": "How much light the lens can capture."
+    },
+    {
+      "id": "aperture-and-focal-length-934f3797f2",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "Which aperture lets in the most light?",
+      "options": [
+        "f/1.8",
+        "f/4",
+        "f/8",
+        "f/16"
+      ],
+      "correct": 0,
+      "answer": "f/1.8, because a lower f-number captures more light."
+    },
+    {
+      "id": "aperture-and-focal-length-1e4d72408e",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Focal length is measured in ____.",
+      "answer": "millimeters"
+    },
+    {
+      "id": "aperture-and-focal-length-e94a8708c0",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "A bigger focal length (like 120mm) captures a wider scene than 25mm.",
+      "correct": false,
+      "answer": "Myth: smaller mm is wider; bigger mm zooms in."
+    },
+    {
+      "id": "aperture-and-focal-length-fc5ad9a6e5",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You're shooting a wide landscape in dim light. Which settings fit best?",
+      "answer": "A small mm focal length (wide, e.g. 25mm) and a low f-number (like f/2.5) to capture more light."
+    },
+    {
+      "id": "aperture-and-focal-length-cd1227df55",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Which is NOT a focal length value?",
+      "options": [
+        "25mm",
+        "35mm",
+        "120mm",
+        "f/2.5"
+      ],
+      "correct": 3,
+      "answer": "f/2.5 is an aperture, not a focal length."
+    }
+  ]
+}

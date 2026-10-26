@@ -1,0 +1,75 @@
+{
+  "slug": "why-there-is-additional-filler-words-in-indonesian-language",
+  "title": "Why there often an additional filler word in Indonesian language?",
+  "url": "/why-there-is-additional-filler-words-in-indonesian-language/",
+  "sourceHash": "d853e278753bbceb658b7c06f245759f6a01e80d80fb2187b754a3d8768caf74",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.165Z",
+  "cards": [
+    {
+      "id": "why-there-is-additional-filler-words-in-indonesian-language-f144ad62be",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is the linguistic term for Indonesian filler words like sih, deh, dong?",
+      "answer": "Modal particles."
+    },
+    {
+      "id": "why-there-is-additional-filler-words-in-indonesian-language-9275d1e0f0",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Why do Indonesians add words like 'sih' or 'dong' at the end of sentences?",
+      "options": [
+        "To make sentences longer for grammar",
+        "To soften speech so it doesn't sound rude or harsh",
+        "To show anger",
+        "To ask for money"
+      ],
+      "correct": 1,
+      "answer": "To soften the sentence and avoid sounding offensive or harsh."
+    },
+    {
+      "id": "why-there-is-additional-filler-words-in-indonesian-language-f493c53418",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "The Indonesian particle 'sih' can be compared to the English word '____', as in 'Not like that, though.'",
+      "answer": "though"
+    },
+    {
+      "id": "why-there-is-additional-filler-words-in-indonesian-language-4775f03298",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Which of these is NOT a filler/particle from the examples?",
+      "options": [
+        "sih",
+        "deh",
+        "dong",
+        "apa"
+      ],
+      "correct": 3,
+      "answer": "'apa' (what) is a real question word; the others are softening particles."
+    },
+    {
+      "id": "why-there-is-additional-filler-words-in-indonesian-language-4ed06d141a",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "Indonesian filler words at sentence end are meaningless and add nothing to the tone.",
+      "correct": false,
+      "answer": "Myth: they carry tone, softening the sentence."
+    },
+    {
+      "id": "why-there-is-additional-filler-words-in-indonesian-language-2463f91d64",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "An English speaker asks why 'mau minta tolong dong' is used instead of just 'mau minta tolong'. How do you explain it?",
+      "answer": "The particle 'dong' softens the request, making it sound friendlier and less demanding. This kind of word is called a modal particle."
+    },
+    {
+      "id": "why-there-is-additional-filler-words-in-indonesian-language-3f881ef1cb",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why does adding 'sih' to a question make it sound nicer?",
+      "answer": "Words like 'sih' work like a gentle tone of voice in writing. They make the sentence sound softer, so you sound less bossy or rude."
+    }
+  ]
+}

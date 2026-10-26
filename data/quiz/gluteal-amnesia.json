@@ -1,0 +1,76 @@
+{
+  "slug": "gluteal-amnesia",
+  "title": "Gluteal Amnesia",
+  "url": "/gluteal-amnesia/",
+  "sourceHash": "313342178d4ee399862683773b91ec07f7941dc7cfdde1656aa54a79a0b4bfa4",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.135Z",
+  "cards": [
+    {
+      "id": "gluteal-amnesia-b627300025",
+      "type": "explain",
+      "difficulty": "easy",
+      "prompt": "Explain like I'm 10: What is gluteal amnesia?",
+      "answer": "It's when the muscles in your bottom 'forget' how to switch on and hold up your hips properly. This happens after being inactive for a long time, like sitting too much."
+    },
+    {
+      "id": "gluteal-amnesia-f5ec2e67ed",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "Which is a main cause of gluteal amnesia?",
+      "options": [
+        "Prolonged sitting",
+        "Too much swimming",
+        "Drinking little water",
+        "Wearing tight shoes"
+      ],
+      "correct": 0,
+      "answer": "Prolonged sitting, which lengthens the glutes and tightens the hip flexors."
+    },
+    {
+      "id": "gluteal-amnesia-c6a069f63e",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "What happens to the glute muscles and hip flexors when you sit for hours?",
+      "answer": "The glutes lengthen while the hip flexors tighten."
+    },
+    {
+      "id": "gluteal-amnesia-49cdced10f",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Name two symptoms of gluteal amnesia.",
+      "answer": "Numbness or soreness in the buttocks, and weakness or fatigue in the hamstring or lower back during exercise."
+    },
+    {
+      "id": "gluteal-amnesia-73891ccbe1",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Which is NOT a cause of gluteal amnesia?",
+      "options": [
+        "Prolonged sitting",
+        "Sedentary lifestyle",
+        "Muscle imbalances",
+        "Regular lower-body exercise"
+      ],
+      "correct": 3,
+      "answer": "Regular lower-body exercise helps the glutes; the others cause the condition."
+    },
+    {
+      "id": "gluteal-amnesia-80c9a98c2d",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "An office worker sits 9 hours daily and feels lower-back fatigue during workouts plus sore buttocks. What condition might this be and why?",
+      "answer": "Possibly gluteal amnesia: long sitting stops the glutes from activating, so hamstrings and lower back compensate.",
+      "explanation": "Muscle imbalance makes other muscles overwork."
+    },
+    {
+      "id": "gluteal-amnesia-7db25cc50a",
+      "type": "myth_or_fact",
+      "difficulty": "hard",
+      "prompt": "Gluteal amnesia means the glute muscles are permanently destroyed.",
+      "correct": false,
+      "answer": "Myth: the muscles just fail to activate and support the pelvis properly."
+    }
+  ]
+}

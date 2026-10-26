@@ -1,0 +1,47 @@
+{
+  "slug": "kenapa-orang-indonesia-suka-ngaret",
+  "title": "Kenapa Orang Indonesia Suka Ngaret",
+  "url": "/kenapa-orang-indonesia-suka-ngaret/",
+  "sourceHash": "945242c324cbd2675d9a67b2a8b120b681cbfdde35edf7ed6d17fd240b20bb52",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.146Z",
+  "cards": [
+    {
+      "id": "kenapa-orang-indonesia-suka-ngaret-1cf91858bc",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Secara antropologis, kenapa orang Indonesia disebut sangat santai?",
+      "answer": "Karena dimanjakan iklim, tanah, dan sumber daya sehingga bertahan hidup tidak terlalu sulit dan tak perlu terburu-buru."
+    },
+    {
+      "id": "kenapa-orang-indonesia-suka-ngaret-f88a96160c",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Bagi orang Indonesia, waktu bagaikan ____ yang bisa melar.",
+      "answer": "karet"
+    },
+    {
+      "id": "kenapa-orang-indonesia-suka-ngaret-64fd45461e",
+      "type": "scenario",
+      "difficulty": "medium",
+      "prompt": "Rina selalu tepat waktu, tapi grup temannya sering telat. Lama-lama Rina ikut telat dengan alasan 'mereka juga telat'. Apa yang terjadi?",
+      "answer": "Ngaret dinormalisasi oleh lingkungan, lalu menjadi kebiasaan yang mengubah orang disiplin menjadi ngaret."
+    },
+    {
+      "id": "kenapa-orang-indonesia-suka-ngaret-06a8cea403",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Kebiasaan ngaret dikaitkan dengan alam yang membuat hidup relatif mudah, misalnya padi tumbuh dengan mudah.",
+      "correct": true,
+      "answer": "Fakta: kemudahan alam disebut membuat orang tidak perlu terburu-buru, dan kebiasaan itu terbawa hingga kini."
+    },
+    {
+      "id": "kenapa-orang-indonesia-suka-ngaret-6485393422",
+      "type": "explain",
+      "difficulty": "hard",
+      "prompt": "Explain like I'm 10: kenapa orang yang awalnya disiplin bisa ikut ngaret bila bergaul dengan orang yang suka telat?",
+      "answer": "Kalau semua temannya telat, dia merasa tidak apa-apa ikut telat. Hal itu dilakukan terus-menerus sampai jadi kebiasaan."
+    }
+  ]
+}

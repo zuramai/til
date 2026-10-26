@@ -1,0 +1,89 @@
+{
+  "slug": "common-cold",
+  "title": "Common Cold",
+  "url": "/common-cold/",
+  "sourceHash": "4c2a547e67fdfddd03b171374d2b90d5d4fd8dc303bc4f5f5f8f6af56897b6b8",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.129Z",
+  "cards": [
+    {
+      "id": "common-cold-6c56b5cbef",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Which viruses cause flu, and how does that differ from colds?",
+      "answer": "Flu is caused only by influenza viruses; colds can be caused by many kinds of viruses."
+    },
+    {
+      "id": "common-cold-5df78ac24e",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "Which symptom is more intense in flu than in a common cold?",
+      "options": [
+        "Stuffy nose",
+        "Sore throat",
+        "Fever and headache",
+        "Sneezing"
+      ],
+      "correct": 2,
+      "answer": "Fever and headache."
+    },
+    {
+      "id": "common-cold-628cd8482d",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "Cold symptoms are usually more severe than flu symptoms.",
+      "correct": false,
+      "answer": "Myth: cold symptoms are lower in severity than flu."
+    },
+    {
+      "id": "common-cold-bc3a951900",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why does a cold make your nose stuffy?",
+      "answer": "Something irritates the tissues inside your nose and they swell. Your body then floods your nose with mucus to push the intruders away."
+    },
+    {
+      "id": "common-cold-f85a84c0d6",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "Nasal congestion caused by allergens is called ____ rhinitis.",
+      "answer": "allergic"
+    },
+    {
+      "id": "common-cold-85366f2312",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Your nose is stuffy after eating spicy food, with no allergy. Which type of congestion is it?",
+      "answer": "Nonallergic rhinitis: inflammation caused by triggers like spicy food, stress, or paint."
+    },
+    {
+      "id": "common-cold-04ee5c056b",
+      "type": "odd_one_out",
+      "difficulty": "hard",
+      "prompt": "Which is NOT a trigger of nonallergic rhinitis?",
+      "options": [
+        "Stress",
+        "Paint",
+        "Allergen reaction",
+        "Hormonal change"
+      ],
+      "correct": 2,
+      "answer": "An allergic reaction causes allergic rhinitis, not nonallergic."
+    },
+    {
+      "id": "common-cold-db1daaeb1f",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Which drug is mentioned for relieving a runny or stuffy nose?",
+      "answer": "Pseudoephedrine."
+    },
+    {
+      "id": "common-cold-12b305128c",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is a tissue in biology?",
+      "answer": "A group of similar cells working together for a specific function."
+    }
+  ]
+}

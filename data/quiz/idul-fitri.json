@@ -1,0 +1,40 @@
+{
+  "slug": "idul-fitri",
+  "title": "Maaf-maafan Idul Fitri 2026",
+  "url": "/idul-fitri/",
+  "sourceHash": "bf1da6a2623e49e26fc2ebbfc2286594c10e0bb3a3965ca644890e896a9ad693",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.141Z",
+  "cards": [
+    {
+      "id": "idul-fitri-9247436e36",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "Maaf-maafan saat Idul Fitri adalah kewajiban dari agama.",
+      "correct": false,
+      "answer": "Salah: itu bagian budaya Indonesia yang bernilai ibadah, bukan perintah atau kewajiban agama."
+    },
+    {
+      "id": "idul-fitri-7c927c4a6d",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Kapan seharusnya kita memaafkan orang menurut catatan ini, dan mengapa Idul Fitri tetap penting?",
+      "answer": "Memaafkan tidak harus 1 Syawal saja; Idul Fitri hanya momen tepat sebagai pengingat saling memaafkan."
+    },
+    {
+      "id": "idul-fitri-360692a128",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Ucapan khas Idul Fitri: Mohon maaf ____ dan batin.",
+      "answer": "lahir"
+    },
+    {
+      "id": "idul-fitri-4461c40a9e",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Temanmu bilang tidak mau memaafkan sampai Lebaran tiba. Apa tanggapanmu?",
+      "answer": "Memaafkan tidak perlu menunggu 1 Syawal; Idul Fitri hanya pengingat yang baik."
+    }
+  ]
+}

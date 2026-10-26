@@ -1,0 +1,89 @@
+{
+  "slug": "keto-diet",
+  "title": "Keto Diet",
+  "url": "/keto-diet/",
+  "sourceHash": "9609ada5d9018fc81e1106b1feba3877658af2423b5d5d8df3fda01462bd1bc6",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.146Z",
+  "cards": [
+    {
+      "id": "keto-diet-e5350a0b36",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is ketosis?",
+      "answer": "A state where the body burns fat for energy instead of glucose, producing ketones."
+    },
+    {
+      "id": "keto-diet-1766e2f901",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "When fat is broken down for energy, the body produces compounds called ____.",
+      "answer": "ketones"
+    },
+    {
+      "id": "keto-diet-0f99950be6",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "What is the typical macro split of a keto diet?",
+      "options": [
+        "70-80% fat, 10-20% protein, 5-10% carbs",
+        "50% carbs, 30% fat, 20% protein",
+        "40% fat, 40% protein, 20% carbs",
+        "10% fat, 20% protein, 70% carbs"
+      ],
+      "correct": 0,
+      "answer": "70-80% fat, 10-20% protein, 5-10% carbs."
+    },
+    {
+      "id": "keto-diet-f7d0521b62",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "How many grams of carbs per day or fewer are needed to enter and stay in ketosis?",
+      "options": [
+        "20 g",
+        "50 g",
+        "100 g",
+        "150 g"
+      ],
+      "correct": 1,
+      "answer": "50 grams or less per day."
+    },
+    {
+      "id": "keto-diet-10a70d948d",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why does it take about four days to enter ketosis?",
+      "answer": "Your body first uses up its stored sugar (glucose). Only when that runs out does it start burning fat and making ketones."
+    },
+    {
+      "id": "keto-diet-64a809b200",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Which is NOT a typical side effect of keto?",
+      "options": [
+        "Keto breath",
+        "Dehydration",
+        "Insomnia",
+        "Increased appetite for carbs leading to weight gain"
+      ],
+      "correct": 3,
+      "answer": "Bad breath, dehydration, insomnia and constipation are the listed side effects; the last option is not."
+    },
+    {
+      "id": "keto-diet-d27509a39a",
+      "type": "myth_or_fact",
+      "difficulty": "hard",
+      "prompt": "If you eat 20-50 g of carbs daily, ketosis starts immediately after the first meal.",
+      "correct": false,
+      "answer": "Myth: the body must exhaust glucose stores first, taking about four days."
+    },
+    {
+      "id": "keto-diet-5ecad1d83c",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A friend on keto complains of bad breath and constipation and feels tired. Which keto-related effects might be involved?",
+      "answer": "Keto breath and constipation are known side effects of ketosis; dehydration may also contribute, so drinking enough water helps."
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "slug": "relationship",
+  "title": "Relationship",
+  "url": "/relationship/",
+  "sourceHash": "b67e3f624d9a75ba01ff899fde673a6a40367b1802f38c3ff3e2b76aadaae4a6",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.155Z",
+  "cards": [
+    {
+      "id": "relationship-042b0906a2",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Menurut pandangan ini, apa standar utama pasangan yang baik, dan kenapa itu pilihan?",
+      "answer": "Kedewasaan. Menjadi tua pasti terjadi, tetapi menjadi dewasa adalah pilihan."
+    },
+    {
+      "id": "relationship-9ab480763b",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Mana yang BUKAN parameter kedewasaan dalam hubungan?",
+      "options": [
+        "Cara pikir",
+        "Cara ngomong",
+        "Cara berpenampilan",
+        "Cara merasa"
+      ],
+      "correct": 2,
+      "answer": "Cara berpenampilan: parameter kedewasaan adalah cara pikir, cara ngomong, dan cara merasa."
+    },
+    {
+      "id": "relationship-c1991cbb24",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Orang dewasa tidak hanya konsumsi dalam hubungan, tetapi juga ____.",
+      "answer": "kontribusi"
+    },
+    {
+      "id": "relationship-79bb105b93",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "Menikah dengan seseorang pasti membuatmu lebih bahagia.",
+      "correct": false,
+      "answer": "Mitos: kamu masuk hubungan dengan ekspektasi dan tuntutan, jadi bahagia tidak otomatis."
+    },
+    {
+      "id": "relationship-a04917b0ec",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Kamu sudah maksimal menjaga perasaan pasangan, tapi dia masih merasa kurang dan sulit meredam emosinya. Bagaimana menyikapinya?",
+      "answer": "Kamu bertanggung jawab atas perasaanmu sendiri, dia atas perasaannya. Setelah kamu berusaha maksimal, meredam perasaannya jadi tanggung jawab dia.",
+      "explanation": "Setiap orang paling bertanggung jawab atas perasaannya sendiri."
+    },
+    {
+      "id": "relationship-cb537b1a7c",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Pada pacaran vs pernikahan, kalimat mana yang mewakili komitmen khas pernikahan?",
+      "options": [
+        "Aku mencintai dia karena...",
+        "Aku mencintai dia meskipun...",
+        "Aku mencintai dia kalau...",
+        "Aku mencintai dia sebelum..."
+      ],
+      "correct": 1,
+      "answer": "\"Aku mencintai dia meskipun...\" mewakili komitmen; pacaran cenderung \"karena...\" (perasaan)."
+    },
+    {
+      "id": "relationship-53169dc121",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Mengapa saat sudah menikah rasional harus ditaruh di atas perasaan?",
+      "answer": "Karena sudah \"satu selimut\": saat bermasalah tidak bisa pulang ke rumah masing-masing untuk memulihkan diri seperti saat pacaran."
+    },
+    {
+      "id": "relationship-ed1a8fb88f",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Daftar apa yang disarankan dibuat untuk memilih pasangan?",
+      "answer": "Daftar \"nice to have\" dan \"must have\"."
+    },
+    {
+      "id": "relationship-ee7a133743",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Dalam konsep oneness, sebutkan empat jenisnya.",
+      "answer": "Spiritual, intellectual, social, dan physical oneness."
+    },
+    {
+      "id": "relationship-6f4ad84a2c",
+      "type": "riddle",
+      "difficulty": "hard",
+      "prompt": "Aku lebih penting daripada kecerdasan yang sama dalam intellectual oneness. Siapakah aku?",
+      "answer": "Curiosity (keingintahuan)."
+    },
+    {
+      "id": "relationship-963cbd295a",
+      "type": "sequence",
+      "difficulty": "medium",
+      "prompt": "Urutkan tahap cinta ini dari yang paling awal di daftar: liking, infatuation, empty love, romantic love, companionate love (acak di layar).",
+      "items": [
+        "Liking",
+        "Infatuation",
+        "Empty Love",
+        "Romantic Love",
+        "Companionate Love"
+      ],
+      "answer": "Urutan di daftar: liking, infatuation, empty love, romantic love, companionate love."
+    },
+    {
+      "id": "relationship-a75ac674e3",
+      "type": "mcq",
+      "difficulty": "hard",
+      "prompt": "Hubungan penuh gairah dan komitmen tapi tanpa kedekatan emosional disebut apa?",
+      "options": [
+        "Companionate Love",
+        "Fatuous Love",
+        "Empty Love",
+        "Infatuation"
+      ],
+      "correct": 1,
+      "answer": "Fatuous Love: passion + commitment, tanpa fondasi emosional."
+    },
+    {
+      "id": "relationship-ca58e8c32a",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Apa yang dimaksud Empty Love?",
+      "answer": "Hubungan dengan komitmen/kewajiban tetapi tanpa kehangatan (commitment saja)."
+    }
+  ]
+}

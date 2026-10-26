@@ -1,0 +1,125 @@
+{
+  "slug": "masa-keemasan-islam",
+  "title": "Masa Keemasan Islam",
+  "url": "/masa-keemasan-islam/",
+  "sourceHash": "3e0548760d7bceafcde6b137de3051043b9d47617d3edd60f25d8dc377b4e95e",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.149Z",
+  "cards": [
+    {
+      "id": "masa-keemasan-islam-68e4e85052",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Dinasti apa yang memimpin masa keemasan Islam, dan pindah ke kota mana pada tahun 762?",
+      "answer": "Dinasti Abbasiyah, memindahkan ibukota ke Baghdad."
+    },
+    {
+      "id": "masa-keemasan-islam-933b7055b3",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Perpustakaan besar di Baghdad yang didirikan Khalifah Al-Mansur disebut ____.",
+      "answer": "Baitul Hikmah"
+    },
+    {
+      "id": "masa-keemasan-islam-f97a7591e6",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Bagaimana Khalifah Al-Ma'mun menghargai para penerjemah?",
+      "options": [
+        "Dengan tanah",
+        "Dengan emas seberat manuskrip yang diterjemahkan",
+        "Dengan gelar bangsawan",
+        "Dengan gaji bulanan tetap"
+      ],
+      "correct": 1,
+      "answer": "Mereka dibayar dengan emas seberat manuskrip yang diterjemahkan."
+    },
+    {
+      "id": "masa-keemasan-islam-0d25d2e91a",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Karya Aristotle mungkin tidak bertahan sampai sekarang jika tidak diterjemahkan ke Bahasa Arab pada masa itu.",
+      "correct": true,
+      "answer": "Menurut catatan, penerjemahan ke Arab di Baghdad ikut menyelamatkan karya Aristotle."
+    },
+    {
+      "id": "masa-keemasan-islam-1f17e1ca29",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Mana yang BUKAN fungsi Baitul Hikmah?",
+      "options": [
+        "Penerjemahan karya",
+        "Observatorium",
+        "Majlis debat ilmuwan",
+        "Pelayaran dagang"
+      ],
+      "correct": 3,
+      "answer": "Pelayaran dagang bukan fungsinya; yang lain adalah penerjemahan, observatorium dan majlis debat."
+    },
+    {
+      "id": "masa-keemasan-islam-7378f8a380",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Siapa tokoh yang dijuluki bapak aljabar, dan namanya menjadi asal kata 'algorithm'?",
+      "answer": "Al-Khwarizmi."
+    },
+    {
+      "id": "masa-keemasan-islam-b5195eb7d7",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Tokoh mana yang dikenal sebagai bapak optik dan ilmuwan eksperimental?",
+      "options": [
+        "Al-Zahrawi",
+        "Ibnu Al-Haytam",
+        "Omar Khayyam",
+        "Ibnu Rusyd"
+      ],
+      "correct": 1,
+      "answer": "Ibnu Al-Haytam."
+    },
+    {
+      "id": "masa-keemasan-islam-3aced2fa2e",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Seorang teman bilang Eropa mengenal kembali Aristotle lewat komentar seorang filsuf Muslim. Siapa yang dimaksud, dan apa perannya?",
+      "answer": "Ibnu Rusyd (Averroes), komentator Aristotle yang karyanya mengenalkan kembali Aristotle kepada Eropa."
+    },
+    {
+      "id": "masa-keemasan-islam-04e3eb543f",
+      "type": "riddle",
+      "difficulty": "hard",
+      "prompt": "Aku ahli matematika dan astronomi; kalenderku menghitung satu tahun 365,24219858156 hari. Siapa aku?",
+      "answer": "Omar Khayyam, pencipta kalender Jalali.",
+      "explanation": "Lebih presisi daripada kalender Gregorian."
+    },
+    {
+      "id": "masa-keemasan-islam-3e795e17b0",
+      "type": "sequence",
+      "difficulty": "hard",
+      "prompt": "Urutkan peristiwa dari yang paling awal.",
+      "items": [
+        "Runtuhnya Kerajaan Romawi, mulai Dark Age Eropa",
+        "Ibukota Abbasiyah pindah ke Baghdad (762)",
+        "Baitul Hikmah berkembang di masa Al-Ma'mun",
+        "Mongol di bawah Hulagu Khan menyerang Baghdad (1258)"
+      ],
+      "answer": "Dari runtuhnya Romawi (Dark Age Eropa), ibukota Abbasiyah pindah ke Baghdad, hingga jatuhnya Baghdad ke Mongol."
+    },
+    {
+      "id": "masa-keemasan-islam-ade9f04e43",
+      "type": "explain",
+      "difficulty": "hard",
+      "prompt": "Explain like I'm 10: kenapa Baghdad runtuh pada 1258?",
+      "answer": "Pasukan Mongol pimpinan Hulagu Khan menyerang dan menghancurkan Baitul Hikmah. Tapi Dinasti Abbasiyah juga sudah melemah sebelumnya, jadi bukan hanya karena Mongol."
+    },
+    {
+      "id": "masa-keemasan-islam-00386c755d",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "Hulagu Khan adalah cucu Genghis Khan.",
+      "correct": true,
+      "answer": "Benar, Hulagu Khan memimpin invasi ke Baghdad pada 1258."
+    }
+  ]
+}

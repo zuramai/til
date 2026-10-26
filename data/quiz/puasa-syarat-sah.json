@@ -1,0 +1,75 @@
+{
+  "slug": "puasa-syarat-sah",
+  "title": "Puasa: Syarat Sah",
+  "url": "/puasa-syarat-sah/",
+  "sourceHash": "b13020cfc9bba6c213bc9264d7b575b26a6d294989f0e51058ac5a23861e9c9f",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.154Z",
+  "cards": [
+    {
+      "id": "puasa-syarat-sah-e9bafd199d",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Sebutkan tiga syarat sah puasa.",
+      "answer": "Islam, berakal sehat, dan niat."
+    },
+    {
+      "id": "puasa-syarat-sah-5286ba1773",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Untuk puasa Ramadhan, niat wajib dilakukan sebelum ____.",
+      "answer": "subuh"
+    },
+    {
+      "id": "puasa-syarat-sah-27833efe3a",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Sampai kapan batas maksimal niat puasa sunnah?",
+      "options": [
+        "Sebelum zuhur, asal belum makan dan minum",
+        "Sebelum subuh",
+        "Sebelum asar",
+        "Sebelum maghrib"
+      ],
+      "correct": 0,
+      "answer": "Sebelum zuhur, dengan syarat belum makan dan minum sampai niat dilakukan."
+    },
+    {
+      "id": "puasa-syarat-sah-cbe32718d7",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Anak kecil yang sudah tamyiz sah puasanya, tetapi tidak wajib.",
+      "correct": true,
+      "answer": "Benar, puasanya sah namun belum wajib."
+    },
+    {
+      "id": "puasa-syarat-sah-d7067c89de",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Puasamu batal di siang hari Ramadhan. Bolehkah kamu makan sampai maghrib, dan apa yang harus dilakukan setelahnya?",
+      "answer": "Tidak boleh makan; tetap menahan sampai maghrib, lalu mengganti puasa (qodho) setelah lebaran."
+    },
+    {
+      "id": "puasa-syarat-sah-c7c41d0fdd",
+      "type": "scenario",
+      "difficulty": "medium",
+      "prompt": "Kapan waktu terbaik mandi saat berpuasa, dan mengapa mandi saat puasa makruh?",
+      "answer": "Lebih baik saat sahur atau setelah maghrib, karena mandi saat puasa berpotensi membatalkan puasa."
+    },
+    {
+      "id": "puasa-syarat-sah-3a7a191268",
+      "type": "odd_one_out",
+      "difficulty": "hard",
+      "prompt": "Mana yang BUKAN syarat sah puasa?",
+      "options": [
+        "Islam",
+        "Berakal sehat",
+        "Suci dari haid atau nifas",
+        "Sudah dewasa dan balig"
+      ],
+      "correct": 3,
+      "answer": "Anak tamyiz sah puasa walau belum balig, jadi balig bukan syarat sah."
+    }
+  ]
+}

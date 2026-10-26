@@ -1,0 +1,67 @@
+{
+  "slug": "kenapa-kita-sendawa",
+  "title": "Kenapa Kita Sendawa Setelah Makan?",
+  "url": "/kenapa-kita-sendawa/",
+  "sourceHash": "cda5334cefe35ba4bad3e787c497d0d8b01f6438430d7a8a2bd453446f153d1a",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.145Z",
+  "cards": [
+    {
+      "id": "kenapa-kita-sendawa-a5e6035f8b",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Apa itu sendawa (burping)?",
+      "answer": "Proses mengeluarkan gas berlebih dari dalam tubuh."
+    },
+    {
+      "id": "kenapa-kita-sendawa-69397d5077",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Menurut seorang gastroenterologist, sendawa sampai ____ kali setelah makan masih normal.",
+      "answer": "4"
+    },
+    {
+      "id": "kenapa-kita-sendawa-553f225040",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Mana yang menyebabkan kita 'menelan udara' sehingga lebih sering sendawa?",
+      "options": [
+        "Makan perlahan",
+        "Minum air putih dengan gelas",
+        "Minum minuman bersoda",
+        "Makan sayur"
+      ],
+      "correct": 2,
+      "answer": "Minuman berkarbonasi, bersama makan terlalu cepat, sedotan dan permen karet, membuat kita menelan udara."
+    },
+    {
+      "id": "kenapa-kita-sendawa-d16ded8d54",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Jelaskan seperti ke anak 10 tahun: dari mana gas yang membuat kita sendawa?",
+      "answer": "Gas bisa terbentuk saat enzim memecah makanan, dan juga dari udara yang ikut tertelan saat kita makan atau minum."
+    },
+    {
+      "id": "kenapa-kita-sendawa-200181ecb5",
+      "type": "odd_one_out",
+      "difficulty": "hard",
+      "prompt": "Mana yang BUKAN penyebab menelan udara berlebih?",
+      "options": [
+        "Makan terlalu cepat",
+        "Minum pakai sedotan",
+        "Mengunyah permen karet",
+        "Makan pelan sambil mengunyah baik"
+      ],
+      "correct": 3,
+      "answer": "Makan pelan tidak membuat kita banyak menelan udara; tiga lainnya iya."
+    },
+    {
+      "id": "kenapa-kita-sendawa-8b66cd72b2",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Temanmu sering sendawa disertai rasa panas di dada (heartburn). Kondisi apa yang mungkin?",
+      "answer": "GERD, saat asam lambung naik kembali ke kerongkongan hingga menyebabkan heartburn."
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "slug": "what-antioxidants-do-to-your-body",
+  "title": "What Antioxidants Do to Your Body",
+  "url": "/what-antioxidants-do-to-your-body/",
+  "sourceHash": "246b9d48ecf2ff7e1780e776608c23f73d21a6ae1c653bec6a17d82592ab6636",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.162Z",
+  "cards": [
+    {
+      "id": "what-antioxidants-do-to-your-body-71f45e9fae",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What do antioxidants do?",
+      "answer": "They neutralize free radicals."
+    },
+    {
+      "id": "what-antioxidants-do-to-your-body-94be85bfd9",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: what is a free radical?",
+      "answer": "Electrons like to be in pairs. A free radical has a lonely electron with no partner, so it steals one from whatever it bumps into, like a protein or DNA."
+    },
+    {
+      "id": "what-antioxidants-do-to-your-body-8ad33d5822",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "Antioxidants stop the chain reaction by donating an ____ to the unpaired one.",
+      "answer": "electron"
+    },
+    {
+      "id": "what-antioxidants-do-to-your-body-d265c2c593",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Free radicals are entirely bad for the body.",
+      "correct": false,
+      "answer": "Myth: our immune system uses free radicals to kill pathogens."
+    },
+    {
+      "id": "what-antioxidants-do-to-your-body-eec189bd28",
+      "type": "sequence",
+      "difficulty": "hard",
+      "prompt": "Order the chain reaction of free radical damage.",
+      "items": [
+        "A free radical with an unpaired electron bumps into a molecule",
+        "It steals an electron from it",
+        "The victim molecule is left unpaired and steals again",
+        "Antioxidant donates an electron to stop the chain"
+      ],
+      "answer": "Stealing spreads from molecule to molecule until an antioxidant donates an electron."
+    },
+    {
+      "id": "what-antioxidants-do-to-your-body-692ff58ba1",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Which is NOT an antioxidant or antioxidant source?",
+      "options": [
+        "Vitamin C",
+        "Selenium",
+        "Glutathione",
+        "Free radicals"
+      ],
+      "correct": 3,
+      "answer": "Free radicals are what antioxidants neutralize; the others are antioxidants or sources."
+    },
+    {
+      "id": "what-antioxidants-do-to-your-body-2bb3fc801f",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A friend says the body only gets antioxidants from fruit. What do you reply?",
+      "answer": "The body also makes its own, like glutathione and enzymes, besides food sources such as vitamins C and E, selenium, zinc and carotenoids."
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "5-sifat-seseorang-untuk-jadi-teman-al-ghazali",
+  "title": "5 Sifat Seseorang Untuk Jadi Teman Menurut Al Ghazali",
+  "url": "/5-sifat-seseorang-untuk-jadi-teman-al-ghazali/",
+  "sourceHash": "576f780b2924f191767c5ff600dde9e1096ecb9949d13ef642378846160de107",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.118Z",
+  "cards": [
+    {
+      "id": "5-sifat-seseorang-untuk-jadi-teman-al-ghazali-8b6964cbac",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Ada berapa sifat yang menurut Al-Ghazali harus dimiliki seseorang untuk dijadikan teman?",
+      "answer": "Lima sifat."
+    },
+    {
+      "id": "5-sifat-seseorang-untuk-jadi-teman-al-ghazali-3ed4af9267",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Sebutkan lima sifat teman yang baik menurut Al-Ghazali.",
+      "answer": "Cerdas, berwatak menarik (mampu mengendalikan nafsu dan amarah), standar moral tinggi, bebas ketamakan, dan tulus."
+    },
+    {
+      "id": "5-sifat-seseorang-untuk-jadi-teman-al-ghazali-32a0e766d4",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Menurut Al-Ghazali, mana yang lebih baik karena kecerdasannya?",
+      "options": [
+        "Rekan yang bodoh",
+        "Musuh yang pintar",
+        "Keduanya sama saja",
+        "Orang yang diam saja"
+      ],
+      "correct": 1,
+      "answer": "Musuh yang pintar lebih baik daripada rekan yang bodoh."
+    },
+    {
+      "id": "5-sifat-seseorang-untuk-jadi-teman-al-ghazali-7ab5656293",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "Orang yang tidak tulus dan tak bisa dipercaya ibarat ____, yang membuat yang jauh tampak dekat dan yang dekat tampak jauh.",
+      "answer": "fatamorgana"
+    },
+    {
+      "id": "5-sifat-seseorang-untuk-jadi-teman-al-ghazali-392b6d2155",
+      "type": "odd_one_out",
+      "difficulty": "hard",
+      "prompt": "Mana yang BUKAN salah satu sifat teman yang baik menurut Al-Ghazali?",
+      "options": [
+        "Memiliki kecerdasan",
+        "Terbebas dari ketamakan",
+        "Ketulusan dalam berteman",
+        "Memiliki banyak harta"
+      ],
+      "correct": 3,
+      "answer": "Kekayaan tidak disebut; yang disebut justru bebas dari ketamakan terhadap harta."
+    },
+    {
+      "id": "5-sifat-seseorang-untuk-jadi-teman-al-ghazali-f06ac70eb9",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Kamu ingin berteman dengan orang yang selalu mengejar harta dunia dan sering mengakali orang lain. Berdasarkan Al-Ghazali, apa masalahnya?",
+      "answer": "Ia tamak dan standar moralnya rendah; berteman dengannya bisa mengarah pada kebinasaan.",
+      "explanation": "Al-Ghazali menilai ketamakan terhadap harta dunia berbahaya bagi teman dekat."
+    },
+    {
+      "id": "5-sifat-seseorang-untuk-jadi-teman-al-ghazali-b896ab3fc4",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Al-Ghazali mengutip bahwa dua teman yang bertemu itu ibarat dua tangan yang saling membasuh.",
+      "correct": true,
+      "answer": "Fakta, perumpamaan itu dikutip dari perkataan Nabi."
+    }
+  ]
+}

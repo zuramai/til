@@ -1,0 +1,103 @@
+{
+  "slug": "better-lowlight-photography",
+  "title": "How to Be Better at Lowlight Photography",
+  "url": "/better-lowlight-photography/",
+  "sourceHash": "3f1e390f98632396591768e0048cd29f5052fdb925d1eaa430323f6a346b8f03",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.124Z",
+  "cards": [
+    {
+      "id": "better-lowlight-photography-b010a81a1b",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Which aperture setting is recommended for lowlight photography?",
+      "answer": "The widest aperture (e.g. f/1.7)."
+    },
+    {
+      "id": "better-lowlight-photography-050932d8ae",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "What does a wide aperture create in the background?",
+      "options": [
+        "Bokeh",
+        "Grain",
+        "Motion blur",
+        "Vignette"
+      ],
+      "correct": 0,
+      "answer": "Bokeh, while focusing on a single point."
+    },
+    {
+      "id": "better-lowlight-photography-33e367eb16",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "You want more background detail. What should you use?",
+      "options": [
+        "Narrower aperture",
+        "Wider aperture",
+        "Lower ISO only",
+        "Flash only"
+      ],
+      "correct": 0,
+      "answer": "A narrower aperture gives more detail in the background."
+    },
+    {
+      "id": "better-lowlight-photography-7b35e6e07e",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Increasing ISO makes the image cleaner.",
+      "correct": false,
+      "answer": "Higher ISO brings more light but makes grainier images."
+    },
+    {
+      "id": "better-lowlight-photography-28e4630cea",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "To reduce grain when using high ISO, use a ____ shutter speed.",
+      "answer": "slow"
+    },
+    {
+      "id": "better-lowlight-photography-e4eb36554f",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why does a slow shutter speed make photos blurry sometimes?",
+      "answer": "The camera stays open longer, so if your hands shake or something moves, it gets recorded as blur. A tripod keeps the camera still."
+    },
+    {
+      "id": "better-lowlight-photography-f4135b22a6",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "When using flash, how should you set the exposure?",
+      "options": [
+        "Under-exposed",
+        "Over-exposed",
+        "Max ISO",
+        "No setting"
+      ],
+      "correct": 0,
+      "answer": "Under-expose for the preview, because the flash adds light."
+    },
+    {
+      "id": "better-lowlight-photography-dc5eebd5a3",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You want to shoot a moving person at night. Slow shutter speed would blur them. What is the trade-off?",
+      "answer": "Slow shutter speed allows low ISO but blurs movement; fast shutter freezes motion but requires higher ISO (grain) or wider aperture. It is all trade-offs."
+    },
+    {
+      "id": "better-lowlight-photography-b4de0c7a82",
+      "type": "odd_one_out",
+      "difficulty": "hard",
+      "prompt": "Which is NOT a listed consequence of slow shutter speed?",
+      "options": [
+        "Shaky handheld shots",
+        "Moving objects blurred",
+        "Cleaner low-ISO image",
+        "Bokeh disappears"
+      ],
+      "correct": 3,
+      "answer": "Bokeh depends on aperture, not shutter speed."
+    }
+  ]
+}

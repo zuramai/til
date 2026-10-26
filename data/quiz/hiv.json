@@ -1,0 +1,95 @@
+{
+  "slug": "hiv",
+  "title": "HIV/AIDS",
+  "url": "/hiv/",
+  "sourceHash": "4af19c790a364883146b27e5af055e14f55f2b6b55ebdd1c75d4b73491bce371",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.137Z",
+  "cards": [
+    {
+      "id": "hiv-f2ab5d105d",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "HIV adalah retrovirus yang menyimpan informasi genetiknya di ____ (bukan DNA).",
+      "answer": "RNA"
+    },
+    {
+      "id": "hiv-5808ab5a4d",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Sel apa yang menjadi target HIV?",
+      "answer": "Sel CD4, tipe sel darah putih yang mengatur sistem imun."
+    },
+    {
+      "id": "hiv-dab59a303b",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Pada jumlah CD4 berapa seseorang dianggap AIDS?",
+      "options": [
+        "Di bawah 200",
+        "Di bawah 500",
+        "Di atas 1600",
+        "Tepat 1000"
+      ],
+      "correct": 0,
+      "answer": "Di bawah 200 (normalnya 500-1600)."
+    },
+    {
+      "id": "hiv-15b078392f",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: Kenapa orang dengan AIDS mudah sakit parah?",
+      "answer": "HIV menghancurkan sel CD4, yang mengatur pertahanan tubuh. Tanpa banyak CD4, tubuh tak mampu melawan infeksi biasa."
+    },
+    {
+      "id": "hiv-ed93df6d6f",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Apa itu ART dan apa gunanya?",
+      "answer": "Antiretroviral Therapy, yang membuat pengidap HIV tidak jatuh ke AIDS dan hidup sehat."
+    },
+    {
+      "id": "hiv-70029eb070",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Ayah dengan HIV pasti menularkan HIV ke anaknya lewat DNA spermanya.",
+      "correct": false,
+      "answer": "Mitos: HIV ada di cairan, bukan DNA sperma; dengan ART dan viral load tak terdeteksi, tak menular ke ibu."
+    },
+    {
+      "id": "hiv-6dd30a261b",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Seorang ibu dengan HIV hamil dan viral loadnya tinggi. Apa saran penanganannya?",
+      "answer": "Minum obat rutin untuk menurunkan risiko di bawah 1%, dan pertimbangkan cesar agar bayi tak terpapar darah ibu."
+    },
+    {
+      "id": "hiv-6d4e8ac576",
+      "type": "sequence",
+      "difficulty": "hard",
+      "prompt": "Urutkan perjalanan penyakit HIV:",
+      "items": [
+        "Infeksi dan gejala mirip flu 2-4 minggu",
+        "Tahap tampak sehat sementara CD4 diserang",
+        "CD4 mendekati 200",
+        "Stadium AIDS"
+      ],
+      "answer": "Gejala ringan mirip flu, lalu bertahun-tahun tampak sehat sementara CD4 dihabisi, lalu AIDS."
+    },
+    {
+      "id": "hiv-a24be04876",
+      "type": "recall",
+      "difficulty": "hard",
+      "prompt": "Apa yang diukur oleh 'viral load'?",
+      "answer": "Jumlah virus di dalam aliran darah."
+    },
+    {
+      "id": "hiv-5ff3cd2b4f",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Dari mana asal HIV menurut penelusuran ilmuwan?",
+      "answer": "Dari Patient Zero di Kamerun, Afrika, setelah berburu simpanse yang terinfeksi SIV."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "how-to-hone-photography-sense",
+  "title": "How to Hone Photography Sense",
+  "url": "/how-to-hone-photography-sense/",
+  "sourceHash": "9c78ef4938c749feceed96294205d569f0cef89b4868cefa6ba9ddce63f77c82",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:27:36.652Z",
+  "cards": [
+    {
+      "id": "how-to-hone-photography-sense-6a34c6c851",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "How long should you spend in a place before taking photos to notice small details?",
+      "answer": "At least 5 minutes."
+    },
+    {
+      "id": "how-to-hone-photography-sense-67f7b87c7b",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "The most powerful photos are always technically perfect: sharp, perfectly lit, and precise.",
+      "correct": false,
+      "answer": "Myth: imperfection can make a photo powerful, and technical perfection can feel sterile and boring."
+    },
+    {
+      "id": "how-to-hone-photography-sense-ca54b7e328",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "What is storytelling photography?",
+      "answer": "The art of capturing images that convey emotion, context, or a compelling story rather than just documenting a scene."
+    },
+    {
+      "id": "how-to-hone-photography-sense-62ae5918bc",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "Which habit helps develop photography sense?",
+      "options": [
+        "Only shooting one genre",
+        "Trying every kind of photography",
+        "Waiting for perfect gear",
+        "Avoiding street photography"
+      ],
+      "correct": 1,
+      "answer": "Trying many kinds of photography, you develop your sense along the way."
+    },
+    {
+      "id": "how-to-hone-photography-sense-b9afa599a2",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "When analyzing a powerful image, ask whether its power comes from emotion, composition, or the use of ____.",
+      "answer": "light"
+    },
+    {
+      "id": "how-to-hone-photography-sense-7a296111fe",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Your friend deletes every photo that is slightly blurry or imperfectly lit, though it captured a moving moment. What would you advise?",
+      "answer": "Keep it: imperfection and emotion can make a photo powerful, since real life is messy, while obsession with sharpness can make photos sterile."
+    },
+    {
+      "id": "how-to-hone-photography-sense-5764071929",
+      "type": "recall",
+      "difficulty": "hard",
+      "prompt": "Name two ways to sharpen your sense of photography besides slowing down.",
+      "answer": "Gain experience (flight hours), reduce hesitation, try many genres, or ask what makes the image powerful."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "tokio-thread-pool",
+  "title": "Tokio Thread Pool",
+  "url": "/tokio-thread-pool/",
+  "sourceHash": "e451d69e8ac072bdbb233a73363c7b24c5691152d8186d9e3f3d09d9ed2dccdc",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.160Z",
+  "cards": [
+    {
+      "id": "tokio-thread-pool-267984e7d7",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "By default, how many worker threads does the Tokio runtime use?",
+      "answer": "The number of CPU cores (num_cpus)."
+    },
+    {
+      "id": "tokio-thread-pool-069d6cea5e",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "What is the difference between Tokio's async and blocking threads?",
+      "options": [
+        "Async threads run one task; blocking threads run hundreds",
+        "Async threads handle many tasks switching at .await; blocking threads run one task fully",
+        "They are identical",
+        "Blocking threads use different CPU cores"
+      ],
+      "correct": 1,
+      "answer": "Async threads handle many tasks switching at .await; blocking threads run one task from start to end."
+    },
+    {
+      "id": "tokio-thread-pool-18767098ec",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Tokio enforces a hard maximum on the number of worker threads.",
+      "correct": false,
+      "answer": "Myth: Tokio enforces no maximum; it depends on the OS and RAM."
+    },
+    {
+      "id": "tokio-thread-pool-d1f6a9d246",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You spawn 1024 threads and each reserves a 2 MB stack. How much memory goes to stacks alone?",
+      "answer": "About 2 GB.",
+      "explanation": "Thread count is limited in practice by the OS and RAM."
+    },
+    {
+      "id": "tokio-thread-pool-fdab43f84c",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Each thread adds an overhead of about ____ for its stack.",
+      "answer": "2 MB"
+    },
+    {
+      "id": "tokio-thread-pool-daa5023c15",
+      "type": "myth_or_fact",
+      "difficulty": "hard",
+      "prompt": "Tokio's async pool and blocking pool run on separate sets of CPU cores.",
+      "correct": false,
+      "answer": "Myth: both pools share the same CPU cores."
+    }
+  ]
+}

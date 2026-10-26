@@ -1,0 +1,80 @@
+{
+  "slug": "us-visa-experience",
+  "title": "US Visa Experience",
+  "url": "/us-visa-experience/",
+  "sourceHash": "ddd9b7f54647f22af413a9d4c42da066175cd1a14788baea9a64d608c2ca2c24",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.161Z",
+  "cards": [
+    {
+      "id": "us-visa-experience-223090d185",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "How much was the US visa fee and how was it paid?",
+      "answer": "USD 185 (about Rp3.140.000), paid with QRIS via VFS."
+    },
+    {
+      "id": "us-visa-experience-d531747bd1",
+      "type": "sequence",
+      "difficulty": "medium",
+      "prompt": "Order the steps of the US visa process.",
+      "items": [
+        "Fill the online application form",
+        "Pay the fee via VFS",
+        "Schedule the interview",
+        "Interview at the U.S. Embassy",
+        "Pick up the passport at VFS"
+      ],
+      "answer": "Fill the online form, pay, schedule the interview, interview at the embassy, then pick up the passport at VFS."
+    },
+    {
+      "id": "us-visa-experience-9156649e0b",
+      "type": "sequence",
+      "difficulty": "medium",
+      "prompt": "Order the counters at the embassy interview.",
+      "items": [
+        "Passport check",
+        "Fingerprinting",
+        "Interview"
+      ],
+      "answer": "Passport check, fingerprinting, then the interview."
+    },
+    {
+      "id": "us-visa-experience-70f8957220",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "What does a white paper after the interview mean?",
+      "options": [
+        "Rejected",
+        "Missing documents",
+        "Accepted",
+        "Pending"
+      ],
+      "correct": 2,
+      "answer": "Accepted, versus red or yellow paper that means rejected or missing something."
+    },
+    {
+      "id": "us-visa-experience-fefb64eb80",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "What was required to collect the passport with the visa at VFS?",
+      "answer": "Only the ID card (KTP)."
+    },
+    {
+      "id": "us-visa-experience-a5d46bcd8b",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "What must be brought to the embassy entrance?",
+      "answer": "The DS-160 and passport."
+    },
+    {
+      "id": "us-visa-experience-7b6ad79bc1",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A friend asks about the application form. What kinds of questions should they expect?",
+      "answer": "Where they'll stay, visit purpose, who pays, a photo, and 50+ questions about being a terrorist, criminal or drug user.",
+      "explanation": "The form took about 30 minutes."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "slug": "kenapa-angka-4-dan-13-diskip",
+  "title": "Kenapa Angka 4 Dan 13 Sering Diskip",
+  "url": "/kenapa-angka-4-dan-13-diskip/",
+  "sourceHash": "afb9db55a373f86080f852f575f1dab61610bb678bdc44828d7b1d4c1f251d5a",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.144Z",
+  "cards": [
+    {
+      "id": "kenapa-angka-4-dan-13-diskip-b25d4c6e3f",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Kenapa angka 4 dianggap sial di budaya timur?",
+      "answer": "Pelafalannya (Sì / se) mirip dengan kata 'kematian'."
+    },
+    {
+      "id": "kenapa-angka-4-dan-13-diskip-b089d66be8",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "Dari budaya mana ketakutan akan angka 13 berasal?",
+      "options": [
+        "Budaya timur",
+        "Budaya barat",
+        "Budaya Arab",
+        "Budaya Jawa"
+      ],
+      "correct": 1,
+      "answer": "Budaya barat (western culture)."
+    },
+    {
+      "id": "kenapa-angka-4-dan-13-diskip-5f4d577cb4",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "Ketakutan terhadap angka 4 disebut ____.",
+      "answer": "Tetraphobia"
+    },
+    {
+      "id": "kenapa-angka-4-dan-13-diskip-6f01a4005c",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "Ketakutan terhadap angka 13 disebut ____.",
+      "answer": "Triskaidekaphobia"
+    },
+    {
+      "id": "kenapa-angka-4-dan-13-diskip-145af8d157",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Kamu naik lift di mall dan melihat tombol lantai 3, 5, lalu 12, 14 tanpa 4 dan 13. Kenapa?",
+      "answer": "Pengelola menghindari angka 4 (terkait kematian di budaya timur) dan 13 (sial di budaya barat) agar nyaman bagi pengunjung."
+    },
+    {
+      "id": "kenapa-angka-4-dan-13-diskip-1b025be4a6",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Mana yang BUKAN nama ketakutan terhadap angka?",
+      "options": [
+        "Tetraphobia",
+        "Triskaidekaphobia",
+        "Both 4 and 13 skipped",
+        "Triskaidekaphobia untuk angka 4"
+      ],
+      "correct": 3,
+      "answer": "Triskaidekaphobia adalah ketakutan akan angka 13, bukan 4."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "why-coke-zero-sweet-but-no-sugar",
+  "title": "Why coke zero has no sugar but still sweet?",
+  "url": "/why-coke-zero-sweet-but-no-sugar/",
+  "sourceHash": "048bbe726cd756ce4cfb1874c73cdba0655b6a97acf158dd7d1bc3c02e1e2460",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.163Z",
+  "cards": [
+    {
+      "id": "why-coke-zero-sweet-but-no-sugar-ea9d91a57b",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Why is Coke Zero sweet despite having no sugar?",
+      "answer": "It uses artificial sweeteners (aspartame and acesulfame potassium)."
+    },
+    {
+      "id": "why-coke-zero-sweet-but-no-sugar-5a52ed30d1",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "What is insulin?",
+      "options": [
+        "A hormone regulating blood sugar",
+        "A sweetener",
+        "A sugar",
+        "A vitamin"
+      ],
+      "correct": 0,
+      "answer": "A hormone that regulates blood sugar and lets it be absorbed into energy."
+    },
+    {
+      "id": "why-coke-zero-sweet-but-no-sugar-fd9a18fbf4",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why do diabetics have blood sugar problems?",
+      "answer": "Their bodies don't make enough insulin or can't use it well. Insulin is what lets sugar go from blood into cells for energy."
+    },
+    {
+      "id": "why-coke-zero-sweet-but-no-sugar-9aea7c27f3",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Which is NOT an artificial sweetener?",
+      "options": [
+        "Aspartame",
+        "Sucralose",
+        "Honey",
+        "Acesulfame potassium"
+      ],
+      "correct": 2,
+      "answer": "Honey is a natural sugar."
+    },
+    {
+      "id": "why-coke-zero-sweet-but-no-sugar-da090ac4f9",
+      "type": "myth_or_fact",
+      "difficulty": "hard",
+      "prompt": "Artificial sweeteners taste sweet but don't raise blood sugar.",
+      "correct": true,
+      "answer": "Fact: they only taste sweet and do not increase blood sugar."
+    },
+    {
+      "id": "why-coke-zero-sweet-but-no-sugar-15d892e2d9",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Nutrition facts of Coke Zero show 0g of ____.",
+      "answer": "sucrose"
+    }
+  ]
+}

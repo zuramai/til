@@ -1,0 +1,88 @@
+{
+  "slug": "rag",
+  "title": "Retrieval-Augmented Generation",
+  "url": "/rag/",
+  "sourceHash": "d8f2321082217343551cfde84ef59b9a568fd78886cd787cffc3d9849c10e505",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.154Z",
+  "cards": [
+    {
+      "id": "rag-1d4ad87a28",
+      "type": "explain",
+      "difficulty": "easy",
+      "prompt": "Jelaskan seperti ke anak 10 tahun: kenapa LLM perlu RAG?",
+      "answer": "LLM hanya bisa membaca sedikit teks sekaligus, jadi tidak bisa membaca semua pengetahuan. RAG mengambil bagian yang cocok dengan pertanyaan saja lalu memberikannya ke LLM."
+    },
+    {
+      "id": "rag-83fe37606d",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "LLM tidak bisa memasukkan semua knowledge saat inference karena ____ yang terbatas.",
+      "answer": "context window"
+    },
+    {
+      "id": "rag-ee03091576",
+      "type": "sequence",
+      "difficulty": "medium",
+      "prompt": "Urutkan langkah 2-steps RAG.",
+      "items": [
+        "User bertanya",
+        "Ambil context relevan dari vector database",
+        "Generate jawaban",
+        "Return jawaban ke user"
+      ],
+      "answer": "Tanya, retrieve dari vector DB, generate, lalu return."
+    },
+    {
+      "id": "rag-20866e8eb4",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Apa ciri Agentic RAG?",
+      "options": [
+        "Vector search dijadikan tool yang dipanggil LLM jika perlu",
+        "Selalu retrieve langsung",
+        "Tidak memakai LLM",
+        "Query diperbaiki terus tanpa tool"
+      ],
+      "correct": 0,
+      "answer": "Vector search jadi tool; LLM memutuskan butuh knowledge eksternal atau tidak."
+    },
+    {
+      "id": "rag-1ccdae3f77",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Masalah apa di 2-steps RAG yang diselesaikan Hybrid RAG?",
+      "answer": "Teks pertanyaan tidak selalu semantically similar dengan knowledge yang ada; query di-refine dengan LLM sampai cukup akurat."
+    },
+    {
+      "id": "rag-f7a100670b",
+      "type": "sequence",
+      "difficulty": "hard",
+      "prompt": "Urutkan persiapan data untuk app RAG hukum.",
+      "items": [
+        "Kumpulkan data",
+        "Load dokumen",
+        "Split jadi chunks",
+        "Ubah jadi embeddings",
+        "Simpan ke vector store"
+      ],
+      "answer": "Kumpulkan, load, split, embed, lalu simpan."
+    },
+    {
+      "id": "rag-78f712c37a",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Chatbot hanya punya satu jawaban dari vector search yang kurang cocok. Pendekatan RAG mana yang mengulang refine query sampai knowledge cukup, lalu cari alternatif jika tidak puas?",
+      "answer": "Hybrid RAG: query ditingkatkan berulang, dan bila jawaban tidak memuaskan dicari approach lain seperti browser search tool."
+    },
+    {
+      "id": "rag-a707ae1130",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Pada Agentic RAG, jika LLM tidak butuh external knowledge, ia langsung menjawab dari knowledge-nya.",
+      "correct": true,
+      "answer": "Benar, tool vector search hanya dipanggil jika dibutuhkan."
+    }
+  ]
+}

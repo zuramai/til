@@ -1,0 +1,47 @@
+{
+  "slug": "hawthorne-effect",
+  "title": "Hawthrone Effect",
+  "url": "/hawthorne-effect/",
+  "sourceHash": "fa99cfa3928f1bd1be9c485e9e99143e983425e123e8a9e8fab28fc22eef6403",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.136Z",
+  "cards": [
+    {
+      "id": "hawthorne-effect-19a366f1d6",
+      "type": "explain",
+      "difficulty": "easy",
+      "prompt": "Explain like I'm 10: What is the Hawthorne effect?",
+      "answer": "It's when people act differently, usually better, because they know someone is watching them."
+    },
+    {
+      "id": "hawthorne-effect-2d31ce3b40",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "The Hawthorne effect happens when behavior changes because we are aware of being ____.",
+      "answer": "observed"
+    },
+    {
+      "id": "hawthorne-effect-4f98ed019a",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "In the hospital example, how much more did hand-washing compliance rise during a hand-washing study?",
+      "answer": "55% more than usual."
+    },
+    {
+      "id": "hawthorne-effect-5144e09b5a",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A manager sees staff productivity jump the week a researcher watches the office, then fall back. What explains it?",
+      "answer": "The Hawthorne effect: people improved because they knew they were observed, not because the environment changed."
+    },
+    {
+      "id": "hawthorne-effect-8ee274f8c5",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "The Hawthorne effect says behavior changes because the environment improved.",
+      "correct": false,
+      "answer": "Myth: it changes because people know they are being watched."
+    }
+  ]
+}

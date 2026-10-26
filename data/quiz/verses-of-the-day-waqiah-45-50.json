@@ -1,0 +1,62 @@
+{
+  "slug": "verses-of-the-day-waqiah-45-50",
+  "title": "Verses of the Day: Al-Waqiah 45-50",
+  "url": "/verses-of-the-day-waqiah-45-50/",
+  "sourceHash": "0d71023ccfa91cc3f7893be92f1b83f8f37531a63bd296179c76ca049a4b3f0c",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.161Z",
+  "cards": [
+    {
+      "id": "verses-of-the-day-waqiah-45-50-484e4b67c8",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "In Al-Waqiah 45, how are the people described as living before their punishment?",
+      "answer": "In affluence/luxury (mutrafin)."
+    },
+    {
+      "id": "verses-of-the-day-waqiah-45-50-518a474088",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "Al-Waqiah 46 says they persisted in the worst ____ (al-hinth al-azim).",
+      "answer": "sin",
+      "explanation": "Their persisting in great sin is the reason described for their fate."
+    },
+    {
+      "id": "verses-of-the-day-waqiah-45-50-9ff4a8123f",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "In Al-Waqiah 47-48, what doubt did the deniers voice about death?",
+      "answer": "They asked whether they would really be resurrected after becoming dust and bones, and whether their forefathers would be too."
+    },
+    {
+      "id": "verses-of-the-day-waqiah-45-50-74c0cdc3be",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "According to Al-Waqiah 49-50, who will be gathered on the appointed day?",
+      "options": [
+        "Only the later generations",
+        "Only those who lived in luxury",
+        "Earlier and later generations alike",
+        "Only the forefathers of the deniers"
+      ],
+      "correct": 2,
+      "answer": "Both the earlier and later generations will be gathered for the appointed day."
+    },
+    {
+      "id": "verses-of-the-day-waqiah-45-50-66c80b3f7d",
+      "type": "myth_or_fact",
+      "difficulty": "hard",
+      "prompt": "Al-Waqiah 49-50 answers the 'what about our forefathers?' doubt by saying that only the forefathers will be gathered.",
+      "correct": false,
+      "answer": "Myth: the verses say all earlier and later generations will be gathered on a day that is known."
+    },
+    {
+      "id": "verses-of-the-day-waqiah-45-50-24811ec441",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A friend says 'once we turn to dust and bones, that's the end.' Which idea from Al-Waqiah 47-50 answers that?",
+      "answer": "The verses record this same doubt and respond that all generations, earlier and later, will certainly be gathered on an appointed day."
+    }
+  ]
+}

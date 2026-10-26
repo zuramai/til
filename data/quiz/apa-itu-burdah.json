@@ -1,0 +1,54 @@
+{
+  "slug": "apa-itu-burdah",
+  "title": "Apa Itu Burdah",
+  "url": "/apa-itu-burdah/",
+  "sourceHash": "34125c1ebe9c060964ddae2e8196e21a2539a3f1b4d83253f80640cc41f9339f",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.120Z",
+  "cards": [
+    {
+      "id": "apa-itu-burdah-5c50d669df",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Apa arti kata 'burdah' secara bahasa?",
+      "answer": "Mantel atau jubah."
+    },
+    {
+      "id": "apa-itu-burdah-232b86314c",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Siapa penulis qasidah burdah dan pada abad berapa ia hidup?",
+      "answer": "Imam Al-Bushiri, abad ke-13."
+    },
+    {
+      "id": "apa-itu-burdah-dcc09fde67",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: kenapa puisi itu dinamai Burdah?",
+      "answer": "Penulisnya sakit lumpuh lalu bermimpi memuji Nabi dan diselimuti jubah olehnya. Ia sembuh seketika, jadi puisinya dinamai Burdah, artinya jubah."
+    },
+    {
+      "id": "apa-itu-burdah-73f56d3623",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Burdah berisi karya sastra tentang apa?",
+      "options": [
+        "Kisah peperangan",
+        "Pujian kepada Nabi Muhammad",
+        "Hukum waris",
+        "Ilmu astronomi"
+      ],
+      "correct": 1,
+      "answer": "Pujian kepada Nabi Muhammad SAW."
+    },
+    {
+      "id": "apa-itu-burdah-e8e195aaf7",
+      "type": "myth_or_fact",
+      "difficulty": "hard",
+      "prompt": "Qasidah Burdah ditulis dalam bahasa Latin klasik.",
+      "correct": false,
+      "answer": "Mitos: ia adalah karya sastra Arab klasik."
+    }
+  ]
+}

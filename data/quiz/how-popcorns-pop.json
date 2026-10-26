@@ -1,0 +1,47 @@
+{
+  "slug": "how-popcorns-pop",
+  "title": "How Popcorns Pop",
+  "url": "/how-popcorns-pop/",
+  "sourceHash": "70c72448d1512212c290acb09310ad5b9193d51d82bf73e0be7970cd46051e94",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.138Z",
+  "cards": [
+    {
+      "id": "how-popcorns-pop-52e587e972",
+      "type": "explain",
+      "difficulty": "easy",
+      "prompt": "Explain like I'm 10: Why does a corn kernel pop?",
+      "answer": "Inside is a little water. When heated it becomes steam and pushes hard until the hard shell bursts into fluffy popcorn."
+    },
+    {
+      "id": "how-popcorns-pop-2fddd02343",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Why can't sweet corn pop?",
+      "answer": "It lacks a hard hull and the internal moisture needed to build explosive pressure."
+    },
+    {
+      "id": "how-popcorns-pop-b6b537174f",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Popcorn itself is unhealthy.",
+      "correct": false,
+      "answer": "Myth: popcorn is healthy; additives like sweeteners and sodium make it unhealthy."
+    },
+    {
+      "id": "how-popcorns-pop-1b4e034c87",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You want healthier popcorn at a movie. What should you do?",
+      "answer": "Use minimal seasoning, avoiding added sweeteners and lots of sodium."
+    },
+    {
+      "id": "how-popcorns-pop-52f321be9e",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "When heated, the water in the kernel turns into ____.",
+      "answer": "steam"
+    }
+  ]
+}

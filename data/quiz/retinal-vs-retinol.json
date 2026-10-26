@@ -1,0 +1,73 @@
+{
+  "slug": "retinal-vs-retinol",
+  "title": "Retinal vs Retinol",
+  "url": "/retinal-vs-retinol/",
+  "sourceHash": "ab84b81f869ee7cf91b51a49d3610de78baa2187d3adac84a6bb20267fb4240b",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.155Z",
+  "cards": [
+    {
+      "id": "retinal-vs-retinol-9c6186bfd3",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Retinal and retinol both belong to which family of compounds?",
+      "answer": "Retinoids (forms of vitamin A)."
+    },
+    {
+      "id": "retinal-vs-retinol-20ab073712",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Why does retinal work faster than retinol?",
+      "options": [
+        "It is closer to the active form, retinoic acid",
+        "It is made from vitamin C",
+        "It needs no conversion at all",
+        "It is gentler on skin"
+      ],
+      "correct": 0,
+      "answer": "It is closer to the active form, retinoic acid."
+    },
+    {
+      "id": "retinal-vs-retinol-569190d6db",
+      "type": "sequence",
+      "difficulty": "medium",
+      "prompt": "Order these from furthest to closest to the active form of vitamin A.",
+      "items": [
+        "Retinol",
+        "Retinal",
+        "Retinoic acid"
+      ],
+      "answer": "Retinol, then retinal, then retinoic acid."
+    },
+    {
+      "id": "retinal-vs-retinol-917d8ce09a",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "Retinal gives faster results than retinol but may irritate skin more.",
+      "correct": true,
+      "answer": "Fact: faster results, potentially more irritation."
+    },
+    {
+      "id": "retinal-vs-retinol-6b114c35c8",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Your friend has easily irritated skin but wants the fastest results, so she picks retinal. What trade-off should you point out?",
+      "answer": "Retinal acts faster because it is closer to retinoic acid, but it is more likely to irritate the skin than retinol."
+    },
+    {
+      "id": "retinal-vs-retinol-cc52b1bf45",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Your skin converts retinol into ____.",
+      "answer": "retinoic acid"
+    },
+    {
+      "id": "retinal-vs-retinol-b5aa0a9408",
+      "type": "riddle",
+      "difficulty": "medium",
+      "prompt": "I am the pure, active form of vitamin A. Retinal is one step from me, retinol two. What am I?",
+      "answer": "Retinoic acid."
+    }
+  ]
+}

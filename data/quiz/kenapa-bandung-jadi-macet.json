@@ -1,0 +1,61 @@
+{
+  "slug": "kenapa-bandung-jadi-macet",
+  "title": "Kenapa Bandung Jadi Macet?",
+  "url": "/kenapa-bandung-jadi-macet/",
+  "sourceHash": "6c19e9c2a5c12c45a32580d15869f17c5b45e43a1545a15a4cd77ed374ad7b51",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.144Z",
+  "cards": [
+    {
+      "id": "kenapa-bandung-jadi-macet-4bc23ae433",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Sebutkan penyebab utama kemacetan Bandung terkait transportasi.",
+      "answer": "Transportasi umum yang kurang memadai, sehingga makin banyak orang beli kendaraan pribadi."
+    },
+    {
+      "id": "kenapa-bandung-jadi-macet-4ddb139e90",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Manakah yang disebut sebagai penyebab macet yang ironisnya berasal dari transportasi umum?",
+      "options": [
+        "Kereta cepat",
+        "Angkot ngetem dan bus besar di jalan kecil",
+        "Sepeda umum",
+        "Trem"
+      ],
+      "correct": 1,
+      "answer": "Angkot yang ngetem dan bus besar di jalanan sempit justru memicu macet."
+    },
+    {
+      "id": "kenapa-bandung-jadi-macet-419ae31757",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Bahu jalan yang dipakai untuk parkir dan kaki lima ikut memperparah macet Bandung.",
+      "correct": true,
+      "answer": "Benar, bahu jalan yang dipakai parkir dan kaki lima mempersempit jalan."
+    },
+    {
+      "id": "kenapa-bandung-jadi-macet-2b3f407860",
+      "type": "explain",
+      "difficulty": "hard",
+      "prompt": "Kenapa lampu merah di Bandung terasa lama?",
+      "answer": "Karena di belakang lampu merah ada jarak jauh sampai simpang bersinyal berikutnya, sehingga lampu bisa diatur lebih lama."
+    },
+    {
+      "id": "kenapa-bandung-jadi-macet-1bc0698c54",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Pemerintah hanya melebarkan jalan untuk mengatasi macet Bandung. Kenapa itu belum cukup?",
+      "answer": "Pelebaran jalan sudah stuck, sementara kendaraan pribadi terus bertambah dan transportasi umum belum memadai."
+    },
+    {
+      "id": "kenapa-bandung-jadi-macet-b543d78504",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Pelebaran jalan di Bandung sudah ____, jadi tidak bisa mengimbangi pertumbuhan kendaraan.",
+      "answer": "stuck"
+    }
+  ]
+}

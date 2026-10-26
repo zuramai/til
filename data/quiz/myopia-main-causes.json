@@ -1,0 +1,61 @@
+{
+  "slug": "myopia-main-causes",
+  "title": "Myopia Main Causes",
+  "url": "/myopia-main-causes/",
+  "sourceHash": "257a7df58938730682994886f55b2b157b3c28e4683193feb52b3d429153b272",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.150Z",
+  "cards": [
+    {
+      "id": "myopia-main-causes-4022d11fc6",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What physical root cause underlies myopia?",
+      "answer": "A slightly elongated eyeball, so light focuses in front of the retina."
+    },
+    {
+      "id": "myopia-main-causes-877e220787",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Glasses, contact lenses and surgery help myopia, but they do not fix what?",
+      "options": [
+        "The prescription number",
+        "The elongated eyeball",
+        "Screen time",
+        "Genetics of the parents"
+      ],
+      "correct": 1,
+      "answer": "The underlying cause: the elongated eyeball."
+    },
+    {
+      "id": "myopia-main-causes-02d6e171c5",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "What has research found crucial for children's eye health?",
+      "answer": "Time spent outside."
+    },
+    {
+      "id": "myopia-main-causes-64523dae29",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Only 10-20% of Chinese were short sighted sixty years ago; today up to ____% of adults are.",
+      "answer": "90"
+    },
+    {
+      "id": "myopia-main-causes-c77ad614eb",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Both parents have no myopia but their kid develops it. What other cause might explain this?",
+      "answer": "Environmental factors: little outdoor time and lots of near work like reading and screens."
+    },
+    {
+      "id": "myopia-main-causes-6ab94c7a01",
+      "type": "myth_or_fact",
+      "difficulty": "hard",
+      "prompt": "Genes alone explain the myopia boom of recent decades.",
+      "correct": false,
+      "answer": "False: genes can't be the whole story; lifestyle changes matter."
+    }
+  ]
+}

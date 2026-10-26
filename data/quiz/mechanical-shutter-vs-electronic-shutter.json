@@ -1,0 +1,82 @@
+{
+  "slug": "mechanical-shutter-vs-electronic-shutter",
+  "title": "Mechanical Shutter vs Electronic Shutter",
+  "url": "/mechanical-shutter-vs-electronic-shutter/",
+  "sourceHash": "dbe7570619481c14b09b67f5324886064ae11125a451e56ef68b60cf78e31120",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.149Z",
+  "cards": [
+    {
+      "id": "mechanical-shutter-vs-electronic-shutter-137ca6b20f",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What does shutter speed determine?",
+      "answer": "How long the sensor is exposed to light."
+    },
+    {
+      "id": "mechanical-shutter-vs-electronic-shutter-2a7924b297",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: how does an electronic shutter work without moving parts?",
+      "answer": "Instead of metal curtains, the camera simply turns the sensor on and off to collect light. Nothing moves, so there is no click."
+    },
+    {
+      "id": "mechanical-shutter-vs-electronic-shutter-8f03196bc9",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "The click sound you hear from an electronic shutter is a real mechanical noise.",
+      "correct": false,
+      "answer": "It is an artificial sound played through the camera's speaker."
+    },
+    {
+      "id": "mechanical-shutter-vs-electronic-shutter-8ce68e556b",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which is an advantage of the mechanical shutter?",
+      "options": [
+        "Silent shooting",
+        "Faster burst rate",
+        "Flash works better, no rolling issues",
+        "Good for bright sun"
+      ],
+      "correct": 2,
+      "answer": "Flash works better and there are no rolling issues."
+    },
+    {
+      "id": "mechanical-shutter-vs-electronic-shutter-4859eb23b5",
+      "type": "odd_one_out",
+      "difficulty": "hard",
+      "prompt": "Which is NOT a disadvantage of the electronic shutter?",
+      "options": [
+        "Banding under LED light",
+        "Rolling shutter skew",
+        "Can't use flash",
+        "Faster burst rate"
+      ],
+      "correct": 3,
+      "answer": "Faster burst rate is an advantage; the others are disadvantages."
+    },
+    {
+      "id": "mechanical-shutter-vs-electronic-shutter-fed477be2a",
+      "type": "explain",
+      "difficulty": "hard",
+      "prompt": "Explain like I'm 10: why does an electronic shutter with 1/32000 sec exposure still warp fast-moving objects?",
+      "answer": "Exposure time is how fast light is collected, but readout speed is how long the sensor takes to read pixels row by row. If the object moves between the top row and bottom row being read, the image looks bent."
+    },
+    {
+      "id": "mechanical-shutter-vs-electronic-shutter-cb733ec028",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "On Fuji cameras, sensor readout takes roughly 1/20 to 1/____ seconds.",
+      "answer": "60"
+    },
+    {
+      "id": "mechanical-shutter-vs-electronic-shutter-e16755b9c7",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You are photographing a wedding in a quiet church under LED lights with a flash. Which shutter is better and why?",
+      "answer": "Mechanical: electronic shutter can band under LED lighting and can't use flash, although it is silent."
+    }
+  ]
+}

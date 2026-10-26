@@ -1,0 +1,74 @@
+{
+  "slug": "how-to-make-a-party-interesting",
+  "title": "How to Make a Party Interesting",
+  "url": "/how-to-make-a-party-interesting/",
+  "sourceHash": "ede495b2528870241f17122bdefc823fb4234492558b7a8c4f7ad3bac8bbcfe4",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.139Z",
+  "cards": [
+    {
+      "id": "how-to-make-a-party-interesting-634ad9b6b2",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is the Devover Meetup?",
+      "answer": "A yearly night hangout in an Airbnb with deep talks to get to know each other better."
+    },
+    {
+      "id": "how-to-make-a-party-interesting-494a4741bd",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Which activity was NOT planned for the meetup?",
+      "options": [
+        "Confession jar",
+        "Coffee counter",
+        "Karaoke",
+        "Barbecue"
+      ],
+      "correct": 2,
+      "answer": "Karaoke was deliberately cut because the group prefers non-exaggerated activities."
+    },
+    {
+      "id": "how-to-make-a-party-interesting-4237da4681",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Why does the plan have a coffee counter instead of cocktails?",
+      "options": [
+        "Cocktails were too expensive",
+        "Coffee counter replaces cocktails",
+        "Nobody likes drinks",
+        "Airbnb bans drinks"
+      ],
+      "correct": 1,
+      "answer": "The event deliberately has no cocktails; coffee is the drink option."
+    },
+    {
+      "id": "how-to-make-a-party-interesting-586066ebc2",
+      "type": "sequence",
+      "difficulty": "hard",
+      "prompt": "Order the first activities of the meetup night.",
+      "items": [
+        "Dinner",
+        "Ice breaking",
+        "Sharing session",
+        "Barbecues and chit chats",
+        "Gaming"
+      ],
+      "answer": "Starts with dinner, then ice breaking, sharing session, then barbecue."
+    },
+    {
+      "id": "how-to-make-a-party-interesting-5922c9de0b",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "What is the purpose of the ice breaking activity?",
+      "answer": "To throw random funny questions to anyone so everyone gets to know each other."
+    },
+    {
+      "id": "how-to-make-a-party-interesting-043d49e430",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Which gaming consoles are mentioned for the meetup?",
+      "answer": "PS5 and Nintendo Switch."
+    }
+  ]
+}

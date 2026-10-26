@@ -1,0 +1,48 @@
+{
+  "slug": "two-sum-cpp",
+  "title": "Two Sum C++",
+  "url": "/two-sum-cpp/",
+  "sourceHash": "bd160fe3eb77e3dd526589c582666e1df292377ff8fe99395fdca31d23b1240e",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.160Z",
+  "cards": [
+    {
+      "id": "two-sum-cpp-39434921c8",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What C++ container type is used to store key-value pairs in the Two Sum solution?",
+      "answer": "map<int,int>."
+    },
+    {
+      "id": "two-sum-cpp-89a300920a",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: how does the Two Sum solution find the pair in one pass?",
+      "answer": "For each number we store the number we'd need to make the target. If a new number matches a stored need, we found the pair.",
+      "explanation": "Store target - nums[i] as key with index i as value."
+    },
+    {
+      "id": "two-sum-cpp-eaa896742f",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "In the map, the key stored for each element is ____ minus the element value.",
+      "answer": "target"
+    },
+    {
+      "id": "two-sum-cpp-037ed9c287",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "In C++ you must handle Option or Result when looking up maps, just like in Rust.",
+      "correct": false,
+      "answer": "Myth: in C++ you don't deal with Option or Result like Rust does."
+    },
+    {
+      "id": "two-sum-cpp-a50e235fa8",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "With target 9 and nums [2,7,11], what does the map hold after the first element, and what happens at index 1?",
+      "answer": "num[7] = 0 after the first. At index 1 nums[1] is 7, which is a key, so return {1, 0}."
+    }
+  ]
+}

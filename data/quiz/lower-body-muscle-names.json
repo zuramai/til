@@ -1,0 +1,61 @@
+{
+  "slug": "lower-body-muscle-names",
+  "title": "Muscles in Gluteal Area",
+  "url": "/lower-body-muscle-names/",
+  "sourceHash": "2b54ef84c9ca182b2d39d46ec17fd36e68fe223e84b62d8fc25539ed935726eb",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.148Z",
+  "cards": [
+    {
+      "id": "lower-body-muscle-names-1c06a522f6",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Which gluteal muscle is the most superficial and gives the buttocks their shape?",
+      "answer": "Gluteus Maximus."
+    },
+    {
+      "id": "lower-body-muscle-names-1c68b87c3a",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which gluteal muscles lie deeper and mainly stabilise the pelvis while you walk or run?",
+      "options": [
+        "Gluteus Maximus only",
+        "Gluteus Medius and Gluteus Minimus",
+        "Tensor fascia lata only",
+        "Gluteus Maximus and Medius"
+      ],
+      "correct": 1,
+      "answer": "Gluteus Medius and Gluteus Minimus, the deeper layers that keep the pelvis steady during locomotion."
+    },
+    {
+      "id": "lower-body-muscle-names-f6cda79113",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "The Gluteus Maximus is mainly used when strong force is needed, such as climbing or ____.",
+      "answer": "running"
+    },
+    {
+      "id": "lower-body-muscle-names-2990926899",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You stand on one leg and your outer hip works to keep you steady while the leg can also swing outward. Which small outer-hip muscle is helping?",
+      "answer": "The tensor fascia lata, which moves the leg outward and stabilises you when standing on one knee/leg.",
+      "explanation": "It sits on the outer side of the hip."
+    },
+    {
+      "id": "lower-body-muscle-names-0b5a7377c8",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Which one is NOT one of the three superficial-layer gluteal muscles?",
+      "options": [
+        "Gluteus Maximus",
+        "Gluteus Medius",
+        "Gluteus Minimus",
+        "Tensor fascia lata"
+      ],
+      "correct": 3,
+      "answer": "Tensor fascia lata sits on the outer hip and is separate from the three gluteal layers."
+    }
+  ]
+}

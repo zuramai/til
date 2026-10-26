@@ -1,0 +1,89 @@
+{
+  "slug": "heart-rate-zone-burning-calories",
+  "title": "Heart Rate Zones & Calorie Burning",
+  "url": "/heart-rate-zone-burning-calories/",
+  "sourceHash": "e05e714e9329b57dfc2f804d0e259bee2fcafefd9ed6f3a01707fd064f493a7b",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.136Z",
+  "cards": [
+    {
+      "id": "heart-rate-zone-burning-calories-61fac07fa3",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "Which heart rate zone is called the fat-burning zone?",
+      "options": [
+        "Zone 1",
+        "Zone 2",
+        "Zone 4",
+        "Zone 5"
+      ],
+      "correct": 1,
+      "answer": "Zone 2 (60-70% of MHR), such as brisk walking."
+    },
+    {
+      "id": "heart-rate-zone-burning-calories-2547e4e717",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "A common formula for maximum heart rate is MHR = ____ - age.",
+      "answer": "220"
+    },
+    {
+      "id": "heart-rate-zone-burning-calories-4f9d258b78",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "What is the HUNT formula for MHR?",
+      "answer": "MHR = 211 - (0.64 x age)."
+    },
+    {
+      "id": "heart-rate-zone-burning-calories-a2afe9dd0f",
+      "type": "sequence",
+      "difficulty": "medium",
+      "prompt": "Order zones from lightest to hardest:",
+      "items": [
+        "Zone 1: very light, 50-60%",
+        "Zone 2: light, 60-70%",
+        "Zone 3: moderate, 70-80%",
+        "Zone 4: hard, 80-90%",
+        "Zone 5: maximum, 90%+"
+      ],
+      "answer": "Zone 1 to Zone 5 by increasing percent of MHR."
+    },
+    {
+      "id": "heart-rate-zone-burning-calories-6893b16fef",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You are 30 and want to burn fat using the 220-age formula. What heart rate range should you aim for?",
+      "answer": "MHR = 190, so Zone 2 is about 114-133 bpm (60-70%)."
+    },
+    {
+      "id": "heart-rate-zone-burning-calories-65eb1b4c93",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Which calorie source do zones 4 and 5 mainly use?",
+      "answer": "Mainly carbohydrates, with less from fat."
+    },
+    {
+      "id": "heart-rate-zone-burning-calories-608107106d",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Which activity does not fit Zone 2?",
+      "options": [
+        "Light cycling",
+        "Brisk walking",
+        "Sprint race",
+        "Light cycling at easy pace"
+      ],
+      "correct": 2,
+      "answer": "A sprint race is Zone 5; the others are light activities."
+    },
+    {
+      "id": "heart-rate-zone-burning-calories-c0f1ce060b",
+      "type": "myth_or_fact",
+      "difficulty": "hard",
+      "prompt": "You only burn calories when you are in a special heart rate zone.",
+      "correct": false,
+      "answer": "Myth: we burn calories all the time to stay warm; zones matter for weight loss goals."
+    }
+  ]
+}

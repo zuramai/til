@@ -1,0 +1,91 @@
+{
+  "slug": "gaji-grab-driver-dan-kopi-jago",
+  "title": "Gaji Grab Driver Dan Kopi Jago",
+  "url": "/gaji-grab-driver-dan-kopi-jago/",
+  "sourceHash": "2ba6fefe109873c69befb520ab13492b0fee8881fe9e034b5e6d1f3e0730880e",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.134Z",
+  "cards": [
+    {
+      "id": "gaji-grab-driver-dan-kopi-jago-dea9f6b81c",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Berapa biaya sewa motor GrabElectric per hari bagi driver dalam cerita tersebut?",
+      "answer": "Rp75 ribu per hari."
+    },
+    {
+      "id": "gaji-grab-driver-dan-kopi-jago-47adfb28ff",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Berapa laba bersih per cup yang rata-rata didapat penjual Kopi Jago, dan berapa harga kopinya?",
+      "answer": "Sekitar Rp1.600 per cup untuk kopi seharga Rp10.000 (Rp1.400 untuk Rp8.000, Rp1.800 untuk Rp12.000)."
+    },
+    {
+      "id": "gaji-grab-driver-dan-kopi-jago-fdb8153b56",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Gerobak kopi yang sering mangkal di lampu merah dan halte disebut Kopi ____.",
+      "answer": "Jago"
+    },
+    {
+      "id": "gaji-grab-driver-dan-kopi-jago-d8114e2ecc",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Mengapa driver ojol sewa tidak bisa libur sesuka hati?",
+      "options": [
+        "Aplikasi mengunci akunnya",
+        "Sewa motor tetap harus dibayar tiap hari",
+        "Dilarang oleh pemerintah",
+        "Hujan membuat order lebih sepi"
+      ],
+      "correct": 1,
+      "answer": "Sewa motor tetap Rp75 ribu per hari, jadi libur membuatnya rugi."
+    },
+    {
+      "id": "gaji-grab-driver-dan-kopi-jago-c300721410",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Seorang driver sewa motor mendapat Rp450 ribu sehari, memberi istri Rp100 ribu, anak Rp100 ribu, dan membayar sewa. Berapa sisa tabungannya per hari?",
+      "answer": "Sekitar Rp175 ribu: 450 - 100 - 100 - 75 = 175 (jadi lebih dari Rp100 ribu).",
+      "explanation": "Cerita menyebut tabungan 'lebih dari 100 ribu sehari'."
+    },
+    {
+      "id": "gaji-grab-driver-dan-kopi-jago-613b67cf8f",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Penjual Kopi Jago membawa 120 cup dengan laba rata-rata Rp1.600 lalu mengambil 100 cup lagi. Berapa laba kotor totalnya per hari?",
+      "answer": "Rp192 ribu + Rp160 ribu = Rp352 ribu sehari.",
+      "explanation": "Itu bisa menjadi sekitar Rp13 juta per bulan."
+    },
+    {
+      "id": "gaji-grab-driver-dan-kopi-jago-3b12a7769e",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Penghasilan penjual Kopi Jago selalu kecil, sekitar Rp100-200 ribu per hari.",
+      "correct": false,
+      "answer": "Mitos: bisa sampai sekitar Rp13 juta sebulan bila rajin."
+    },
+    {
+      "id": "gaji-grab-driver-dan-kopi-jago-91d5cdd213",
+      "type": "mcq",
+      "difficulty": "hard",
+      "prompt": "Masa paling sejahtera driver ojol terjadi kapan, menurut cerita itu?",
+      "options": [
+        "Sebelum 2020, saat Grab/Gojek bakar duit",
+        "Saat pandemi",
+        "Setelah 2024",
+        "Saat musim hujan"
+      ],
+      "correct": 0,
+      "answer": "Sebelum 2020, ketika Grab dan Gojek masih 'bakar duit'."
+    },
+    {
+      "id": "gaji-grab-driver-dan-kopi-jago-2e863338e7",
+      "type": "riddle",
+      "difficulty": "medium",
+      "prompt": "Aku bersepeda dengan gerobak merah, menjual kopi murah, tapi gajiku bisa lebih besar dari gaji pertama kantoran. Siapa aku?",
+      "answer": "Penjual Kopi Jago"
+    }
+  ]
+}

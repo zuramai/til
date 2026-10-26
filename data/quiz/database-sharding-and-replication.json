@@ -1,0 +1,87 @@
+{
+  "slug": "database-sharding-and-replication",
+  "title": "Database Sharding and Replication",
+  "url": "/database-sharding-and-replication/",
+  "sourceHash": "9081f9cdd54d604dbc5c84150c6bc56e32ad47f21711b13b7560e0a0f5673730",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.130Z",
+  "cards": [
+    {
+      "id": "database-sharding-and-replication-66a45f3e34",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is database sharding?",
+      "answer": "Writing different data to different nodes depending on the sharding key."
+    },
+    {
+      "id": "database-sharding-and-replication-822a786b7e",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is database replication?",
+      "answer": "Multiple database nodes sharing the same data."
+    },
+    {
+      "id": "database-sharding-and-replication-549f8aa3f2",
+      "type": "sequence",
+      "difficulty": "medium",
+      "prompt": "Order the usual escalation for scaling a database.",
+      "items": [
+        "Vertical scaling",
+        "Add read-replicas",
+        "Sharding"
+      ],
+      "answer": "Vertical scaling first, then read replicas, then sharding."
+    },
+    {
+      "id": "database-sharding-and-replication-32781bea57",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Why is vertical scaling not an infinite solution?",
+      "options": [
+        "It requires code changes",
+        "It has a ceiling and cost grows",
+        "It breaks replication",
+        "It only helps writes"
+      ],
+      "correct": 1,
+      "answer": "There's a ceiling and stronger machines get more expensive."
+    },
+    {
+      "id": "database-sharding-and-replication-b48bc39861",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Read-replicas help scale write throughput.",
+      "correct": false,
+      "answer": "Myth: replicas only scale reads."
+    },
+    {
+      "id": "database-sharding-and-replication-bd6d632a99",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "With sharding function user_id % 4, which shard does user ID 5 write to?",
+      "answer": "Shard 1, because 5 mod 4 is 1."
+    },
+    {
+      "id": "database-sharding-and-replication-0a49075e40",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Your app has a huge data volume exceeding one machine's storage. Replication or sharding?",
+      "answer": "Sharding, because it splits data across multiple storage nodes."
+    },
+    {
+      "id": "database-sharding-and-replication-969e625be8",
+      "type": "scenario",
+      "difficulty": "medium",
+      "prompt": "Your app is read-heavy and needs high availability. What do you add?",
+      "answer": "Read replicas, since replication gives high availability and read capacity."
+    },
+    {
+      "id": "database-sharding-and-replication-b310cd02af",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "With sharding by user_id % 4, user ID 4 writes into shard ____.",
+      "answer": "0"
+    }
+  ]
+}

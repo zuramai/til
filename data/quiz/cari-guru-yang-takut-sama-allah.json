@@ -1,0 +1,82 @@
+{
+  "slug": "cari-guru-yang-takut-sama-allah",
+  "title": "Cari Guru Yang Takut Sama Allah",
+  "url": "/cari-guru-yang-takut-sama-allah/",
+  "sourceHash": "def18482e5a824902d7c2b52de47914d7a3c1437a083886d0a44d87734897a22",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.128Z",
+  "cards": [
+    {
+      "id": "cari-guru-yang-takut-sama-allah-cc458e8ef9",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Apa tanda guru yang harus kita ikuti?",
+      "answer": "Guru yang takut kepada Allah."
+    },
+    {
+      "id": "cari-guru-yang-takut-sama-allah-7b6d66c8bb",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Mana ciri guru yang gila dunia?",
+      "options": [
+        "Menjenguk murid yang sakit",
+        "Mengajar dengan ikhlas",
+        "Berlomba memiliki murid dan majelis besar",
+        "Menolak ikut pejabat"
+      ],
+      "correct": 2,
+      "answer": "Berlomba punya majelis besar dan tidak peduli murid, misalnya tidak menjenguk murid miskin yang sakit."
+    },
+    {
+      "id": "cari-guru-yang-takut-sama-allah-4219a572cf",
+      "type": "odd_one_out",
+      "difficulty": "hard",
+      "prompt": "Mana yang BUKAN ciri guru yang cinta dunia?",
+      "options": [
+        "Mengikuti pejabat",
+        "Mengajar dengan materialistis",
+        "Menjenguk murid tak mampu yang sakit",
+        "Gila harta dunia"
+      ],
+      "correct": 2,
+      "answer": "Peduli pada murid yang tidak membayar saat sakit adalah ciri baik, bukan ciri guru materialistis."
+    },
+    {
+      "id": "cari-guru-yang-takut-sama-allah-ed7e034371",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Carilah sesuatu yang tidak akan berpisah denganmu, yaitu amal ____ (amal baik).",
+      "answer": "khair"
+    },
+    {
+      "id": "cari-guru-yang-takut-sama-allah-b35d61de7b",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Azan itu sunnah sementara pengajian itu wajib, sehingga pengajian boleh dilanjutkan saat azan.",
+      "correct": true,
+      "answer": "Fakta: itu bukan berarti tak menghormati azan, selama yang dipelajari bermanfaat."
+    },
+    {
+      "id": "cari-guru-yang-takut-sama-allah-4acbf640d3",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Jelaskan seperti ke anak 10 tahun: mengapa hadiah murid kepada guru dibalas lebih besar oleh guru?",
+      "answer": "Hadiah guru kepada murid lebih besar dan baru diterima di akhirat saat amal ditimbang, berapa pun hadiah murid."
+    },
+    {
+      "id": "cari-guru-yang-takut-sama-allah-322c034479",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Seorang ustaz sering diundang pejabat, selalu menurut pejabat, dan mengajar demi harta. Bagaimana menilainya sebagai calon guru?",
+      "answer": "Itu tanda guru yang gila dunia, bukan yang takut kepada Allah, jadi lebih baik cari guru lain."
+    },
+    {
+      "id": "cari-guru-yang-takut-sama-allah-ffb803e398",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Apa nasib tubuh yang dipakai bermaksiat sebelum masuk surga?",
+      "answer": "Tubuh itu dibakar dulu di neraka jahannam sebelum masuk surga."
+    }
+  ]
+}

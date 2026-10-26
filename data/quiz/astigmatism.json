@@ -1,0 +1,83 @@
+{
+  "slug": "astigmatism",
+  "title": "Astigmatisme",
+  "url": "/astigmatism/",
+  "sourceHash": "fb76eef8aae206aa1baca8ff2d135c0c0b6e606969540c481e4ecf43be885ee3",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.121Z",
+  "cards": [
+    {
+      "id": "astigmatism-739f32022e",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Apa itu astigmatisme (mata silinder)?",
+      "answer": "Kelainan pada kelengkungan kornea atau lensa mata yang membuat pandangan kabur, baik dekat maupun jauh."
+    },
+    {
+      "id": "astigmatism-011033668b",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "Bagian mata mana yang kelengkungannya bermasalah pada astigmatisme?",
+      "options": [
+        "Retina dan saraf optik",
+        "Kornea atau lensa",
+        "Pupil dan iris",
+        "Kelopak mata"
+      ],
+      "correct": 1,
+      "answer": "Kornea atau lensa mata yang lengkungannya tidak normal."
+    },
+    {
+      "id": "astigmatism-e820a8ca69",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "Pada astigmatisme, garis lurus bisa terlihat ____.",
+      "answer": "miring",
+      "explanation": "Benda juga terasa berubah bentuk."
+    },
+    {
+      "id": "astigmatism-dd70d99f95",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Kenapa penderita astigmatisme sulit melihat lampu mobil di malam hari?",
+      "options": [
+        "Lampu tampak melesat, blur, dan berhalo",
+        "Lampu tampak menjadi warna hitam putih",
+        "Lampu tampak lebih kecil dari aslinya",
+        "Mata menjadi buta warna"
+      ],
+      "correct": 0,
+      "answer": "Lampu tampak melesat, blurry, dan dikelilingi halo."
+    },
+    {
+      "id": "astigmatism-a4f230cfb5",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Mana yang BUKAN disebut sebagai penyebab astigmatisme?",
+      "options": [
+        "Bawaan lahir",
+        "Cedera mata",
+        "Infeksi mata",
+        "Terlalu banyak minum air putih"
+      ],
+      "correct": 3,
+      "answer": "Penyebabnya bisa bawaan lahir, rabun yang parah, cedera, atau infeksi."
+    },
+    {
+      "id": "astigmatism-eeee452141",
+      "type": "myth_or_fact",
+      "difficulty": "hard",
+      "prompt": "Astigmatisme hanya membuat pandangan jauh yang kabur, pandangan dekat tetap jelas.",
+      "correct": false,
+      "answer": "Astigmatisme mengaburkan pandangan baik dekat maupun jauh."
+    },
+    {
+      "id": "astigmatism-34c259ab7e",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Seseorang mengeluh garis lurus di layar tampak miring, pandangan samar, dan lampu malam berhalo. Dugaan kelainan matanya apa?",
+      "answer": "Astigmatisme, kelainan kelengkungan kornea atau lensa; sebaiknya diperiksakan ke dokter mata."
+    }
+  ]
+}

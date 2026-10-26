@@ -1,0 +1,68 @@
+{
+  "slug": "how-people-in-the-past-learn-languages",
+  "title": "How People in the Past Learn Multiple Languages?",
+  "url": "/how-people-in-the-past-learn-languages/",
+  "sourceHash": "9bf845c87faebb58996845087eadec9f86cd663529a4af588c88651600047cbd",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.138Z",
+  "cards": [
+    {
+      "id": "how-people-in-the-past-learn-languages-9900eef933",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "How did people in the past mainly acquire new languages?",
+      "answer": "Through immersion: living, trading, or marrying into a community."
+    },
+    {
+      "id": "how-people-in-the-past-learn-languages-84bc6bd758",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "How did they memorize vocabulary?",
+      "options": [
+        "Rote memorization",
+        "Google Translate",
+        "Apps",
+        "Audio courses"
+      ],
+      "correct": 0,
+      "answer": "Rote memorization."
+    },
+    {
+      "id": "how-people-in-the-past-learn-languages-bfa494aa8b",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "What learning material helped them, laid out in columns?",
+      "answer": "Texts written in both languages side by side."
+    },
+    {
+      "id": "how-people-in-the-past-learn-languages-28dd9e7a5e",
+      "type": "odd_one_out",
+      "difficulty": "hard",
+      "prompt": "Who was NOT typically bilingual in antiquity?",
+      "options": [
+        "Scholar",
+        "Merchant",
+        "Traveler",
+        "Typical stay-at-home farmer"
+      ],
+      "correct": 3,
+      "answer": "Only scholars, merchants, and travelers; not most farmers."
+    },
+    {
+      "id": "how-people-in-the-past-learn-languages-a212ddbf14",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "We know exactly how much conversation practice ancient learners did.",
+      "correct": false,
+      "answer": "Myth: we don't know."
+    },
+    {
+      "id": "how-people-in-the-past-learn-languages-4f58fb4032",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You want to copy ancient methods to learn a language. What 3 things do you do?",
+      "answer": "Immerse yourself (live, trade, or befriend speakers), memorize vocabulary by rote, and use side-by-side bilingual texts."
+    }
+  ]
+}

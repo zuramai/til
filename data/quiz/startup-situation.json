@@ -1,0 +1,47 @@
+{
+  "slug": "startup-situation",
+  "title": "Startup Situation",
+  "url": "/startup-situation/",
+  "sourceHash": "15d1a4533d0f335d7266b355ac064b153d7b6a9a0b179cf4b31b6b8919897709",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.157Z",
+  "cards": [
+    {
+      "id": "startup-situation-b2ef2f7784",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Why did Gojek and Bukalapak shift from a focused domain to a superapp?",
+      "options": [
+        "Market-driven business with fewer investors",
+        "Government regulation",
+        "Cheaper servers",
+        "A merger between them"
+      ],
+      "correct": 0,
+      "answer": "Business in Indonesia is market driven, and fewer investors want to invest in Indonesia or SEA."
+    },
+    {
+      "id": "startup-situation-7ac5725bb2",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Which startup scandal is named as a reason investors avoid Indonesian startups?",
+      "answer": "eFishery."
+    },
+    {
+      "id": "startup-situation-304445b325",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "The Indonesian startup scene is booming, with growth rising and many salary increases.",
+      "correct": false,
+      "answer": "Myth: many layoffs, declining growth, and pay cuts have happened."
+    },
+    {
+      "id": "startup-situation-a558346fa6",
+      "type": "cloze",
+      "difficulty": "hard",
+      "prompt": "Investors have ____ ways to exit their investment, including IPO.",
+      "answer": "four"
+    }
+  ]
+}

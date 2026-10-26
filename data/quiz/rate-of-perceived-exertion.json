@@ -1,0 +1,46 @@
+{
+  "slug": "rate-of-perceived-exertion",
+  "title": "Rate of Perceived Exertion",
+  "url": "/rate-of-perceived-exertion/",
+  "sourceHash": "bd468275fa3858f41d125e960d03e16fa7adba0f80e8b6802e01ed96077298fd",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.154Z",
+  "cards": [
+    {
+      "id": "rate-of-perceived-exertion-87146555cf",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What does RPE measure?",
+      "answer": "How hard your body is working during a workout, as you perceive it."
+    },
+    {
+      "id": "rate-of-perceived-exertion-e2d128b9a9",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "What scale does RPE use?",
+      "options": [
+        "1 to 10",
+        "1 to 5",
+        "0 to 100",
+        "6 to 20 only"
+      ],
+      "correct": 0,
+      "answer": "A scale from 1 to 10."
+    },
+    {
+      "id": "rate-of-perceived-exertion-d37fdd9ef0",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You want to confirm during a workout that you stay in your sweet spot of effort. Which tool helps?",
+      "answer": "Rate of Perceived Exertion (RPE), rating effort from 1 to 10."
+    },
+    {
+      "id": "rate-of-perceived-exertion-632645d87e",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "RPE stands for Rate of ____ Exertion.",
+      "answer": "Perceived"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "myopia",
+  "title": "Myopia",
+  "url": "/myopia/",
+  "sourceHash": "79b0cface5b21da3c0af6c971e6603683725ce28af87af0053c58ddcd0ae617f",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.150Z",
+  "cards": [
+    {
+      "id": "myopia-1d157e4440",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Pada usia kapan miopi umum tumbuh?",
+      "answer": "Pada usia pertumbuhan remaja."
+    },
+    {
+      "id": "myopia-60f7ddaf48",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: kenapa melihat benda dekat terlalu lama bisa bikin mata minus?",
+      "answer": "Saat melihat dekat, otot dalam mata terus berkontraksi. Tanpa istirahat, otot lelah, jadi perlu sering melihat jauh."
+    },
+    {
+      "id": "myopia-70d38145e8",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Untuk mengistirahatkan otot mata, kita perlu sering melihat sesuatu yang ____.",
+      "answer": "jauh"
+    },
+    {
+      "id": "myopia-cb2408c8ef",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Mengapa kurang cahaya matahari berhubungan dengan miopi?",
+      "options": [
+        "Sunlight memicu dopamine di retina",
+        "Sunlight merusak lensa",
+        "Sunlight menghambat otot",
+        "Tidak berhubungan"
+      ],
+      "correct": 0,
+      "answer": "Sunlight memicu dopamine di retina yang mengatur pertumbuhan mata."
+    },
+    {
+      "id": "myopia-47f3bdc55d",
+      "type": "myth_or_fact",
+      "difficulty": "hard",
+      "prompt": "Faktor genetik pada miopi bisa dihindari dengan gaya hidup.",
+      "correct": false,
+      "answer": "Genetik tidak bisa dihindari."
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "fritz-haber",
+  "title": "Fritz Haber and Ammonia",
+  "url": "/fritz-haber/",
+  "sourceHash": "899c22b0daa5af94ad9f5c97266b4e4890c651843b13fea21879af2d9d92102a",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.134Z",
+  "cards": [
+    {
+      "id": "fritz-haber-9d64a62909",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Fritz Haber memenangkan Nobel 1918 atas penemuan apa?",
+      "answer": "Sintesis amonia dari gas nitrogen dan hidrogen."
+    },
+    {
+      "id": "fritz-haber-b96261494e",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Amonia adalah senyawa yang tersusun dari hidrogen dan ____.",
+      "answer": "nitrogen"
+    },
+    {
+      "id": "fritz-haber-85e77dc6f3",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: Why does farming the same soil year after year make plants unhealthy?",
+      "answer": "Plants need nitrogen from the soil to grow. Each harvest takes nitrogen away, so after many years the soil runs low. Without enough nitrogen, plants get weak and sick.",
+      "explanation": "Nitrogen fertilizer, made from ammonia, refills it."
+    },
+    {
+      "id": "fritz-haber-770f9706c1",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Why is ammonia described as being 'like a knife'?",
+      "options": [
+        "It is only dangerous when frozen",
+        "It can be used for good or bad depending on the user",
+        "It cuts through soil nutrients",
+        "It is sharp in crystal form"
+      ],
+      "correct": 1,
+      "answer": "It can be used for good or bad: fertilizer and cleaning on one side, explosives on the other."
+    },
+    {
+      "id": "fritz-haber-c50a26f522",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "The Haber process only caused harm because ammonia is mostly used for explosives.",
+      "correct": false,
+      "answer": "Myth: it has killed millions but also helped feed billions via fertilizer."
+    },
+    {
+      "id": "fritz-haber-0f14a91584",
+      "type": "sequence",
+      "difficulty": "medium",
+      "prompt": "Order how nitrogen reaches humans:",
+      "items": [
+        "Nitrogen is in the soil",
+        "Plants absorb nitrogen",
+        "Animals eat the plants",
+        "Humans eat plants or animals"
+      ],
+      "answer": "Soil nitrogen goes into plants, which are eaten directly by us or by animals that we then eat."
+    },
+    {
+      "id": "fritz-haber-1d7e5ab060",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A farmer's yields keep dropping on land harvested every year with no rest. Using chemistry from the Haber process, what could help and why?",
+      "answer": "Add nitrogen-based fertilizer made from ammonia, because harvests drain soil nitrogen, which plants need to stay healthy and photosynthesize."
+    },
+    {
+      "id": "fritz-haber-8c9090122a",
+      "type": "myth_or_fact",
+      "difficulty": "hard",
+      "prompt": "Ammonia-related accidents have been strong enough to create an artificial earthquake.",
+      "correct": true,
+      "answer": "Fact: one reported blast registered about 3.3 on the Richter scale."
+    }
+  ]
+}

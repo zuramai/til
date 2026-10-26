@@ -1,0 +1,68 @@
+{
+  "slug": "persian-empire",
+  "title": "Persian Empire",
+  "url": "/persian-empire/",
+  "sourceHash": "05627a02c4a305984c2e10767a681c4a1d34800d914524e28f59a128d5d09df7",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.153Z",
+  "cards": [
+    {
+      "id": "persian-empire-9bd1d5ccd4",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Which empire is meant by the largest ancient Persian empire, around 550-330 BC?",
+      "answer": "The Achaemenid Empire."
+    },
+    {
+      "id": "persian-empire-05f9487def",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Who founded the Achaemenid Empire?",
+      "answer": "Cyrus the Great."
+    },
+    {
+      "id": "persian-empire-67529c95d4",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Roughly what share of the world's population did the Achaemenid Empire rule at the time?",
+      "options": [
+        "44%",
+        "10%",
+        "25%",
+        "70%"
+      ],
+      "correct": 0,
+      "answer": "About 44% of the world population."
+    },
+    {
+      "id": "persian-empire-420825a153",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: how did Cyrus keep a huge empire together?",
+      "answer": "He let people keep their own culture and religion and was kind to those he beat, so they cooperated instead of fighting him."
+    },
+    {
+      "id": "persian-empire-b9a165339e",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "Cyrus presented himself as a restorer of order by the local god ____, not a foreign conqueror.",
+      "answer": "Marduk"
+    },
+    {
+      "id": "persian-empire-aff4a23b4d",
+      "type": "myth_or_fact",
+      "difficulty": "hard",
+      "prompt": "Babylon fell to Cyrus only after a long, bloody siege.",
+      "correct": false,
+      "answer": "Babylon fell with minimal violence, since Cyrus built the empire on cooperation rather than terror."
+    },
+    {
+      "id": "persian-empire-3329317c82",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You conquer a new region with a different religion. Following Cyrus's approach, what do you do?",
+      "answer": "Allow people to keep their culture and religion, present yourself as restoring order, and befriend the defeated ruler to gain consent."
+    }
+  ]
+}

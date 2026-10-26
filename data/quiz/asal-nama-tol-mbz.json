@@ -1,0 +1,53 @@
+{
+  "slug": "asal-nama-tol-mbz",
+  "title": "Asal Nama Tol MBZ",
+  "url": "/asal-nama-tol-mbz/",
+  "sourceHash": "a4706cc2604f7921a2e419ed64c5fad15c845796519bd5bc894f270e16d4ee79",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:27:36.649Z",
+  "cards": [
+    {
+      "id": "asal-nama-tol-mbz-9e59b5187c",
+      "type": "riddle",
+      "difficulty": "easy",
+      "prompt": "Tiga huruf namaku diambil dari seorang putra mahkota Uni Emirat Arab, dan aku membentang di atas jalur Jakarta-Cikampek. Siapakah aku, dan siapa pemilik nama itu?",
+      "answer": "Tol MBZ, dinamai dari Sheikh Mohammed bin Zayed, putra mahkota Uni Emirat Arab."
+    },
+    {
+      "id": "asal-nama-tol-mbz-c9fb7c4500",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Mengapa tol itu dinamai MBZ?",
+      "options": [
+        "Nama kota di UAE",
+        "Penghormatan 50 tahun hubungan diplomatik Indonesia-UAE",
+        "Singkatan proyek konstruksi",
+        "Nama kontraktornya"
+      ],
+      "correct": 1,
+      "answer": "Penghormatan atas 50 tahun hubungan diplomatik UAE dan Indonesia."
+    },
+    {
+      "id": "asal-nama-tol-mbz-c86cf107a2",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Tol MBZ membentang sepanjang ____ kilometer.",
+      "answer": "36,84"
+    },
+    {
+      "id": "asal-nama-tol-mbz-32095cc84d",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Siapa presiden yang meresmikan tol itu dan pada tahun berapa?",
+      "answer": "Joko Widodo, tahun 2019."
+    },
+    {
+      "id": "asal-nama-tol-mbz-7529a04a66",
+      "type": "recall",
+      "difficulty": "hard",
+      "prompt": "Apa nama awal Tol MBZ sebelum diubah pada 2021?",
+      "answer": "Tol Jakarta-Cikampek II Elevated."
+    }
+  ]
+}

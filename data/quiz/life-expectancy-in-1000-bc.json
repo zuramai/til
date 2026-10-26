@@ -1,0 +1,61 @@
+{
+  "slug": "life-expectancy-in-1000-bc",
+  "title": "Life Expectancy in 1000 BC",
+  "url": "/life-expectancy-in-1000-bc/",
+  "sourceHash": "f24ec388fe4ccc623b9fddfa3d0b4e49699b0d5ff56c740ba3b59e2f34aead23",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.147Z",
+  "cards": [
+    {
+      "id": "life-expectancy-in-1000-bc-0be69df923",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What was the average life expectancy around 1000 BC (Bronze Age)?",
+      "answer": "About 20-30 years."
+    },
+    {
+      "id": "life-expectancy-in-1000-bc-6c0e700fc3",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Why was the average life expectancy skewed low in 1000 BC?",
+      "options": [
+        "High child mortality",
+        "Everyone died at 30 from old age",
+        "Adults were always at war",
+        "No one reached 15"
+      ],
+      "correct": 0,
+      "answer": "High child mortality from infectious diseases, poor sanitation and medical knowledge."
+    },
+    {
+      "id": "life-expectancy-in-1000-bc-924ec1ea45",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Nobody in the Bronze Age lived beyond 30 years old.",
+      "correct": false,
+      "answer": "Myth: those who survived to 15 could expect 40-50 years, and 60-70 was uncommon but possible."
+    },
+    {
+      "id": "life-expectancy-in-1000-bc-76b4d44a1f",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "If a child survived to age 15, expected life expectancy rose to ____ years.",
+      "answer": "40-50"
+    },
+    {
+      "id": "life-expectancy-in-1000-bc-c6f276cfa8",
+      "type": "explain",
+      "difficulty": "hard",
+      "prompt": "Explain like I'm 10: why can an 'average lifespan of 25' not mean most adults died at 25?",
+      "answer": "Many babies and children died young, which pulls the average down. People who grew up often lived much longer."
+    },
+    {
+      "id": "life-expectancy-in-1000-bc-8282227635",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Why would adult women's average lifespan be lower than adult men's in the Bronze Age?",
+      "answer": "Women faced high-risk events like childbirth, which significantly shortened adult women's average lifespan."
+    }
+  ]
+}

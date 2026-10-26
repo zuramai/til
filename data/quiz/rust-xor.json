@@ -1,0 +1,11 @@
+{
+  "slug": "rust-xor",
+  "title": "Rust Xor Nor",
+  "url": "/rust-xor/",
+  "sourceHash": "781e30165948ebb2fe4acdf46253f6413bdc89e61738f64f7f5e7dbb83e2196b",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.155Z",
+  "skipReason": "too-short",
+  "cards": []
+}

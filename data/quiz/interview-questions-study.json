@@ -1,0 +1,90 @@
+{
+  "slug": "interview-questions-study",
+  "title": "Interview Questions Study",
+  "url": "/interview-questions-study/",
+  "sourceHash": "87e8f3387c6c8cb34382a4007af1456694ac827f090139b0300351a1d99be1f8",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.143Z",
+  "cards": [
+    {
+      "id": "interview-questions-study-1d937e7147",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "In Rust, which two traits make sure data is safe to share or move across threads?",
+      "answer": "Send and Sync"
+    },
+    {
+      "id": "interview-questions-study-f319a1d76e",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Unlike Go, Rust has no built-in goroutine scheduler. What do you do for async work?",
+      "options": [
+        "Use the garbage collector",
+        "Pick an async runtime such as Tokio",
+        "Spawn goroutines via a crate",
+        "Rely on the OS only"
+      ],
+      "correct": 1,
+      "answer": "Choose an async runtime like Tokio, which gives zero-cost abstractions and memory control."
+    },
+    {
+      "id": "interview-questions-study-02ae412f80",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: how does Rust free memory without a garbage collector?",
+      "answer": "Every piece of data has exactly one owner. Others can borrow it or take it by moving it. When the owner goes out of scope, the data is freed automatically.",
+      "explanation": "This makes memory easy to track and avoids GC overhead."
+    },
+    {
+      "id": "interview-questions-study-4d078e1770",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "With goroutines in Go, you can share data between them without any risk of data races, even without mutexes.",
+      "correct": false,
+      "answer": "Goroutines make concurrency easy but expose you to data races unless you use mutexes; Rust enforces safety at compile time."
+    },
+    {
+      "id": "interview-questions-study-12d5b09d8d",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You add a non-breaking feature to a Protocol Buffers API used by old mobile clients. What is the safe approach?",
+      "answer": "Add a new optional field for the feature, keep the old ones, and never change an existing field's type. A separate service can also help backward compatibility."
+    },
+    {
+      "id": "interview-questions-study-6218ab7fdf",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "In the CAP framing, which pair is PostgreSQL given and which pair is ScyllaDB given?",
+      "options": [
+        "PostgreSQL CA, ScyllaDB AP",
+        "PostgreSQL AP, ScyllaDB CA",
+        "Both CP",
+        "PostgreSQL CP, ScyllaDB CA"
+      ],
+      "correct": 0,
+      "answer": "PostgreSQL is CA (strong consistency); ScyllaDB is AP (availability and partition tolerance)."
+    },
+    {
+      "id": "interview-questions-study-d586386983",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You need a database for like counts and social feeds, and another for money transactions. Which fits which: ScyllaDB or PostgreSQL?",
+      "answer": "ScyllaDB for likes, view counts and feeds, since eventual consistency will not break the experience. PostgreSQL for transactions that must show the same data immediately."
+    },
+    {
+      "id": "interview-questions-study-9a7e50694d",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "What does a hermetic build system like Bazel save you in a monorepo when only a small part of the code changes?",
+      "answer": "It avoids rebuilding the whole repo, because it analyzes the dependency graph and builds only what is affected."
+    },
+    {
+      "id": "interview-questions-study-5c7d6741ce",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "UniFFI is a ____ interface used to communicate between programming languages, e.g. Rust and mobile code.",
+      "answer": "Foreign Function Interface (FFI)"
+    }
+  ]
+}

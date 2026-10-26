@@ -1,0 +1,67 @@
+{
+  "slug": "how-to-balance-light-in-the-camera",
+  "title": "How to Balance Light in the Camera",
+  "url": "/how-to-balance-light-in-the-camera/",
+  "sourceHash": "112fbaf0eaa3f966b647671ad8f00b2ef626f81032f8c04f7e97ce899c4c97f1",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.138Z",
+  "cards": [
+    {
+      "id": "how-to-balance-light-in-the-camera-c4d23afd9d",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is exposure in photography, and which three parameters make it up?",
+      "answer": "Exposure is the amount of light hitting the camera sensor; it consists of ISO, shutter speed, and aperture."
+    },
+    {
+      "id": "how-to-balance-light-in-the-camera-2864018d55",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Aperture is how wide the lens opens; the larger the opening, the ____ light it captures.",
+      "answer": "more"
+    },
+    {
+      "id": "how-to-balance-light-in-the-camera-d182fc38a1",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "What is the trade-off of raising the ISO?",
+      "options": [
+        "Less light is captured",
+        "More noise in the image",
+        "The lens opens wider",
+        "The shutter becomes slower"
+      ],
+      "correct": 1,
+      "answer": "Higher ISO makes the camera more sensitive to light in dim scenes, but adds more noise."
+    },
+    {
+      "id": "how-to-balance-light-in-the-camera-62845dc3a1",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "What does shutter speed control?",
+      "answer": "How long the camera spends capturing the photo (how long light is let in)."
+    },
+    {
+      "id": "how-to-balance-light-in-the-camera-bd542c90d8",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You are shooting in a bright park at noon and your photo comes out washed out. Which ISO setting direction suits this well-lit scene?",
+      "answer": "Use a low ISO: it is less sensitive to light, which suits well-lit environments and gives less noise."
+    },
+    {
+      "id": "how-to-balance-light-in-the-camera-3bdbfbbd86",
+      "type": "odd_one_out",
+      "difficulty": "easy",
+      "prompt": "Which one is NOT part of the exposure settings?",
+      "options": [
+        "ISO",
+        "Shutter speed",
+        "Aperture",
+        "Tripod height"
+      ],
+      "correct": 3,
+      "answer": "Tripod height is unrelated; ISO, shutter speed, and aperture make up exposure."
+    }
+  ]
+}

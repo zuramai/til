@@ -1,0 +1,89 @@
+{
+  "slug": "why-we-have-body-odors",
+  "title": "Why We Have Body Odors",
+  "url": "/why-we-have-body-odors/",
+  "sourceHash": "f6042f60de8e8a5792603b522440b4b488fb0fffc69dbe58a54ce79478a50e62",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.165Z",
+  "cards": [
+    {
+      "id": "why-we-have-body-odors-dd97e98de1",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Which gene explains why many East Asians have less body odor?",
+      "answer": "The ABCC11 gene."
+    },
+    {
+      "id": "why-we-have-body-odors-161afbb31e",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "What do people with the ABCC11 gene not secrete through apocrine glands?",
+      "options": [
+        "Water-only sweat",
+        "Protein-rich sweat",
+        "Oil",
+        "Salt crystals"
+      ],
+      "correct": 1,
+      "answer": "They don't secrete protein-rich sweat; bacteria breaking it down causes odor."
+    },
+    {
+      "id": "why-we-have-body-odors-a3a713e3c3",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Where are apocrine sweat glands mainly found?",
+      "answer": "Armpits, groin and areolae."
+    },
+    {
+      "id": "why-we-have-body-odors-2794560163",
+      "type": "explain",
+      "difficulty": "hard",
+      "prompt": "Explain like I'm 10: how does sweat turn into body odor?",
+      "answer": "Some glands make a sweat full of protein, especially when you're stressed. Bacteria on your skin break it down, and that makes the smell."
+    },
+    {
+      "id": "why-we-have-body-odors-b71e927252",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Which food does NOT make body odor worse?",
+      "options": [
+        "Garlic",
+        "Alcohol",
+        "Spinach",
+        "Fish"
+      ],
+      "correct": 2,
+      "answer": "Spinach contains chlorophyll that can neutralize odor; the others can worsen it."
+    },
+    {
+      "id": "why-we-have-body-odors-0e2e8939ef",
+      "type": "mcq",
+      "difficulty": "hard",
+      "prompt": "Why can jengkol cause bad breath and strong body odor?",
+      "options": [
+        "High sugar",
+        "Sulfur-rich amino acid concentration",
+        "Too much water",
+        "Chlorophyll"
+      ],
+      "correct": 1,
+      "answer": "It has a high concentration of sulfur-rich amino acids, similar to garlic and onion."
+    },
+    {
+      "id": "why-we-have-body-odors-a6e7200577",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "Cutting out junk food and sugar can change your body chemistry and reduce odor.",
+      "correct": true,
+      "answer": "Fact: healthier eating improves gut health and means fewer toxins in skin and sweat."
+    },
+    {
+      "id": "why-we-have-body-odors-79b33db749",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You have an important date and want to smell less. Based on diet, what do you avoid and what do you eat or drink?",
+      "answer": "Avoid curry, cumin, garlic, onion, alcohol and fish. Prefer water, leafy greens like spinach, herbs like mint and parsley, and citrus fruits."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "slug": "how-to-make-memory-stronger",
+  "title": "How to Make Memory Stronger",
+  "url": "/how-to-make-memory-stronger/",
+  "sourceHash": "b6be51c3145806459d9098d51b8aab10b200e4ce7c82b5249489d228cc045401",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.139Z",
+  "cards": [
+    {
+      "id": "how-to-make-memory-stronger-77b7fcb9f9",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is the most important factor for memory according to the list, and why?",
+      "answer": "Sleep: it is where memory consolidation happens, moving memory from the hippocampus to the cortex."
+    },
+    {
+      "id": "how-to-make-memory-stronger-4fe6f614ba",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "During sleep, memories move from the hippocampus to the ____.",
+      "answer": "cortex"
+    },
+    {
+      "id": "how-to-make-memory-stronger-b51cf77029",
+      "type": "sequence",
+      "difficulty": "hard",
+      "prompt": "Order memory-strengthening steps starting with intake of information.",
+      "items": [
+        "Total attention focus",
+        "Summarize to force System 2",
+        "Exercise",
+        "Sleep",
+        "Spaced repetition"
+      ],
+      "answer": "Focus fully, summarize to engage System 2, exercise, sleep, then spaced repetition."
+    },
+    {
+      "id": "how-to-make-memory-stronger-b513d3d48c",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why does summarizing help you remember what you just read?",
+      "answer": "Summarizing makes your brain slow down and think hard instead of just skimming. When you put ideas in your own words, they stick better."
+    },
+    {
+      "id": "how-to-make-memory-stronger-af907ad706",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You study at night with notifications on, then stay up till 3 AM. Which two memory principles are you breaking?",
+      "answer": "Total attention focus (attention residue) and sleep for memory consolidation."
+    },
+    {
+      "id": "how-to-make-memory-stronger-cb1ca787fb",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "Spaced repetition is one of the techniques to strengthen memory.",
+      "correct": true,
+      "answer": "Fact: reviewing material at spaced intervals helps memory."
+    }
+  ]
+}

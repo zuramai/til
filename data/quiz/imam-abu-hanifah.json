@@ -1,0 +1,82 @@
+{
+  "slug": "imam-abu-hanifah",
+  "title": "Penyiksaan Imam Abu Hanifah",
+  "url": "/imam-abu-hanifah/",
+  "sourceHash": "81524933e824c612b0942a2c30b681b9cea1438a279eb6c18fd2ea8e01014330",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.142Z",
+  "cards": [
+    {
+      "id": "imam-abu-hanifah-337b8d0c2b",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Siapa nama asli Abu Hanifah dan di mana dia lahir?",
+      "answer": "Nu'man bin Tsabit, lahir di Kufah tahun 80 Hijriah."
+    },
+    {
+      "id": "imam-abu-hanifah-b215cd7d14",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "Dua pemerintahan apa yang dialami Abu Hanifah?",
+      "options": [
+        "Umayyah dan Abbasiyah",
+        "Fatimiyah dan Ayyubiyah",
+        "Utsmani dan Mamluk",
+        "Rasyidin dan Umayyah"
+      ],
+      "correct": 0,
+      "answer": "Dinasti Umayyah dan Abbasiyah."
+    },
+    {
+      "id": "imam-abu-hanifah-ca443a6b2a",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Bagaimana cara Abu Hanifah mendukung perlawanan terhadap penyelewengan tanpa ikut perang?",
+      "answer": "Dengan suara kritiknya dan hartanya."
+    },
+    {
+      "id": "imam-abu-hanifah-58dfddd93d",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Mengapa Abu Hanifah menolak hadiah 10 ribu dirham dari Al-Mansur?",
+      "answer": "Karena itu dari Baitul Mal umat, dan ia tidak berhak atasnya."
+    },
+    {
+      "id": "imam-abu-hanifah-1d456fa71b",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Jabatan apa yang terus ditawarkan dan ditolak Abu Hanifah?",
+      "answer": "Jabatan qadhi (hakim)."
+    },
+    {
+      "id": "imam-abu-hanifah-6ea4618a8d",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Hasan, panglima, bertanya apakah masih bisa bertobat setelah membunuh pemberontak. Apa jawaban Abu Hanifah?",
+      "answer": "Bisa, selama menyesali dan tidak mengulanginya."
+    },
+    {
+      "id": "imam-abu-hanifah-ce2473e53f",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Abu Hanifah menangis karena siksaan yang ia alami sendiri.",
+      "correct": false,
+      "answer": "Salah: ia tak peduli siksaannya, tapi tak sanggup melihat kesedihan ibunya."
+    },
+    {
+      "id": "imam-abu-hanifah-f584ff3df0",
+      "type": "sequence",
+      "difficulty": "hard",
+      "prompt": "Urutkan peristiwa hidup Abu Hanifah.",
+      "items": [
+        "Menolak jabatan Ibnu Hubairah",
+        "Disiksa dan kabur",
+        "Abbasiyah berkuasa",
+        "Menolak qadhi Al-Mansur",
+        "Dilarang berfatwa hingga wafat"
+      ],
+      "answer": "Umayyah menawarkan jabatan dan menyiksa, lalu Abbasiyah, Al-Mansur menawarkan qadhi, lalu dipenjara dan dilarang fatwa."
+    }
+  ]
+}

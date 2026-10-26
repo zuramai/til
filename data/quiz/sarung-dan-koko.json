@@ -1,0 +1,82 @@
+{
+  "slug": "sarung-dan-koko",
+  "title": "Sejarah Sarung Dan Koko",
+  "url": "/sarung-dan-koko/",
+  "sourceHash": "12a3351163da0c73f46c270e3562bdef4fb64944c0c10398c74e3a0a5060b1b7",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.156Z",
+  "cards": [
+    {
+      "id": "sarung-dan-koko-fcb9f98540",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "Dari mana sarung berasal?",
+      "options": [
+        "Hadramaut, Yaman",
+        "Cina",
+        "Jawa",
+        "India"
+      ],
+      "correct": 0,
+      "answer": "Hadramaut, Yaman (Timur Tengah)."
+    },
+    {
+      "id": "sarung-dan-koko-83e9b402bd",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Kapan sarung masuk ke Indonesia?",
+      "answer": "Abad ke-14, bersamaan masuknya Islam dan kultur Timur Tengah."
+    },
+    {
+      "id": "sarung-dan-koko-d6362f596e",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Baju koko berasal dari negara mana?",
+      "answer": "Cina."
+    },
+    {
+      "id": "sarung-dan-koko-d6853cb07c",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Apa nama baju koko di Cina?",
+      "answer": "Tui-khim."
+    },
+    {
+      "id": "sarung-dan-koko-1e866e731e",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "Baju itu disebut 'koko' karena sering dipakai oleh ____.",
+      "answer": "engkoh-engkoh"
+    },
+    {
+      "id": "sarung-dan-koko-133462b4ce",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "Sarung dan koko berasal asli dari Indonesia.",
+      "correct": false,
+      "answer": "Mitos: keduanya berakar dari negara lain lalu diadopsi orang Indonesia."
+    },
+    {
+      "id": "sarung-dan-koko-c3938fac58",
+      "type": "riddle",
+      "difficulty": "hard",
+      "prompt": "Aku dari Cina, pakaian turun-temurun, kini jadi busana muslim yang sederhana dan tertutup di Betawi/Jawa. Siapa aku?",
+      "answer": "Baju koko (tui-khim)."
+    },
+    {
+      "id": "sarung-dan-koko-1450d0bb9c",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Mana yang asalnya BUKAN dari Timur Tengah?",
+      "options": [
+        "Sarung",
+        "Hadramaut",
+        "Kultur Timur Tengah",
+        "Baju koko"
+      ],
+      "correct": 3,
+      "answer": "Baju koko berasal dari Cina, sementara sarung dari Yaman."
+    }
+  ]
+}

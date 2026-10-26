@@ -1,0 +1,61 @@
+{
+  "slug": "matcha-caffeine-content",
+  "title": "Matcha & Coffee Caffeine Content",
+  "url": "/matcha-caffeine-content/",
+  "sourceHash": "e1ee5d8d66352a925c1665e8bbdbb3e9a180c463ec9728c850382ee56fcd4e82",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.149Z",
+  "cards": [
+    {
+      "id": "matcha-caffeine-content-61248c561d",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "Generally, which drink has less caffeine?",
+      "options": [
+        "Matcha",
+        "Coffee",
+        "They are exactly equal",
+        "Depends only on the cup size"
+      ],
+      "correct": 0,
+      "answer": "Matcha has lower caffeine than coffee."
+    },
+    {
+      "id": "matcha-caffeine-content-1d854ca09b",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "What amino acid in matcha slows caffeine absorption?",
+      "answer": "L-theanine."
+    },
+    {
+      "id": "matcha-caffeine-content-db0647f1cb",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "Coffee tends to deliver an energy surge that is often followed by a ____ as caffeine wears off.",
+      "answer": "crash"
+    },
+    {
+      "id": "matcha-caffeine-content-bee798bcc5",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You need steady focus for a four-hour study session without a sudden slump. Matcha or coffee, and why?",
+      "answer": "Matcha, because L-theanine slows caffeine absorption and gives more sustained energy and mental clarity."
+    },
+    {
+      "id": "matcha-caffeine-content-afd4e67939",
+      "type": "scenario",
+      "difficulty": "medium",
+      "prompt": "You have 10 minutes before a meeting and need an instant jolt of energy. Which is better?",
+      "answer": "Coffee, which gives an immediate energy jolt."
+    },
+    {
+      "id": "matcha-caffeine-content-04cd1169af",
+      "type": "myth_or_fact",
+      "difficulty": "hard",
+      "prompt": "Matcha gives more sustained energy mainly because it has far more caffeine than coffee.",
+      "correct": false,
+      "answer": "False: matcha has less caffeine; the sustained effect comes from L-theanine slowing absorption."
+    }
+  ]
+}

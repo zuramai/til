@@ -1,0 +1,61 @@
+{
+  "slug": "what-fruits-classified-as-berry",
+  "title": "What Fruits Classify as a Berry",
+  "url": "/what-fruits-classified-as-berry/",
+  "sourceHash": "8279b214a38f1d4940bf32ce77304524c1351275d483caa066a5e525b332f0ca",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.162Z",
+  "cards": [
+    {
+      "id": "what-fruits-classified-as-berry-6d70b39fdc",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "Strawberries are botanically berries.",
+      "correct": false,
+      "answer": "Myth: strawberries have seeds outside, so they are not berries; bananas are."
+    },
+    {
+      "id": "what-fruits-classified-as-berry-961fbb71ed",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is the biological definition of a berry?",
+      "answer": "A fleshy fruit that develops from a single flower with one ovary, usually containing many seeds inside."
+    },
+    {
+      "id": "what-fruits-classified-as-berry-a0f4e9282e",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which of these is a true berry?",
+      "options": [
+        "Strawberry",
+        "Banana",
+        "None of them",
+        "Only blueberries"
+      ],
+      "correct": 1,
+      "answer": "Banana: seeds inside a fleshy fruit from a single flower with one ovary."
+    },
+    {
+      "id": "what-fruits-classified-as-berry-56b8019052",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Which is NOT a berry biologically?",
+      "options": [
+        "Grapes",
+        "Tomatoes",
+        "Strawberry",
+        "Currants"
+      ],
+      "correct": 2,
+      "answer": "Strawberry has its seeds on the outside."
+    },
+    {
+      "id": "what-fruits-classified-as-berry-0f2da54903",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A friend says berries are defined by being small, sweet and red. How do you correct them?",
+      "answer": "Botanists define berries by structure: fleshy fruit from one flower with one ovary, seeds inside. So tomatoes and bananas count, strawberries don't."
+    }
+  ]
+}

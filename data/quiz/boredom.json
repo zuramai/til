@@ -1,0 +1,96 @@
+{
+  "slug": "boredom",
+  "title": "Boredom",
+  "url": "/boredom/",
+  "sourceHash": "6b1774210d845ee0820e00aeb5eb5abb47a29895e4ffd7f7b71515e9a68246ed",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.126Z",
+  "cards": [
+    {
+      "id": "boredom-1859eb1837",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Kenapa ide kreatif sering muncul saat buang air besar?",
+      "answer": "Otak beristirahat dari distraksi sehingga menstimulasi dirinya sendiri lewat imajinasi dan problem solving."
+    },
+    {
+      "id": "boredom-851fb02e2a",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Apa yang dilakukan otak saat stimulasi eksternal kurang?",
+      "options": [
+        "Menstimulasi dari internal lewat imajinasi dan problem solving",
+        "Berhenti bekerja",
+        "Tidur",
+        "Kehilangan memori"
+      ],
+      "correct": 0,
+      "answer": "Otak menciptakan stimulasi internal."
+    },
+    {
+      "id": "boredom-6c29750724",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Peserta riset Sandy Mann dibuat bosan dengan...",
+      "options": [
+        "Menyalin nomor telepon dari buku telepon",
+        "Menonton TV",
+        "Berlari",
+        "Membaca novel"
+      ],
+      "correct": 0,
+      "answer": "Mereka menulis ulang nomor telepon selama 15 menit."
+    },
+    {
+      "id": "boredom-f24fed4789",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Bill Gates punya ritual bernama ____ Week.",
+      "answer": "Think"
+    },
+    {
+      "id": "boredom-03fd5d925f",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Apa yang Gates lakukan di Think Week?",
+      "answer": "Membaca paper jurnal dan buku sepanjang hari."
+    },
+    {
+      "id": "boredom-1e6175cd26",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Orang yang bosan cenderung lebih baik dalam tugas kreatif.",
+      "correct": true,
+      "answer": "Riset Mann menunjukkan kinerja kreatif orang bosan lebih baik."
+    },
+    {
+      "id": "boredom-30e7b712f0",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: kenapa bosan bisa membuat kita kreatif?",
+      "answer": "Saat tidak ada yang menghibur, otak mencari hiburan sendiri dengan membayangkan dan memecahkan masalah."
+    },
+    {
+      "id": "boredom-c1f6cd6126",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Kamu buntu ide dan tiap saat scroll HP. Apa saran berdasarkan konsep ini?",
+      "answer": "Disconnect dari distraksi dan beri ruang bosan; otak akan menstimulasi diri lewat imajinasi dan problem solving."
+    },
+    {
+      "id": "boredom-5921e24663",
+      "type": "mcq",
+      "difficulty": "hard",
+      "prompt": "Apa yang dimaksud \"tempat ketiga\" dalam kutipan?",
+      "options": [
+        "Tempat selain rumah dan kantor untuk berpikir tanpa gangguan",
+        "Tempat tidur",
+        "Kafe ramai",
+        "Ruang rapat"
+      ],
+      "correct": 0,
+      "answer": "Tempat selain rumah dan kantor untuk berpikir tenang."
+    }
+  ]
+}

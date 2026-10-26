@@ -1,0 +1,68 @@
+{
+  "slug": "how-to-win-friends",
+  "title": "How to Win Friends",
+  "url": "/how-to-win-friends/",
+  "sourceHash": "39051b9dd1943eaf81903d1cca3fe9ea2779ed58f48e58e7c0d2361f5bd01840",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.140Z",
+  "cards": [
+    {
+      "id": "how-to-win-friends-baf4f5bfa9",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is the halo effect?",
+      "answer": "A cognitive bias where first impressions of a person are judged by a few visible traits."
+    },
+    {
+      "id": "how-to-win-friends-21da488447",
+      "type": "scenario",
+      "difficulty": "medium",
+      "prompt": "In a job interview, the well-dressed candidate is assumed smart and capable. Which bias is this?",
+      "answer": "The halo effect."
+    },
+    {
+      "id": "how-to-win-friends-38bdcdd186",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "How do you be a good listener according to the book summary?",
+      "answer": "Give attention and ask follow-up questions instead of yes/no replies."
+    },
+    {
+      "id": "how-to-win-friends-fcfb476790",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Why call someone by their name instead of 'bro'?",
+      "options": [
+        "It sounds formal",
+        "It creates a close connection",
+        "Names are shorter",
+        "Bros dislike it"
+      ],
+      "correct": 1,
+      "answer": "Using their name creates a closer connection."
+    },
+    {
+      "id": "how-to-win-friends-5b49e20831",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "To be likable, you should win arguments to show you're right.",
+      "correct": false,
+      "answer": "Myth: don't be negative and avoid arguments."
+    },
+    {
+      "id": "how-to-win-friends-a9ef1891a8",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You meet a colleague you talked to last month. How can you use details to make them like you?",
+      "answer": "Remember small things about them and their name, ask follow-ups about their interests, and smile."
+    },
+    {
+      "id": "how-to-win-friends-8978ff913f",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "The book is titled How to Win Friends and ____ People.",
+      "answer": "Influence"
+    }
+  ]
+}

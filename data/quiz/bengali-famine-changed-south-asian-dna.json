@@ -1,0 +1,103 @@
+{
+  "slug": "bengali-famine-changed-south-asian-dna",
+  "title": "Bengal Famine Changed South Asian DNA",
+  "url": "/bengali-famine-changed-south-asian-dna/",
+  "sourceHash": "deaa6682c2810e75127f46a5523f8bf5af9b7b24a211546f11c4df20bcf46338",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.124Z",
+  "cards": [
+    {
+      "id": "bengali-famine-changed-south-asian-dna-8123f68097",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "The Bengal famine happened in the year ____.",
+      "answer": "1943"
+    },
+    {
+      "id": "bengali-famine-changed-south-asian-dna-68c27a2ad5",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "Which diseases caused massive loss of life in the famine?",
+      "options": [
+        "Malaria and cholera",
+        "Smallpox and plague",
+        "Flu and measles",
+        "Tuberculosis and polio"
+      ],
+      "correct": 0,
+      "answer": "Malaria and cholera."
+    },
+    {
+      "id": "bengali-famine-changed-south-asian-dna-0c0c5a60cc",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: how did the famine change people's bodies?",
+      "answer": "Their bodies went into survival mode and needed fewer calories. Later when food was plentiful, they stored fat easily, which raised the risk of type 2 diabetes. These changes were passed on to children."
+    },
+    {
+      "id": "bengali-famine-changed-south-asian-dna-a0055d7d91",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "At what age do South Asians develop type 2 diabetes risk compared to Europeans?",
+      "options": [
+        "25 vs 40",
+        "40 vs 25",
+        "30 vs 30",
+        "50 vs 20"
+      ],
+      "correct": 0,
+      "answer": "South Asians by age 25, Europeans by age 40."
+    },
+    {
+      "id": "bengali-famine-changed-south-asian-dna-a6c5072a58",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "The famine was purely natural and not man-made.",
+      "correct": false,
+      "answer": "It was man-made: British colonial blocked food supply to civilians, prioritizing military needs."
+    },
+    {
+      "id": "bengali-famine-changed-south-asian-dna-fe9ed16825",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Why did people who stored more fat survive better during the famine?",
+      "answer": "They had energy reserves to survive starvation."
+    },
+    {
+      "id": "bengali-famine-changed-south-asian-dna-115b2f22f9",
+      "type": "sequence",
+      "difficulty": "hard",
+      "prompt": "Order the cause-and-effect chain.",
+      "items": [
+        "British colonial blocks food supply",
+        "Mass starvation and disease",
+        "Bodies switch to survival mode",
+        "Lower calorie requirement",
+        "Genes inherited; higher diabetes risk"
+      ],
+      "answer": "Blockade led to famine, bodies adapted, and the adaptation was inherited."
+    },
+    {
+      "id": "bengali-famine-changed-south-asian-dna-d103357cd5",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A South Asian friend asks why they should check diabetes risk earlier than a European friend. Explain using the famine.",
+      "answer": "The famine altered genes toward survival mode with easy fat storage; inherited, this raises type 2 diabetes risk earlier."
+    },
+    {
+      "id": "bengali-famine-changed-south-asian-dna-f6ca6ef5ba",
+      "type": "mcq",
+      "difficulty": "hard",
+      "prompt": "What does \"enough threshold lowered\" mean for the body after famine?",
+      "options": [
+        "It needs fewer calories and stores excess as fat easily",
+        "It needs more calories",
+        "It cannot store fat",
+        "It burns fat faster"
+      ],
+      "correct": 0,
+      "answer": "The body needs less food and stores extra as fat easily."
+    }
+  ]
+}

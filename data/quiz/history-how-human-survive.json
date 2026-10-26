@@ -1,0 +1,89 @@
+{
+  "slug": "history-how-human-survive",
+  "title": "How humans survived",
+  "url": "/history-how-human-survive/",
+  "sourceHash": "a8c61857662073aab2ee4e00259f2224aefd64091db3042d0a25dedea318bcdb",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.137Z",
+  "cards": [
+    {
+      "id": "history-how-human-survive-7748501f75",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Pada zaman nenek moyang, apa tujuan utama pernikahan?",
+      "answer": "Bertahan hidup dan mempertahankan kelompok lewat reproduksi."
+    },
+    {
+      "id": "history-how-human-survive-d585505b4a",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Mengapa semakin banyak anak meningkatkan peluang kelompok bertahan hidup?",
+      "answer": "Anak bisa membantu di kebun dan sawah lebih cepat dan efisien, sehingga kelompok lebih mudah bertahan."
+    },
+    {
+      "id": "history-how-human-survive-26417e4811",
+      "type": "sequence",
+      "difficulty": "medium",
+      "prompt": "Urutkan pergeseran makna menikah/pacaran:",
+      "items": [
+        "Menikah untuk bertahan hidup",
+        "Revolusi industri ~1750an",
+        "Menikah demi kebahagiaan lewat pendekatan",
+        "Revolusi seksual abad ke-20",
+        "Pacaran untuk bersenang-senang"
+      ],
+      "answer": "Dari bertahan hidup, ke kebahagiaan dengan pendekatan, lalu pacaran jadi sekadar bersenang-senang."
+    },
+    {
+      "id": "history-how-human-survive-eba0f17568",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "Revolusi industri sekitar tahun ____an mengubah hidup manusia secara drastis.",
+      "answer": "1750"
+    },
+    {
+      "id": "history-how-human-survive-f06165b7fa",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Mengapa populasi manusia melonjak sejak revolusi industri?",
+      "options": [
+        "Orang menikah lebih muda",
+        "Obat dan vaksin menurunkan kematian",
+        "Alam makin subur",
+        "Perang berkurang drastis"
+      ],
+      "correct": 1,
+      "answer": "Obat dan vaksin meningkatkan harapan hidup dan menurunkan angka kematian."
+    },
+    {
+      "id": "history-how-human-survive-b82b0e881e",
+      "type": "recall",
+      "difficulty": "hard",
+      "prompt": "Sebutkan tiga alasan konsep pernikahan diciptakan sebagai perjanjian.",
+      "answer": "Laki-laki lebih kuat dan bisa menyakiti, perempuan yang bereproduksi kehilangan kemampuan hidup mandiri, dan seluruh risiko ditanggung perempuan."
+    },
+    {
+      "id": "history-how-human-survive-0392cb0b1c",
+      "type": "myth_or_fact",
+      "difficulty": "hard",
+      "prompt": "Larangan 'pacaran itu haram' sudah ada sejak zaman Nabi Muhammad.",
+      "correct": false,
+      "answer": "Mitos: konsep itu baru muncul belakangan karena budaya pacaran belum ada di zaman Nabi."
+    },
+    {
+      "id": "history-how-human-survive-5d63dbdcfc",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Apa dua faktor yang membuat pacaran dianggap normal pada abad ke-20?",
+      "answer": "Penayangan di TV, radio, dan majalah, serta alat kontrasepsi yang memisahkan seks dari reproduksi."
+    },
+    {
+      "id": "history-how-human-survive-56ac68b0ce",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Di negara liberal rata-rata usia menikah mencapai 30 tahun atau lebih. Apa salah satu alasannya?",
+      "answer": "Hasrat seksual bisa terpenuhi tanpa komitmen pernikahan, jadi tidak terburu-buru menikah."
+    }
+  ]
+}

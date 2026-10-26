@@ -1,0 +1,103 @@
+{
+  "slug": "CIDR",
+  "title": "CIDR",
+  "url": "/CIDR/",
+  "sourceHash": "ff7b746141138026ea812d898d7c6257e567fc76d5c17940cb3a289debd69010",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.128Z",
+  "cards": [
+    {
+      "id": "CIDR-e5fc198872",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "How many bits does an IPv4 address contain, and how are they grouped?",
+      "answer": "32 bits, in groups of 8 bits separated by periods."
+    },
+    {
+      "id": "CIDR-718125ac2a",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "How many network prefix bits does a Class B IPv4 address have?",
+      "options": [
+        "8",
+        "16",
+        "24",
+        "32"
+      ],
+      "correct": 1,
+      "answer": "16 bits; e.g. 128.16 is the network part."
+    },
+    {
+      "id": "CIDR-ec15b5b905",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "In 192.168.0.1 as a Class C address, what is the network address?",
+      "options": [
+        "192",
+        "192.168",
+        "192.168.0",
+        "192.168.0.1"
+      ],
+      "correct": 2,
+      "answer": "192.168.0 is the network address (24 bits) and 1 is the host."
+    },
+    {
+      "id": "CIDR-9ae0950b63",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "CIDR stands for ____ Inter-Domain Routing.",
+      "answer": "Classless"
+    },
+    {
+      "id": "CIDR-48523329b7",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You have 300 devices. Class C fits only about 255 hosts. What problem arises with classful addressing, and how does CIDR help?",
+      "answer": "You'd have to use a Class B address, wasting tens of thousands of IPs. CIDR lets you provision just the number of addresses needed using subnet masking."
+    },
+    {
+      "id": "CIDR-2056a0d82d",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which is a benefit of CIDR?",
+      "options": [
+        "Increases IPv4 bit length",
+        "Reduces IP address wastage",
+        "Removes the need for routers",
+        "Forces all networks into one class"
+      ],
+      "correct": 1,
+      "answer": "It reduces IP wastage, shrinks routing table entries and simplifies routing."
+    },
+    {
+      "id": "CIDR-93beac5ae7",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: what is a subnet?",
+      "answer": "A subnet is a smaller network inside a bigger one. Devices connected to the same router share it and have the same beginning of their IP address."
+    },
+    {
+      "id": "CIDR-15692576a5",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "CIDR addresses use subnet masking instead of fixed classes.",
+      "correct": true,
+      "answer": "Fact: classless addressing uses subnet masking."
+    },
+    {
+      "id": "CIDR-56f1c81962",
+      "type": "odd_one_out",
+      "difficulty": "hard",
+      "prompt": "Which is NOT an IPv4 class from the classful system?",
+      "options": [
+        "Class A",
+        "Class B",
+        "Class C",
+        "Class Z"
+      ],
+      "correct": 3,
+      "answer": "Class Z does not exist here; A, B and C have 8, 16 and 24 prefix bits."
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "slug": "rf-detr",
+  "title": "RF-DETR Model",
+  "url": "/rf-detr/",
+  "sourceHash": "e5862313c0959e8c1e3d74e9ca0d673e4ae9a69dc76245ab3cc7057f48d187c9",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.155Z",
+  "cards": [
+    {
+      "id": "rf-detr-1c7262035f",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "RF-DETR is built on top of which vision transformer backbone?",
+      "answer": "DinoV2."
+    },
+    {
+      "id": "rf-detr-8d8db251da",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "Which two dataset formats can RF-DETR be trained on?",
+      "options": [
+        "COCO and YOLO",
+        "ImageNet and MNIST",
+        "COCO and CIFAR",
+        "YOLO and LibriSpeech"
+      ],
+      "correct": 0,
+      "answer": "COCO and YOLO."
+    },
+    {
+      "id": "rf-detr-e8c4a3ea28",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Name the vision tasks RF-DETR supports.",
+      "answer": "Object detection, segmentation, and keypoint detection."
+    },
+    {
+      "id": "rf-detr-32a9ce4918",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "In a COCO-format dataset, every split folder (train, valid, test) holds its images plus a file named ____.",
+      "answer": "_annotations.coco.json"
+    },
+    {
+      "id": "rf-detr-98bc3fedc0",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Which is NOT a top-level key of a COCO annotation JSON?",
+      "options": [
+        "images",
+        "categories",
+        "annotations",
+        "weights"
+      ],
+      "correct": 3,
+      "answer": "'weights' is not a COCO key; the keys are info, licenses, images, categories, annotations."
+    },
+    {
+      "id": "rf-detr-2140e878d2",
+      "type": "recall",
+      "difficulty": "hard",
+      "prompt": "In a COCO annotation entry, which two fields link a box to its image and its class?",
+      "answer": "image_id and category_id."
+    },
+    {
+      "id": "rf-detr-58b3d641d8",
+      "type": "mcq",
+      "difficulty": "hard",
+      "prompt": "A COCO annotation has bbox [100, 150, 200, 180] and area 36000. How does area relate to bbox?",
+      "options": [
+        "100 x 150",
+        "200 x 180 = 36000",
+        "100 + 150 + 200 + 180",
+        "It is unrelated"
+      ],
+      "correct": 1,
+      "answer": "Area is width x height of the box: 200 x 180 = 36000."
+    },
+    {
+      "id": "rf-detr-d8297fbff9",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "In the COCO layout, each of train, valid and test has its own annotations JSON file.",
+      "correct": true,
+      "answer": "Fact: each split folder contains its own _annotations.coco.json."
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "slug": "kenapa-anak-kecil-suka-mainan",
+  "title": "Kenapa Anak Kecil Suka Mainan?",
+  "url": "/kenapa-anak-kecil-suka-mainan/",
+  "sourceHash": "b331f3d78acdddc35c5d94eba9bf34b1bab069513d9958bff2b54d0c4e1ceb01",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.144Z",
+  "cards": [
+    {
+      "id": "kenapa-anak-kecil-suka-mainan-874eef0f94",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Apa fungsi mainan bagi anak kecil?",
+      "answer": "Alat untuk memahami dunia: belajar sebab-akibat, interaksi sosial, dan imajinasi."
+    },
+    {
+      "id": "kenapa-anak-kecil-suka-mainan-56f5528fdb",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "Mainan apa yang dalam contoh mengajarkan empati?",
+      "options": [
+        "Bola",
+        "Boneka",
+        "Lego",
+        "Istana pasir"
+      ],
+      "correct": 1,
+      "answer": "Boneka mengajarkan empati."
+    },
+    {
+      "id": "kenapa-anak-kecil-suka-mainan-36e530ea39",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Mana pasangan mainan dan pelajaran yang SALAH?",
+      "options": [
+        "Bola - gravitasi",
+        "Boneka - empati",
+        "Lego - logika dan struktur",
+        "Bola - empati"
+      ],
+      "correct": 3,
+      "answer": "Bola mengajarkan gravitasi, bukan empati; empati dari boneka."
+    },
+    {
+      "id": "kenapa-anak-kecil-suka-mainan-54603ac08a",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "Lego mengajarkan ____ dan struktur.",
+      "answer": "logika"
+    },
+    {
+      "id": "kenapa-anak-kecil-suka-mainan-146f434798",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Jelaskan seperti ke anak 10 tahun: kenapa anak kecil perlu main dulu, bukan langsung diajari kebenaran tentang dunia?",
+      "answer": "Otak anak kecil belum matang dan pengalamannya masih sedikit. Lewat bermain, mereka pelan-pelan belajar cara dunia bekerja."
+    },
+    {
+      "id": "kenapa-anak-kecil-suka-mainan-e68fae9c3d",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Seorang ayah menganggap mainan anaknya barang tidak berguna dan mau membuangnya. Apa yang bisa kamu jelaskan?",
+      "answer": "Bagi anak, mainan adalah jendela ke dunia nyata; lewat mainan ia belajar sebab-akibat, sosial, dan imajinasi. Membuangnya berarti menghilangkan alat belajarnya."
+    },
+    {
+      "id": "kenapa-anak-kecil-suka-mainan-3fc98ef35c",
+      "type": "recall",
+      "difficulty": "hard",
+      "prompt": "Analogi apa yang dipakai untuk membandingkan anak bermain dengan orang dewasa belajar?",
+      "answer": "Seperti belajar React dengan bikin todo app, anak belajar hidup dengan bikin istana pasir."
+    }
+  ]
+}

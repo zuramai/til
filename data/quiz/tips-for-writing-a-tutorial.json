@@ -1,0 +1,33 @@
+{
+  "slug": "tips-for-writing-a-tutorial",
+  "title": "A Tip for Writing a Tutorial",
+  "url": "/tips-for-writing-a-tutorial/",
+  "sourceHash": "7a1ab00461203c83f74728b9a139528af2b105a8bbb6ce3153dc2aafd0fbda44",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.160Z",
+  "cards": [
+    {
+      "id": "tips-for-writing-a-tutorial-8c211acfad",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is a key tip for writing a tutorial?",
+      "answer": "Write for a specific person at a specific knowledge level, such as your friend or yourself three years ago."
+    },
+    {
+      "id": "tips-for-writing-a-tutorial-15e8666f40",
+      "type": "scenario",
+      "difficulty": "medium",
+      "prompt": "You're writing an advanced article on database optimization. Should you explain how GROUP BY works?",
+      "answer": "No. Your advanced readers already use it daily, so imagine the reader and skip what they know.",
+      "explanation": "Picture who benefits from your writing."
+    },
+    {
+      "id": "tips-for-writing-a-tutorial-8425ad6f14",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "A good way to pick the reader for a tutorial is to imagine ____ three years ago.",
+      "answer": "yourself"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "slug": "cap-theorem",
+  "title": "Cap Theorem",
+  "url": "/cap-theorem/",
+  "sourceHash": "c43bb29656cdab6311c9d808c9af5ea6b6a0f5fead9703eb054f11cc02e4ea2b",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.127Z",
+  "cards": [
+    {
+      "id": "cap-theorem-c33622851c",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What are the three properties of the CAP theorem?",
+      "answer": "Consistency, Availability, and Partition Tolerance."
+    },
+    {
+      "id": "cap-theorem-7ad4b48eab",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "According to the CAP theorem, how many of the three properties can a system fully choose?",
+      "options": [
+        "All three",
+        "Two of the three",
+        "Only one",
+        "None, it depends on hardware"
+      ],
+      "correct": 1,
+      "answer": "Only two of the three."
+    },
+    {
+      "id": "cap-theorem-5a6b6a5f61",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "In the CAP theorem, a ____ read returns the latest written data or an error.",
+      "answer": "consistent"
+    },
+    {
+      "id": "cap-theorem-e6c9863a42",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "In the CAP theorem, an available system must answer any request sent to a working node.",
+      "correct": true,
+      "answer": "Fact: availability means any request to an available node returns a response."
+    },
+    {
+      "id": "cap-theorem-4bf6038886",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: what is a network partition and why can it make data inconsistent?",
+      "answer": "A partition is when parts of a network can't talk to each other reliably. Then one computer might change data and the others never hear about it, so they end up with different answers."
+    },
+    {
+      "id": "cap-theorem-3cc697fb62",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "PostgreSQL is described as CA. Which property does it give up?",
+      "options": [
+        "Consistency",
+        "Availability",
+        "Partition tolerance",
+        "Durability"
+      ],
+      "correct": 2,
+      "answer": "Partition tolerance, in exchange for strong consistency."
+    },
+    {
+      "id": "cap-theorem-b386ddef93",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You pick a database that prioritizes uptime and reliability over consistency, like ScyllaDB. Which CAP combination is it and what do you risk?",
+      "answer": "It is AP: it stays available during partitions but nodes may return inconsistent data."
+    },
+    {
+      "id": "cap-theorem-450dde456b",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Which is NOT one of the CAP theorem properties?",
+      "options": [
+        "Consistency",
+        "Availability",
+        "Durability",
+        "Partition Tolerance"
+      ],
+      "correct": 2,
+      "answer": "Durability is not part of CAP; the others are."
+    }
+  ]
+}

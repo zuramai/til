@@ -1,0 +1,89 @@
+{
+  "slug": "reasons-for-gym",
+  "title": "Reasons for Gym",
+  "url": "/reasons-for-gym/",
+  "sourceHash": "83197acc32fc74bc27824ccaab885a5b8e945ca667031d1f2945f68f1fa4f9c3",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.154Z",
+  "cards": [
+    {
+      "id": "reasons-for-gym-9b6831c2cb",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is sarcopenia?",
+      "answer": "Loss of muscle mass as we age or from physical inactivity."
+    },
+    {
+      "id": "reasons-for-gym-9308cc4f66",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Sarcopenia starts around age ____ and up.",
+      "answer": "30"
+    },
+    {
+      "id": "reasons-for-gym-cec56f8444",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Regular workouts are associated with how much extra lifespan?",
+      "options": [
+        "0.4 to 6.9 years",
+        "10 to 20 years",
+        "None",
+        "1 month"
+      ],
+      "correct": 0,
+      "answer": "From 0.4 to 6.9 years."
+    },
+    {
+      "id": "reasons-for-gym-36bb38ed3e",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: how does exercise help you sleep better?",
+      "answer": "Exercise builds up adenosine, a chemical that makes you sleepy. It also improves deep sleep."
+    },
+    {
+      "id": "reasons-for-gym-feea42f371",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which protein, boosted by exercise, supports the growth of new neurons and memory?",
+      "options": [
+        "BDNF",
+        "Cortisol",
+        "Adenosine",
+        "Melatonin"
+      ],
+      "correct": 0,
+      "answer": "BDNF, which boosts neuroplasticity."
+    },
+    {
+      "id": "reasons-for-gym-0b6d637bac",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Exercise improves skin partly by increasing blood flow that delivers nutrients and oxygen.",
+      "correct": true,
+      "answer": "Yes, and it also reduces cortisol that worsens skin."
+    },
+    {
+      "id": "reasons-for-gym-554b19f0be",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A friend feels low in mood and unfocused. Which gym effects could help with mood and thinking?",
+      "answer": "Exercise raises serotonin and dopamine for mood, and blood flow brings oxygen and glucose for cognition."
+    },
+    {
+      "id": "reasons-for-gym-f93415809a",
+      "type": "odd_one_out",
+      "difficulty": "hard",
+      "prompt": "Which hormone/chemical exercise reduces rather than raises?",
+      "options": [
+        "Serotonin",
+        "Dopamine",
+        "BDNF",
+        "Cortisol"
+      ],
+      "correct": 3,
+      "answer": "Exercise reduces stress cortisol; the others are increased."
+    }
+  ]
+}

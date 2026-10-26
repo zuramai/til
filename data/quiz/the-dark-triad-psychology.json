@@ -1,0 +1,83 @@
+{
+  "slug": "the-dark-triad-psychology",
+  "title": "The Dark Triad Psychology",
+  "url": "/the-dark-triad-psychology/",
+  "sourceHash": "f70ae79bfe8d369b8d5d61818deb79023aab3267784334298018414f8fad81ab",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.159Z",
+  "cards": [
+    {
+      "id": "the-dark-triad-psychology-3571f72a93",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Name the three traits of the Dark Triad.",
+      "answer": "Narcissism, Machiavellianism, and Psychopathy."
+    },
+    {
+      "id": "the-dark-triad-psychology-17546d55e1",
+      "type": "riddle",
+      "difficulty": "easy",
+      "prompt": "I am named after the author of The Prince (1532), and I use calm, cold manipulation to gain power. Which dark trait am I?",
+      "answer": "Machiavellianism."
+    },
+    {
+      "id": "the-dark-triad-psychology-47ad5199d6",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which dark trait is considered the 'darkest', marked by lack of empathy and remorse plus high impulsivity?",
+      "options": [
+        "Narcissism",
+        "Machiavellianism",
+        "Psychopathy",
+        "Neuroticism"
+      ],
+      "correct": 2,
+      "answer": "Psychopathy."
+    },
+    {
+      "id": "the-dark-triad-psychology-a0e33728ed",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Which behavior does NOT fit a typical narcissist?",
+      "options": [
+        "Exaggerating achievements",
+        "Rage when criticized",
+        "Admiration-seeking",
+        "Calm puppet-master manipulation"
+      ],
+      "correct": 3,
+      "answer": "Staying calm and quietly manipulating people from behind the scenes is the Machiavellian style, not the narcissist's."
+    },
+    {
+      "id": "the-dark-triad-psychology-758104b0dc",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "The dark triad is linked with high agreeableness and strong conscientiousness.",
+      "correct": false,
+      "answer": "Myth: it is correlated with low agreeableness and a lack of conscientiousness."
+    },
+    {
+      "id": "the-dark-triad-psychology-5e0c1d8ed7",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Narcissists display ____, an exaggerated sense of superiority.",
+      "answer": "grandiosity"
+    },
+    {
+      "id": "the-dark-triad-psychology-5246bd5b5e",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A coworker helps you with a big favor unprompted, then later demands you repay it by covering for them. They stay cool and calculating. Which trait does this resemble?",
+      "answer": "Machiavellianism: the favor trap, offering help first and expecting repayment later.",
+      "explanation": "Machiavellians use charm and strategy, not aggression."
+    },
+    {
+      "id": "the-dark-triad-psychology-09ce399a69",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Someone acts without considering consequences, shows no empathy, and takes risks that endanger even their own safety. Which dark trait fits best?",
+      "answer": "Psychopathy: low empathy, high impulsivity and thrill-seeking, disregard for others' wellbeing and safety."
+    }
+  ]
+}

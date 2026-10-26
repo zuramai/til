@@ -1,0 +1,61 @@
+{
+  "slug": "gear-acquisition-syndrome",
+  "title": "Gear Acquisition Syndrome",
+  "url": "/gear-acquisition-syndrome/",
+  "sourceHash": "2adbff3d8710d27dd4b83f7647b2cedfe2b694247ae1f5ef1126d32a5cf8d1f2",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:27:36.651Z",
+  "cards": [
+    {
+      "id": "gear-acquisition-syndrome-fb15ba0e30",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What does GAS stand for in the context of hobbyists?",
+      "answer": "Gear Acquisition Syndrome."
+    },
+    {
+      "id": "gear-acquisition-syndrome-ec40be44ca",
+      "type": "explain",
+      "difficulty": "easy",
+      "prompt": "Explain like I'm 10: What is Gear Acquisition Syndrome?",
+      "answer": "It is when someone keeps buying new tools for their hobby because they think the tools will make them better. But practice makes you better, not shiny stuff. It can become a habit that is hard to stop."
+    },
+    {
+      "id": "gear-acquisition-syndrome-a8b1198ec5",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A beginner programmer says: 'Once I get a $3000 laptop, I'll finally be good at coding.' What's going on?",
+      "answer": "This is Gear Acquisition Syndrome: the false belief that expensive equipment will improve skills, when practice is what matters."
+    },
+    {
+      "id": "gear-acquisition-syndrome-96f5fa8475",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "Buying more expensive gear reliably improves your skill or creativity.",
+      "correct": false,
+      "answer": "Myth: GAS is the false belief that it will."
+    },
+    {
+      "id": "gear-acquisition-syndrome-9798979fa6",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Which is NOT an example of GAS?",
+      "options": [
+        "Buying the priciest paintbrushes as a new painter",
+        "Buying a $3000 laptop to become good at coding",
+        "Buying a costly guitar hoping to play better",
+        "Practicing daily on a basic guitar"
+      ],
+      "correct": 3,
+      "answer": "Practicing a basic guitar daily is just skill building; the others are buying expensive gear in hope of getting better."
+    },
+    {
+      "id": "gear-acquisition-syndrome-b2a92be8dc",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "GAS often becomes ____ buying, meaning it is hard to resist and not reasonable.",
+      "answer": "compulsive"
+    }
+  ]
+}

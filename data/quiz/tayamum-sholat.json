@@ -1,0 +1,81 @@
+{
+  "slug": "tayamum-sholat",
+  "title": "Tayamum Sholat",
+  "url": "/tayamum-sholat/",
+  "sourceHash": "43a95b2ae84a088ecfc4ad3cdb3ab7bca171eb259d295460fe522ae981a0fa2e",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.158Z",
+  "cards": [
+    {
+      "id": "tayamum-sholat-16fb86158f",
+      "type": "sequence",
+      "difficulty": "medium",
+      "prompt": "Urutkan tata cara tayamum.",
+      "items": [
+        "Tepukkan telapak tangan ke tanah",
+        "Usapkan ke wajah",
+        "Tepukkan lagi",
+        "Usapkan ke tangan dan lengan sampai siku"
+      ],
+      "answer": "Tepuk tanah, usap wajah, tepuk lagi, usap tangan sampai siku."
+    },
+    {
+      "id": "tayamum-sholat-ce85b2c70b",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "Saat tayamum, wajah harus diusap merata seperti wudhu.",
+      "correct": false,
+      "answer": "Mitos: tidak perlu merata seperti wudhu."
+    },
+    {
+      "id": "tayamum-sholat-902549e1d7",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Sebutkan tiga hal yang membatalkan tayamum.",
+      "answer": "Hal yang membatalkan wudhu, ada air sebelum sholat padahal sudah tayamum, dan murtad."
+    },
+    {
+      "id": "tayamum-sholat-12359953c8",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Sebutkan hal yang membatalkan wudhu.",
+      "answer": "Keluar sesuatu dari kemaluan depan/belakang, menyentuh yang bukan muhrim, hilang kesadaran, menyentuh kemaluan dengan telapak tangan."
+    },
+    {
+      "id": "tayamum-sholat-e86e55088a",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Uzur sholat ada dua: lupa dan ____.",
+      "answer": "tidur"
+    },
+    {
+      "id": "tayamum-sholat-711370dc0f",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Seseorang sakit parah dan tak bisa wudhu atau tayamum. Apakah ia boleh tidak sholat?",
+      "answer": "Tidak; sholat tetap harus dilakukan meski tak bisa wudhu atau tayamum."
+    },
+    {
+      "id": "tayamum-sholat-97516db1f2",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Kamu baru ingat punya sholat yang ditinggalkan dan ingin sholat sunnah dulu. Bagaimana?",
+      "answer": "Jangan sholat sunnah dulu; qodho sholat yang tertinggal, sebaiknya langsung saat ingat."
+    },
+    {
+      "id": "tayamum-sholat-390837fe46",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Sudah tayamum, belum sholat, ternyata ada air. Bagaimana tayamumnya?",
+      "options": [
+        "Tetap sah",
+        "Batal",
+        "Perlu diulang dua kali",
+        "Tidak berpengaruh"
+      ],
+      "correct": 1,
+      "answer": "Batal."
+    }
+  ]
+}

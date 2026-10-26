@@ -1,0 +1,83 @@
+{
+  "slug": "why-us-houses-have-no-fence-but-jakarta-houses-do",
+  "title": "Why US Houses Have No Fence but Indonesian Houses Have",
+  "url": "/why-us-houses-have-no-fence-but-jakarta-houses-do/",
+  "sourceHash": "9ce499e9f91d8bafcd99589b1db3c16d26a89eac915d7a5302b2825ac14c9365",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.165Z",
+  "cards": [
+    {
+      "id": "why-us-houses-have-no-fence-but-jakarta-houses-do-488065622d",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Roughly what population density does Jakarta have?",
+      "answer": "Around 16k people per square km."
+    },
+    {
+      "id": "why-us-houses-have-no-fence-but-jakarta-houses-do-0b70b3df00",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "In the US, why is a fence-less front yard still not a public place?",
+      "options": [
+        "It's legally owned by the city",
+        "Being accessible to pedestrians doesn't make it public",
+        "Fences are banned",
+        "Neighbors own it jointly"
+      ],
+      "correct": 1,
+      "answer": "Accessible doesn't equal public; the back yard is the more private space, used for gatherings."
+    },
+    {
+      "id": "why-us-houses-have-no-fence-but-jakarta-houses-do-a1a5f8df55",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "In the US, open yards can improve security because neighbors can watch the house from afar.",
+      "correct": true,
+      "answer": "Fact: intruders find it hard to enter or escape unnoticed."
+    },
+    {
+      "id": "why-us-houses-have-no-fence-but-jakarta-houses-do-18f164ab8c",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "How do US houses with high walls or fences tend to be seen, and what do they use for security instead?",
+      "answer": "They're judged as unfriendly; they use video doorbells and alarm systems.",
+      "explanation": "No-fence signals transparency and open-mindedness."
+    },
+    {
+      "id": "why-us-houses-have-no-fence-but-jakarta-houses-do-087912ce74",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "In Jakarta, the richer a person is, the ____ the wall or fence tends to be.",
+      "answer": "higher"
+    },
+    {
+      "id": "why-us-houses-have-no-fence-but-jakarta-houses-do-66406815dd",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Which does NOT describe a typical Jakarta house situation?",
+      "options": [
+        "Very dense neighborhood",
+        "Narrow street in front",
+        "Large front and back yard for gatherings",
+        "Average house fits only one or two motorcycles"
+      ],
+      "correct": 2,
+      "answer": "Jakarta has no space for front or back yards; the others are described."
+    },
+    {
+      "id": "why-us-houses-have-no-fence-but-jakarta-houses-do-b295a9b89a",
+      "type": "explain",
+      "difficulty": "hard",
+      "prompt": "Explain like I'm 10: why do Jakarta homes need fences while many US suburbs don't?",
+      "answer": "In Jakarta houses are packed close and streets are narrow, so robbers can easily steal from houses with short fences. In US suburbs neighbors can see across open yards, and people also see open yards as friendly."
+    },
+    {
+      "id": "why-us-houses-have-no-fence-but-jakarta-houses-do-02af410a00",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "An American visitor thinks Jakartans' tall fences mean they're unfriendly. How would you respond?",
+      "answer": "Fences there are mostly about security in a dense city with narrow streets, where robbery is easy, not about being unfriendly; different places have different concerns."
+    }
+  ]
+}

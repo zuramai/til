@@ -1,0 +1,81 @@
+{
+  "slug": "rag-llamaindex",
+  "title": "RAG Llamaindex",
+  "url": "/rag-llamaindex/",
+  "sourceHash": "32ae6fafcfbe2a4ff209ec9dd8e49b64b3c774c0c3a1b7063368b5479e5695e3",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.154Z",
+  "cards": [
+    {
+      "id": "rag-llamaindex-04d375b866",
+      "type": "sequence",
+      "difficulty": "easy",
+      "prompt": "Order the five steps of building RAG with LlamaIndex.",
+      "items": [
+        "Data Loading",
+        "Indexing",
+        "Storing",
+        "Query",
+        "Evaluation"
+      ],
+      "answer": "Load, index, store, query, then evaluate."
+    },
+    {
+      "id": "rag-llamaindex-ebaff275cf",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which library is stronger at data ingestion and indexing, and which is more versatile at chaining logic?",
+      "options": [
+        "LlamaIndex ingestion, LangChain chains",
+        "LangChain ingestion, LlamaIndex chains",
+        "Both identical",
+        "Neither does RAG"
+      ],
+      "correct": 0,
+      "answer": "LlamaIndex excels in ingestion, indexing and RAG; LangChain is more versatile with tools and chain logic."
+    },
+    {
+      "id": "rag-llamaindex-b65ed767c0",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Indexing converts data into vector ____, numerical representations of the data.",
+      "answer": "embeddings"
+    },
+    {
+      "id": "rag-llamaindex-68d7044e7a",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Which LlamaIndex call reads files from a folder into Documents?",
+      "answer": "SimpleDirectoryReader(path)."
+    },
+    {
+      "id": "rag-llamaindex-c435f0588c",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You indexed your data yesterday and do not want to re-index every run. What can you use?",
+      "answer": "StorageContext(vector_store), so the stored index is reused."
+    },
+    {
+      "id": "rag-llamaindex-0f5d12010b",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why is the evaluation step the most critical?",
+      "answer": "It checks whether the answers are correct and reliable. Without it you would not know if your system is giving good answers."
+    },
+    {
+      "id": "rag-llamaindex-2324c747af",
+      "type": "odd_one_out",
+      "difficulty": "hard",
+      "prompt": "Which is a retriever method, rather than a data loading tool?",
+      "options": [
+        "SimpleDirectoryReader",
+        "AutoMergingRetriever",
+        "Document",
+        "StorageContext"
+      ],
+      "correct": 1,
+      "answer": "AutoMergingRetriever is a retriever used when querying."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "the-dead-economy-theory",
+  "title": "The Dead Economy Theory",
+  "url": "/the-dead-economy-theory/",
+  "sourceHash": "5653e3db0d52e7224892bf88b9b17c485b6035a9aef28e9fc7d4a5e69419d0bb",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.159Z",
+  "cards": [
+    {
+      "id": "the-dead-economy-theory-2c67064aa3",
+      "type": "sequence",
+      "difficulty": "medium",
+      "prompt": "Order the chain of events in the 'dead economy' theory.",
+      "items": [
+        "A company replaces employees with cheap AI labor",
+        "Investors are happy as cash flow looks saved",
+        "Fired workers stop spending money",
+        "Nobody is left to buy the company's products"
+      ],
+      "answer": "A company replaces workers with AI, those workers stop spending, and eventually the company finds nobody buying its products."
+    },
+    {
+      "id": "the-dead-economy-theory-07bf959bae",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why can a company hurt itself by firing all its workers and using AI?",
+      "answer": "The workers are also the customers. If they have no pay they can't buy anything, so the company ends up with no one to sell to."
+    },
+    {
+      "id": "the-dead-economy-theory-f0706d312c",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "When AI does cognitive work at a fraction of the cost of human labor, companies may fire workers, which ultimately removes their own ____.",
+      "answer": "customers"
+    },
+    {
+      "id": "the-dead-economy-theory-1937df6275",
+      "type": "myth_or_fact",
+      "difficulty": "hard",
+      "prompt": "In the dead economy theory, replacing workers with AI is a permanent win for a company's cash flow.",
+      "correct": false,
+      "answer": "Myth: it looks like savings at first, but fired workers stop spending and demand collapses."
+    }
+  ]
+}

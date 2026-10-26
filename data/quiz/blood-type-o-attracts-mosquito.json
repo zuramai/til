@@ -1,0 +1,89 @@
+{
+  "slug": "blood-type-o-attracts-mosquito",
+  "title": "Blood Type O Attracts Mosquito",
+  "url": "/blood-type-o-attracts-mosquito/",
+  "sourceHash": "5b6bd55642ccd0d177564d1429128071d7110a04281ba1dfa4d5d9caa13fe542",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.124Z",
+  "cards": [
+    {
+      "id": "blood-type-o-attracts-mosquito-419a4c2ee7",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Which blood type is more attractive to mosquitoes?",
+      "answer": "Type O."
+    },
+    {
+      "id": "blood-type-o-attracts-mosquito-0509f5b3dc",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Which substance do people with blood type O secrete that mosquitoes detect?",
+      "answer": "H antigen."
+    },
+    {
+      "id": "blood-type-o-attracts-mosquito-bfa2372cb2",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "What do mosquitoes track from human breath?",
+      "options": [
+        "CO2 plumes",
+        "Oxygen",
+        "Nitrogen",
+        "Water vapor"
+      ],
+      "correct": 0,
+      "answer": "Mosquitoes track CO2 plumes."
+    },
+    {
+      "id": "blood-type-o-attracts-mosquito-a5bdf6d951",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Which is NOT a listed mosquito attractant?",
+      "options": [
+        "Higher body temperature",
+        "Skin bacteria odor",
+        "Wearing blue",
+        "CO2 from breath"
+      ],
+      "correct": 2,
+      "answer": "Wearing blue is not listed; the others are."
+    },
+    {
+      "id": "blood-type-o-attracts-mosquito-11f9430e98",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: how do mosquitoes find you?",
+      "answer": "They smell the CO2 you breathe out, feel your body heat, and smell the stinky stuff from bacteria on your sweaty skin."
+    },
+    {
+      "id": "blood-type-o-attracts-mosquito-6e39e6aeee",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Skin bacteria that create sweat odor can attract mosquitoes.",
+      "correct": true,
+      "answer": "Bacteria producing body odor via sweat attract mosquitoes."
+    },
+    {
+      "id": "blood-type-o-attracts-mosquito-c7b7afe4f2",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Two friends, one blood type O and sweaty after a run, one A and cool; who gets more bites and why?",
+      "answer": "The type O sweaty friend: H antigen, more heat, more CO2, and sweat-based bacterial odor."
+    },
+    {
+      "id": "blood-type-o-attracts-mosquito-4b5100d9f8",
+      "type": "mcq",
+      "difficulty": "hard",
+      "prompt": "Why does higher body temperature matter?",
+      "options": [
+        "Emits more heat attracting them",
+        "Makes blood thicker",
+        "Sweat repels mosquitos",
+        "Nothing"
+      ],
+      "correct": 0,
+      "answer": "More heat emission draws mosquitoes."
+    }
+  ]
+}

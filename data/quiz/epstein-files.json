@@ -1,0 +1,40 @@
+{
+  "slug": "epstein-files",
+  "title": "Epstein Files",
+  "url": "/epstein-files/",
+  "sourceHash": "c25f214c5b0662a24a527c40d3af21346d928bfc7dd1e3c331e698af2054b82f",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.132Z",
+  "cards": [
+    {
+      "id": "epstein-files-a4a8a8ff46",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Apa itu Epstein files?",
+      "answer": "Dokumen berisi catatan aktivitas kriminal dari pelaku kejahatan seksual anak Jeffrey Epstein."
+    },
+    {
+      "id": "epstein-files-470eaca762",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Apa yang dimaksud Epstein list?",
+      "options": [
+        "Daftar korban",
+        "Daftar nama orang high-profile sebagai klien di dokumen",
+        "Daftar saksi pengadilan",
+        "Daftar aset Epstein"
+      ],
+      "correct": 1,
+      "answer": "Daftar dalam dokumen itu yang berisi nama orang high-profile sebagai klien."
+    },
+    {
+      "id": "epstein-files-f481ad2b44",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "Dokumen Epstein dirilis ke publik pada bulan Desember.",
+      "correct": true,
+      "answer": "Fakta: dirilis ke publik pada bulan Desember."
+    }
+  ]
+}

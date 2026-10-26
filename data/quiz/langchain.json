@@ -1,0 +1,60 @@
+{
+  "slug": "langchain",
+  "title": "Langchain",
+  "url": "/langchain/",
+  "sourceHash": "26d62e4c865b3a043ebef1ad16bcb0e5c394dda6cafaa79d10b907ddaa1dc661",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.147Z",
+  "cards": [
+    {
+      "id": "langchain-dc57d2b0ac",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is LangChain used for?",
+      "answer": "A library to orchestrate agents and LLM integrations."
+    },
+    {
+      "id": "langchain-4638404faf",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "An agent is a language model combined with ____ so it can decide what to use to solve a task.",
+      "answer": "tools"
+    },
+    {
+      "id": "langchain-4d4b18a6df",
+      "type": "riddle",
+      "difficulty": "medium",
+      "prompt": "I am an LLM with tools: I reason about a task, pick which tool to use, and keep iterating toward a solution. What am I?",
+      "answer": "An agent"
+    },
+    {
+      "id": "langchain-fb4449515c",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Which is NOT listed as a useful LangChain feature for chat apps?",
+      "options": [
+        "Structured output",
+        "Middleware",
+        "MCP",
+        "GPU driver installation"
+      ],
+      "correct": 3,
+      "answer": "LangChain offers memory, structured output, middleware, multi-agent and MCP, not GPU drivers."
+    },
+    {
+      "id": "langchain-7307bad105",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You want a chatbot that remembers earlier conversation and delegates to specialized helpers. Which LangChain features fit?",
+      "answer": "Short/long-term memory for remembering, and multi-agent for delegating to specialized agents."
+    },
+    {
+      "id": "langchain-5d973f243a",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: what makes an AI agent different from a plain chatbot?",
+      "answer": "An agent can use tools and choose which one to use. It keeps trying step by step until it solves the task."
+    }
+  ]
+}

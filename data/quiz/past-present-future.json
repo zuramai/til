@@ -1,0 +1,33 @@
+{
+  "slug": "past-present-future",
+  "title": "Past, Present, Future",
+  "url": "/past-present-future/",
+  "sourceHash": "bc7ba51c88765f0c872d54c1e1aba272ac7fb5d3eb20d9169ea2a8f8b3b41fb2",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.153Z",
+  "cards": [
+    {
+      "id": "past-present-future-3ecaa9da27",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: how can a happy ending change how you feel about a story's bad parts?",
+      "answer": "If everything works out at the end, the earlier hard parts feel worthwhile because they led somewhere good. The ending gives the earlier events their meaning."
+    },
+    {
+      "id": "past-present-future-703e602077",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "A story full of exciting events is satisfying even if it ends abruptly and unresolved.",
+      "correct": false,
+      "answer": "Without a resolving ending, exciting events leave you annoyed and unsatisfied."
+    },
+    {
+      "id": "past-present-future-430f400cc7",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A friend suffers many setbacks and says it was all pointless. Using the movie analogy, what perspective helps?",
+      "answer": "A good enough resolution can make all earlier events feel worthwhile, so the meaning depends on how things come together later."
+    }
+  ]
+}

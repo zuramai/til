@@ -1,0 +1,33 @@
+{
+  "slug": "multinational-company-hiring",
+  "title": "Multinational Company Hiring",
+  "url": "/multinational-company-hiring/",
+  "sourceHash": "70b5246561099fdc88d6ec73ee1bd06cdcd6da94f2c0c1e286b0408b2781688f",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.150Z",
+  "cards": [
+    {
+      "id": "multinational-company-hiring-94cea63d9d",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Large multinational companies are eager to hire many junior software engineers during the AI boom.",
+      "correct": false,
+      "answer": "They usually don't hire juniors, preferring AI subscriptions for current engineers."
+    },
+    {
+      "id": "multinational-company-hiring-c0e2c2ede2",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "What qualities may matter more than skill when a company considers a junior engineer?",
+      "answer": "Grit, curiosity and determination."
+    },
+    {
+      "id": "multinational-company-hiring-e28ed7e726",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You're a junior applying for a mid-level role. What should you highlight?",
+      "answer": "Show grit, curiosity and determination, i.e. 'hidden talent'."
+    }
+  ]
+}

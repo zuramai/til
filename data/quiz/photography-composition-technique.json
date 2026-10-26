@@ -1,0 +1,74 @@
+{
+  "slug": "photography-composition-technique",
+  "title": "Photography Composition Technique",
+  "url": "/photography-composition-technique/",
+  "sourceHash": "27918105171f804ce0d007f1917d0dda85a21d22fa0de49765866bbf5181a1fd",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.153Z",
+  "cards": [
+    {
+      "id": "photography-composition-technique-3c3e083726",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "In photography, what is centered symmetry?",
+      "answer": "Composing so the left and right sides of the frame mirror each other."
+    },
+    {
+      "id": "photography-composition-technique-30e71614ec",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "The ____ technique puts the subject across the whole frame.",
+      "answer": "Fill the frame"
+    },
+    {
+      "id": "photography-composition-technique-7cd6098b79",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Paths, walls and lines that guide the viewer's attention are called what?",
+      "options": [
+        "Leading lines",
+        "Negative space",
+        "Frame within frame",
+        "Centered symmetry"
+      ],
+      "correct": 0,
+      "answer": "Leading lines guide the viewer's eye through the photo."
+    },
+    {
+      "id": "photography-composition-technique-279fcd5e6f",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You shoot a person seen through a doorway. Which composition technique is this?",
+      "answer": "Frame within frame: the subject sits inside another frame such as a door or window."
+    },
+    {
+      "id": "photography-composition-technique-e6ff6ce17e",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "What does the foreground-midground-background technique add to a photo?",
+      "answer": "A sense of depth."
+    },
+    {
+      "id": "photography-composition-technique-b3bb8ee9c7",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Your subject blends into a busy background. Which technique makes it contrast against the background?",
+      "answer": "Leave negative space around the subject so it stands out."
+    },
+    {
+      "id": "photography-composition-technique-44da4d7c61",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Which technique is NOT about guiding the eye or adding depth?",
+      "options": [
+        "Leading lines",
+        "Foreground-midground-background",
+        "Fill the frame",
+        "Centered symmetry"
+      ],
+      "correct": 3,
+      "answer": "Centered symmetry is about mirrored balance, not guiding or depth."
+    }
+  ]
+}

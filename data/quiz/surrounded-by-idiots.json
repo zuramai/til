@@ -1,0 +1,110 @@
+{
+  "slug": "surrounded-by-idiots",
+  "title": "Surrounded by Idiots",
+  "url": "/surrounded-by-idiots/",
+  "sourceHash": "10664a26710bd47a2c4e096d5d6a036feabe1838ee171dd9071b8e36bdb20b1d",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.157Z",
+  "cards": [
+    {
+      "id": "surrounded-by-idiots-338500bbab",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Which four color types categorize people in 'Surrounded by Idiots'?",
+      "answer": "Red, Blue, Green, Yellow."
+    },
+    {
+      "id": "surrounded-by-idiots-61122a80b8",
+      "type": "riddle",
+      "difficulty": "easy",
+      "prompt": "I'm a natural leader: hard-working, ambitious, bold, blunt. Which color?",
+      "answer": "Red."
+    },
+    {
+      "id": "surrounded-by-idiots-6c063c681f",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which type is the center of attention and tends to blurt out answers?",
+      "options": [
+        "Red",
+        "Yellow",
+        "Green",
+        "Blue"
+      ],
+      "correct": 1,
+      "answer": "Yellow: friendly, fun, knows everyone."
+    },
+    {
+      "id": "surrounded-by-idiots-1874778388",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which type is the most common, supportive and a people pleaser?",
+      "options": [
+        "Green",
+        "Blue",
+        "Red",
+        "Yellow"
+      ],
+      "correct": 0,
+      "answer": "Green."
+    },
+    {
+      "id": "surrounded-by-idiots-8c8e570232",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You must meet a Blue colleague. How should you propose a time?",
+      "answer": "Be detailed and clear with facts, not guesses: say 11:30 rather than 'around 11'."
+    },
+    {
+      "id": "surrounded-by-idiots-b759e1efbd",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You need something from a Red boss. How should you behave?",
+      "answer": "Don't waste their time; adapt to their fast pace and be straightforward, not roundabout."
+    },
+    {
+      "id": "surrounded-by-idiots-ffce9920bd",
+      "type": "scenario",
+      "difficulty": "medium",
+      "prompt": "Handling a Green teammate who fears conflict. What helps?",
+      "answer": "Don't be too assertive, create safety, and give praise because they like recognition."
+    },
+    {
+      "id": "surrounded-by-idiots-10321dc9a4",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Zodiac traits are as scientifically grounded as the four color types.",
+      "correct": false,
+      "answer": "Myth: zodiac works through the Barnum effect and confirmation bias; the color types come from personality-test research."
+    },
+    {
+      "id": "surrounded-by-idiots-ce0f4e2d9d",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "What is the main factor in forming these personality traits?",
+      "answer": "Parenting style, plus the people and friends around us as we grow up."
+    },
+    {
+      "id": "surrounded-by-idiots-f4186c8ef9",
+      "type": "explain",
+      "difficulty": "hard",
+      "prompt": "Explain like I'm 10: why do horoscopes seem to describe you so well?",
+      "answer": "They use general traits that fit almost everyone (Barnum effect). Your brain then looks for proof they fit you (confirmation bias)."
+    },
+    {
+      "id": "surrounded-by-idiots-3198c03ccc",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Which trait does NOT describe Blue?",
+      "options": [
+        "Analytical",
+        "Perfectionist",
+        "Asbun",
+        "Data-driven"
+      ],
+      "correct": 2,
+      "answer": "Asbun (blurting) is Yellow; Blue is analytical, detailed, perfectionist."
+    }
+  ]
+}

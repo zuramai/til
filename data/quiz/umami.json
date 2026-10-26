@@ -1,0 +1,62 @@
+{
+  "slug": "umami",
+  "title": "Umami Flavour",
+  "url": "/umami/",
+  "sourceHash": "2aa002eebf72d8c488651d9dfa744b8239534164cbdaee4fc159876e600dfba8",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.161Z",
+  "cards": [
+    {
+      "id": "umami-57f63fa8c7",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What are the five basic tastes?",
+      "answer": "Sweet, sour, bitter, salt, and umami."
+    },
+    {
+      "id": "umami-c3a2302d1d",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "Which food is a natural source of umami?",
+      "options": [
+        "Plain sugar",
+        "Mushrooms",
+        "Lemon juice",
+        "Black coffee"
+      ],
+      "correct": 1,
+      "answer": "Mushrooms, along with seaweed and ripe tomatoes."
+    },
+    {
+      "id": "umami-170186922c",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Which chemical did the Japanese scientist isolate and name umami?",
+      "answer": "Glutamate, found in kelp broth (dashi)."
+    },
+    {
+      "id": "umami-726371d162",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Umami is addictive.",
+      "correct": false,
+      "answer": "Myth: it is not addictive, but craveable."
+    },
+    {
+      "id": "umami-0578cac647",
+      "type": "explain",
+      "difficulty": "hard",
+      "prompt": "Explain like I'm 10: why do we crave umami foods?",
+      "answer": "Umami tells our brain a food has protein. The brain gives a little reward feeling (dopamine), so we want more.",
+      "explanation": "Umami signals protein and triggers dopamine."
+    },
+    {
+      "id": "umami-a3dff53bd7",
+      "type": "riddle",
+      "difficulty": "medium",
+      "prompt": "I was discovered in kelp broth by a Japanese scientist and don't fit sweet, sour, bitter or salty. What am I?",
+      "answer": "Umami."
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "padel",
+  "title": "Padel",
+  "url": "/padel/",
+  "sourceHash": "96974255aaa6819bd74217eb5a8c01af4ff703f2cb76382e26d2dd5737fe1238",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.153Z",
+  "cards": [
+    {
+      "id": "padel-16588367b2",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "How many players are in a padel match: singles only, doubles only, or either?",
+      "answer": "Doubles only."
+    },
+    {
+      "id": "padel-368224d859",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "In padel, the serve is hit underarm at waist level or lower after the ball ____.",
+      "answer": "bounces"
+    },
+    {
+      "id": "padel-42589e3354",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "A serve that bounces and then hits the glass wall is a fault.",
+      "correct": false,
+      "answer": "Play continues if it hits glass after bouncing; hitting the mesh after bouncing is the fault."
+    },
+    {
+      "id": "padel-2921af458a",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Which is NOT a fault in padel?",
+      "options": [
+        "Ball bounces twice on your side",
+        "Ball hits the mesh directly",
+        "Hitting the ball into the net",
+        "Volleying the ball before it bounces"
+      ],
+      "correct": 3,
+      "answer": "Volleying is allowed; the others are faults."
+    },
+    {
+      "id": "padel-7bebd720aa",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "What is the usual match format and scoring in padel?",
+      "options": [
+        "Best of 3 with tennis scoring",
+        "Single set to 21",
+        "Best of 5 with 1-2-3 scoring",
+        "Timed 90 minutes"
+      ],
+      "correct": 0,
+      "answer": "Usually best of three, with tennis scoring 0, 15, 30, 40."
+    },
+    {
+      "id": "padel-de8f5019dc",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "On a serve, your friend sends the ball straight onto the glass wall without it touching the ground first. Is this legal?",
+      "answer": "No. The ball must bounce on the ground before the wall.",
+      "explanation": "Hitting the ball directly onto the opponent's wall is a fault."
+    },
+    {
+      "id": "padel-d1d71a0ac4",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Why do many people find padel easier to pick up than tennis?",
+      "answer": "It needs less physical strength and technique, and less movement and accuracy."
+    }
+  ]
+}

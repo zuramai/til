@@ -1,0 +1,89 @@
+{
+  "slug": "barnum-effect",
+  "title": "Barnum Effect",
+  "url": "/barnum-effect/",
+  "sourceHash": "1d7c2e4aa567b40cf94c4a0aa8bef715c71e25cbb789d15be7ee502cb7b47437",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.123Z",
+  "cards": [
+    {
+      "id": "barnum-effect-55029eb928",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Apa itu Barnum effect?",
+      "answer": "Fenomena ketika orang percaya deskripsi kepribadian yang sebenarnya sangat umum dianggap spesifik untuk dirinya."
+    },
+    {
+      "id": "barnum-effect-84f15d06d1",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "Contoh Barnum effect yang disebut dalam pembahasan ini adalah...",
+      "options": [
+        "Zodiak",
+        "Tes IQ",
+        "Rekam medis",
+        "Peta cuaca"
+      ],
+      "correct": 0,
+      "answer": "Zodiak, karena ciri-cirinya sangat umum dan cocok untuk siapa saja."
+    },
+    {
+      "id": "barnum-effect-706deea9fb",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "Setelah membaca ciri umum, otak kita berusaha memvalidasinya sehingga muncul ____ bias.",
+      "answer": "confirmation"
+    },
+    {
+      "id": "barnum-effect-d14a903e15",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: kenapa orang merasa ramalan zodiak cocok dengan dirinya?",
+      "answer": "Ramalan zodiak berisi sifat yang umum untuk semua orang. Saat membaca, otak kita mencari bukti bahwa sifat itu benar untuk kita, jadi kita merasa cocok padahal itu cocok untuk siapa saja."
+    },
+    {
+      "id": "barnum-effect-217118a959",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Tanggal lahir seseorang terbukti mempengaruhi sifat sesuai zodiaknya.",
+      "correct": false,
+      "answer": "Zodiak tidak punya bukti empiris; waktu lahir tidak berpengaruh pada sifat."
+    },
+    {
+      "id": "barnum-effect-7bd77bd657",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Mana yang paling cocok sebagai deskripsi Barnum?",
+      "options": [
+        "Kamu suka sambal level 7",
+        "Kamu cerdas tapi kadang tidak konsisten",
+        "Kamu lahir di Surabaya",
+        "Kamu punya tiga saudara"
+      ],
+      "correct": 1,
+      "answer": "Sifat umum seperti ini cocok untuk hampir semua orang."
+    },
+    {
+      "id": "barnum-effect-1f9c65508f",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Temanmu bilang, \"Gemini itu cerdas dan mudah berteman, persis aku!\" Bagaimana kamu menjelaskan apa yang terjadi di kepalanya?",
+      "answer": "Itu Barnum effect disertai confirmation bias: sifat tersebut umum untuk semua orang, dan otaknya mencari alasan untuk membenarkannya."
+    },
+    {
+      "id": "barnum-effect-e0a2d19f51",
+      "type": "mcq",
+      "difficulty": "hard",
+      "prompt": "Urutan mana yang menggambarkan proses confirmation bias saat membaca ramalan?",
+      "options": [
+        "Baca sifat, ragu, lalu meyakinkan diri bahwa itu benar",
+        "Baca sifat, langsung menolak",
+        "Lupakan ramalannya",
+        "Mengecek data empiris dulu"
+      ],
+      "correct": 0,
+      "answer": "Otak mulai ragu lalu mencari validasi sehingga merasa sifat itu benar."
+    }
+  ]
+}

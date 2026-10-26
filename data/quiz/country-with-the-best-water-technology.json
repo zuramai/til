@@ -1,0 +1,75 @@
+{
+  "slug": "country-with-the-best-water-technology",
+  "title": "Country With the Best Water Technology: Rome",
+  "url": "/country-with-the-best-water-technology/",
+  "sourceHash": "260c42b1a8be869cd7134c6026a5f836b9a872b5e86620aaf8be34f0db5c7dc4",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.130Z",
+  "cards": [
+    {
+      "id": "country-with-the-best-water-technology-d93ac5a0a6",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is an aqueduct?",
+      "answer": "A bridge or tunnel that transports water from the mountains to homes."
+    },
+    {
+      "id": "country-with-the-best-water-technology-32be521200",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "Every kilometre of a Roman aqueduct descends by only ____ centimeters.",
+      "answer": "50"
+    },
+    {
+      "id": "country-with-the-best-water-technology-e495aa56ee",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "What powers Roman aqueducts?",
+      "options": [
+        "Pumps",
+        "Gravity",
+        "Steam",
+        "Animals"
+      ],
+      "correct": 1,
+      "answer": "Gravity."
+    },
+    {
+      "id": "country-with-the-best-water-technology-c02da2273d",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is a nasone in Rome?",
+      "answer": "A free public drinking fountain that runs 24/7."
+    },
+    {
+      "id": "country-with-the-best-water-technology-35081676f0",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why is the Roman drinking fountain called nasone?",
+      "answer": "Nasone comes from the word nose, because its spout is shaped like a nose."
+    },
+    {
+      "id": "country-with-the-best-water-technology-ef2021a8bb",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You must move water from mountains to a city without any pump. What gentle design would the Romans use?",
+      "answer": "Build an aqueduct sloping downward about 50 cm per km so gravity moves the water."
+    },
+    {
+      "id": "country-with-the-best-water-technology-361fa00d7f",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What does the English word 'pioneered' mean?",
+      "answer": "Was the first to introduce or develop something."
+    },
+    {
+      "id": "country-with-the-best-water-technology-d761d8d1c5",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Nasone water in Rome is potable and free all day.",
+      "correct": true,
+      "answer": "Fact: it runs 24/7, potable and cool."
+    }
+  ]
+}

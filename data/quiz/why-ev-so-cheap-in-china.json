@@ -1,0 +1,53 @@
+{
+  "slug": "why-ev-so-cheap-in-china",
+  "title": "Why EV So Cheap in China",
+  "url": "/why-ev-so-cheap-in-china/",
+  "sourceHash": "0aa9cc66834bc0a558104b723675647006be515861229076ace55ae77241a61e",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.163Z",
+  "cards": [
+    {
+      "id": "why-ev-so-cheap-in-china-3eff80d176",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What basic economic principle explains cheap EVs in China?",
+      "answer": "Supply and demand."
+    },
+    {
+      "id": "why-ev-so-cheap-in-china-0597d780b8",
+      "type": "sequence",
+      "difficulty": "medium",
+      "prompt": "Order the events behind cheaper Chinese EVs.",
+      "items": [
+        "EV trend rises since 2017",
+        "Many brands and factories appear",
+        "Covid and economic worries reduce demand",
+        "Newcomers go bankrupt and unsold cars pile up",
+        "Brands cut prices"
+      ],
+      "answer": "Boom led to oversupply, then demand fell and price cuts followed."
+    },
+    {
+      "id": "why-ev-so-cheap-in-china-0cfb48ad5a",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "What triggered demand to decline?",
+      "options": [
+        "Covid and economic worries",
+        "Free charging",
+        "Tax cuts",
+        "Fuel price drop"
+      ],
+      "correct": 0,
+      "answer": "People saved money amid economic and political uncertainty."
+    },
+    {
+      "id": "why-ev-so-cheap-in-china-0602a2e4bb",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A company can't sell stock because buyers hold cash. What does it do per this logic?",
+      "answer": "Lowers prices to get cars selling amid tight competition."
+    }
+  ]
+}

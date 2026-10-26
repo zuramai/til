@@ -1,0 +1,75 @@
+{
+  "slug": "how-cdn-works",
+  "title": "How CDN Works",
+  "url": "/how-cdn-works/",
+  "sourceHash": "e451bb557b68847df3de4968ab261c91990215531c0b58933f89003a2621088f",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.137Z",
+  "cards": [
+    {
+      "id": "how-cdn-works-ecc942edf3",
+      "type": "explain",
+      "difficulty": "easy",
+      "prompt": "Explain like I'm 10: What does a CDN do?",
+      "answer": "It is a bunch of computers around the world keeping copies of website stuff. You get it from the one nearest you, so it loads faster."
+    },
+    {
+      "id": "how-cdn-works-987d180e3b",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Name three benefits of a CDN.",
+      "answer": "Faster load time, increased security (DDoS protection), and increased availability."
+    },
+    {
+      "id": "how-cdn-works-2f8f8a7643",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Cloudflare keeps unpopular assets where, and popular ones where?",
+      "options": [
+        "Unpopular in SSD, popular in RAM",
+        "Unpopular in RAM, popular on SSD",
+        "Both on HDD",
+        "Both in RAM"
+      ],
+      "correct": 1,
+      "answer": "Unpopular in RAM, popular on SSD."
+    },
+    {
+      "id": "how-cdn-works-22c85de527",
+      "type": "mcq",
+      "difficulty": "hard",
+      "prompt": "Why doesn't Cloudflare put popular content in RAM even though RAM is faster?",
+      "options": [
+        "RAM is too expensive",
+        "SSD is bad for writes, so write-heavy unpopular assets go to RAM",
+        "RAM can't store images",
+        "SSD is faster than RAM"
+      ],
+      "correct": 1,
+      "answer": "Unpopular assets are write-heavy, and SSDs wear out and slow with writes; popular assets stay on SSD for reads."
+    },
+    {
+      "id": "how-cdn-works-62b1dad607",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Cloudflare caches an asset the first time it is requested.",
+      "correct": false,
+      "answer": "Myth: it waits until the asset has been seen multiple times."
+    },
+    {
+      "id": "how-cdn-works-fad167457a",
+      "type": "recall",
+      "difficulty": "hard",
+      "prompt": "Name two methods to count how often an asset appeared.",
+      "answer": "Hash tables, count-min sketch, or bloom filter."
+    },
+    {
+      "id": "how-cdn-works-a7f21c324c",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A CDN server in Europe crashes. What keeps users' content available?",
+      "answer": "Content is replicated to many servers globally, so others back it up."
+    }
+  ]
+}

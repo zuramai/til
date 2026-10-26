@@ -1,0 +1,75 @@
+{
+  "slug": "microexpression",
+  "title": "Microexpression",
+  "url": "/microexpression/",
+  "sourceHash": "2be8b0c673a37b5bb22b2b845f141f1aaa4d62d80bb3a3ec6d7c4a75f1da40dc",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.149Z",
+  "cards": [
+    {
+      "id": "microexpression-f93cad5015",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is a microexpression?",
+      "answer": "An involuntary facial expression lasting a fraction of a second that reveals hidden emotion."
+    },
+    {
+      "id": "microexpression-92c2254a2c",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "You can fully control your microexpressions if you try hard.",
+      "correct": false,
+      "answer": "They are involuntary and nearly impossible to control, unless you are experienced at hiding emotions entirely."
+    },
+    {
+      "id": "microexpression-5c23bacd46",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Nose wrinkling and the upper lip raising signal which emotion?",
+      "options": [
+        "Anger",
+        "Disgust",
+        "Fear",
+        "Contempt"
+      ],
+      "correct": 1,
+      "answer": "Disgust."
+    },
+    {
+      "id": "microexpression-ddfc5242d9",
+      "type": "riddle",
+      "difficulty": "hard",
+      "prompt": "My expression is one side of the lip raised in a sneer. Which emotion am I?",
+      "answer": "Contempt."
+    },
+    {
+      "id": "microexpression-d4067f0f98",
+      "type": "odd_one_out",
+      "difficulty": "hard",
+      "prompt": "Which sign does NOT belong to the emotion 'surprise'?",
+      "options": [
+        "Brows up",
+        "Jaw drop",
+        "Brows lowered",
+        "Eyes wide"
+      ],
+      "correct": 2,
+      "answer": "Lowered brows belong to anger; surprise has brows up and jaw drop."
+    },
+    {
+      "id": "microexpression-bd67ef27fd",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Happiness shows as lifted cheeks and muscles around the ____ tightening.",
+      "answer": "eye"
+    },
+    {
+      "id": "microexpression-e46df33750",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A coworker says 'great idea!' but you notice a flash of upper lip raised and a wrinkled nose. What emotion may be hidden?",
+      "answer": "Disgust, which leaks out for a fraction of a second before they regain control."
+    }
+  ]
+}

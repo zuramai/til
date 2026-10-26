@@ -1,0 +1,39 @@
+{
+  "slug": "why-animals-change-skin",
+  "title": "Why Animals Shed Skin?",
+  "url": "/why-animals-change-skin/",
+  "sourceHash": "0986c301c0ad7ba9fd215ce3b6c84d7d478f68a15c35ece4f8c61cff1db088dc",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.163Z",
+  "cards": [
+    {
+      "id": "why-animals-change-skin-c610f7d73b",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Name three reasons animals shed their skin.",
+      "answer": "Adjust to seasonal weather, grow larger, remove tiny pests, repair damage."
+    },
+    {
+      "id": "why-animals-change-skin-3d6bab41e9",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why would a snake shed its skin when growing?",
+      "answer": "The old skin doesn't stretch forever, so it replaces it with a bigger, fresh layer."
+    },
+    {
+      "id": "why-animals-change-skin-ec1bf35382",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which is a reason for shedding?",
+      "options": [
+        "Replace old cells with fresh healthy tissue",
+        "To become heavier",
+        "To store food",
+        "To find a mate only"
+      ],
+      "correct": 0,
+      "answer": "Shedding heals skin by replacing old cells with fresh tissue."
+    }
+  ]
+}

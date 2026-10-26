@@ -1,0 +1,67 @@
+{
+  "slug": "loading-llm-models",
+  "title": "Loading LLM Models",
+  "url": "/loading-llm-models/",
+  "sourceHash": "c099d810c6da13ccc50bed8517901d2f3bb698ca17327823827641b0c873be71",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.148Z",
+  "cards": [
+    {
+      "id": "loading-llm-models-2e6daf973d",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Why is unified memory beneficial for running LLMs locally?",
+      "answer": "CPU and GPU share the same data without moving it back and forth."
+    },
+    {
+      "id": "loading-llm-models-4d0dd3a43e",
+      "type": "sequence",
+      "difficulty": "medium",
+      "prompt": "Order the LLM loading steps on a discrete-GPU system.",
+      "items": [
+        "Load weights from disk into RAM",
+        "Transfer weights from RAM to VRAM for inference",
+        "Weights stay in VRAM after inference",
+        "VRAM freed when model is explicitly unloaded"
+      ],
+      "answer": "Disk to RAM, RAM to VRAM, stay in VRAM, freed on explicit unload."
+    },
+    {
+      "id": "loading-llm-models-0b3ffe330a",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "On unified memory, weights need to be offloaded from RAM to VRAM before inference.",
+      "correct": false,
+      "answer": "Myth: RAM and VRAM share one pool, so there is no offload step."
+    },
+    {
+      "id": "loading-llm-models-2560b98f4f",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "Which is NOT a reason people use Macs for local LLMs?",
+      "options": [
+        "Unified memory",
+        "Improving Metal and MLX",
+        "More portable and cheaper for equal performance",
+        "CUDA support"
+      ],
+      "correct": 3,
+      "answer": "Macs lack CUDA; that is an Nvidia feature."
+    },
+    {
+      "id": "loading-llm-models-56c1a7fb8b",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "After inference finishes, model weights stay in VRAM until the model is explicitly ____.",
+      "answer": "unloaded"
+    },
+    {
+      "id": "loading-llm-models-b22e1e05c4",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Your GPU's VRAM is full while running an LLM and memory spikes. What can happen?",
+      "answer": "It can spill into RAM, which is why RAM is still needed for system overhead."
+    }
+  ]
+}

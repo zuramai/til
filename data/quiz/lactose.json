@@ -1,0 +1,75 @@
+{
+  "slug": "lactose",
+  "title": "Lactose Intolerance",
+  "url": "/lactose/",
+  "sourceHash": "41d9f953bfbf2739e6bcc35d7133b8309d5f2b83f1f964e7dc641bf85e594ae0",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.147Z",
+  "cards": [
+    {
+      "id": "lactose-ebbf1e8399",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What enzyme breaks down lactose in the small intestine, and into what?",
+      "answer": "Lactase, into glucose and galactose."
+    },
+    {
+      "id": "lactose-fd55c5be83",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Lactose is a natural sugar found in milk and ____ products.",
+      "answer": "dairy"
+    },
+    {
+      "id": "lactose-99d3d777a0",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Lactose intolerance is a rare disorder that most humans do not have.",
+      "correct": false,
+      "answer": "Myth: it is the default state, and about 65-70% of adults worldwide have it."
+    },
+    {
+      "id": "lactose-68f4686d8d",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Why does lactose intolerance develop as people age?",
+      "options": [
+        "Lactase production decreases",
+        "The body makes too much lactose",
+        "Glucose cannot be absorbed",
+        "Milk becomes toxic with age"
+      ],
+      "correct": 0,
+      "answer": "Lactase production decreases with age."
+    },
+    {
+      "id": "lactose-282ada1517",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why do people who are lactose intolerant get bloated after drinking milk?",
+      "answer": "Their body has too little lactase, the helper that splits milk sugar. The unbroken sugar causes bloating and diarrhea."
+    },
+    {
+      "id": "lactose-e1e9111218",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A friend says being lactose intolerant means something is wrong with his body. How do you respond?",
+      "answer": "It is actually the default state; our ancestors thousands of years ago did not consume milk, and our bodies adapt to what we eat."
+    },
+    {
+      "id": "lactose-f8985d0b08",
+      "type": "odd_one_out",
+      "difficulty": "hard",
+      "prompt": "Which is NOT a symptom of lactose intolerance?",
+      "options": [
+        "Bloating",
+        "Diarrhea",
+        "Digestive problems",
+        "Excess lactase production"
+      ],
+      "correct": 3,
+      "answer": "Intolerance results from lactase decreasing, not excess lactase."
+    }
+  ]
+}

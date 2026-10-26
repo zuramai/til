@@ -1,0 +1,96 @@
+{
+  "slug": "golongan-islam-pada-masa-keemasan",
+  "title": "Golongan Islam Pada Masa Keemasan",
+  "url": "/golongan-islam-pada-masa-keemasan/",
+  "sourceHash": "b7a947ec07b53fa85e71cbdac8e634ff2c794d556dee45cb64f25af44d848805",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.135Z",
+  "cards": [
+    {
+      "id": "golongan-islam-pada-masa-keemasan-367124eee5",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Mengapa umat Islam terbagi menjadi golongan-golongan setelah Nabi wafat?",
+      "answer": "Karena manusia punya kebebasan akal, sehingga muncul perbedaan cara menafsirkan agama dan pesan Nabi."
+    },
+    {
+      "id": "golongan-islam-pada-masa-keemasan-ce276d693d",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "Dua aliran teologi dalam Ahlus Sunnah Wal-Jamaah adalah...",
+      "options": [
+        "Maturidiyah dan Asy'ariyah",
+        "Mu'tazilah dan Khawarij",
+        "Syi'ah dan Maturidiyah",
+        "Khawarij dan Asy'ariyah"
+      ],
+      "correct": 0,
+      "answer": "Maturidiyah dan Asy'ariyah."
+    },
+    {
+      "id": "golongan-islam-pada-masa-keemasan-e0b9d29e3f",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Perbedaan Maturidiyah dan Asy'ariyah dalam hal akal?",
+      "options": [
+        "Maturidiyah menolak akal sepenuhnya",
+        "Asy'ariyah lebih mengedepankan akal daripada Maturidiyah",
+        "Maturidiyah lebih mengedepankan akal, Asy'ariyah lebih membatasinya",
+        "Keduanya sama"
+      ],
+      "correct": 2,
+      "answer": "Maturidiyah lebih mengedepankan akal, Asy'ariyah lebih membatasi akal dan menyeimbangkannya dengan dalil."
+    },
+    {
+      "id": "golongan-islam-pada-masa-keemasan-f3a930356a",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Menurut Maturidiyah, akal bisa mengetahui baik dan buruk sebelum wahyu datang.",
+      "correct": true,
+      "answer": "Fakta: sedangkan Asy'ariyah menilai baik dan buruk murni dari perintah Allah."
+    },
+    {
+      "id": "golongan-islam-pada-masa-keemasan-56047975f2",
+      "type": "riddle",
+      "difficulty": "medium",
+      "prompt": "Aku sangat rasionalis, menolak sifat Allah seperti mendengar dan melihat karena dianggap menyerupai makhluk, dan meyakini Al-Qur'an makhluk. Siapa aku?",
+      "answer": "Mu'tazilah"
+    },
+    {
+      "id": "golongan-islam-pada-masa-keemasan-eaa614bc58",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Syi'ah meyakini bahwa ____ bin Abi Thalib dan keturunannya seharusnya menjadi khalifah.",
+      "answer": "Ali"
+    },
+    {
+      "id": "golongan-islam-pada-masa-keemasan-c5d901485a",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Apa ciri golongan Khawarij?",
+      "answer": "Awalnya pendukung Ali lalu memisahkan diri; ekstrem, sangat tekstual dalam ibadah, mudah mengkafirkan dan menghalalkan darah orang lain."
+    },
+    {
+      "id": "golongan-islam-pada-masa-keemasan-7a9b9fd9aa",
+      "type": "odd_one_out",
+      "difficulty": "hard",
+      "prompt": "Golongan mana yang bukan berpedoman utama pada Al-Quran, Hadits, dan pendapat ulama (Ahlus Sunnah)?",
+      "options": [
+        "Maturidiyah",
+        "Asy'ariyah",
+        "Mu'tazilah",
+        "Ahlus Sunnah Wal-Jamaah"
+      ],
+      "correct": 2,
+      "answer": "Mu'tazilah mengandalkan akal secara berlebihan, sedangkan lainnya adalah aliran Ahlus Sunnah atau terkait."
+    },
+    {
+      "id": "golongan-islam-pada-masa-keemasan-db137fa55f",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Seseorang bilang akal harus selalu mengalahkan dalil, dan sifat Allah 'mendengar' harus ditolak. Aliran mana yang pandangannya paling mendekati?",
+      "answer": "Mu'tazilah: sangat rasionalis dan menolak sifat seperti mendengar karena dianggap menyerupai makhluk."
+    }
+  ]
+}

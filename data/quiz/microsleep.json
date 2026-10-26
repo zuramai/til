@@ -1,0 +1,72 @@
+{
+  "slug": "microsleep",
+  "title": "Microsleep",
+  "url": "/microsleep/",
+  "sourceHash": "88d088ddfe14e5fd4c456fbf5d1957631a16dee3323379083b8b10fa7e657460",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.149Z",
+  "cards": [
+    {
+      "id": "microsleep-68e4438104",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is microsleep?",
+      "answer": "A short period in which the brain is involuntarily inactive while you appear awake."
+    },
+    {
+      "id": "microsleep-816e1c8522",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Name some signs of microsleep.",
+      "answer": "Sudden head nodding, long empty stare and drooping."
+    },
+    {
+      "id": "microsleep-e9d83c73c2",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why does microsleep often happen while driving?",
+      "answer": "Driving means sitting still and relaxed in a comfy seat. That calm stillness lets your brain switch off for a moment even though your eyes are open."
+    },
+    {
+      "id": "microsleep-01ff5d3b21",
+      "type": "sequence",
+      "difficulty": "hard",
+      "prompt": "Order the trick of coffee naps: drink coffee, then do what?",
+      "items": [
+        "Drink coffee",
+        "Take a 20-minute nap",
+        "Wake up and continue driving"
+      ],
+      "answer": "Drink coffee first, then nap about 20 minutes."
+    },
+    {
+      "id": "microsleep-ec1076b43e",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "To avoid microsleep, pull over every 2 hours or every ____ km.",
+      "answer": "100"
+    },
+    {
+      "id": "microsleep-4326f4a78e",
+      "type": "odd_one_out",
+      "difficulty": "hard",
+      "prompt": "Which is NOT a good tip for avoiding microsleep while driving?",
+      "options": [
+        "Bring a talkative passenger",
+        "Take antihistamines",
+        "Play upbeat music",
+        "Pull over to rest"
+      ],
+      "correct": 1,
+      "answer": "Antihistamines should be avoided, the others help."
+    },
+    {
+      "id": "microsleep-b7d47aeb8c",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "It's your usual bedtime and you must drive home alone. Which risk factors are present?",
+      "answer": "Driving at your usual sleep time raises microsleep risk; avoid it and bring a passenger or rest first."
+    }
+  ]
+}

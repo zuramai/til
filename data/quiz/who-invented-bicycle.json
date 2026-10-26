@@ -1,0 +1,46 @@
+{
+  "slug": "who-invented-bicycle",
+  "title": "Who Invented Bicycle?",
+  "url": "/who-invented-bicycle/",
+  "sourceHash": "87a43b58a1d77110dcbe3e741fcbd45660a347ea26b74b968f6d08afd162786c",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.162Z",
+  "cards": [
+    {
+      "id": "who-invented-bicycle-42e7d2cdc0",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Who invented the bicycle, and about when?",
+      "answer": "Karl von Drais, in Germany around 1817."
+    },
+    {
+      "id": "who-invented-bicycle-bd25707351",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "The first bicycle was named the ____, meaning 'running machine'.",
+      "answer": "Laufmaschine"
+    },
+    {
+      "id": "who-invented-bicycle-807b2619ff",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "How did riders move the Laufmaschine?",
+      "options": [
+        "Pedals",
+        "Chain drive",
+        "Pushing feet against the ground",
+        "Steam engine"
+      ],
+      "correct": 2,
+      "answer": "By pushing their feet against the ground; it had no pedals or chain."
+    },
+    {
+      "id": "who-invented-bicycle-ed7aa0698a",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A friend says the original bicycle had pedals and a chain. What do you tell them?",
+      "answer": "The 1817 Laufmaschine had neither; riders pushed with their feet, and it could do about 14 km in under an hour on flat ground."
+    }
+  ]
+}

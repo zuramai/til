@@ -1,0 +1,61 @@
+{
+  "slug": "in-the-coal-free-world",
+  "title": "In the Coal Free World",
+  "url": "/in-the-coal-free-world/",
+  "sourceHash": "84fbdca080095ffc28a22addd9e9ee0b0ef1fed2f6e653ca4b5c72b980a83ecd",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.142Z",
+  "cards": [
+    {
+      "id": "in-the-coal-free-world-658026d522",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Which European country recently became the 15th coal-free country in the world?",
+      "answer": "Ireland"
+    },
+    {
+      "id": "in-the-coal-free-world-8c2225831d",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "In 2024, about ____ of Ireland's energy came from wind.",
+      "answer": "37%"
+    },
+    {
+      "id": "in-the-coal-free-world-e141d423bc",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "By which year does Europe aim to reach net-zero emissions?",
+      "options": [
+        "2030",
+        "2040",
+        "2050",
+        "2070"
+      ],
+      "correct": 2,
+      "answer": "2050, by replacing coal with renewable energy."
+    },
+    {
+      "id": "in-the-coal-free-world-e61df4cc4f",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Replacing coal with renewables helps cut both greenhouse gases and air pollution.",
+      "correct": true,
+      "answer": "Yes, renewable energy reduces greenhouse gases and air pollution."
+    },
+    {
+      "id": "in-the-coal-free-world-60b2aca91e",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "What does TWh stand for, and what is Ireland's 2024 wind output in it?",
+      "answer": "Terawatt hour; Ireland's wind generation was about 11.4 TWh."
+    },
+    {
+      "id": "in-the-coal-free-world-3ab93fc21c",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A friend says going coal-free is impossible for a whole country. What real example can you cite?",
+      "answer": "Ireland ended coal power generation and became the 15th coal-free country, with wind supplying 37% of its energy in 2024."
+    }
+  ]
+}

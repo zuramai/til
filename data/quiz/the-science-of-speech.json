@@ -1,0 +1,83 @@
+{
+  "slug": "the-science-of-speech",
+  "title": "The Science of Speech",
+  "url": "/the-science-of-speech/",
+  "sourceHash": "5575506cd28e4ed1478666e29e7c9639e231ab909b4bf1f9c12ac322fc561f76",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.159Z",
+  "cards": [
+    {
+      "id": "the-science-of-speech-224f9e3735",
+      "type": "sequence",
+      "difficulty": "medium",
+      "prompt": "Order the path of sound during speech perception.",
+      "items": [
+        "Cochlea converts sound waves to electrical signals",
+        "Heschl's gyrus receives the signals",
+        "Auditory cortex analyzes pitch, loudness, duration",
+        "Wernicke's area matches sounds to words",
+        "Angular gyrus binds the word to meaning"
+      ],
+      "answer": "Sound is turned into signals by the cochlea, analyzed in Heschl's gyrus, matched to words in Wernicke's area, then bound to meaning by the angular gyrus."
+    },
+    {
+      "id": "the-science-of-speech-4c73508352",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Which brain region acts like a 'phonological lexicon', a mental store of word sounds?",
+      "answer": "Wernicke's Area."
+    },
+    {
+      "id": "the-science-of-speech-410caa22a4",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which part acts like a tokenizer in an LLM analogy?",
+      "options": [
+        "Cochlea",
+        "Heschl's gyrus",
+        "Wernicke's Area",
+        "Angular gyrus"
+      ],
+      "correct": 2,
+      "answer": "Wernicke's Area, storing word sound structure and grammar interactions."
+    },
+    {
+      "id": "the-science-of-speech-0addac3afe",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "The ____ gyrus in the parietal lobe binds the word 'apple' to its shape and sensations into one package.",
+      "answer": "angular"
+    },
+    {
+      "id": "the-science-of-speech-ce8f11e089",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why is conversation called a feedback loop?",
+      "answer": "We listen to our own voice while we talk and adjust as we go, like an AI adding its last word to what it already knows before writing the next.",
+      "explanation": "Speech output feeds back into the context, like an LLM's token context window."
+    },
+    {
+      "id": "the-science-of-speech-cf3c04c550",
+      "type": "myth_or_fact",
+      "difficulty": "hard",
+      "prompt": "The concept 'apple' is stored in a single neuron.",
+      "correct": false,
+      "answer": "Myth: it is a web of connections across many abstract and sensory associations."
+    },
+    {
+      "id": "the-science-of-speech-5339d858e9",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You can tell 'bat' from 'cat' when you hear them. Which brain area's job makes this possible, and what does it store?",
+      "answer": "Wernicke's Area, which stores the sound structure of words (pitch, stress, rhythm)."
+    },
+    {
+      "id": "the-science-of-speech-919bb97a54",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Where is Heschl's gyrus located and what does it receive?",
+      "answer": "In the auditory cortex of the temporal lobe; it receives electrical signals from the cochlea."
+    }
+  ]
+}

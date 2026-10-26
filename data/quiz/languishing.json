@@ -1,0 +1,68 @@
+{
+  "slug": "languishing",
+  "title": "Languishing",
+  "url": "/languishing/",
+  "sourceHash": "f6bf5b0c64d9ff15f4e24a99877bb83d9b323d0c6d21beb63f2e7294694c7a4f",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.147Z",
+  "cards": [
+    {
+      "id": "languishing-627237a490",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What does languishing feel like?",
+      "answer": "Life feels flat, stagnant and empty, sitting between depression and flourishing."
+    },
+    {
+      "id": "languishing-81a6494369",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Languishing corresponds to which quadrant in the Two Continua Model?",
+      "options": [
+        "Low mental health, low mental illness",
+        "High mental health, high mental illness",
+        "High mental health, low mental illness",
+        "Low mental health, high mental illness"
+      ],
+      "correct": 0,
+      "answer": "Low mental health with low mental illness."
+    },
+    {
+      "id": "languishing-329661797d",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "If someone has no mental illness, their mental health must be good.",
+      "correct": false,
+      "answer": "Myth: the two continua are related but distinct, so one can have no illness yet poor mental health."
+    },
+    {
+      "id": "languishing-fa5cad6020",
+      "type": "odd_one_out",
+      "difficulty": "hard",
+      "prompt": "Which pair is mismatched with the Two Continua quadrants?",
+      "options": [
+        "Flourishing: high health, low illness",
+        "Struggling: high health, high illness",
+        "Floundering: low health, high illness",
+        "Languishing: high health, high illness"
+      ],
+      "correct": 3,
+      "answer": "Languishing is low mental health with low mental illness."
+    },
+    {
+      "id": "languishing-25560f2e88",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "The Two Continua Model explains that mental illness and mental health are two related but ____ dimensions.",
+      "answer": "distinct"
+    },
+    {
+      "id": "languishing-a307f630c6",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A friend isn't depressed but says everything feels empty and pointless lately. Which state fits and why?",
+      "answer": "Languishing: no clear mental illness but poor mental health, so life feels flat and stagnant."
+    }
+  ]
+}

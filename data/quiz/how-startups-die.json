@@ -1,0 +1,90 @@
+{
+  "slug": "how-startups-die",
+  "title": "Why Startups Die",
+  "url": "/how-startups-die/",
+  "sourceHash": "8b0a551d5c02de4f48c7a29dd216d9615adc3e18a7cf6ea4745817583dd6d94d",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.138Z",
+  "cards": [
+    {
+      "id": "how-startups-die-a719b88229",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Kehabisan uang sering dianggap penyebab startup mati. Sebenarnya itu disebut apa, dan apa penyebab utama di baliknya?",
+      "answer": "Kehabisan uang hanyalah gejala; penyebab utamanya adalah tidak ada market untuk produknya."
+    },
+    {
+      "id": "how-startups-die-0458ca5d3b",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Yang paling penting bagi startup agar tidak mati adalah mencapai ____, yaitu kecocokan antara produk dan pasar.",
+      "answer": "product-market fit"
+    },
+    {
+      "id": "how-startups-die-e7308f07c1",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Startup dengan ide yang keren dan uang yang banyak pasti selamat.",
+      "correct": false,
+      "answer": "Salah: tanpa market, uang sebanyak apa pun hanya akan terbakar terus sampai habis.",
+      "explanation": "Ide keren tidak menggantikan permintaan nyata dari pasar."
+    },
+    {
+      "id": "how-startups-die-21417395b9",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Menurut riset Noam Wasserman (Harvard), apa penyebab utama runtuhnya startup potensial?",
+      "options": [
+        "Kalah bersaing dengan perusahaan besar",
+        "Konflik antar co-founder",
+        "Teknologi yang terlalu canggih",
+        "Gaji karyawan terlalu tinggi"
+      ],
+      "correct": 1,
+      "answer": "Konflik antar co-founder (sekitar 65%) adalah penyebabnya."
+    },
+    {
+      "id": "how-startups-die-f614164478",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Apa arti kutipan Paul Graham bahwa startup lebih mungkin mati karena 'suicide' daripada 'homicide'?",
+      "answer": "Startup lebih sering hancur karena masalah internal sendiri daripada karena dibunuh pihak luar seperti kompetitor."
+    },
+    {
+      "id": "how-startups-die-c2225d2237",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Jelaskan seperti ke anak 10 tahun: kenapa startup yang tidak punya pembeli akan kehabisan uang meski idenya hebat?",
+      "answer": "Bayangkan jualan es krim yang tak ada yang mau beli. Kita terus mengeluarkan uang untuk bahan dan gaji, tapi tidak ada uang yang masuk. Lama-lama kantong kita kosong."
+    },
+    {
+      "id": "how-startups-die-eace6dffac",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Dua co-founder startupmu sering bertengkar soal arah produk, dan seorang investor ragu. Berdasarkan pelajaran penyebab startup mati, apa yang harus diprioritaskan?",
+      "answer": "Selesaikan konflik antar founder terlebih dahulu, karena konflik co-founder adalah penyebab utama kegagalan dan membuat investor takut masuk."
+    },
+    {
+      "id": "how-startups-die-070bd8cbaa",
+      "type": "recall",
+      "difficulty": "hard",
+      "prompt": "Mengapa kepergian salah satu key-founder bisa menghancurkan startup, padahal produknya masih ada?",
+      "answer": "Karena 'emotional-glue' yang menyatukan tim hilang bersama kepergiannya."
+    },
+    {
+      "id": "how-startups-die-1c34d1a400",
+      "type": "odd_one_out",
+      "difficulty": "easy",
+      "prompt": "Mana yang BUKAN penyebab internal runtuhnya startup menurut catatan ini?",
+      "options": [
+        "Kehilangan fokus/motivasi",
+        "Key-founder quit",
+        "Konflik co-founder",
+        "Pasar yang terlalu besar"
+      ],
+      "correct": 3,
+      "answer": "Pasar yang terlalu besar bukan penyebab kegagalan; tiga lainnya adalah masalah internal."
+    }
+  ]
+}

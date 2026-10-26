@@ -1,0 +1,110 @@
+{
+  "slug": "rust-interview-questions",
+  "title": "Rust Interview Questions",
+  "url": "/rust-interview-questions/",
+  "sourceHash": "18800302c31618775e82c757bda7ad9dc1a701ac1f637b3d59e51494633d7208",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.155Z",
+  "cards": [
+    {
+      "id": "rust-interview-questions-9a74297257",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Why can you pass a usize to a function and still use it, but not a String?",
+      "options": [
+        "usize implements Copy; String does not",
+        "usize is on the heap",
+        "String is always borrowed",
+        "usize implements Clone only"
+      ],
+      "correct": 0,
+      "answer": "usize implements Copy (fixed size, on the stack); String is growable and heap-allocated, so it is moved."
+    },
+    {
+      "id": "rust-interview-questions-a7dca0872d",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "What does cloning a String give you that a plain copy would not?",
+      "answer": "A deep copy of the heap data; a shallow copy would just reference the same string."
+    },
+    {
+      "id": "rust-interview-questions-b0780b24d0",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "A lifetime states how ____ a reference should live.",
+      "answer": "long"
+    },
+    {
+      "id": "rust-interview-questions-bbeb1a0ca1",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "A 'static reference can live until the end of the program.",
+      "correct": true,
+      "answer": "Fact: that is what 'static means; e.g. a leaked variable."
+    },
+    {
+      "id": "rust-interview-questions-dcf3efd992",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "To move a value from the stack onto the heap, wrap it in a ____.",
+      "answer": "Box"
+    },
+    {
+      "id": "rust-interview-questions-1265ed88d9",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Why can a &Box<T> be passed to a function expecting &T?",
+      "options": [
+        "It implements Deref<Target = T>",
+        "It implements Copy",
+        "It is converted by the heap",
+        "It is an unsafe cast"
+      ],
+      "correct": 0,
+      "answer": "Because Box<T> implements Deref<Target = T>, enabling deref coercion."
+    },
+    {
+      "id": "rust-interview-questions-2ca9cac6e9",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Which type gives you mutability without passing around a &mut reference?",
+      "answer": "RefCell<T> (interior mutability)."
+    },
+    {
+      "id": "rust-interview-questions-27d7a05a2e",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "Which smart pointer gives multiple owners in a single-threaded context vs multi-threaded?",
+      "options": [
+        "Rc single, Arc multi",
+        "Arc single, Rc multi",
+        "Box single, Rc multi",
+        "RefCell for both"
+      ],
+      "correct": 0,
+      "answer": "Rc<T> for single-threaded, Arc<T> for multi-threaded."
+    },
+    {
+      "id": "rust-interview-questions-f2a6108ffd",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Where is a usize stored, and where is a String's data stored?",
+      "answer": "usize on the stack with a fixed size; String's data on the heap, growable."
+    },
+    {
+      "id": "rust-interview-questions-83077d0af1",
+      "type": "recall",
+      "difficulty": "hard",
+      "prompt": "Trade-off: generics bounded by a trait vs a dyn trait object?",
+      "answer": "Generics are monomorphized at compile time; dyn objects use a lookup table (vtable), costing some runtime performance."
+    },
+    {
+      "id": "rust-interview-questions-de8b62d9a7",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "A &'static T can be downgraded to &'a T when 'a has a ____ lifetime.",
+      "answer": "shorter"
+    }
+  ]
+}

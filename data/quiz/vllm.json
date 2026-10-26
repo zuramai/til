@@ -1,0 +1,39 @@
+{
+  "slug": "vllm",
+  "title": "vLLM",
+  "url": "/vllm/",
+  "sourceHash": "aae332b1be4ac3c3a0ac6e168f3a9b3415669d3d2e4e3f82cf38769e89ec4ece",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.162Z",
+  "cards": [
+    {
+      "id": "vllm-20a354dca4",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is vLLM?",
+      "answer": "An AI inference engine that is faster than the transformers library."
+    },
+    {
+      "id": "vllm-500dbbb8fd",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "vLLM gets part of its speed from features such as ____.",
+      "answer": "PagedAttention"
+    },
+    {
+      "id": "vllm-7f44a0b63a",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "What was deployed to a Triton inference server using vLLM underneath?",
+      "options": [
+        "Large frontier models only",
+        "A few small models",
+        "Only image models",
+        "A database"
+      ],
+      "correct": 1,
+      "answer": "A few small models were deployed using vLLM under Triton."
+    }
+  ]
+}

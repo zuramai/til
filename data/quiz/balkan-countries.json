@@ -1,0 +1,102 @@
+{
+  "slug": "balkan-countries",
+  "title": "Balkan Countries",
+  "url": "/balkan-countries/",
+  "sourceHash": "875d14049f5495345c26f6a470ab081855d1bb004185cc0284209884e630bff0",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.122Z",
+  "cards": [
+    {
+      "id": "balkan-countries-822b036841",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Where does the name \"Balkan\" come from?",
+      "answer": "The Balkan Mountains, which stretch across all of Bulgaria."
+    },
+    {
+      "id": "balkan-countries-265213f5cf",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is a peninsula?",
+      "answer": "A region almost entirely surrounded by water on three sides while still connected to the mainland."
+    },
+    {
+      "id": "balkan-countries-a2d3e6cfe7",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "Which of these is a peninsula mentioned alongside the Balkan Peninsula?",
+      "options": [
+        "Arabian Peninsula",
+        "Sahara Peninsula",
+        "Amazon Peninsula",
+        "Siberian Peninsula"
+      ],
+      "correct": 0,
+      "answer": "Arabian Peninsula, along with Anatolian and Italian peninsulas."
+    },
+    {
+      "id": "balkan-countries-8b623f96df",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Which country is NOT in the Balkan list?",
+      "options": [
+        "Serbia",
+        "Croatia",
+        "Portugal",
+        "Albania"
+      ],
+      "correct": 2,
+      "answer": "Portugal is not in the Balkans; Serbia, Croatia, and Albania are."
+    },
+    {
+      "id": "balkan-countries-917ee2d526",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "The Balkan Peninsula is surrounded by water on three sides but still connected to the ____.",
+      "answer": "mainland"
+    },
+    {
+      "id": "balkan-countries-4bb6d9f712",
+      "type": "mcq",
+      "difficulty": "hard",
+      "prompt": "Which country in the Balkan list is the Balkan Mountains found in?",
+      "options": [
+        "Romania",
+        "Greece",
+        "Bulgaria",
+        "Slovenia"
+      ],
+      "correct": 2,
+      "answer": "Bulgaria; the mountains stretch across it and gave the region its name."
+    },
+    {
+      "id": "balkan-countries-2e07f218f2",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Name any Balkan country besides Bosnia and Herzegovina and Bulgaria.",
+      "answer": "For example Albania, Serbia, Croatia, Kosovo, Montenegro, North Macedonia, Slovenia, Greece, or Romania."
+    },
+    {
+      "id": "balkan-countries-bf28d1dbd1",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Someone says the Balkan region is named after a river. How do you correct them?",
+      "answer": "The name comes from the Balkan Mountains, which stretch throughout Bulgaria."
+    },
+    {
+      "id": "balkan-countries-77aa201c2c",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which of these is a country in the Balkan list?",
+      "options": [
+        "Kosovo",
+        "Hungary",
+        "Poland",
+        "Latvia"
+      ],
+      "correct": 0,
+      "answer": "Kosovo is in the list; the others are not."
+    }
+  ]
+}

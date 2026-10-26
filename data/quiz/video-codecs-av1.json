@@ -1,0 +1,88 @@
+{
+  "slug": "video-codecs-av1",
+  "title": "Video Codecs: AV1",
+  "url": "/video-codecs-av1/",
+  "sourceHash": "6e21db11796218f7501bd4ece3a7a48ed497ec10e1a85eb1b9f7689530c5751f",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.161Z",
+  "cards": [
+    {
+      "id": "video-codecs-av1-c4c5608c1a",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Apa fungsi video codec?",
+      "answer": "Mengompres dan mendekompres video agar ukuran file lebih kecil dengan kualitas sebisa mungkin tetap terjaga."
+    },
+    {
+      "id": "video-codecs-av1-c80a4fcbbe",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "Menggunakan video codec seperti AV1 tidak pernah menyebabkan kehilangan kualitas sama sekali.",
+      "correct": false,
+      "answer": "Mitos: codec menggunakan lossy compression, jadi pasti ada quality loss."
+    },
+    {
+      "id": "video-codecs-av1-87cd4e320b",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "AV1 itu royalty-free, artinya tidak perlu ____.",
+      "answer": "lisensi",
+      "explanation": "Berbeda dari H264/H265 yang sering terikat lisensi."
+    },
+    {
+      "id": "video-codecs-av1-42099a0d1a",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Video 4K 30 detik, 30 FPS, 24 bit per pixel tanpa codec ukurannya kira-kira berapa?",
+      "options": [
+        "~22 MB",
+        "~220 MB",
+        "~22 GB",
+        "~2 TB"
+      ],
+      "correct": 2,
+      "answer": "~22 GB (30 x 30 x 3840 x 2160 x 24 bit = sekitar 179 gigabit)."
+    },
+    {
+      "id": "video-codecs-av1-84209c24f2",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: kenapa bagian rumput di sebuah gambar bisa disimpan jadi satu block besar?",
+      "answer": "Pixel rumput warnanya hijau semua dan berulang. Daripada simpan satu-satu, digabung jadi satu block besar, jadi datanya jauh lebih sedikit. Bagian detail seperti pemain dibuat block kecil-kecil."
+    },
+    {
+      "id": "video-codecs-av1-44e4744788",
+      "type": "sequence",
+      "difficulty": "medium",
+      "prompt": "Urutkan alur kompresi video dari awal ke akhir.",
+      "items": [
+        "Block partitioning",
+        "Motion prediction antar frame",
+        "Simpan hanya perubahan (motion) block"
+      ],
+      "answer": "Pixel dipartisi jadi block, lalu gerakannya diprediksi antar frame, sehingga hanya perubahan yang disimpan."
+    },
+    {
+      "id": "video-codecs-av1-51ee76a458",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Apa bedanya cara kerja inter prediction pada AV1 dengan menggambar ulang seluruh frame?",
+      "answer": "Inter prediction membandingkan frame sebelumnya dengan frame sekarang dan hanya melacak pergerakan block, bukan menyimpan semua pixel lagi."
+    },
+    {
+      "id": "video-codecs-av1-fadd794e12",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Tim streaming ingin mengurangi bandwidth tanpa membayar biaya lisensi codec dan tanpa turun kualitas. Codec mana yang cocok dan kenapa?",
+      "answer": "AV1: generasi baru setelah H264/H265, bisa mengompres lebih kecil dengan kualitas sama, dan royalty-free."
+    },
+    {
+      "id": "video-codecs-av1-add8523260",
+      "type": "riddle",
+      "difficulty": "hard",
+      "prompt": "Aku memecah gambar jadi petak besar di area seragam dan petak kecil di area detail. Siapa aku?",
+      "answer": "Block partitioning"
+    }
+  ]
+}

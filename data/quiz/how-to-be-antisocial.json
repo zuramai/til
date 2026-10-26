@@ -1,0 +1,54 @@
+{
+  "slug": "how-to-be-antisocial",
+  "title": "How to Be Anti-social",
+  "url": "/how-to-be-antisocial/",
+  "sourceHash": "12057943bcd601d50b7aeae4b9dd9f8b436b1d5881b3d0b11b9b6d75d8868c60",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:27:36.652Z",
+  "cards": [
+    {
+      "id": "how-to-be-antisocial-51c36a6547",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "Spending most of your time online and overthinking social outreach is a reliable way to sharpen your social skills.",
+      "correct": false,
+      "answer": "Myth: these habits stifle social skills and connections."
+    },
+    {
+      "id": "how-to-be-antisocial-be8ebbc9f8",
+      "type": "scenario",
+      "difficulty": "medium",
+      "prompt": "Someone feels lonely and negative, so they always open content platforms or watch porn instead of reaching out. What outcome should they expect?",
+      "answer": "They will stifle their social skills, feel uncomfortable around people, and find real interaction terrifying."
+    },
+    {
+      "id": "how-to-be-antisocial-e9009c4f10",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "What happens to your references when you only consume online content, according to this satirical guide?",
+      "answer": "You make niche online references that nobody gets."
+    },
+    {
+      "id": "how-to-be-antisocial-16522522a7",
+      "type": "mcq",
+      "difficulty": "hard",
+      "prompt": "Which habit below is listed as a way to become anti-social?",
+      "options": [
+        "Joining weekly meetups",
+        "Constantly analyzing other people's perception of you",
+        "Calling friends when lonely",
+        "Reaching out quickly without overthinking"
+      ],
+      "correct": 1,
+      "answer": "Constantly analyzing others' perception of you is one of the listed habits."
+    },
+    {
+      "id": "how-to-be-antisocial-fd440313c2",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You feel negative and want to open Reddit. Applying this post in reverse, what better habit should you try?",
+      "answer": "Avoid escaping online; instead reach out to real people without overthinking it, to build social skills."
+    }
+  ]
+}

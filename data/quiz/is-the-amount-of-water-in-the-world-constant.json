@@ -1,0 +1,75 @@
+{
+  "slug": "is-the-amount-of-water-in-the-world-constant",
+  "title": "Is the Amount of Water in the World Constant?",
+  "url": "/is-the-amount-of-water-in-the-world-constant/",
+  "sourceHash": "c1b18ca2a6b90f852d6cba3b59746400a0cf3cb12c7656c67da3dc6e4d955c9d",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.143Z",
+  "cards": [
+    {
+      "id": "is-the-amount-of-water-in-the-world-constant-f07c26f16a",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "The total amount of water on Earth is roughly fixed.",
+      "correct": true,
+      "answer": "The total is roughly constant; what varies a lot is the amount of usable water."
+    },
+    {
+      "id": "is-the-amount-of-water-in-the-world-constant-4c90e39f1e",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Only about ____ of the world's water is fresh.",
+      "answer": "3%"
+    },
+    {
+      "id": "is-the-amount-of-water-in-the-world-constant-b4e637e2b9",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "How can Earth lose a little water over time?",
+      "options": [
+        "Fish drink it",
+        "Sunlight splits water vapor high up and light hydrogen escapes to space",
+        "Rain falls into space",
+        "Oceans dry up permanently"
+      ],
+      "correct": 1,
+      "answer": "Sunlight splits high-altitude vapor and the light hydrogen escapes to space."
+    },
+    {
+      "id": "is-the-amount-of-water-in-the-world-constant-a9e4844c2b",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "How can Earth gain water from space, and how significant is it?",
+      "answer": "Comets or asteroids can deliver water, but the amount is minor."
+    },
+    {
+      "id": "is-the-amount-of-water-in-the-world-constant-71fa737502",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why do we say Earth's water is a closed system?",
+      "answer": "The water just goes around in circles: from oceans into the air, down as rain or snow, into ice, ground and living things, then back again. Almost none enters or leaves."
+    },
+    {
+      "id": "is-the-amount-of-water-in-the-world-constant-9dbb41361f",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Someone says: 'Water is constant, so we can never run out of drinking water.' What is the flaw?",
+      "answer": "The total is fixed but accessible fresh water varies. Only about 3% is fresh, and most of it is frozen or underground."
+    },
+    {
+      "id": "is-the-amount-of-water-in-the-world-constant-26c0643dc7",
+      "type": "odd_one_out",
+      "difficulty": "hard",
+      "prompt": "Which is NOT part of the water cycle described?",
+      "options": [
+        "Evaporation",
+        "Precipitation",
+        "Runoff",
+        "Photosynthesis producing new water"
+      ],
+      "correct": 3,
+      "answer": "Evaporation, precipitation and runoff move water around; no new water is created from nothing."
+    }
+  ]
+}

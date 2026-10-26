@@ -1,0 +1,75 @@
+{
+  "slug": "what-causes-humidity",
+  "title": "What Causes Humidity",
+  "url": "/what-causes-humidity/",
+  "sourceHash": "c5c4369534b0789da799d9f65a7495bb0e954e2628ea1841f0a674bc2ecc80ed",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.162Z",
+  "cards": [
+    {
+      "id": "what-causes-humidity-2bf2af9143",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is humidity?",
+      "answer": "Invisible water vapor mixed into the air."
+    },
+    {
+      "id": "what-causes-humidity-5cbd9f478d",
+      "type": "odd_one_out",
+      "difficulty": "easy",
+      "prompt": "Which is NOT an indoor cause of humidity?",
+      "options": [
+        "Cooking",
+        "Hot shower",
+        "Poor ventilation",
+        "Opening a window to dry air"
+      ],
+      "correct": 3,
+      "answer": "Ventilation reduces humidity; the other three add moisture."
+    },
+    {
+      "id": "what-causes-humidity-76cf957d93",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: how does breathing make a room more humid?",
+      "answer": "Air passes the wet lining of your airways, which transfers heat and water into it. You breathe out moist air."
+    },
+    {
+      "id": "what-causes-humidity-6b19f814b9",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "An adult loses roughly ____ ml of water per day just by breathing.",
+      "answer": "200-300"
+    },
+    {
+      "id": "what-causes-humidity-4730f0e91c",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Why are tropical countries more humid?",
+      "options": [
+        "Cold air holds more moisture",
+        "Intense heat speeds evaporation and warm air holds more moisture",
+        "Less vegetation",
+        "Fewer oceans"
+      ],
+      "correct": 1,
+      "answer": "Intense solar heat accelerates evaporation and warm air holds more moisture."
+    },
+    {
+      "id": "what-causes-humidity-18c6d2d9fc",
+      "type": "riddle",
+      "difficulty": "hard",
+      "prompt": "I am the process where plants pull water from deep soil and release it into the air. What am I?",
+      "answer": "Transpiration",
+      "explanation": "It adds to humidity in vegetated tropics."
+    },
+    {
+      "id": "what-causes-humidity-078b6f7ed8",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Your small bathroom stays humid and foggy. Name two likely causes.",
+      "answer": "Hot showers add vapor and poor ventilation traps it indoors."
+    }
+  ]
+}

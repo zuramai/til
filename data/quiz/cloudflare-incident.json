@@ -1,0 +1,97 @@
+{
+  "slug": "cloudflare-incident",
+  "title": "Cloudflare Incident",
+  "url": "/cloudflare-incident/",
+  "sourceHash": "3255484efcca32f2c0042859f5dfbbaff014656761088b6b913717a1fc9b01f5",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.128Z",
+  "cards": [
+    {
+      "id": "cloudflare-incident-411bb7ddc8",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Apa penyebab langsung Cloudflare outage November 2025 pada kode Rust mereka?",
+      "answer": "Pemakaian .unwrap() pada kode saat jumlah feature melebihi limit."
+    },
+    {
+      "id": "cloudflare-incident-bb577e4131",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Apa akar masalah outage Cloudflare tersebut?",
+      "answer": "Feature file Bot Management yang ukurannya jadi dua kali lipat akibat perubahan query ClickHouse."
+    },
+    {
+      "id": "cloudflare-incident-8d254df96e",
+      "type": "sequence",
+      "difficulty": "hard",
+      "prompt": "Urutkan kronologi masalah Cloudflare ini.",
+      "items": [
+        "Query ClickHouse diubah untuk mengambil data semua shard",
+        "Data menjadi duplikat",
+        "Feature file ukurannya dua kali lipat",
+        "Jumlah feature melebihi limit 200",
+        "unwrap menyebabkan error dan layanan down"
+      ],
+      "answer": "Query diubah, data duplikat, feature file membesar, limit terlampaui lalu panic karena unwrap."
+    },
+    {
+      "id": "cloudflare-incident-0636f2a774",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Berapa limit feature machine learning Bot Management, dan berapa yang biasanya dipakai?",
+      "options": [
+        "Limit 100, dipakai 60",
+        "Limit 200, dipakai 60",
+        "Limit 60, dipakai 200",
+        "Limit 200, dipakai 150"
+      ],
+      "correct": 1,
+      "answer": "Limit 200 sementara biasanya hanya 60 feature."
+    },
+    {
+      "id": "cloudflare-incident-44d991a7ac",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "Pihak Cloudflare awalnya mengira insiden ini adalah serangan hyper-scale DDoS.",
+      "correct": true,
+      "answer": "Fakta: awalnya dikira DDoS, padahal masalahnya di feature file."
+    },
+    {
+      "id": "cloudflare-incident-24bf7d4d1f",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Insiden ini membuktikan Rust adalah bahasa yang buruk untuk Cloudflare.",
+      "correct": false,
+      "answer": "Mitos: itu pure bad practice developer, bisa terjadi di bahasa apa pun, dan Rust cocok untuk high-throughput."
+    },
+    {
+      "id": "cloudflare-incident-de2c34d47f",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Jelaskan seperti ke anak 10 tahun: untuk apa Bot Management memakai feature file?",
+      "answer": "Neural network memakai feature file untuk menebak apakah sebuah request itu bot atau manusia asli. File ini diperbarui tiap beberapa menit agar bisa mengenali bot atau serangan baru."
+    },
+    {
+      "id": "cloudflare-incident-1153504780",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Kamu memperbaiki feature file manual saat insiden tapi masalah kembali dalam beberapa menit. Kenapa?",
+      "answer": "Feature file digenerate otomatis lagi dari ClickHouse tiap beberapa menit sehingga file buruk menimpanya lagi."
+    },
+    {
+      "id": "cloudflare-incident-91d4f2f83a",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Feature file Bot Management digenerate dari cluster database ____.",
+      "answer": "ClickHouse"
+    },
+    {
+      "id": "cloudflare-incident-ad207a58e4",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Kamu menulis kode Rust yang menambahkan item ke daftar dengan limit tetap. Apa yang sebaiknya dilakukan saat limit tercapai?",
+      "answer": "Jangan pakai unwrap; tangani error saat limit tercapai supaya tidak membuat layanan crash."
+    }
+  ]
+}

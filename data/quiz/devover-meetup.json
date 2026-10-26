@@ -1,0 +1,66 @@
+{
+  "slug": "devover-meetup",
+  "title": "Devover Meetup",
+  "url": "/devover-meetup/",
+  "sourceHash": "97e099ef95d6e449d3ee6629796e0beed20a346851d5df943839bdc63c87b76f",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:27:36.649Z",
+  "cards": [
+    {
+      "id": "devover-meetup-cab45ab80f",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Pada bulan apa meetup tahunan Devover biasanya diadakan?",
+      "answer": "November, sekitar seminggu dari event IDSW."
+    },
+    {
+      "id": "devover-meetup-eba3f51903",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "Di mana meetup Devover terakhir diadakan?",
+      "options": [
+        "Kafe di Bandung",
+        "Airbnb di Duren Tiga",
+        "Kantor startup",
+        "Hotel di Bali"
+      ],
+      "correct": 1,
+      "answer": "Di Airbnb di Duren Tiga."
+    },
+    {
+      "id": "devover-meetup-c419685d6a",
+      "type": "sequence",
+      "difficulty": "hard",
+      "prompt": "Urutkan jalannya sesi berbagi di meetup Devover, dari persiapan sampai cerita tiap member.",
+      "items": [
+        "Peserta duduk melingkar",
+        "Satu orang mulai bercerita",
+        "Giliran berpindah ke orang di sebelah kiri",
+        "Setiap orang menceritakan update dan rencananya"
+      ],
+      "answer": "Duduk melingkar dulu, lalu bergiliran bicara ke arah kiri sampai semua orang bercerita."
+    },
+    {
+      "id": "devover-meetup-309ea22403",
+      "type": "scenario",
+      "difficulty": "medium",
+      "prompt": "Kamu baru pertama kali ikut meetup tahunan Devover dan sebentar lagi giliranmu bicara. Hal apa saja yang sebaiknya kamu ceritakan?",
+      "answer": "Update progress dari tahun lalu, perubahan diri, kontribusi open source, dan rencana ke depan."
+    },
+    {
+      "id": "devover-meetup-1dd2a38712",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Berapa kira-kira peserta yang duduk melingkar?",
+      "options": [
+        "Sekitar 5",
+        "Sekitar 14",
+        "Sekitar 30",
+        "Sekitar 50"
+      ],
+      "correct": 1,
+      "answer": "Sekitar 14 orang."
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "slug": "zenml",
+  "title": "ZenML",
+  "url": "/zenml/",
+  "sourceHash": "83c64464f8d0f8482aa3d3cc5494079c113b5b3a0e1aac557b5c7b9e25516f09",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.165Z",
+  "cards": [
+    {
+      "id": "zenml-53620f2c47",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is ZenML?",
+      "answer": "An open-source framework for the whole AI development lifecycle: classical ML, ML pipelines and AI agents (also acting as an MLOps tool)."
+    },
+    {
+      "id": "zenml-c09350d242",
+      "type": "sequence",
+      "difficulty": "medium",
+      "prompt": "Order the three pipelines for putting an ML workflow into production in ZenML.",
+      "items": [
+        "Feature engineering pipeline",
+        "Model training pipeline",
+        "Inference pipeline"
+      ],
+      "answer": "Feature engineering, then training, then inference."
+    },
+    {
+      "id": "zenml-296eea775a",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "What does the feature engineering pipeline do?",
+      "answer": "Splits the dataset into train and test sets and bakes it into a training-ready dataset."
+    },
+    {
+      "id": "zenml-1b20c9f03d",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "During training in ZenML, you can track metrics and metadata by calling `.____()`.",
+      "answer": "log_metadata"
+    },
+    {
+      "id": "zenml-679d504746",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "In ZenML, what does a pipeline contain?",
+      "options": [
+        "Only one function",
+        "Multiple steps",
+        "A single dataset",
+        "Only dashboards"
+      ],
+      "correct": 1,
+      "answer": "Multiple steps."
+    },
+    {
+      "id": "zenml-2674e3a6e2",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Your trained model beats the older one and you want it in production. In ZenML, what is the described way?",
+      "answer": "Promote the best model to production with a single command, after the training pipeline has evaluated and saved it."
+    },
+    {
+      "id": "zenml-55fe6f05c4",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "ZenML can only be used for classical ML, not AI agents.",
+      "correct": false,
+      "answer": "Myth: it supports classical ML, pipelines and AI agents."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "seni-hidup-minimalis",
+  "title": "Seni Hidup Minimalis",
+  "url": "/seni-hidup-minimalis/",
+  "sourceHash": "eb111b23b8f22b721892e76779603a0761602d2f3dcef228fb0700689bb0a886",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.156Z",
+  "cards": [
+    {
+      "id": "seni-hidup-minimalis-fb2d871833",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Berapa bagian barang kita yang sebenarnya cukup untuk hidup tanpa merasa kehilangan?",
+      "answer": "Seperlima."
+    },
+    {
+      "id": "seni-hidup-minimalis-0ae367bc61",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Aturan apa saat ada barang baru masuk?",
+      "answer": "Barang lama harus dikeluarkan."
+    },
+    {
+      "id": "seni-hidup-minimalis-c3ac9c3bb3",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Sebutkan tiga tempat penyimpanan barang menurut frekuensi pakai.",
+      "answer": "Inner circle, outer circle, deep storage."
+    },
+    {
+      "id": "seni-hidup-minimalis-268d2e167b",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Di mana sebaiknya sikat gigi dan laptop disimpan?",
+      "options": [
+        "Inner circle",
+        "Outer circle",
+        "Deep storage",
+        "Loteng"
+      ],
+      "correct": 0,
+      "answer": "Inner circle: barang yang sering dipakai dan mudah dijangkau."
+    },
+    {
+      "id": "seni-hidup-minimalis-efecf84bf9",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Mana yang paling cocok di deep storage dibanding yang lain?",
+      "options": [
+        "Sendok",
+        "Sikat gigi",
+        "Laptop",
+        "Dekorasi di loteng"
+      ],
+      "correct": 3,
+      "answer": "Barang di loteng/gudang yang sangat jarang dipakai; sendok dan sikat gigi dan laptop adalah inner circle."
+    },
+    {
+      "id": "seni-hidup-minimalis-caa78f4477",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Barang inner circle harus bisa diambil tanpa ____ atau bersusah payah.",
+      "answer": "membungkuk"
+    },
+    {
+      "id": "seni-hidup-minimalis-1740a90241",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Kamu punya kardus alat camping yang dipakai setahun sekali. Di mana menyimpannya?",
+      "answer": "Di deep storage (loteng/gudang) atau outer circle jika agak sering, karena sangat jarang dipakai."
+    },
+    {
+      "id": "seni-hidup-minimalis-c48d4217ca",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Kebiasaan apa yang dianjurkan saat meninggalkan ruangan?",
+      "answer": "Memungut barang yang tergeletak dan mengembalikannya ke tempat semula."
+    }
+  ]
+}

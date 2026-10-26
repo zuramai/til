@@ -1,0 +1,60 @@
+{
+  "slug": "how-grapes-become-wine",
+  "title": "How Grapes Become Wine",
+  "url": "/how-grapes-become-wine/",
+  "sourceHash": "003e9c64454a4136419e826df403791fe7193b58b24860f47abf2d49955f5a2f",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.138Z",
+  "cards": [
+    {
+      "id": "how-grapes-become-wine-c7070b1f74",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Grapes become wine through a process called ____.",
+      "answer": "fermentation"
+    },
+    {
+      "id": "how-grapes-become-wine-3a846dfa3d",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Which three byproducts does fermentation of sugar produce?",
+      "answer": "Ethanol, CO2, and heat."
+    },
+    {
+      "id": "how-grapes-become-wine-9f53f618c4",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Where does the yeast needed for fermentation come from?",
+      "options": [
+        "Added from the barrel",
+        "The grape skin",
+        "The air only",
+        "The grape seeds"
+      ],
+      "correct": 1,
+      "answer": "The grape skin."
+    },
+    {
+      "id": "how-grapes-become-wine-f00c38c541",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "What gives wine its alcohol?",
+      "answer": "Ethanol."
+    },
+    {
+      "id": "how-grapes-become-wine-78797b89ec",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Winemakers let yeast eat all available sugar. What kind of wine results?",
+      "answer": "Dry wine, because no sugar remains."
+    },
+    {
+      "id": "how-grapes-become-wine-aef92e433c",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: how does grape juice get alcohol?",
+      "answer": "Tiny yeast on grape skins eat the sugar. When they eat it, they make alcohol, bubbles, and a little heat."
+    }
+  ]
+}

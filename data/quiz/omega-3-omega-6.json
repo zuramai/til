@@ -1,0 +1,92 @@
+{
+  "slug": "omega-3-omega-6",
+  "title": "Omega 3 vs Omega 6",
+  "url": "/omega-3-omega-6/",
+  "sourceHash": "bd909db41c811a3216403776eaa284be98fa582528f429f5f345358069d9f642",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.152Z",
+  "cards": [
+    {
+      "id": "omega-3-omega-6-2f9f0f2135",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "Which fatty acid is anti-inflammatory, and which is pro-inflammatory when eaten in excess?",
+      "options": [
+        "Omega-3 anti, omega-6 pro",
+        "Omega-6 anti, omega-3 pro",
+        "Both are anti-inflammatory",
+        "Both are pro-inflammatory"
+      ],
+      "correct": 0,
+      "answer": "Omega-3 is anti-inflammatory; omega-6 is pro-inflammatory in excess."
+    },
+    {
+      "id": "omega-3-omega-6-662e750c1c",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "Your body can produce omega-3 and omega-6 on its own, so diet does not matter.",
+      "correct": false,
+      "answer": "The body does not produce them; they must come from diet."
+    },
+    {
+      "id": "omega-3-omega-6-3812eab6dd",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "The omega-3 component known for retina and brain health, essential for cognitive function, is ____.",
+      "answer": "DHA (docosahexaenoic acid)"
+    },
+    {
+      "id": "omega-3-omega-6-dbd1d0be20",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Which omega-3 component is known as the anti-inflammatory one?",
+      "answer": "EPA (eicosapentaenoic acid)."
+    },
+    {
+      "id": "omega-3-omega-6-8653b9a0cc",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A friend eats lots of refined vegetable oils and processed snacks and wants healthier fats. What should they change in their omega intake?",
+      "answer": "Increase omega-3 and decrease omega-6, since refined oils and processed foods are heavy in omega-6.",
+      "explanation": "Omega-3 foods are rarer and costlier than omega-6 foods."
+    },
+    {
+      "id": "omega-3-omega-6-9cd90302a0",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Which is NOT a listed benefit of omega-3?",
+      "options": [
+        "Better sleep quality",
+        "Less menstrual pain",
+        "Healthier skin",
+        "Higher omega-6 levels"
+      ],
+      "correct": 3,
+      "answer": "Omega-3 helps sleep, menstrual pain and skin; it does not raise omega-6."
+    },
+    {
+      "id": "omega-3-omega-6-a429e2ae28",
+      "type": "mcq",
+      "difficulty": "hard",
+      "prompt": "Compared with regular eggs, how much more DHA do omega-3 eggs contain?",
+      "options": [
+        "About 3-5 times",
+        "About the same",
+        "About 10 times",
+        "Slightly less"
+      ],
+      "correct": 0,
+      "answer": "Roughly 3-5x, or 100-150 mg or more extra DHA.",
+      "explanation": "EPA also rises, but not significantly."
+    },
+    {
+      "id": "omega-3-omega-6-5c51765206",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Omega-6 fats are rare in everyday food while omega-3 is everywhere.",
+      "correct": false,
+      "answer": "It is the reverse: omega-6 is in many daily foods; omega-3 is rarer and pricier."
+    }
+  ]
+}

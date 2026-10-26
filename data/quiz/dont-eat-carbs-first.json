@@ -1,0 +1,66 @@
+{
+  "slug": "dont-eat-carbs-first",
+  "title": "Don't Eat Carbs First",
+  "url": "/dont-eat-carbs-first/",
+  "sourceHash": "b5a07e3ee6f8f18ce6b14da33b18a1baff1f1e1c2140ebfbe90750fb37657ef4",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.131Z",
+  "cards": [
+    {
+      "id": "dont-eat-carbs-first-3ca5e909fa",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "On an empty stomach, what should you eat before carbs?",
+      "answer": "Protein or fiber (such as vegetables)."
+    },
+    {
+      "id": "dont-eat-carbs-first-c1ee1b2017",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "A study found eating carbs first on an empty stomach released ____ more sugar into the blood than the reverse order.",
+      "answer": "73%"
+    },
+    {
+      "id": "dont-eat-carbs-first-70d9af35d0",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "The order in which you eat food does not matter, only what you eat.",
+      "correct": false,
+      "answer": "Myth: food order has a significant impact on blood sugar response."
+    },
+    {
+      "id": "dont-eat-carbs-first-cdb1b6e9a5",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which habit is linked to lower post-meal glucose levels?",
+      "options": [
+        "Drinking juice before meals",
+        "Whey protein before the meal",
+        "Eating rice first",
+        "Skipping vegetables"
+      ],
+      "correct": 1,
+      "answer": "Taking whey protein before the meal reduces glucose after the meal."
+    },
+    {
+      "id": "dont-eat-carbs-first-4cecd127b8",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You wake up hungry and your breakfast has toast, eggs and a salad. How should you order it, and why?",
+      "answer": "Eat eggs (protein) and salad (fiber) first, toast last; carbs first on an empty stomach spike blood sugar much more."
+    },
+    {
+      "id": "dont-eat-carbs-first-bbb39f7bca",
+      "type": "sequence",
+      "difficulty": "medium",
+      "prompt": "Order a meal to limit blood sugar spikes.",
+      "items": [
+        "Vegetables",
+        "Protein",
+        "Carbohydrates"
+      ],
+      "answer": "Protein/vegetables first, carbs last."
+    }
+  ]
+}

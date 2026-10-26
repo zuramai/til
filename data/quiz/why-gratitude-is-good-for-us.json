@@ -1,0 +1,68 @@
+{
+  "slug": "why-gratitude-is-good-for-us",
+  "title": "Why Gratitude Is Good for Us",
+  "url": "/why-gratitude-is-good-for-us/",
+  "sourceHash": "b19882044d5105aeab8bb7a7e0bea71380f4a2ab9b60e3dc85f1bff92a9e6770",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.164Z",
+  "cards": [
+    {
+      "id": "why-gratitude-is-good-for-us-ba4529637f",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Name two benefits of gratitude.",
+      "answer": "Lower stress and better sleep (also lower blood pressure, better relationships, etc.)."
+    },
+    {
+      "id": "why-gratitude-is-good-for-us-7d6c2ea63d",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "In the journaling study, what did the gratitude group report?",
+      "options": [
+        "Lower stress",
+        "More hassle",
+        "Higher blood pressure",
+        "No change"
+      ],
+      "correct": 0,
+      "answer": "They reported lower stress than the group recording irritations."
+    },
+    {
+      "id": "why-gratitude-is-good-for-us-8405520688",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why does gratitude make you want more of it?",
+      "answer": "Feeling grateful releases dopamine, which feels good, so you start looking for more things to be thankful for."
+    },
+    {
+      "id": "why-gratitude-is-good-for-us-291862cc60",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You lie awake with racing worries. What did the study suggest?",
+      "answer": "Write a 15-minute journal before bed on what you were grateful for; it reduced intrusive thoughts and improved sleep."
+    },
+    {
+      "id": "why-gratitude-is-good-for-us-0eb282faea",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "You can focus on positive and negative things equally at the same time.",
+      "correct": false,
+      "answer": "Myth: we can't focus on both at the same time."
+    },
+    {
+      "id": "why-gratitude-is-good-for-us-df66dd084c",
+      "type": "odd_one_out",
+      "difficulty": "hard",
+      "prompt": "Which is NOT a benefit of gratitude?",
+      "options": [
+        "Lower blood pressure",
+        "Reduced inflammation",
+        "Higher anxiety",
+        "More gray matter in prefrontal cortex"
+      ],
+      "correct": 2,
+      "answer": "Gratitude lowers anxiety."
+    }
+  ]
+}

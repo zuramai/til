@@ -1,0 +1,75 @@
+{
+  "slug": "how-data-is-stored-in-memory",
+  "title": "How Data Is Stored in Memory",
+  "url": "/how-data-is-stored-in-memory/",
+  "sourceHash": "5420c8a40c0b75de19c1dd64f41e0692fa24ceaff70af3842379a1304f2dd734",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.137Z",
+  "cards": [
+    {
+      "id": "how-data-is-stored-in-memory-ba843d23be",
+      "type": "sequence",
+      "difficulty": "easy",
+      "prompt": "Order from fastest to slowest storage:",
+      "items": [
+        "CPU registers",
+        "L1 cache",
+        "L2 cache",
+        "DRAM",
+        "SSD/HDD"
+      ],
+      "answer": "Registers, then SRAM caches, then DRAM, then SSD/HDD."
+    },
+    {
+      "id": "how-data-is-stored-in-memory-48533503ef",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is the typical size and access time of L1 cache?",
+      "answer": "32KB-128KB with about 1ns access."
+    },
+    {
+      "id": "how-data-is-stored-in-memory-ab5fdd5092",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "What does DRAM use to store a bit?",
+      "options": [
+        "Multiple transistors",
+        "Tiny capacitors",
+        "Magnetic platters",
+        "Optical pits"
+      ],
+      "correct": 1,
+      "answer": "Tiny capacitors holding electric charge."
+    },
+    {
+      "id": "how-data-is-stored-in-memory-3cf4f98e70",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: Why is CPU cache expensive?",
+      "answer": "Each bit needs several tiny switches (transistors), so a lot of cache costs a lot of space and money."
+    },
+    {
+      "id": "how-data-is-stored-in-memory-2ee5c0b653",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Caches are a type of ____ memory.",
+      "answer": "SRAM"
+    },
+    {
+      "id": "how-data-is-stored-in-memory-6e311e0bed",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "L2 cache is smaller but faster than L1.",
+      "correct": false,
+      "answer": "Myth: L2 is bigger (about 256KB-1MB) but slightly slower."
+    },
+    {
+      "id": "how-data-is-stored-in-memory-4251b5c43a",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Why does a computer have caches and RAM instead of just one huge fast memory?",
+      "answer": "Fast memory like SRAM is costly and small; layering trades speed for capacity and cost, with cache bridging CPU and RAM."
+    }
+  ]
+}

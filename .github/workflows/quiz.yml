@@ -1,0 +1,41 @@
+name: Generate quiz cards
+on:
+  push:
+    branches: [main]
+    paths: ['content/**']
+  workflow_dispatch:
+    inputs:
+      force:
+        description: Regenerate cards for every post
+        type: boolean
+        default: false
+permissions:
+  contents: write
+concurrency:
+  group: quiz-cards
+  cancel-in-progress: false
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Generate cards
+        env:
+          QUIZ_LLM_BASE_URL: ${{ vars.QUIZ_LLM_BASE_URL }}
+          QUIZ_LLM_MODEL: ${{ vars.QUIZ_LLM_MODEL }}
+          QUIZ_LLM_API_KEY: ${{ secrets.QUIZ_LLM_API_KEY }}
+          QUIZ_CONCURRENCY: '4'
+        run: node scripts/quiz/generate.mjs ${{ inputs.force && '--force' || '' }}
+      - name: Commit cards
+        if: success() || failure()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/quiz
+          if git diff --cached --quiet; then echo "No quiz changes"; exit 0; fi
+          git commit -m "quiz: update generated cards"
+          git pull --rebase origin main
+          git push origin HEAD:main

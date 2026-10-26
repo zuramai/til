@@ -1,0 +1,74 @@
+{
+  "slug": "air-higenis",
+  "title": "Air Higenis",
+  "url": "/air-higenis/",
+  "sourceHash": "b341421fb51260e166839f472ecc8b42e4b6f2625a57eab7e0e71b04a02a652e",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.119Z",
+  "cards": [
+    {
+      "id": "air-higenis-727ab2183d",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Air dianggap aman diminum jika dididihkan selama ____ pada 100 derajat Celsius.",
+      "answer": "1 menit"
+    },
+    {
+      "id": "air-higenis-5d08f004f1",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Mendidihkan air juga menghilangkan polusi kimia dan logam berat.",
+      "correct": false,
+      "answer": "Mitos: mendidihkan hanya membunuh bakteri, tidak menghilangkan kimia, logam berat, garam, atau endapan."
+    },
+    {
+      "id": "air-higenis-6bebae0692",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Mengapa air PDAM tidak layak diminum langsung menurut materi ini?",
+      "options": [
+        "Airnya mengandung banyak garam",
+        "Pipa penyalurannya kotor",
+        "Terlalu banyak klorin",
+        "Suhunya terlalu panas"
+      ],
+      "correct": 1,
+      "answer": "Karena pipanya kotor, bukan airnya."
+    },
+    {
+      "id": "air-higenis-c52ece3572",
+      "type": "sequence",
+      "difficulty": "hard",
+      "prompt": "Urutkan tahap pengolahan air di negara maju seperti Singapura sampai aman diminum dari keran.",
+      "items": [
+        "Sedimentasi",
+        "Filtrasi",
+        "Chlorination",
+        "UV disinfection atau ozonation"
+      ],
+      "answer": "Sedimentasi, filtrasi, klorinasi, lalu kadang UV atau ozonasi."
+    },
+    {
+      "id": "air-higenis-f78ef6ee7b",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Sebutkan beberapa penyebab kualitas air terkontaminasi saat distribusi.",
+      "answer": "Polusi industri, banjir, kebocoran pipa, serta pipa berlumut atau berkarat."
+    },
+    {
+      "id": "air-higenis-3ab5fe0b72",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Kamu merebus air keran 1 menit lalu merasa pasti aman. Apa yang masih mungkin tertinggal?",
+      "answer": "Bakteri mati, tapi polusi kimia, logam berat, garam, dan endapan tetap ada, jadi perlu filter tambahan."
+    },
+    {
+      "id": "air-higenis-b82ce34d94",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: kenapa air keran di Indonesia sering tidak boleh langsung diminum?",
+      "answer": "Pipa yang mengalirkan air sudah tua, bisa berlumut dan berkarat, dan aturannya belum merata. Jadi air bersih bisa kotor dalam perjalanan ke rumah."
+    }
+  ]
+}

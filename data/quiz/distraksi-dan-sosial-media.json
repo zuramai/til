@@ -1,0 +1,116 @@
+{
+  "slug": "distraksi-dan-sosial-media",
+  "title": "Distraksi dan Sosial Media",
+  "url": "/distraksi-dan-sosial-media/",
+  "sourceHash": "a01462fc2d3c9a666e85e91e8c03087664b4ed82f940f5dfe0181c2e9d4306ff",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.131Z",
+  "cards": [
+    {
+      "id": "distraksi-dan-sosial-media-eeff3e6472",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Berapa kira-kira rata-rata waktu per hari yang dihabiskan orang untuk media sosial?",
+      "answer": "Sekitar 2,5 jam per hari."
+    },
+    {
+      "id": "distraksi-dan-sosial-media-45e28c8dff",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Sisa-sisa perhatian dari tugas sebelumnya yang mengganggu fokus saat pindah tugas disebut attention ____.",
+      "answer": "residue"
+    },
+    {
+      "id": "distraksi-dan-sosial-media-62f50561a4",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Kenapa otak mudah terdistraksi saat kita sedang berusaha fokus bekerja?",
+      "options": [
+        "Otak lebih suka tugas berat daripada ringan",
+        "Otak cenderung menghindari mental effort berat dan memilih hal yang rewarding",
+        "Notifikasi selalu berisi informasi penting",
+        "Otak kekurangan dopamin saat bekerja"
+      ],
+      "correct": 1,
+      "answer": "Otak cenderung menghindari mental effort berat dan lebih memilih hal yang rewarding, seperti like dan reply."
+    },
+    {
+      "id": "distraksi-dan-sosial-media-26c21e740c",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "Penggunaan medsos berat (3 jam lebih) meningkatkan risiko depresi pada remaja.",
+      "correct": true,
+      "answer": "Fakta: riset menunjukkan peningkatan risiko depresi sekitar 27% pada remaja pengguna berat."
+    },
+    {
+      "id": "distraksi-dan-sosial-media-e6d38784b0",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Jelaskan seperti ke anak 10 tahun: kenapa makin sering dapat like, kita makin sulit fokus?",
+      "answer": "Like bikin otak merasa senang karena melepas dopamin. Makin sering dimanjakan, otak makin ingin lagi dan jadi sulit tahan pada hal yang membosankan, jadi fokus kita rusak."
+    },
+    {
+      "id": "distraksi-dan-sosial-media-26e1b96bd2",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Mana yang BUKAN dampak yang ditemukan riset tentang penggunaan medsos berat?",
+      "options": [
+        "Attention span pendek",
+        "Risiko depresi remaja naik",
+        "Mudah terdistraksi",
+        "Attention span lebih panjang"
+      ],
+      "correct": 3,
+      "answer": "Fokus yang lebih panjang bukan dampak medsos berat; medsos berkorelasi dengan attention span yang pendek."
+    },
+    {
+      "id": "distraksi-dan-sosial-media-7b1f29b1d3",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Kamu baru posting story IG lalu mau belajar, tapi tiap beberapa menit cek notifikasi. Apa yang terjadi di otak dan apa solusinya?",
+      "answer": "Kamu mengharap reward (like/reply) sehingga otak terdistraksi dan menciptakan attention residue. Solusi: pakai medsos secara sengaja di waktu non-produktif, bukan untuk membunuh waktu."
+    },
+    {
+      "id": "distraksi-dan-sosial-media-b54e5afedb",
+      "type": "sequence",
+      "difficulty": "hard",
+      "prompt": "Urutkan siklus kecanduan dopamin menurut contoh rokok.",
+      "items": [
+        "Merokok hanya sesekali",
+        "Kerjaan suntuk, ingin reward lebih",
+        "Merokok makin banyak tiap hari",
+        "Terbentuk adiksi, terasa ada yang kurang"
+      ],
+      "answer": "Dari sesekali, kerjaan suntuk membuat ingin reward lebih, makin sering, lalu jadi adiksi."
+    },
+    {
+      "id": "distraksi-dan-sosial-media-ffabfe6872",
+      "type": "riddle",
+      "difficulty": "easy",
+      "prompt": "Aku dilepas otak saat kamu dapat pujian atau like. Aku hormon yang mengatur mood dan reward. Siapa aku?",
+      "answer": "Dopamin"
+    },
+    {
+      "id": "distraksi-dan-sosial-media-96f50d5675",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Menurut kutipan favorit penulis, bagaimana kita 'membayar' medsos yang gratis?",
+      "options": [
+        "Dengan uang langganan",
+        "Dengan waktu luang kita",
+        "Dengan baterai HP",
+        "Dengan kuota internet"
+      ],
+      "correct": 1,
+      "answer": "Dengan waktu luang kita: kalau sesuatu gratis, kita adalah produknya."
+    },
+    {
+      "id": "distraksi-dan-sosial-media-60c58c6a72",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Sebutkan dua prinsip dalam memakai sosmed yang lebih sehat.",
+      "answer": "Konsumsi secara aktif dengan tujuan jelas saat membuka, dan cari berita secara intensional (misalnya buka web berita)."
+    }
+  ]
+}

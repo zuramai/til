@@ -1,0 +1,76 @@
+{
+  "slug": "coffee-increases-metabolic-rate",
+  "title": "Coffee Increases Metabolic Rate",
+  "url": "/coffee-increases-metabolic-rate/",
+  "sourceHash": "6e65920ed8e2f7014d485e37c02b6c17365b1ac0e47a40e84618267d80464638",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.129Z",
+  "cards": [
+    {
+      "id": "coffee-increases-metabolic-rate-071f4d7fd0",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Coffee can raise Basal Metabolic Rate by ____ to 20% for up to three hours.",
+      "answer": "5%"
+    },
+    {
+      "id": "coffee-increases-metabolic-rate-4ff176423d",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "For how long can coffee elevate BMR after caffeine intake?",
+      "answer": "Up to three hours."
+    },
+    {
+      "id": "coffee-increases-metabolic-rate-e4cbb1b392",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "In the comparison study, which group showed greater fat oxidation after coffee?",
+      "options": [
+        "Obese participants",
+        "Normal-weight participants",
+        "Neither group",
+        "Both equally"
+      ],
+      "correct": 1,
+      "answer": "Normal-weight participants, although both groups had higher metabolic rate."
+    },
+    {
+      "id": "coffee-increases-metabolic-rate-36249e52e3",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Coffee raised metabolic rate only in normal-weight people, not in obese people.",
+      "correct": false,
+      "answer": "Myth: it increased metabolic rate in both groups."
+    },
+    {
+      "id": "coffee-increases-metabolic-rate-72d02d8f78",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "What caffeine dose range improved exercise performance?",
+      "answer": "3 to 6 mg per kg of body weight."
+    },
+    {
+      "id": "coffee-increases-metabolic-rate-c1370efefa",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A friend weighing 70 kg wants a caffeine boost before a workout. What dose range per the findings, and roughly how many mg?",
+      "answer": "3 to 6 mg/kg, so about 210 to 420 mg."
+    },
+    {
+      "id": "coffee-increases-metabolic-rate-893b088f8a",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why might coffee help someone lose weight?",
+      "answer": "Coffee makes the body burn energy faster for a few hours. Burning more calories can help people who want to lose weight."
+    },
+    {
+      "id": "coffee-increases-metabolic-rate-c04674440d",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "Chewing gum with caffeine can give similar benefits to coffee.",
+      "correct": true,
+      "answer": "Fact: gum containing caffeine provides the same benefits."
+    }
+  ]
+}

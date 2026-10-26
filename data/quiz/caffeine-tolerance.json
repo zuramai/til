@@ -1,0 +1,40 @@
+{
+  "slug": "caffeine-tolerance",
+  "title": "Increasing Caffeine Sensitivity",
+  "url": "/caffeine-tolerance/",
+  "sourceHash": "7dd140ecb00936276cb7012cc9a024a2595b39f4b3985cff91d59e4c17fbcd2e",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.127Z",
+  "cards": [
+    {
+      "id": "caffeine-tolerance-4a70f3b54c",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Why do you need more coffee after a year of drinking it daily than on day one?",
+      "answer": "Tolerance: the brain produces more adenosine receptors as caffeine intake increases."
+    },
+    {
+      "id": "caffeine-tolerance-76decdcaf7",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "As caffeine consumption rises, the brain builds more ____ receptors, which raises tolerance.",
+      "answer": "adenosine"
+    },
+    {
+      "id": "caffeine-tolerance-1b16af907a",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Needing three coffees a day after a year, when one used to be enough, is a sign of tolerance building up.",
+      "correct": true,
+      "answer": "Fact: the brain makes more receptors as caffeine intake increases, so tolerance grows."
+    },
+    {
+      "id": "caffeine-tolerance-351d59ed1d",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Your friend says one coffee gave him energy last year but now barely works. What process explains this?",
+      "answer": "Tolerance: with regular caffeine intake his brain has produced more adenosine receptors, so the same dose has less effect."
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "slug": "tentang-takdir",
+  "title": "Tentang Takdir",
+  "url": "/tentang-takdir/",
+  "sourceHash": "c34f29887a8a27a839d0c8d16af8b17ec2f2a7a1adf05199e77b53d85871f884",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.158Z",
+  "cards": [
+    {
+      "id": "tentang-takdir-f991cf81fe",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Apa dua jenis takdir menurut materi ini?",
+      "answer": "Mubram (tidak bisa diubah) dan muallaq (bisa diubah melalui usaha)."
+    },
+    {
+      "id": "tentang-takdir-d1231b1425",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Mana yang BUKAN takdir mubram?",
+      "options": [
+        "Waktu lahir",
+        "Genetika",
+        "Waktu kematian",
+        "Kekayaan"
+      ],
+      "correct": 3,
+      "answer": "Kekayaan bergantung kerja keras (muallaq)."
+    },
+    {
+      "id": "tentang-takdir-ca5fc3ac56",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Kemiskinan adalah takdir yang tidak bisa diubah.",
+      "correct": false,
+      "answer": "Mitos: kemiskinan/kekayaan bisa diubah; itu mindset yang salah."
+    },
+    {
+      "id": "tentang-takdir-1377588537",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Mengapa kita tidak bisa mempertanyakan lahir di mana atau sebagai ras apa?",
+      "answer": "Itu takdir yang tidak bisa diubah dan kehendak Allah; komplain hanya membuat tidak bahagia."
+    },
+    {
+      "id": "tentang-takdir-5997478319",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Temanmu bilang 'sudah takdir aku sakit-sakitan' padahal gaya hidupnya buruk. Tanggapanmu?",
+      "answer": "Kesehatan bergantung gaya hidup (muallaq), jadi bisa diubah dan akan dimintai pertanggungjawaban."
+    },
+    {
+      "id": "tentang-takdir-f307911934",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Mengapa kaya dan miskin sama-sama ujian?",
+      "options": [
+        "Semua ujian setara dan adil",
+        "Hanya miskin yang diuji",
+        "Hanya kaya yang diuji",
+        "Ujian hanya untuk pintar"
+      ],
+      "correct": 0,
+      "answer": "Setiap orang diberi takaran ujian yang adil; kaya diuji agar tidak sombong atau haram, miskin diuji juga."
+    },
+    {
+      "id": "tentang-takdir-5e9eb2ed90",
+      "type": "recall",
+      "difficulty": "hard",
+      "prompt": "Apa jawaban kenapa Allah membiarkan manusia ke neraka padahal Maha Tahu?",
+      "answer": "Manusia diberi pilihan dan akal; pengetahuan Allah adalah konsekuensi sifat Maha Tahu-Nya."
+    },
+    {
+      "id": "tentang-takdir-724e4754a2",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Hanya manusia yang setuju memikul ____ yang ditawarkan kepada langit, bumi, dan gunung.",
+      "answer": "amanat"
+    },
+    {
+      "id": "tentang-takdir-b44672650e",
+      "type": "recall",
+      "difficulty": "hard",
+      "prompt": "Kenapa kita tidak diciptakan setara?",
+      "answer": "Karena di situlah letak ujiannya."
+    }
+  ]
+}

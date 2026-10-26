@@ -1,0 +1,104 @@
+{
+  "slug": "balloon-filled-with-helium-vs-hydrogen",
+  "title": "Helium, Hydrogen, and Oxygen",
+  "url": "/balloon-filled-with-helium-vs-hydrogen/",
+  "sourceHash": "2c292e73c8f7d02ae2b5f3644552f71a15641368aa75b59c2b8efe44d22cd101",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.123Z",
+  "cards": [
+    {
+      "id": "balloon-filled-with-helium-vs-hydrogen-894eb0d70f",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Why does a helium balloon float?",
+      "answer": "Helium is lighter than air."
+    },
+    {
+      "id": "balloon-filled-with-helium-vs-hydrogen-f5dc3601f8",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What are the symbol and atomic number of helium?",
+      "answer": "He, atomic number 2."
+    },
+    {
+      "id": "balloon-filled-with-helium-vs-hydrogen-eaa6095761",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "Why do we avoid filling balloons with hydrogen?",
+      "options": [
+        "It is toxic",
+        "It is flammable",
+        "It is heavier than air",
+        "It is too expensive"
+      ],
+      "correct": 1,
+      "answer": "Hydrogen is flammable; helium is not."
+    },
+    {
+      "id": "balloon-filled-with-helium-vs-hydrogen-149d087e1b",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why is hydrogen explosive with oxygen but helium is not?",
+      "answer": "Hydrogen has one electron but wants two, so it grabs for more and reacts violently with oxygen. Helium already has two electrons, so it is happy and stable and does not react."
+    },
+    {
+      "id": "balloon-filled-with-helium-vs-hydrogen-5b0ca47821",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "Helium is stable because its single electron shell holds two electrons and it has ____ electrons (the duplet rule).",
+      "answer": "two"
+    },
+    {
+      "id": "balloon-filled-with-helium-vs-hydrogen-efa1738776",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "How many electrons does oxygen need to fill its outer shell, following the octet rule?",
+      "options": [
+        "One",
+        "Two",
+        "Four",
+        "Six"
+      ],
+      "correct": 1,
+      "answer": "Oxygen has 6 in its outer shell and needs 8, so it needs two more."
+    },
+    {
+      "id": "balloon-filled-with-helium-vs-hydrogen-c93f552b64",
+      "type": "sequence",
+      "difficulty": "hard",
+      "prompt": "Order the reasoning for why hydrogen and oxygen make water.",
+      "items": [
+        "Oxygen has 6 outer electrons",
+        "Oxygen needs 8 by the octet rule",
+        "Each hydrogen offers one electron",
+        "Two hydrogens combine with one oxygen",
+        "H2O forms"
+      ],
+      "answer": "Oxygen needs 2 more electrons, two hydrogens supply them, forming H2O."
+    },
+    {
+      "id": "balloon-filled-with-helium-vs-hydrogen-dc699e70dc",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "A balloon filled with regular air floats like a helium balloon.",
+      "correct": false,
+      "answer": "Regular air balloons do not float; helium is lighter than air."
+    },
+    {
+      "id": "balloon-filled-with-helium-vs-hydrogen-42dbe4d569",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A friend says helium is safe in balloons only because it is rare. Using electron shells, what is the real reason?",
+      "answer": "Helium has a full shell of two electrons, so it does not react or burn. Hydrogen has one electron and violently reacts with oxygen."
+    },
+    {
+      "id": "balloon-filled-with-helium-vs-hydrogen-bf80893e38",
+      "type": "myth_or_fact",
+      "difficulty": "hard",
+      "prompt": "Helium differs from hydrogen by only one proton, so it should be just as flammable.",
+      "correct": false,
+      "answer": "Despite one proton difference, helium has a full two-electron shell and is non-flammable."
+    }
+  ]
+}

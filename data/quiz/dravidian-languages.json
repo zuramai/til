@@ -1,0 +1,61 @@
+{
+  "slug": "dravidian-languages",
+  "title": "Dravidian Languages",
+  "url": "/dravidian-languages/",
+  "sourceHash": "db0ac604fa473f20ff0e4eba7254b1d869ccfe2ad528998b2af6d0a5e0f81bc9",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:27:36.648Z",
+  "cards": [
+    {
+      "id": "dravidian-languages-534b43a35c",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Name four major Dravidian languages.",
+      "answer": "Tamil, Telugu, Kannada, Malayalam."
+    },
+    {
+      "id": "dravidian-languages-7c636d59d0",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Why is the family called Dravidian and not Tamilian?",
+      "options": [
+        "Tamil is not a Dravidian language",
+        "Dravidian is a family; Tamil is a single language",
+        "Tamilian is an older name",
+        "Dravidian is only spoken in Sri Lanka"
+      ],
+      "correct": 1,
+      "answer": "Dravidian refers to a language family, while Tamil is one specific language."
+    },
+    {
+      "id": "dravidian-languages-b2d5499330",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Dravidian languages are native to ____ Asia.",
+      "answer": "South"
+    },
+    {
+      "id": "dravidian-languages-ce8f088e10",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Which one is a language family rather than a single language?",
+      "options": [
+        "Tamil",
+        "Telugu",
+        "Dravidian",
+        "Kannada"
+      ],
+      "correct": 2,
+      "answer": "Dravidian is a family of languages; the others are individual languages."
+    },
+    {
+      "id": "dravidian-languages-5f86c15d84",
+      "type": "myth_or_fact",
+      "difficulty": "hard",
+      "prompt": "'Dravid-' is a cognate of 'Tamil' in Sanskrit.",
+      "correct": true,
+      "answer": "Fact: Dravid- is the Sanskrit cognate of Tamil."
+    }
+  ]
+}

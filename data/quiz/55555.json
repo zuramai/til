@@ -1,0 +1,11 @@
+{
+  "slug": "55555",
+  "title": "55555",
+  "url": "/55555/",
+  "sourceHash": "f70731579065e62fecd8ed4e7e195d290360bcf2cc994c8aad820a68597b3fa5",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.117Z",
+  "skipReason": "too-short",
+  "cards": []
+}

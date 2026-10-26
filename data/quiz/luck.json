@@ -1,0 +1,55 @@
+{
+  "slug": "luck",
+  "title": "Luck",
+  "url": "/luck/",
+  "sourceHash": "b9d769bf9de3a833d05dff05515d36d6cc1c137b2f4641c74d8921c4391050f0",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.148Z",
+  "cards": [
+    {
+      "id": "luck-3d94273821",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "According to Naval Ravikant, how many types of luck are there?",
+      "answer": "Four: blind, hustle, skill and unique luck."
+    },
+    {
+      "id": "luck-528aaea2f0",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Luck that comes because you work so hard and stay busy that luck eventually finds you is called what?",
+      "options": [
+        "Blind luck",
+        "Hustle luck",
+        "Skill luck",
+        "Unique luck"
+      ],
+      "correct": 1,
+      "answer": "Hustle luck: your effort makes luck find you."
+    },
+    {
+      "id": "luck-4681a29708",
+      "type": "riddle",
+      "difficulty": "medium",
+      "prompt": "I happen outside your control, with no intervention from you, and people often call me fate. Which type of luck am I?",
+      "answer": "Blind luck."
+    },
+    {
+      "id": "luck-31877b3545",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A veteran designer spots a rare opportunity others miss, thanks to years of knowledge and experience. Which type of luck is this?",
+      "answer": "Skill luck: being very good in your field helps you recognise luck when it shows up.",
+      "explanation": "Naval's idea: statistically, luck can be created."
+    },
+    {
+      "id": "luck-35fad9253e",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "Luck can only ever be pure chance; you can never create it.",
+      "correct": false,
+      "answer": "Statistically, luck can be created, e.g. through hustle, skill and unique attributes."
+    }
+  ]
+}

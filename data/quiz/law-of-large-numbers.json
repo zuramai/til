@@ -1,0 +1,76 @@
+{
+  "slug": "law-of-large-numbers",
+  "title": "Law of Large Numbers",
+  "url": "/law-of-large-numbers/",
+  "sourceHash": "d78c3483151f5521104c472da792f3ed5bba02e55a4502301a24953257d3c2c7",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.147Z",
+  "cards": [
+    {
+      "id": "law-of-large-numbers-5461051bb1",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Apa isi Law of Large Numbers?",
+      "answer": "Semakin banyak sampel random (n), rata-ratanya semakin dekat dengan expected value."
+    },
+    {
+      "id": "law-of-large-numbers-a766a4cdfb",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Semakin banyak koin dilempar, proporsi angka mendekati expected value yaitu ____.",
+      "answer": "50%"
+    },
+    {
+      "id": "law-of-large-numbers-1a6a5f87f8",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Syarat apa yang dibutuhkan agar hukum ini bekerja sesuai ekspektasi?",
+      "options": [
+        "Independence (fresh randomness)",
+        "Data harus berurutan",
+        "Sampel harus sedikit",
+        "Hasil sebelumnya mempengaruhi berikutnya"
+      ],
+      "correct": 0,
+      "answer": "Independence: data random tidak dipengaruhi data sebelumnya."
+    },
+    {
+      "id": "law-of-large-numbers-a9e3601da4",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Mana yang BUKAN contoh independence?",
+      "options": [
+        "Lempar koin",
+        "Lempar koin lagi",
+        "Lempar koin ketiga",
+        "Mengambil kartu tanpa pengembalian dari deck 52 kartu"
+      ],
+      "correct": 3,
+      "answer": "Pengambilan kartu tanpa pengembalian bergantung pada kartu sebelumnya."
+    },
+    {
+      "id": "law-of-large-numbers-128e2104bb",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Kamu mengambil kartu pertama dari deck 52 dan dapat As. Berapa peluang kartu kedua juga As?",
+      "answer": "3/51 (sekitar 0.058), karena sisa As tinggal 3 dari 51 kartu.",
+      "explanation": "Sebelum itu peluang As adalah 4/52 (0.076); jika kartu pertama bukan As, peluangnya 4/51."
+    },
+    {
+      "id": "law-of-large-numbers-affea8402c",
+      "type": "myth_or_fact",
+      "difficulty": "hard",
+      "prompt": "Jika kartu pertama bukan As, peluang kartu kedua As tetap 4/52.",
+      "correct": false,
+      "answer": "Mitos: peluangnya menjadi 4/51 karena deck berkurang satu kartu."
+    },
+    {
+      "id": "law-of-large-numbers-a1c502d16b",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: kenapa lemparan koin disebut independen?",
+      "answer": "Setiap lemparan tidak ingat hasil sebelumnya. Peluang angka atau gambar selalu 0.5."
+    }
+  ]
+}

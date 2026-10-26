@@ -1,0 +1,47 @@
+{
+  "slug": "airpods-effect",
+  "title": "Airpods Effect",
+  "url": "/airpods-effect/",
+  "sourceHash": "c0451ce5cacc661ddbcec5d426e855fdd1b32f9e72edb624e2336e71313741ff",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.119Z",
+  "cards": [
+    {
+      "id": "airpods-effect-ffe19df3df",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What does the 'AirPods effect' say about heavy headphone use and feelings?",
+      "answer": "Heavy headphone use makes people feel lonelier."
+    },
+    {
+      "id": "airpods-effect-8a5609838c",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Heavy headphone users are more likely to have a meaningful conversation with someone new.",
+      "correct": false,
+      "answer": "Myth: they are less likely to have one."
+    },
+    {
+      "id": "airpods-effect-e62f01c42b",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Why did many surveyed people say they wore headphones?",
+      "options": [
+        "To avoid talking to others",
+        "For better sound quality only",
+        "Because of work rules",
+        "To sleep better"
+      ],
+      "correct": 0,
+      "answer": "Partly to avoid having to talk to other people."
+    },
+    {
+      "id": "airpods-effect-a900eb1d2e",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "On a train, you always wear headphones to avoid chatting. Based on the survey, what might happen over time?",
+      "answer": "You may feel lonelier and be less likely to have meaningful conversations with new people."
+    }
+  ]
+}

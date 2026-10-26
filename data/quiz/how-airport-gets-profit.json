@@ -1,0 +1,39 @@
+{
+  "slug": "how-airport-gets-profit",
+  "title": "How Airport Gets Profit",
+  "url": "/how-airport-gets-profit/",
+  "sourceHash": "53e477e2c9d7e98290dd494086fc614c26599b26e205d49b93675103246ab709",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.137Z",
+  "cards": [
+    {
+      "id": "how-airport-gets-profit-1e32928de7",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "How do airports mainly make money from their facilities?",
+      "answer": "By leasing facilities to entities such as retail shops, airlines, and air-freight companies."
+    },
+    {
+      "id": "how-airport-gets-profit-ffd8ec8466",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Which is NOT mentioned as an airport income source?",
+      "options": [
+        "Parking fees",
+        "Fuel",
+        "Leasing to retail shops",
+        "Selling plane tickets"
+      ],
+      "correct": 3,
+      "answer": "Selling plane tickets is done by airlines; airports earn from leases, parking, and fuel."
+    },
+    {
+      "id": "how-airport-gets-profit-6bff69083b",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You run an airport and want more income without building new runways. What options fit?",
+      "answer": "Lease more space to shops, airlines, and freight firms, and earn from parking fees and fuel."
+    }
+  ]
+}
