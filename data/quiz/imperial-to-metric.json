@@ -1,0 +1,104 @@
+{
+  "slug": "imperial-to-metric",
+  "title": "Imperial to Metric Measurement System",
+  "url": "/imperial-to-metric/",
+  "sourceHash": "b5dd9a77f2ecdfb39fa467cba0fcf40e36e4f9da9f47fec283635f2b9288ffe3",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.142Z",
+  "cards": [
+    {
+      "id": "imperial-to-metric-85e515abdc",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "How many centimeters are in one inch?",
+      "answer": "2.54 cm"
+    },
+    {
+      "id": "imperial-to-metric-93a9a192be",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "One US pound equals 16 ounces, which is about ____ grams.",
+      "answer": "454"
+    },
+    {
+      "id": "imperial-to-metric-fad7ce590f",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "One US gallon is made of how many quarts?",
+      "options": [
+        "2",
+        "4",
+        "8",
+        "16"
+      ],
+      "correct": 1,
+      "answer": "4 quarts make 1 gallon (about 3.78 litres)."
+    },
+    {
+      "id": "imperial-to-metric-6bd49b41da",
+      "type": "sequence",
+      "difficulty": "medium",
+      "prompt": "Order these US length units from smallest to largest.",
+      "items": [
+        "Inch",
+        "Foot",
+        "Yard",
+        "Mile"
+      ],
+      "answer": "Inch, then foot (12 inches), yard (3 feet), and mile (5280 feet)."
+    },
+    {
+      "id": "imperial-to-metric-f7a337887d",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "The US uses the exact same imperial system as Britain.",
+      "correct": false,
+      "answer": "The US uses the U.S. Customary System, which is derived from the older British Imperial System."
+    },
+    {
+      "id": "imperial-to-metric-87ca9ce78a",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "What is the formula to convert Fahrenheit to Celsius?",
+      "answer": "Celsius = (Fahrenheit - 32) x 5/9"
+    },
+    {
+      "id": "imperial-to-metric-a7f11fe598",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A recipe from a US site asks for 2 cups of milk, but you only have a measuring jug in millilitres. Roughly how much should you pour?",
+      "answer": "About 473 ml, since 1 cup is roughly 236.6 ml.",
+      "explanation": "2 cups also equals 1 pint."
+    },
+    {
+      "id": "imperial-to-metric-7818d9733a",
+      "type": "mcq",
+      "difficulty": "hard",
+      "prompt": "A road sign says a town is 5 miles away. About how far is that in kilometers?",
+      "options": [
+        "About 3 km",
+        "About 5 km",
+        "About 8 km",
+        "About 16 km"
+      ],
+      "correct": 2,
+      "answer": "About 8 km, because 1 mile is roughly 1.609 km."
+    },
+    {
+      "id": "imperial-to-metric-c68fabd897",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Which of these is NOT a unit of volume?",
+      "options": [
+        "Pint",
+        "Quart",
+        "Ounce (oz) as weight",
+        "Cup"
+      ],
+      "correct": 2,
+      "answer": "The ounce (oz) used for weight is a unit of mass, while pint, quart and cup measure volume.",
+      "explanation": "Do not confuse it with the fluid ounce, which measures volume."
+    }
+  ]
+}

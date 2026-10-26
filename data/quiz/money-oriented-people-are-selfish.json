@@ -1,0 +1,47 @@
+{
+  "slug": "money-oriented-people-are-selfish",
+  "title": "Money Oriented People Are Selfish",
+  "url": "/money-oriented-people-are-selfish/",
+  "sourceHash": "fcbe7bad4da2dd7ffb431721b289ca0322c317464da047a0221c169291ac6fba",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.150Z",
+  "cards": [
+    {
+      "id": "money-oriented-people-are-selfish-271594ac1b",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What do studies suggest about wealthy upper-class people's focus?",
+      "answer": "They tend to focus more on their own interests."
+    },
+    {
+      "id": "money-oriented-people-are-selfish-2636cbad0a",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "People from lower social classes tend to feel more compassion for others' suffering.",
+      "correct": true,
+      "answer": "A study found lower-class people are more likely to show compassion."
+    },
+    {
+      "id": "money-oriented-people-are-selfish-0d207ffe7f",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why do money-oriented people often refuse to help others?",
+      "answer": "They think every effort must give money back. If helping doesn't pay, it feels like a waste to them."
+    },
+    {
+      "id": "money-oriented-people-are-selfish-7c039eb2c9",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A strongly profit-driven developer is asked to contribute to an open-source project for free. What is the likely reaction?",
+      "answer": "Likely to refuse contributing but may use the project for personal profit."
+    },
+    {
+      "id": "money-oriented-people-are-selfish-e12b549e6a",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Money-oriented people believe effort should match the financial ____ they receive.",
+      "answer": "reward"
+    }
+  ]
+}

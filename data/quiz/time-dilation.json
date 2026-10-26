@@ -1,0 +1,63 @@
+{
+  "slug": "time-dilation",
+  "title": "Time Dilation",
+  "url": "/time-dilation/",
+  "sourceHash": "35031b90da5e23d08bea09c0bc2e7433bdc4cdbaf49b94b475f70a4edd140f61",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.160Z",
+  "cards": [
+    {
+      "id": "time-dilation-5e90024277",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What two factors cause time to run slower according to Einstein's relativity?",
+      "answer": "High velocity and a stronger gravitational field."
+    },
+    {
+      "id": "time-dilation-236d9bee7f",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Astronauts age slightly less than people on Earth because of their high orbital speed.",
+      "correct": true,
+      "answer": "Fact: high speed slows time slightly."
+    },
+    {
+      "id": "time-dilation-09f736078c",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: what is gravity according to relativity?",
+      "answer": "Gravity is not just a pull. Heavy things bend space and time like a bowling ball on a trampoline, so nearby things follow the curve.",
+      "explanation": "Gravity is a curvature of 4D spacetime caused by mass and energy."
+    },
+    {
+      "id": "time-dilation-dd70b1d272",
+      "type": "mcq",
+      "difficulty": "hard",
+      "prompt": "Why does time slow down near a massive object?",
+      "options": [
+        "Light slows down near mass",
+        "The speed of light is constant, so time compensates for curved spacetime",
+        "Mass absorbs time",
+        "Clocks break in strong fields"
+      ],
+      "correct": 1,
+      "answer": "The speed of light is constant, so time slows to compensate for the longer, curved path through spacetime."
+    },
+    {
+      "id": "time-dilation-4e98390949",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Two twins: one lives on a high-gravity planet, the other far from any mass. Whose clock ticks slower?",
+      "answer": "The twin in the stronger gravitational field, because spacetime is more stretched there.",
+      "explanation": "Closer to stronger gravity means more stretched spacetime."
+    },
+    {
+      "id": "time-dilation-5ba4db4f3e",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Gravity is a curvature of ____ space and time caused by mass and energy.",
+      "answer": "4D"
+    }
+  ]
+}

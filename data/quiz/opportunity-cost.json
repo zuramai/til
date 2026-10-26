@@ -1,0 +1,62 @@
+{
+  "slug": "opportunity-cost",
+  "title": "Opportunity Cost",
+  "url": "/opportunity-cost/",
+  "sourceHash": "84e1ff87737d65c07c56305d03361bd1001d72975412f1cc255c61c76867cca4",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.152Z",
+  "cards": [
+    {
+      "id": "opportunity-cost-44571a9da0",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is opportunity cost?",
+      "answer": "The loss of potential gain from the other alternatives when one alternative is chosen."
+    },
+    {
+      "id": "opportunity-cost-dd4675ca73",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Every time you decide something, you lose the ____ you did not take.",
+      "answer": "choices (alternatives)"
+    },
+    {
+      "id": "opportunity-cost-99bb12e00f",
+      "type": "scenario",
+      "difficulty": "medium",
+      "prompt": "You play a game for two hours tonight. Name opportunity costs of that choice.",
+      "answer": "The time you could have used to study, sleep, exercise or do chores.",
+      "explanation": "The cost is what you give up, not only money."
+    },
+    {
+      "id": "opportunity-cost-a96bfb8ebb",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Choosing not to do something, like skipping a coffee, is not a decision.",
+      "correct": false,
+      "answer": "Both positive and negative actions are decisions."
+    },
+    {
+      "id": "opportunity-cost-15e968499c",
+      "type": "mcq",
+      "difficulty": "hard",
+      "prompt": "Why is doomscrolling short videos costly beyond wasted time?",
+      "options": [
+        "It trades away everything else you could gain in that time",
+        "It makes the phone battery cost money",
+        "It always feels bad",
+        "It removes all dopamine permanently"
+      ],
+      "correct": 0,
+      "answer": "It gives a quick dopamine hit but silently trades away every other gain."
+    },
+    {
+      "id": "opportunity-cost-c8ab579e25",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why does picking one thing always cost you something else?",
+      "answer": "You only have so much time. If you spend it on one thing, you cannot spend it on the others, and those lost things are the cost."
+    }
+  ]
+}

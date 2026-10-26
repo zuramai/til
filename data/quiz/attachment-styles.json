@@ -1,0 +1,103 @@
+{
+  "slug": "attachment-styles",
+  "title": "Attachment Theory in Relationship",
+  "url": "/attachment-styles/",
+  "sourceHash": "d71b7f09b30fcd6c4f32d71f5eb8e2bf7a3d62c5d2924ad6bd90e7631aacbd62",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.122Z",
+  "cards": [
+    {
+      "id": "attachment-styles-cf848035dc",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What are the four attachment styles in relationships?",
+      "answer": "Secure, anxious, avoidant, and disorganized."
+    },
+    {
+      "id": "attachment-styles-9c2f23afb1",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "Who identified the fourth, \"disorganized\" attachment style?",
+      "options": [
+        "John Bowlby",
+        "Mary Ainsworth",
+        "Mary Main",
+        "Sigmund Freud"
+      ],
+      "correct": 2,
+      "answer": "Mary Main, after Mary Ainsworth had described secure, anxious, and avoidant."
+    },
+    {
+      "id": "attachment-styles-391789e98c",
+      "type": "riddle",
+      "difficulty": "medium",
+      "prompt": "I crave closeness but struggle to trust, I fixate on my partner and overreact to any threat to the relationship. Which attachment style am I?",
+      "answer": "Anxious attachment"
+    },
+    {
+      "id": "attachment-styles-8d1d78d9c6",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "People with an avoidant attachment style truly do not need close relationships at all.",
+      "correct": false,
+      "answer": "Even avoidant people still want meaningful relationships, even if they believe they do not need them."
+    },
+    {
+      "id": "attachment-styles-a263a64bdf",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "The secure attachment style is characterized by being comfortable with ____ and feeling safe and stable in relationships.",
+      "answer": "intimacy"
+    },
+    {
+      "id": "attachment-styles-48c7ff3946",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which style craves love and security but also feels unworthy, often linked to childhood abuse, neglect, or trauma?",
+      "options": [
+        "Secure",
+        "Anxious",
+        "Avoidant",
+        "Disorganized"
+      ],
+      "correct": 3,
+      "answer": "Disorganized attachment; intimate relationships feel confusing."
+    },
+    {
+      "id": "attachment-styles-aaa73e803f",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Your partner leaves for a weekend trip and you keep sending guilt-laden messages to pull them back. Which attachment style does this suggest, and which behavior shows it?",
+      "answer": "Anxious attachment: using guilt and manipulative behavior to keep a partner close when apart."
+    },
+    {
+      "id": "attachment-styles-02eaeaf43b",
+      "type": "mcq",
+      "difficulty": "hard",
+      "prompt": "Which trait fits the avoidant style?",
+      "options": [
+        "Bouncing back easily from disappointment",
+        "Disregarding partner feelings to protect freedom",
+        "Obsessing over the other person",
+        "Being controlling and explosive from confusion"
+      ],
+      "correct": 1,
+      "answer": "Avoidant people value freedom and may disregard their partner's feelings to keep it."
+    },
+    {
+      "id": "attachment-styles-a4202e7c84",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Which is the odd one out among the attachment styles?",
+      "options": [
+        "Secure",
+        "Anxious",
+        "Avoidant",
+        "Extroverted"
+      ],
+      "correct": 3,
+      "answer": "Extroverted is a personality trait, not one of the four attachment styles."
+    }
+  ]
+}

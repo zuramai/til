@@ -1,0 +1,53 @@
+{
+  "slug": "new-english-vocabularies",
+  "title": "New English Vocabularies",
+  "url": "/new-english-vocabularies/",
+  "sourceHash": "b2491611af46421eeb3e528e4df9e2dff4ded9b72f299640e600c672007b0f79",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.151Z",
+  "cards": [
+    {
+      "id": "new-english-vocabularies-e56b058737",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What does 'stalemate' mean?",
+      "answer": "A standstill where neither side can move to win; kebuntuan."
+    },
+    {
+      "id": "new-english-vocabularies-96f41b42ba",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "What does 'unwitting' mean?",
+      "options": [
+        "Very clever",
+        "Unaware or unintentional",
+        "Angry",
+        "Lazy"
+      ],
+      "correct": 1,
+      "answer": "Unaware or unintentional, as in an unwitting mistake."
+    },
+    {
+      "id": "new-english-vocabularies-bfe6ea4281",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Which word means 'inclined to ask questions; curious'?",
+      "answer": "Inquisitive."
+    },
+    {
+      "id": "new-english-vocabularies-175842f4bb",
+      "type": "riddle",
+      "difficulty": "hard",
+      "prompt": "I am a close, harmonious connection built on mutual understanding and trust. What word am I?",
+      "answer": "Rapport."
+    },
+    {
+      "id": "new-english-vocabularies-d4b2228ec7",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A meeting lasts two hours longer than planned. Which phrasal verb fits?",
+      "answer": "The meeting dragged on."
+    }
+  ]
+}

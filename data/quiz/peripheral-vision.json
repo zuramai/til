@@ -1,0 +1,60 @@
+{
+  "slug": "peripheral-vision",
+  "title": "Peripheral Vision",
+  "url": "/peripheral-vision/",
+  "sourceHash": "c00078fd5b7ab7cc4cf2491b0ddee7dd0eb1b9f70eca16eb9b1543dd8a6ee838",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.153Z",
+  "cards": [
+    {
+      "id": "peripheral-vision-737a685861",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is peripheral vision?",
+      "answer": "The ability to see objects or movement outside your direct line of sight, at the corner of the eyes without moving your head."
+    },
+    {
+      "id": "peripheral-vision-ecec47128a",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "Paracentral vision is narrow, extending about 10 to 20 degrees from the ____ of gaze.",
+      "answer": "center"
+    },
+    {
+      "id": "peripheral-vision-296716f79f",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which is the vision type that focuses on only a small part of the area in front of you?",
+      "options": [
+        "Paracentral vision",
+        "Peripheral vision",
+        "Night vision",
+        "Color vision"
+      ],
+      "correct": 0,
+      "answer": "Paracentral vision, narrow around the center of gaze."
+    },
+    {
+      "id": "peripheral-vision-2772c0ffab",
+      "type": "odd_one_out",
+      "difficulty": "hard",
+      "prompt": "Which is NOT a benefit of peripheral vision?",
+      "options": [
+        "Staying aware of surroundings",
+        "Safer driving",
+        "Avoiding tripping when running",
+        "Reading small text sharply"
+      ],
+      "correct": 3,
+      "answer": "Sharp reading is a central-focus task; peripheral vision is for awareness."
+    },
+    {
+      "id": "peripheral-vision-cc57d33296",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You are driving and a cyclist appears at the edge of your view while you look ahead. Which ability notices it?",
+      "answer": "Peripheral vision, which detects movement outside your direct line of sight without turning your head."
+    }
+  ]
+}

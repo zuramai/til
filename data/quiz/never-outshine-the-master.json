@@ -1,0 +1,47 @@
+{
+  "slug": "never-outshine-the-master",
+  "title": "Never Outshine the Master",
+  "url": "/never-outshine-the-master/",
+  "sourceHash": "2dac5aed226d7cc0b4ad72a7715920182e6383de94eaf08964486a84e2286c3c",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.151Z",
+  "cards": [
+    {
+      "id": "never-outshine-the-master-28f94c1651",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is the first law in 48 Laws of Power?",
+      "answer": "Never outshine the master."
+    },
+    {
+      "id": "never-outshine-the-master-4a94d8ba27",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why shouldn't you look smarter than your boss?",
+      "answer": "Bosses who feel threatened may not help you. If they feel brilliant, they'll want to promote you."
+    },
+    {
+      "id": "never-outshine-the-master-f595bb8f3f",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You already know the answer, but your boss is leading the meeting. What does strategic humility say to do?",
+      "answer": "Ask for advice anyway and let them shine."
+    },
+    {
+      "id": "never-outshine-the-master-26ce837174",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "The goal is to make them want to ____ you rather than feel threatened.",
+      "answer": "promote"
+    },
+    {
+      "id": "never-outshine-the-master-a7dae4a265",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Being perfect keeps you safe from a master's jealousy.",
+      "correct": false,
+      "answer": "Being perfect is a threat; make harmless mistakes."
+    }
+  ]
+}

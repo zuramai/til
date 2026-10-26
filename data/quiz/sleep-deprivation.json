@@ -1,0 +1,89 @@
+{
+  "slug": "sleep-deprivation",
+  "title": "Sleep Deprivation",
+  "url": "/sleep-deprivation/",
+  "sourceHash": "963b3e6586dd892b82ee6a1e9e75d71063318cae5eebda8b2d4677dddfd3fd64",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.156Z",
+  "cards": [
+    {
+      "id": "sleep-deprivation-32d2d680e9",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "How many hours of sleep do adults (18+) need?",
+      "answer": "7 to 9 hours."
+    },
+    {
+      "id": "sleep-deprivation-59e8d01350",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which age group needs the most sleep?",
+      "options": [
+        "Newborns",
+        "Teenagers",
+        "Adults",
+        "Children 6 to 12"
+      ],
+      "correct": 0,
+      "answer": "Newborns (up to 3 months): 14 to 17 hours."
+    },
+    {
+      "id": "sleep-deprivation-f9e5704e13",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Teenagers (13 to 18) need ____ hours of sleep.",
+      "answer": "8 to 10"
+    },
+    {
+      "id": "sleep-deprivation-2b56cdf78a",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Which is NOT a listed effect of sleep deprivation?",
+      "options": [
+        "Slower reaction time",
+        "Irritability",
+        "Loss of productivity",
+        "Better emotional regulation"
+      ],
+      "correct": 3,
+      "answer": "Better emotional regulation: the opposite; sleep loss degrades it."
+    },
+    {
+      "id": "sleep-deprivation-2ad62940c3",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Missing sleep regularly can raise the risk of cognitive decline and dementia.",
+      "correct": true,
+      "answer": "Fact: sleep deprivation is linked to increased risk of cognitive decline and dementia."
+    },
+    {
+      "id": "sleep-deprivation-f5cc7501cc",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Your friend snaps at everyone and forgets things after sleeping 4 hours a night for weeks. What is a likely cause?",
+      "answer": "Sleep deprivation: it causes irritability from degraded emotional regulation and trouble thinking and remembering."
+    },
+    {
+      "id": "sleep-deprivation-3606486139",
+      "type": "sequence",
+      "difficulty": "medium",
+      "prompt": "Order these age groups by recommended sleep, most to least.",
+      "items": [
+        "Newborns",
+        "Infants",
+        "Young children",
+        "Teenagers",
+        "Adults"
+      ],
+      "answer": "Newborns, infants, young children, children, teenagers, adults."
+    },
+    {
+      "id": "sleep-deprivation-ecdf8b0f02",
+      "type": "recall",
+      "difficulty": "hard",
+      "prompt": "Name mental health problems that increase with sleep deprivation.",
+      "answer": "Anxiety and depression."
+    }
+  ]
+}

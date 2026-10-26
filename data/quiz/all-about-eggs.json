@@ -1,0 +1,97 @@
+{
+  "slug": "all-about-eggs",
+  "title": "All About Eggs and Chicken",
+  "url": "/all-about-eggs/",
+  "sourceHash": "d43a37628c0faf2e811c036a41bbb63caf40b5a28aac1bf8e36cbb80053eef13",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.120Z",
+  "cards": [
+    {
+      "id": "all-about-eggs-ee9dca7df2",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is a broiler chicken, and at what age is it typically slaughtered?",
+      "answer": "A chicken breed farmed for meat, slaughtered at 6-7 weeks."
+    },
+    {
+      "id": "all-about-eggs-d95398133c",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is the chicken type used for egg production called?",
+      "answer": "Layer breed chicken (ayam petelur)."
+    },
+    {
+      "id": "all-about-eggs-3c0a40c68b",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "As an egg ages, what happens to its pH and why?",
+      "options": [
+        "Falls from 9.2 to 7.6 as it absorbs CO2",
+        "Rises from 7.6 to 9.2 as it loses CO2",
+        "Stays constant",
+        "Rises because it absorbs water"
+      ],
+      "correct": 1,
+      "answer": "It rises from 7.6 to 9.2 because it loses CO2."
+    },
+    {
+      "id": "all-about-eggs-d0f995d5f7",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why are very fresh eggs harder to peel after boiling?",
+      "answer": "In a fresh egg the inner shell membrane sticks tightly to the egg white protein. Storing it for about a week in the fridge loosens that, so it peels easier."
+    },
+    {
+      "id": "all-about-eggs-620b7e3bef",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You want eggs that are easy to peel and also very fresh for tomorrow's breakfast. What's the tradeoff?",
+      "answer": "You must choose: freshness or easy peeling. Fresh eggs peel poorly; a week-old fridge-stored egg peels easier."
+    },
+    {
+      "id": "all-about-eggs-8f52d96f64",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "A hen needs a rooster to lay eggs.",
+      "correct": false,
+      "answer": "Myth: hens lay unfertilized eggs without a rooster, triggered by daylight length hormones."
+    },
+    {
+      "id": "all-about-eggs-43d56ed4c6",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "A layer hen can produce about ____ unfertilized eggs a year.",
+      "answer": "250-300"
+    },
+    {
+      "id": "all-about-eggs-64f1b47499",
+      "type": "mcq",
+      "difficulty": "hard",
+      "prompt": "What mainly makes omega eggs different from conventional ones?",
+      "options": [
+        "Different hen species only",
+        "The hens' diet, like flaxseed",
+        "Added chemicals after laying",
+        "Rooster fertilization"
+      ],
+      "correct": 1,
+      "answer": "The hens' diet, rich in omega sources like flaxseed."
+    },
+    {
+      "id": "all-about-eggs-84b90370d4",
+      "type": "myth_or_fact",
+      "difficulty": "hard",
+      "prompt": "Omega eggs have much more DHA than conventional eggs (about 100-225 mg vs 25-50 mg).",
+      "correct": true,
+      "answer": "Fact: omega eggs contain far more DHA."
+    },
+    {
+      "id": "all-about-eggs-9ff9f32d9a",
+      "type": "recall",
+      "difficulty": "hard",
+      "prompt": "What happens to an unproductive layer chicken, and how does its meat compare to broiler?",
+      "answer": "It is sold for consumption; the meat is usually a bit thicker in texture than broiler."
+    }
+  ]
+}

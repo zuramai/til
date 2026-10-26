@@ -1,0 +1,32 @@
+{
+  "slug": "the-oldest-profession-in-the-world",
+  "title": "The Oldest Profession in the World",
+  "url": "/the-oldest-profession-in-the-world/",
+  "sourceHash": "882d73a3e9931599ec1d71e7101558f565eacf3a693a584ddb168a302b67334a",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.159Z",
+  "cards": [
+    {
+      "id": "the-oldest-profession-in-the-world-0f154666d7",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is prostitution, and what phrase is it often called?",
+      "answer": "Engaging in sexual activity for money or equivalent; it is called the oldest profession in the world."
+    },
+    {
+      "id": "the-oldest-profession-in-the-world-519fd1e6ee",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Where in the US is paying for sex legal?",
+      "options": [
+        "Nowhere in the US",
+        "Everywhere in the US",
+        "Several counties in Nevada",
+        "Only in California"
+      ],
+      "correct": 2,
+      "answer": "Only in several counties in Nevada."
+    }
+  ]
+}

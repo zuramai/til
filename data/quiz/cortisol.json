@@ -1,0 +1,95 @@
+{
+  "slug": "cortisol",
+  "title": "Cortisol",
+  "url": "/cortisol/",
+  "sourceHash": "92a77f583a04a8f5950fb5ee2b46ac9da0605a105dc6fc0c8b13c2d65eccd78d",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.129Z",
+  "cards": [
+    {
+      "id": "cortisol-04923f71e0",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Where is cortisol made?",
+      "answer": "In the cortex of the adrenal gland, above the kidney."
+    },
+    {
+      "id": "cortisol-f2a54439a8",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Cortisol is called the ____ hormone.",
+      "answer": "stress"
+    },
+    {
+      "id": "cortisol-8973c27edf",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: how does cortisol help in a scary situation?",
+      "answer": "Cortisol wakes your brain up and tells your liver to dump sugar into the blood for instant energy, so you can fight or run."
+    },
+    {
+      "id": "cortisol-8e94847357",
+      "type": "sequence",
+      "difficulty": "hard",
+      "prompt": "Order how stress raises cortisol.",
+      "items": [
+        "Hypothalamus detects threat",
+        "ACTH is released into the bloodstream",
+        "Cortisol rises",
+        "Body enters fight or flight"
+      ],
+      "answer": "Threat detected, ACTH released, cortisol rises, then fight or flight."
+    },
+    {
+      "id": "cortisol-91e58699c6",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which brain area is hurt by constant high cortisol?",
+      "options": [
+        "Cerebellum",
+        "Hippocampus",
+        "Brainstem",
+        "Cortex"
+      ],
+      "correct": 1,
+      "answer": "The hippocampus, for memory and navigation."
+    },
+    {
+      "id": "cortisol-618d2a7786",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Constantly high cortisol is harmless for the brain.",
+      "correct": false,
+      "answer": "Myth: it is toxic to the hippocampus, kills neurons and causes brain fog."
+    },
+    {
+      "id": "cortisol-bcc451b82e",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A student under months of stress forgets things and feels foggy. Which mechanism links this?",
+      "answer": "Chronic high cortisol harms the hippocampus, killing neurons, causing brain fog."
+    },
+    {
+      "id": "cortisol-a778b278b4",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Which is NOT part of the fight or flight response from cortisol?",
+      "options": [
+        "Narrower focus",
+        "Higher heart rate",
+        "Blood sugar spike",
+        "Slower heart rate"
+      ],
+      "correct": 3,
+      "answer": "Slower heart rate; heart rate increases."
+    },
+    {
+      "id": "cortisol-d037f52142",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "What does 'Gluco' in glucocorticoid refer to?",
+      "answer": "Glucose or sugar."
+    }
+  ]
+}

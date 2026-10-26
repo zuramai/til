@@ -1,0 +1,61 @@
+{
+  "slug": "how-to-make-an-event-interesting",
+  "title": "How to Make an Event Interesting",
+  "url": "/how-to-make-an-event-interesting/",
+  "sourceHash": "1ac4ca666b9f90dbceb0244b9f2631aec5ad77d7db7638f2f9dbaf67f745a475",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.139Z",
+  "cards": [
+    {
+      "id": "how-to-make-an-event-interesting-f8de7d5d42",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What qualities should an event's MC have?",
+      "answer": "Interesting, engaging, and uplifting, with few filler words and confident body gestures."
+    },
+    {
+      "id": "how-to-make-an-event-interesting-407074f36c",
+      "type": "scenario",
+      "difficulty": "medium",
+      "prompt": "An MC wants every audience member to feel involved. What ice breaking trick did DevFest Bandung use?",
+      "answer": "The MC asked the three people with the most coins in their pockets to come to the stage for merchandise, so everyone started counting coins."
+    },
+    {
+      "id": "how-to-make-an-event-interesting-3b3bac1773",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "A good event should spend most of its time on promotion.",
+      "correct": false,
+      "answer": "Myth: add real content instead of promotion with nothing actually said."
+    },
+    {
+      "id": "how-to-make-an-event-interesting-5fd50301e4",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which is the top priority when planning an event?",
+      "options": [
+        "Sponsors' logos",
+        "Audience experience",
+        "Long speeches",
+        "Venue decoration"
+      ],
+      "correct": 1,
+      "answer": "Audience experience is the top priority; people like free stuff and hate hassle."
+    },
+    {
+      "id": "how-to-make-an-event-interesting-30997c01dc",
+      "type": "recall",
+      "difficulty": "hard",
+      "prompt": "How can audience flow reduce cognitive effort at an event?",
+      "answer": "Put clear signs for navigation, such as where the toilet is, so people don't have to think."
+    },
+    {
+      "id": "how-to-make-an-event-interesting-f549544375",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "To keep the audience happy, reduce waiting ____.",
+      "answer": "time"
+    }
+  ]
+}

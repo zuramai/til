@@ -1,0 +1,103 @@
+{
+  "slug": "basic-linked-list-rust",
+  "title": "Basic Linked List Rust",
+  "url": "/basic-linked-list-rust/",
+  "sourceHash": "1ed6c7868dcf26f5ae50deb6a56a84140da77777878215854acb536f33e64d63",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.123Z",
+  "cards": [
+    {
+      "id": "basic-linked-list-rust-f4ce22536d",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Which Rust types are used together here to get interior mutability for shared linked list nodes?",
+      "answer": "Rc<RefCell<...>>"
+    },
+    {
+      "id": "basic-linked-list-rust-3af58d3c88",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "Why wrap each node in RefCell inside an Rc?",
+      "options": [
+        "Rc allows shared ownership, RefCell allows mutation through shared references",
+        "To make nodes immutable",
+        "To make it thread safe",
+        "To avoid heap allocation"
+      ],
+      "correct": 0,
+      "answer": "Rc gives multiple owners; RefCell lets you mutate the node even through shared access."
+    },
+    {
+      "id": "basic-linked-list-rust-61b19c704d",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "In this list, the head is a sentinel node whose val is ____.",
+      "answer": "None"
+    },
+    {
+      "id": "basic-linked-list-rust-a66566bc63",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: how does push find where to add a new item in this linked list?",
+      "answer": "It starts at the head and keeps following next links node by node. When it finds a node whose next is empty, that is the end, so it attaches the new node there."
+    },
+    {
+      "id": "basic-linked-list-rust-15240fd630",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "What condition ends the traversal when finding the last node?",
+      "options": [
+        "next is_none",
+        "val is None",
+        "head equals tail",
+        "borrow fails"
+      ],
+      "correct": 0,
+      "answer": "The last node is the one whose next is None."
+    },
+    {
+      "id": "basic-linked-list-rust-2df5424bb3",
+      "type": "sequence",
+      "difficulty": "hard",
+      "prompt": "Order how pop works.",
+      "items": [
+        "Start prev at the head sentinel",
+        "Set curr to prev.next",
+        "Look at the next of curr",
+        "If curr.next is None, cut prev.next",
+        "Otherwise advance prev and curr"
+      ],
+      "answer": "It walks with prev and curr and cuts prev.next when curr is the last node."
+    },
+    {
+      "id": "basic-linked-list-rust-1449eff53a",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which Rust method reads a node value through RefCell in a shared way?",
+      "options": [
+        "borrow()",
+        "move()",
+        "unwrap_mut()",
+        "lock()"
+      ],
+      "correct": 0,
+      "answer": "borrow() gives shared read access; borrow_mut() gives mutable access."
+    },
+    {
+      "id": "basic-linked-list-rust-75d7ddad9d",
+      "type": "myth_or_fact",
+      "difficulty": "hard",
+      "prompt": "Because of the head sentinel with None value, converting the list to a Vec skips the head.",
+      "correct": true,
+      "answer": "The into conversion starts from head.next, so the sentinel is skipped."
+    },
+    {
+      "id": "basic-linked-list-rust-31eb78125d",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You get a runtime panic that says already borrowed in code using Rc<RefCell>. What is the likely cause in terms of RefCell rules?",
+      "answer": "RefCell checks borrow rules at runtime: a mutable borrow while another borrow is active panics. Clone the next pointer and drop the borrow first."
+    }
+  ]
+}

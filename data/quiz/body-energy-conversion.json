@@ -1,0 +1,103 @@
+{
+  "slug": "body-energy-conversion",
+  "title": "Energy Conversion in Human Body",
+  "url": "/body-energy-conversion/",
+  "sourceHash": "3a68c93d6629156894a4c3aea5fb5475fe5c9062c175e49e1a4cbb1603f4afe7",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.125Z",
+  "cards": [
+    {
+      "id": "body-energy-conversion-5019efc3b2",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is BMR?",
+      "answer": "Basal metabolic rate, the rate of energy conversion while resting."
+    },
+    {
+      "id": "body-energy-conversion-1bc8b9555b",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is ATP often called?",
+      "answer": "The cell energy currency, like a recyclable battery."
+    },
+    {
+      "id": "body-energy-conversion-c59f3ec75f",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "The total amount of energy in the universe is constant, but it spreads out and increases ____.",
+      "answer": "entropy"
+    },
+    {
+      "id": "body-energy-conversion-c35791d727",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "What share of energy does BMR use?",
+      "options": [
+        "60-75%",
+        "15-30%",
+        "5-10%",
+        "90%"
+      ],
+      "correct": 0,
+      "answer": "BMR 60-75%, activity 15-30%, storage 5-10%."
+    },
+    {
+      "id": "body-energy-conversion-8940eee0bc",
+      "type": "recall",
+      "difficulty": "hard",
+      "prompt": "Using the formula for men, BMR for 50 kg, 170 cm, age 20?",
+      "answer": "1667.5 calories/day."
+    },
+    {
+      "id": "body-energy-conversion-ce149988c6",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Where does most carbohydrate digestion and absorption happen?",
+      "options": [
+        "Small intestine",
+        "Stomach",
+        "Large intestine",
+        "Mouth"
+      ],
+      "correct": 0,
+      "answer": "Mostly in the small intestine, then into the bloodstream."
+    },
+    {
+      "id": "body-energy-conversion-7801327918",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: what is ATP?",
+      "answer": "ATP is like a rechargeable battery in your cells. It is not energy itself but carries energy to be used and recharged."
+    },
+    {
+      "id": "body-energy-conversion-efa659ae19",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You eat more calories than you burn through BMR and activity. What happens and how does the body know?",
+      "answer": "Excess is stored as fat; the body monitors blood glucose and hormones to detect the energy imbalance."
+    },
+    {
+      "id": "body-energy-conversion-6ef1a82ded",
+      "type": "sequence",
+      "difficulty": "medium",
+      "prompt": "Order the energy path from food.",
+      "items": [
+        "Eat food",
+        "Digest with enzymes",
+        "Carbs become glucose",
+        "Absorbed into bloodstream",
+        "Converted to ATP"
+      ],
+      "answer": "Food is digested to glucose, absorbed, converted into ATP."
+    },
+    {
+      "id": "body-energy-conversion-4484bf0f89",
+      "type": "myth_or_fact",
+      "difficulty": "hard",
+      "prompt": "Energy used in the body decreases entropy.",
+      "correct": false,
+      "answer": "Using energy increases entropy, e.g., body heat spreads into the air."
+    }
+  ]
+}

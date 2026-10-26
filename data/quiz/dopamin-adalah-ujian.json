@@ -1,0 +1,82 @@
+{
+  "slug": "dopamin-adalah-ujian",
+  "title": "Dopamin Adalah Ujian",
+  "url": "/dopamin-adalah-ujian/",
+  "sourceHash": "757348c8e6741efe0d681244cd2896f2d64d58d284857d60260f25f018ea804a",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.131Z",
+  "cards": [
+    {
+      "id": "dopamin-adalah-ujian-83c2d7ba24",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Menurut tulisan ini, ujian hidup selalu berurusan dengan apa di otak?",
+      "answer": "Dopamin: ketiadaan dopamin atau dibanjiri dopamin."
+    },
+    {
+      "id": "dopamin-adalah-ujian-a38447dfde",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Mana yang termasuk 'kepenuhan dopamin' sedangkan yang lain 'ketiadaan dopamin'?",
+      "options": [
+        "Kemiskinan",
+        "Kekosongan",
+        "Kecemasan",
+        "Kekayaan"
+      ],
+      "correct": 3,
+      "answer": "Kekayaan adalah kepenuhan dopamin; kemiskinan, kekosongan, dan kecemasan adalah ketiadaan dopamin."
+    },
+    {
+      "id": "dopamin-adalah-ujian-fc1c1287c8",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Mengapa uang, hawa nafsu, dan ketenaran memicu dopamin?",
+      "options": [
+        "Karena membuat orang lebih suci",
+        "Karena mendorong survivabilitas",
+        "Karena murah dan mudah",
+        "Karena tren media sosial"
+      ],
+      "correct": 1,
+      "answer": "Karena semuanya mendorong survivabilitas manusia."
+    },
+    {
+      "id": "dopamin-adalah-ujian-5358257c87",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "Untuk bertahan hidup, manusia membutuhkan rumah mewah milyaran rupiah.",
+      "correct": false,
+      "answer": "Mitos: cukup basic needs seperti makan minum secukupnya, dan kontrakan sederhana pun bisa."
+    },
+    {
+      "id": "dopamin-adalah-ujian-39a8a33076",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "Pelepasan dopamin yang tinggi membuat manusia terlena sampai melupakan ____ dirinya.",
+      "answer": "kodrat"
+    },
+    {
+      "id": "dopamin-adalah-ujian-ef8b6c77dc",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Temanmu merasa tak bahagia karena gajinya di bawah standar 'dua digit' yang dikatakan orang. Bagaimana menanggapinya?",
+      "answer": "Standar bahagia dan kapan dopamin dilepas ditentukan oleh diri sendiri; banyak ayah berpenghasilan di bawah UMR yang tetap bahagia menafkahi keluarganya."
+    },
+    {
+      "id": "dopamin-adalah-ujian-f586e7c45d",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Jelaskan sederhana: kenapa media sosial membuat standar bahagia makin tinggi?",
+      "answer": "Medsos terus menunjukkan apa yang 'keren' sehingga kita merasa harus mengikutinya agar senang. Akibatnya standar kapan otak merasa puas ikut naik."
+    },
+    {
+      "id": "dopamin-adalah-ujian-d64462aa88",
+      "type": "riddle",
+      "difficulty": "easy",
+      "prompt": "Aku bisa jadi pedang bermata dua: kekurangan atau kelebihanku sama-sama jadi ujian. Siapa aku?",
+      "answer": "Dopamin"
+    }
+  ]
+}

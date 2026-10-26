@@ -1,0 +1,110 @@
+{
+  "slug": "rust-slow-compilation",
+  "title": "Rust Rust Rust: Pake Rust SEKARANG",
+  "url": "/rust-slow-compilation/",
+  "sourceHash": "899263ff6236b085056ca06bc0bfd9996eab4a5ec5dc7281fbed29f03d215a6b",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.155Z",
+  "cards": [
+    {
+      "id": "rust-slow-compilation-4951597a88",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Apa harga yang dibayar Rust demi runtime yang super cepat dan aman?",
+      "answer": "Build time yang lama."
+    },
+    {
+      "id": "rust-slow-compilation-ba2f71264c",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Mana yang BUKAN design principle Rust yang disebut membuatnya dikagumi?",
+      "options": [
+        "Memory safety tanpa garbage collector",
+        "Concurrency tanpa data race",
+        "Zero-cost abstraction",
+        "Garbage collector yang pintar"
+      ],
+      "correct": 3,
+      "answer": "Garbage collector adalah kebalikan dari prinsip memory safety tanpa GC."
+    },
+    {
+      "id": "rust-slow-compilation-982bfd1f9a",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Rust hanya mengizinkan satu ____ borrow pada satu waktu sehingga tidak ada data race.",
+      "answer": "mutable"
+    },
+    {
+      "id": "rust-slow-compilation-4ef8a36ef8",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Kode Rust mencoba membuat &mut x lalu &x pada variabel yang sama. Apa yang terjadi dan kenapa?",
+      "answer": "Tidak lolos compile: immutable borrow tidak boleh setelah mutable borrow aktif, demi mencegah data race."
+    },
+    {
+      "id": "rust-slow-compilation-0ab05613f7",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Untuk apa Mutex dipakai bersama Arc?",
+      "answer": "Mengunci data sehingga hanya satu thread yang bisa membaca/mengubahnya pada satu waktu."
+    },
+    {
+      "id": "rust-slow-compilation-1f6ca458bb",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Iterator berantai di Rust yang tidak di-collect akan mengalokasikan memori ekstra.",
+      "correct": false,
+      "answer": "Mitos: itu zero-cost abstraction, tidak ada alokasi ekstra jika tidak di-collect."
+    },
+    {
+      "id": "rust-slow-compilation-efdc3d588c",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Library mana untuk menghubungkan Python dan Rust?",
+      "options": [
+        "pyo3",
+        "js_sys",
+        "rust-bindgen",
+        "tokio"
+      ],
+      "correct": 0,
+      "answer": "pyo3."
+    },
+    {
+      "id": "rust-slow-compilation-b08cffc87a",
+      "type": "odd_one_out",
+      "difficulty": "hard",
+      "prompt": "Mana yang BUKAN library/tool interoperabilitas bahasa di Rust?",
+      "options": [
+        "js_sys",
+        "pyo3",
+        "rust-bindgen",
+        "cargo"
+      ],
+      "correct": 3,
+      "answer": "cargo adalah build tool, bukan library interoperabilitas; js_sys (JS/WASM), pyo3 (Python), rust-bindgen (C++) untuk interop."
+    },
+    {
+      "id": "rust-slow-compilation-134e8e7d1f",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Kapan pengguna Rust bisa tetap terkena segmentation fault?",
+      "answer": "Saat memakai unsafe atau foreign function interface (FFI)."
+    },
+    {
+      "id": "rust-slow-compilation-3bc592ebd1",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Cloudflare outage terjadi di Rust. Apakah itu salah bahasa Rust?",
+      "answer": "Bukan; masalahnya di developer yang memakai .unwrap() di tengah runtime. Bahasa aman tidak menghapus kesalahan penggunanya."
+    },
+    {
+      "id": "rust-slow-compilation-a1b8d32861",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: kenapa bahasa dengan garbage collector bisa punya kebocoran memori terselubung?",
+      "answer": "GC bertugas membersihkan memori yang tak dipakai. Tapi kalau masih ada variabel diam-diam menunjuk memori itu, GC mengira masih dipakai dan tidak membersihkannya."
+    }
+  ]
+}

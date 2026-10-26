@@ -1,0 +1,46 @@
+{
+  "slug": "how-to-get-into-masters-easily",
+  "title": "How to Get Into Masters Easily",
+  "url": "/how-to-get-into-masters-easily/",
+  "sourceHash": "96593c1054db998eb4e74543f2f0b18d18c36ade1c72ad44eb3a09c9729e4866",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.139Z",
+  "cards": [
+    {
+      "id": "how-to-get-into-masters-easily-77be6bc92e",
+      "type": "sequence",
+      "difficulty": "easy",
+      "prompt": "Put the steps in order for getting into a master's program via a professor.",
+      "items": [
+        "Apply to a university",
+        "Find a professor at that university",
+        "Read his/her dissertation or thesis",
+        "Email them if interests match",
+        "Offer a proposal or portfolio"
+      ],
+      "answer": "Apply, find a professor, read their research, contact them, then propose and share portfolio."
+    },
+    {
+      "id": "how-to-get-into-masters-easily-b8494daeaa",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "What should you read before contacting a professor?",
+      "answer": "Their research dissertation or thesis, to see whether your interests align."
+    },
+    {
+      "id": "how-to-get-into-masters-easily-2ff660e7ec",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "What can you give a professor to strengthen your approach besides saying you share their interest?",
+      "answer": "A proposal and even your portfolio."
+    },
+    {
+      "id": "how-to-get-into-masters-easily-394cf4d49e",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You want to do a master's but are nervous about the admissions competition. Based on this approach, what proactive move could help?",
+      "answer": "Find a professor with research similar to your interest and email them with a proposal and portfolio, so you may be invited and work directly with them."
+    }
+  ]
+}

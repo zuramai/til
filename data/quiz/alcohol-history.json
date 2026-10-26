@@ -1,0 +1,75 @@
+{
+  "slug": "alcohol-history",
+  "title": "Alcohol History",
+  "url": "/alcohol-history/",
+  "sourceHash": "f623b05171e9456ce883b9f2f27a036a704611276d5d065e8e97841bd837b196",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.120Z",
+  "cards": [
+    {
+      "id": "alcohol-history-406ddea81d",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "How was alcohol most likely discovered in prehistoric times?",
+      "answer": "Accidentally: wild yeasts fermented sugars in leftover fruits and honey."
+    },
+    {
+      "id": "alcohol-history-f00aa6a662",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Fermentation is when bacteria or yeast breaks down ____ to make other substances.",
+      "answer": "sugar"
+    },
+    {
+      "id": "alcohol-history-99d9d9ea06",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "What do yeast and lactic acid bacteria each produce during fermentation?",
+      "options": [
+        "Both make alcohol",
+        "Yeast makes alcohol, bacteria make lactic acid",
+        "Yeast makes lactic acid, bacteria make alcohol",
+        "Both make vinegar"
+      ],
+      "correct": 1,
+      "answer": "Yeast makes alcohol; lactic acid bacteria make lactic acid (yogurt, cheese, pickles)."
+    },
+    {
+      "id": "alcohol-history-683e3484ee",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why was drinking beer or wine safer than water in medieval Europe?",
+      "answer": "Water was often full of germs. Making beer and wine creates alcohol, which kills germs, so those drinks were safer."
+    },
+    {
+      "id": "alcohol-history-6913589136",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Early humans cultivated alcohol because they understood the science of fermentation.",
+      "correct": false,
+      "answer": "Myth: they didn't understand it and thought the mind-altering effects were magical."
+    },
+    {
+      "id": "alcohol-history-7bbe63e8f1",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "At a party, a shy friend says one drink makes it easier to talk. Which historical role of alcohol is this?",
+      "answer": "It's a social lubricant: alcohol lowers inhibition and reduces social anxiety."
+    },
+    {
+      "id": "alcohol-history-33072976f2",
+      "type": "odd_one_out",
+      "difficulty": "hard",
+      "prompt": "Which does NOT belong with foods made through lactic acid fermentation?",
+      "options": [
+        "Yogurt",
+        "Cheese",
+        "Pickles",
+        "Beer"
+      ],
+      "correct": 3,
+      "answer": "Beer is made by yeast fermentation producing alcohol, while the others use lactic acid bacteria."
+    }
+  ]
+}

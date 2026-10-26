@@ -1,0 +1,110 @@
+{
+  "slug": "concurrency-vs-parallel",
+  "title": "Concurrency vs Parallelism",
+  "url": "/concurrency-vs-parallel/",
+  "sourceHash": "1c423886f73245cd9b714c8e4803dee0f27dead3e86cb3e498bb47b0054f0f31",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.129Z",
+  "cards": [
+    {
+      "id": "concurrency-vs-parallel-825a66aa03",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is the difference between concurrency and parallelism?",
+      "answer": "Concurrency juggles multiple tasks but one action happens at a time; parallelism does multiple things at the exact same time."
+    },
+    {
+      "id": "concurrency-vs-parallel-7f05604a53",
+      "type": "scenario",
+      "difficulty": "medium",
+      "prompt": "One chef switches between cooking, chopping and checking the oven. Is it concurrency or parallelism?",
+      "answer": "Concurrency: only one action happens at a time. Parallelism would need several chefs."
+    },
+    {
+      "id": "concurrency-vs-parallel-3a02cedc96",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "What is needed for true parallelism?",
+      "options": [
+        "A faster network",
+        "Multiple cores or CPUs",
+        "More RAM",
+        "An async runtime"
+      ],
+      "correct": 1,
+      "answer": "Multiple cores or CPUs."
+    },
+    {
+      "id": "concurrency-vs-parallel-a9d25a2965",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "In the kitchen analogy, what does the chef represent?",
+      "options": [
+        "A thread",
+        "A core",
+        "An I/O call",
+        "A cache"
+      ],
+      "correct": 1,
+      "answer": "A core; each pad is executed in a thread."
+    },
+    {
+      "id": "concurrency-vs-parallel-510b606f39",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: what happens when a CPU thread waits for a network call?",
+      "answer": "The CPU notices the thread is stuck waiting, like water not yet boiling, so the core switches to another thread that has work to do."
+    },
+    {
+      "id": "concurrency-vs-parallel-ae3e115530",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Which is NOT an I/O operation?",
+      "options": [
+        "Network call",
+        "Reading from database",
+        "Reading from storage",
+        "Heavy math on cached data"
+      ],
+      "correct": 3,
+      "answer": "Heavy math with data already in L1/L2 caches is CPU work, not I/O."
+    },
+    {
+      "id": "concurrency-vs-parallel-c0e43d697c",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "What does Rust's ownership and type checking mostly prevent in concurrency?",
+      "options": [
+        "Slow startup",
+        "Data races caught at compile time",
+        "All logic bugs",
+        "Network failures"
+      ],
+      "correct": 1,
+      "answer": "Concurrency errors like data races, caught at compile time instead of runtime."
+    },
+    {
+      "id": "concurrency-vs-parallel-c46799fbe2",
+      "type": "myth_or_fact",
+      "difficulty": "hard",
+      "prompt": "With tokio, tasks that sleep always finish in the order they started.",
+      "correct": false,
+      "answer": "Myth: the order can differ between runs depending on scheduling."
+    },
+    {
+      "id": "concurrency-vs-parallel-164c5134ec",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Which tokio function should run CPU-heavy or blocking synchronous work so it doesn't block the async executor?",
+      "answer": "spawn_blocking."
+    },
+    {
+      "id": "concurrency-vs-parallel-dc9ea3ea54",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What JavaScript feature is equivalent to tokio's join of several async tasks?",
+      "answer": "Promise.all."
+    }
+  ]
+}

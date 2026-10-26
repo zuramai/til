@@ -1,0 +1,83 @@
+{
+  "slug": "cara-grinding-yang-benar",
+  "title": "Cara Grinding Yang Benar",
+  "url": "/cara-grinding-yang-benar/",
+  "sourceHash": "085a58753c94aafac1aefcdcb3363fc30af815fb0f6f75e84682125fd7aaf9ed",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.127Z",
+  "cards": [
+    {
+      "id": "cara-grinding-yang-benar-2c3358b739",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Apa pelajaran nomor satu dalam grinding menurut pengalaman ini?",
+      "answer": "Konsisten itu nomor satu."
+    },
+    {
+      "id": "cara-grinding-yang-benar-b190eea195",
+      "type": "scenario",
+      "difficulty": "medium",
+      "prompt": "Kamu streak LeetCode seminggu lalu bolong sehari dan berpikir 'gapapa, ditumpuk besok'. Kenapa pikiran itu berbahaya?",
+      "answer": "Otak membangun toleransi terhadap bolong, jadi makin lama makin menyepelekan dan akhirnya kehilangan habit."
+    },
+    {
+      "id": "cara-grinding-yang-benar-ad0d3d7736",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "Bolong sehari tanpa alasan valid dan tanpa rasa bersalah adalah tanda awal akan kehilangan habit.",
+      "correct": true,
+      "answer": "Fakta: itu tanda-tanda habit mulai hilang."
+    },
+    {
+      "id": "cara-grinding-yang-benar-8207b60c5d",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Biasanya kamu belajar malam, tapi malam ini kamu tahu akan sibuk. Apa yang sebaiknya dilakukan?",
+      "answer": "Prediksi waktu dan pindahkan sesi grinding ke pagi atau waktu lain; tanpa excuse."
+    },
+    {
+      "id": "cara-grinding-yang-benar-6b9e3701eb",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Targetmu IELTS Band 8 tapi hanya belajar dari Duolingo dan progres stagnan. Apa solusi utamanya?",
+      "options": [
+        "Belajar lebih lama di Duolingo",
+        "Review progress dan tambah latihan yang kurang",
+        "Menyalahkan tesnya",
+        "Berhenti sampai termotivasi"
+      ],
+      "correct": 1,
+      "answer": "Review progress berkala agar tahu apa yang harus ditingkatkan, misalnya menambah latihan speaking dan reading."
+    },
+    {
+      "id": "cara-grinding-yang-benar-2609d86671",
+      "type": "recall",
+      "difficulty": "hard",
+      "prompt": "Menurut pengalaman ini, skill apa yang paling penting dan jarang dimiliki mayoritas orang?",
+      "answer": "Skill untuk tahu apa yang harus kita improve."
+    },
+    {
+      "id": "cara-grinding-yang-benar-34adf145aa",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Kamu gagal technical test. Bagaimana sikap yang tepat terhadap faktor internal dan eksternal?",
+      "answer": "Anggap faktor eksternal tak bisa dikontrol dan salahkan diri sendiri untuk grind lebih keras, tapi jangan overblaming sampai kehilangan confidence."
+    },
+    {
+      "id": "cara-grinding-yang-benar-5034eb3052",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Orang yang mengaku tak punya waktu ternyata sering sempat scroll media sosial sejam sehari, padahal belajar cukup minimal ____ menit sehari.",
+      "answer": "30"
+    },
+    {
+      "id": "cara-grinding-yang-benar-02a4887b77",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Orang yang sudah sukses tidak perlu belajar lagi karena sudah berada di puncak.",
+      "correct": false,
+      "answer": "Mitos: orang sukses tetap belajar tiap hari dan mencari yang lebih berpengalaman untuk belajar darinya."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "slug": "how-to-shoot-at-night-better",
+  "title": "How to Shoot at Night Better?",
+  "url": "/how-to-shoot-at-night-better/",
+  "sourceHash": "513b0b28fbf9d6cc96b7bde62b3a573b3531d3efaa6e4b3ede4314e809134093",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.140Z",
+  "cards": [
+    {
+      "id": "how-to-shoot-at-night-better-885fd37fce",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "High ISO causes grainy images.",
+      "correct": true,
+      "answer": "Fact: raising ISO boosts the sensor signal and adds grain."
+    },
+    {
+      "id": "how-to-shoot-at-night-better-c3fd3aa94b",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: what is ISO, using the volume knob idea?",
+      "answer": "ISO is like a volume knob for the camera's light signal. Turning it up makes dark things brighter, but also makes noisy grain."
+    },
+    {
+      "id": "how-to-shoot-at-night-better-0e2189844d",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which aperture suits night shooting?",
+      "options": [
+        "f/16",
+        "f/1.7 to f/2.5",
+        "f/22",
+        "f/11"
+      ],
+      "correct": 1,
+      "answer": "Wide aperture (low f number) lets in more light."
+    },
+    {
+      "id": "how-to-shoot-at-night-better-c2c930d7c8",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "At night, what should you do to shutter speed to keep ISO low, and what gear helps?",
+      "answer": "Slow it down for long exposure, and use a tripod for stability."
+    },
+    {
+      "id": "how-to-shoot-at-night-better-56d10a4b3c",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Your night photos are noisy. List the setting changes to make the image cleaner.",
+      "answer": "Lower ISO, open a wide aperture, and slow the shutter with a tripod to avoid blur."
+    },
+    {
+      "id": "how-to-shoot-at-night-better-769898bcc4",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "A lens with a low f number such as ____ lets in a lot of light.",
+      "answer": "f/1.7"
+    }
+  ]
+}

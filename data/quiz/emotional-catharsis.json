@@ -1,0 +1,46 @@
+{
+  "slug": "emotional-catharsis",
+  "title": "Emotional Catharsis",
+  "url": "/emotional-catharsis/",
+  "sourceHash": "df994a87eeb7d7e12357e7afff558f06296c5ea618333aa79ed29f6640461923",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.132Z",
+  "cards": [
+    {
+      "id": "emotional-catharsis-7328b80a89",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What does the Greek root of 'catharsis' mean?",
+      "answer": "Cleansing or purification."
+    },
+    {
+      "id": "emotional-catharsis-5afde5e27c",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Catharsis is a powerful emotional release that brings ____ feelings to awareness.",
+      "answer": "unconscious"
+    },
+    {
+      "id": "emotional-catharsis-8de2e39254",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which situation can lead to a cathartic feeling of relief?",
+      "options": [
+        "Skipping meals",
+        "Crying or a deep conversation",
+        "Scrolling feeds",
+        "Working late"
+      ],
+      "correct": 1,
+      "answer": "Crying or having a deep conversation with someone."
+    },
+    {
+      "id": "emotional-catharsis-df1259c34c",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "After crying with a close friend you feel calm and lighter. What is this experience called, and why does it help?",
+      "answer": "Catharsis: releasing emotion brings unconscious feelings into awareness, easing psychological distress."
+    }
+  ]
+}

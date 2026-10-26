@@ -1,0 +1,61 @@
+{
+  "slug": "kenapa-jalan-bisa-berlubang",
+  "title": "Kenapa Aspal Bisa Berlubang?",
+  "url": "/kenapa-jalan-bisa-berlubang/",
+  "sourceHash": "613fc068b41f466447f2b8cfd0d907bc526c428638f9219c2e416120b4137b06",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.145Z",
+  "cards": [
+    {
+      "id": "kenapa-jalan-bisa-berlubang-f670607dd7",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Apa penyebab utama aspal berlubang?",
+      "answer": "Air dan beban hidraulik dari kendaraan berat."
+    },
+    {
+      "id": "kenapa-jalan-bisa-berlubang-37830e2c86",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Air adalah musuh bebuyutan ____, karena melepas ikatan bebatuan dan minyaknya.",
+      "answer": "aspal"
+    },
+    {
+      "id": "kenapa-jalan-bisa-berlubang-9efcf7fe0b",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Jelaskan seperti ke anak 10 tahun: bagaimana genangan air dan truk merusak aspal?",
+      "answer": "Air masuk dan menggenang di aspal. Saat truk lewat, air ditekan keras sehingga melepaskan ikatan batu dan aspal, lalu permukaannya rusak dan berlubang."
+    },
+    {
+      "id": "kenapa-jalan-bisa-berlubang-fdbeda17b2",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Kenapa drainase yang lancar penting bagi jalan?",
+      "options": [
+        "Agar jalan lebih halus",
+        "Agar air tidak menggenang dan merusak ikatan aspal",
+        "Agar mobil lebih irit",
+        "Agar tanah lebih padat"
+      ],
+      "correct": 1,
+      "answer": "Drainase lancar mencegah genangan yang merusak ikatan aspal."
+    },
+    {
+      "id": "kenapa-jalan-bisa-berlubang-8951b359a8",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Aspal adalah penopang beban utama jalan, jadi fondasi tanah tidak terlalu penting.",
+      "correct": false,
+      "answer": "Aspal hanya karpet pelindung; beban ditransfer ke tanah di bawahnya."
+    },
+    {
+      "id": "kenapa-jalan-bisa-berlubang-70ae497773",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Jalan baru dibangun di atas tanah gambut yang lembek, dan aspalnya cepat melengkung. Apa yang seharusnya dilakukan?",
+      "answer": "Tanah gambut perlu melalui rekayasa geoteknik dulu agar fondasinya kuat sebelum diaspal."
+    }
+  ]
+}

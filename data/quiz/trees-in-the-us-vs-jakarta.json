@@ -1,0 +1,54 @@
+{
+  "slug": "trees-in-the-us-vs-jakarta",
+  "title": "Trees in the U.S. vs Jakarta",
+  "url": "/trees-in-the-us-vs-jakarta/",
+  "sourceHash": "01edbecc86f7c0a9dabc3c8a2528d079bbf04b5efb4607c2ad9ab88a50ba113c",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.160Z",
+  "cards": [
+    {
+      "id": "trees-in-the-us-vs-jakarta-59e5fee4eb",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "How do summer trees in Jakarta generally compare to trees in the U.S. in leaf color and thickness?",
+      "answer": "Jakarta trees look thicker, bigger and greener; U.S. trees look thinner, lighter and yellowish."
+    },
+    {
+      "id": "trees-in-the-us-vs-jakarta-3fa204f4a0",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Why do Jakarta leaves have high chlorophyll a and b concentration?",
+      "options": [
+        "Cold winters",
+        "Intense sunlight",
+        "Low humidity",
+        "Sandy soil"
+      ],
+      "correct": 1,
+      "answer": "Because of intense sunlight, chlorophyll protects plant cells."
+    },
+    {
+      "id": "trees-in-the-us-vs-jakarta-bb83c7308c",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Name three U.S. temperate trees that generally have thinner leaves.",
+      "answer": "Oak, birch and maple."
+    },
+    {
+      "id": "trees-in-the-us-vs-jakarta-93ca0d8bd2",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "Jakarta leaves look plump and lush because of high humidity around ____.",
+      "answer": "70%-85%"
+    },
+    {
+      "id": "trees-in-the-us-vs-jakarta-5d7cc3b72e",
+      "type": "myth_or_fact",
+      "difficulty": "hard",
+      "prompt": "U.S. temperate trees have thinner leaves because they produce a higher density of chlorophyll.",
+      "correct": false,
+      "answer": "Myth: they produce a lower density of chlorophyll."
+    }
+  ]
+}

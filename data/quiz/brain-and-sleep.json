@@ -1,0 +1,11 @@
+{
+  "slug": "brain-and-sleep",
+  "title": "Brain and Sleep",
+  "url": "/brain-and-sleep/",
+  "sourceHash": "78c3adce2909fc6863cb295b3af5ef2689480280da3802409c557d1c62807796",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.125Z",
+  "skipReason": "too-short",
+  "cards": []
+}

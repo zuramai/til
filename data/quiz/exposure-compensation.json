@@ -1,0 +1,68 @@
+{
+  "slug": "exposure-compensation",
+  "title": "Exposure Compensation",
+  "url": "/exposure-compensation/",
+  "sourceHash": "664458fa35eb3c20b3490be1b71cbda7b4ec81a79cea2a3f70ed1fb8921ca4a9",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.133Z",
+  "cards": [
+    {
+      "id": "exposure-compensation-29b13fbfa1",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is exposure compensation used for?",
+      "answer": "A quick way to lighten or darken the image by shifting the exposure the camera picked."
+    },
+    {
+      "id": "exposure-compensation-c41e39abf8",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "In Program (P) mode with locked exposure compensation on a Fuji, what adjusts itself?",
+      "options": [
+        "Only ISO",
+        "Aperture and shutter speed",
+        "Only focus",
+        "Nothing"
+      ],
+      "correct": 1,
+      "answer": "Aperture and shutter speed adjust according to the ISO you set."
+    },
+    {
+      "id": "exposure-compensation-d79c8c1798",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "In Aperture Priority mode, the preview accurately reflects the final exposure result.",
+      "correct": false,
+      "answer": "Myth: it does not; you must shoot, check, adjust and repeat."
+    },
+    {
+      "id": "exposure-compensation-a837b0a99f",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "In manual mode, what does the EV indicator show?",
+      "answer": "A meter readout of where your manual settings land."
+    },
+    {
+      "id": "exposure-compensation-b243bac9ac",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You shoot in Shutter Priority on a Fuji and the preview looks fine but photos come out dark. What should you do?",
+      "answer": "Preview doesn't reflect the result in S mode, so shoot, check, adjust compensation and repeat until it looks right."
+    },
+    {
+      "id": "exposure-compensation-7bc9f85128",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Which mode shows a preview that does NOT reflect the real exposure result?",
+      "options": [
+        "Program (P) with locked compensation",
+        "Aperture Priority (A)",
+        "Manual mode EV indicator",
+        "Program (P) default"
+      ],
+      "correct": 1,
+      "answer": "Aperture Priority; Program mode preview reflects the result."
+    }
+  ]
+}

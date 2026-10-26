@@ -1,0 +1,61 @@
+{
+  "slug": "tatical-empathy",
+  "title": "Tatical Empathy",
+  "url": "/tatical-empathy/",
+  "sourceHash": "1039eb4bd20e449af52c848905ebf8f0ccd818015289494765a0b8980ea208b3",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.157Z",
+  "cards": [
+    {
+      "id": "tatical-empathy-e2d2d31e43",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "What is tactical empathy?",
+      "answer": "A strategy to grab another person's empathy to influence them by building trust."
+    },
+    {
+      "id": "tatical-empathy-bc33683cff",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "Listening is a passive thing in a conversation.",
+      "correct": false,
+      "answer": "Myth: listening is the most active thing we can do."
+    },
+    {
+      "id": "tatical-empathy-8a5285efa8",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "What happens when people feel listened to?",
+      "options": [
+        "They become more defensive",
+        "They become less defensive and more open",
+        "They stop talking",
+        "They agree to everything"
+      ],
+      "correct": 1,
+      "answer": "They reevaluate their thoughts openly, become less defensive, and are more willing to hear other views."
+    },
+    {
+      "id": "tatical-empathy-04e7759756",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why does listening help you convince someone?",
+      "answer": "When people feel heard they relax and trust you. Then they are more willing to listen to your ideas too."
+    },
+    {
+      "id": "tatical-empathy-8b36be3a29",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "In a negotiation the other side is defensive. What is your first move under tactical empathy?",
+      "answer": "Listen actively to build trust so they become less defensive and open to other perspectives."
+    },
+    {
+      "id": "tatical-empathy-afbc81c1a0",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Listening is compared to a martial art balancing emotional intelligence and the assertive skills of ____.",
+      "answer": "influence"
+    }
+  ]
+}

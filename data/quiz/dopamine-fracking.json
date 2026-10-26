@@ -1,0 +1,68 @@
+{
+  "slug": "dopamine-fracking",
+  "title": "Dopamine Fracking",
+  "url": "/dopamine-fracking/",
+  "sourceHash": "9aa2d709880ea5251effd5362f5d20f97ee22c7e0874b6fdb1ab952ff2459baf",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.131Z",
+  "cards": [
+    {
+      "id": "dopamine-fracking-120475137c",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Apa arti istilah dopamine fracking?",
+      "answer": "Mengekstraksi sesuatu yang kompleks dan kaya menjadi perasan murni dopamin, tanpa unsur lainnya."
+    },
+    {
+      "id": "dopamine-fracking-4fe367c5b2",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Apa yang hilang dari stroberi sintetis dibanding stroberi asli?",
+      "options": [
+        "Rasa manis",
+        "Kekayaan rasa yang berlapis",
+        "Warna merah",
+        "Harga murah"
+      ],
+      "correct": 1,
+      "answer": "Kekayaan rasa yang unik dan berlapis; yang tersisa hanya dopamine hit."
+    },
+    {
+      "id": "dopamine-fracking-6b8b7f2a9f",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "Dopamine fracking hanya terjadi pada makanan.",
+      "correct": false,
+      "answer": "Mitos: juga terjadi pada kultur, hobi, bahkan hubungan."
+    },
+    {
+      "id": "dopamine-fracking-ee797fc095",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Kamu sadar lebih suka scroll video pendek daripada mengobrol dengan teman. Menurut konsep ini, apa yang sebaiknya dilakukan?",
+      "answer": "Sadari bahwa itu mungkin versi sintetis yang dibuat agar captivated, lalu atur batasan, mis. uninstall medsos atau pilih konten yang dikonsumsi."
+    },
+    {
+      "id": "dopamine-fracking-604f1e60ef",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Jelaskan seperti ke anak 10 tahun: kenapa permen stroberi tidak sama dengan buah stroberi?",
+      "answer": "Permen meniru satu rasa agar terasa enak cepat dan murah. Buah asli punya banyak rasa dan tekstur berbeda, jadi lebih kaya."
+    },
+    {
+      "id": "dopamine-fracking-881ea501d9",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "Produk sintetis lebih murah dan cepat diproduksi daripada menanam dan menunggu ____ stroberi.",
+      "answer": "panen"
+    },
+    {
+      "id": "dopamine-fracking-9fee755446",
+      "type": "riddle",
+      "difficulty": "hard",
+      "prompt": "Aku perasan murni yang membuang semua kekayaan asli, hanya menyisakan 'hit' senang. Siapa aku?",
+      "answer": "Dopamine fracking"
+    }
+  ]
+}

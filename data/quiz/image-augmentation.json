@@ -1,0 +1,61 @@
+{
+  "slug": "image-augmentation",
+  "title": "Image Augmentation",
+  "url": "/image-augmentation/",
+  "sourceHash": "11043ae15b9b4aca4757349a6d5ed097bfef26765fd5258c0e7529608acfa948",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.141Z",
+  "cards": [
+    {
+      "id": "image-augmentation-aa4824596a",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is image (data) augmentation?",
+      "answer": "Creating variations of training samples so the model sees slightly different versions each time."
+    },
+    {
+      "id": "image-augmentation-85a0b78974",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Examples of augmentation include rotation, blur, darken, or ____.",
+      "answer": "compress"
+    },
+    {
+      "id": "image-augmentation-10b8e4c390",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why does a model learn from blurry, rotated copies of a photo?",
+      "answer": "Real photos aren't always clean. If we practice with wobbly and dark copies, the model won't be confused later."
+    },
+    {
+      "id": "image-augmentation-72fc5e5007",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Why simulate blurry or skewed ID cards?",
+      "options": [
+        "Save storage",
+        "We can't collect every case",
+        "Reduce labeling",
+        "Speed up training"
+      ],
+      "correct": 1,
+      "answer": "We can't collect every case, so we simulate users' bad inputs."
+    },
+    {
+      "id": "image-augmentation-bb7ba2ec54",
+      "type": "myth_or_fact",
+      "difficulty": "hard",
+      "prompt": "When rotating an image for augmentation, the labels can stay unchanged.",
+      "correct": false,
+      "answer": "Myth: labels must be transformed too, e.g. corners follow rotation or skew."
+    },
+    {
+      "id": "image-augmentation-a82be3dcf6",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You skew a KTP image during augmentation but keep the old corner coordinates. What goes wrong?",
+      "answer": "The label no longer matches the card, so the model learns wrong corners; labels must follow the transformation."
+    }
+  ]
+}

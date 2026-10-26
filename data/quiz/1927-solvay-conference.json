@@ -1,0 +1,61 @@
+{
+  "slug": "1927-solvay-conference",
+  "title": "1927 Solvay Conference",
+  "url": "/1927-solvay-conference/",
+  "sourceHash": "4651371f35f5d0a88a704dc7ab9b1327b9a068530846c7b863e7e0b110bcb725",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.113Z",
+  "cards": [
+    {
+      "id": "1927-solvay-conference-fb191451e7",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Which scientist initiated the famous 1927 Solvay Conference in Brussels?",
+      "answer": "Ernest Solvay."
+    },
+    {
+      "id": "1927-solvay-conference-85f5d1541b",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "The 1927 Solvay Conference was held in ____, Belgium.",
+      "answer": "Brussels"
+    },
+    {
+      "id": "1927-solvay-conference-976e3fc482",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "What was the main topic physicists discussed at the 1927 Solvay Conference?",
+      "options": [
+        "Relativity of space and time",
+        "The new quantum theory",
+        "Nuclear fission",
+        "The discovery of the electron"
+      ],
+      "correct": 1,
+      "answer": "The new quantum theory, which made it a turning point for physics."
+    },
+    {
+      "id": "1927-solvay-conference-346d206a51",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Roughly what fraction of the 29 attendees of the 1927 Solvay Conference went on to win a Nobel Prize?",
+      "answer": "17 of 29, about 60%."
+    },
+    {
+      "id": "1927-solvay-conference-e42bc462c6",
+      "type": "myth_or_fact",
+      "difficulty": "hard",
+      "prompt": "The 1927 Solvay Conference was the very first Solvay Conference ever held.",
+      "correct": false,
+      "answer": "Myth: the first Solvay Conference took place in 1911."
+    },
+    {
+      "id": "1927-solvay-conference-883ff2d23d",
+      "type": "riddle",
+      "difficulty": "hard",
+      "prompt": "I am a photo of dozens of physicists in Brussels, 1927. Nearly 60% of the people in me later won a Nobel prize. What event am I?",
+      "answer": "The 1927 Solvay Conference photo."
+    }
+  ]
+}

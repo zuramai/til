@@ -1,0 +1,84 @@
+{
+  "slug": "food-estate",
+  "title": "Food Estate",
+  "url": "/food-estate/",
+  "sourceHash": "72cbe0a7b9cbb0481d791d84cfec1add4d71d16e4b66ded09db0b763ba0b6c1e",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.134Z",
+  "cards": [
+    {
+      "id": "food-estate-df2012f370",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Apa arti swasembada pangan menurut definisi yang dipakai pemerintah?",
+      "answer": "Kondisi ketika minimal 90% kebutuhan pangan diproduksi di dalam negeri."
+    },
+    {
+      "id": "food-estate-32cfd7062a",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Rencana food estate (lumbung pangan) pertama kali digagas oleh ____.",
+      "answer": "Soeharto"
+    },
+    {
+      "id": "food-estate-18d02ca573",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Di atas jenis lahan apa food estate berusaha mencetak sawah baru?",
+      "options": [
+        "Lahan pasir pantai",
+        "Lahan gambut",
+        "Lahan kapur",
+        "Lahan vulkanik"
+      ],
+      "correct": 1,
+      "answer": "Lahan gambut, yang berarti membuka kawasan hutan.",
+      "explanation": "Lahan gambut rentan dan pembukaannya memicu deforestasi."
+    },
+    {
+      "id": "food-estate-b82ad07882",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Panen padi di proyek food estate rata-rata lebih tinggi daripada rata-rata nasional.",
+      "correct": false,
+      "answer": "Mitos: produktivitasnya 2,7-3,2 ton per hektare, jauh di bawah rata-rata nasional 5,2 ton."
+    },
+    {
+      "id": "food-estate-593d36575f",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Sebutkan dua alasan utama selain produktivitas rendah yang membuat food estate bermasalah.",
+      "answer": "Merusak lingkungan (deforestasi gambut) dan memicu konflik tenurial dengan warga karena minim partisipasi masyarakat."
+    },
+    {
+      "id": "food-estate-bbad17891f",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Temanmu bilang 'dana ratusan triliun pasti membuat food estate sukses.' Beri tanggapan berdasarkan fakta food estate.",
+      "answer": "Dana besar tidak menjamin hasil: proyek sejak era Soeharto, SBY, hingga Jokowi tetap gagal karena lahan gambut tidak produktif dan masalah sosial-lingkungan.",
+      "explanation": "Hasil padi hanya sekitar separuh rata-rata nasional."
+    },
+    {
+      "id": "food-estate-c12ec9422f",
+      "type": "odd_one_out",
+      "difficulty": "hard",
+      "prompt": "Mana yang BUKAN alasan kegagalan food estate?",
+      "options": [
+        "Hasil panen di bawah rata-rata nasional",
+        "Deforestasi kawasan hutan gambut",
+        "Konflik tenurial dengan warga",
+        "Hasil panen jauh di atas rata-rata nasional"
+      ],
+      "correct": 3,
+      "answer": "Hasil panen yang melebihi rata-rata nasional bukan masalah, justru kebalikannya terjadi."
+    },
+    {
+      "id": "food-estate-85e0a281ea",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Target swasembada pangan yang dicanangkan Prabowo adalah pada tahun ____.",
+      "answer": "2027"
+    }
+  ]
+}

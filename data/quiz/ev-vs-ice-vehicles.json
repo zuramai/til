@@ -1,0 +1,95 @@
+{
+  "slug": "ev-vs-ice-vehicles",
+  "title": "EV vs ICE Vehicles",
+  "url": "/ev-vs-ice-vehicles/",
+  "sourceHash": "d2bb0545f2974ce4337039cb9f0838692f4df0bab4a0768abaf948b017ae6a28",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.133Z",
+  "cards": [
+    {
+      "id": "ev-vs-ice-vehicles-207a9d0db0",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Why doesn't an EV produce tailpipe emissions?",
+      "answer": "It runs on a battery and has no tailpipe."
+    },
+    {
+      "id": "ev-vs-ice-vehicles-31d37e5f83",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "EVs are always completely zero emission.",
+      "correct": false,
+      "answer": "Myth: they emit indirectly if electricity comes from coal; only clean sources like wind or solar make them fully zero emission."
+    },
+    {
+      "id": "ev-vs-ice-vehicles-1ba130646b",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why does a petrol car vibrate more than an EV?",
+      "answer": "A petrol engine burns fuel in tiny explosions that push pistons back and forth, and that shaking is turned into spinning. An EV spins smoothly using magnets, with no explosions."
+    },
+    {
+      "id": "ev-vs-ice-vehicles-52a552902e",
+      "type": "sequence",
+      "difficulty": "hard",
+      "prompt": "Order how an ICE produces rotation.",
+      "items": [
+        "Fuel burns in cylinders",
+        "Rapid pulses move pistons back and forth",
+        "Crankshaft converts to rotary motion",
+        "Strong vibration results"
+      ],
+      "answer": "Fuel burns, pistons pulse, crankshaft converts to rotary motion, creating vibration."
+    },
+    {
+      "id": "ev-vs-ice-vehicles-a833436d72",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "ICE cars burn gasoline or diesel producing CO2, nitrogen oxide, and particulate ____.",
+      "answer": "matter"
+    },
+    {
+      "id": "ev-vs-ice-vehicles-1785b7a0cc",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Why is Norway a good place for EVs?",
+      "options": [
+        "Cold weather",
+        "About 90% hydropower electricity",
+        "Cheap petrol",
+        "Many coal plants"
+      ],
+      "correct": 1,
+      "answer": "About 90% of its electricity comes from hydropower."
+    },
+    {
+      "id": "ev-vs-ice-vehicles-a28aad3448",
+      "type": "odd_one_out",
+      "difficulty": "easy",
+      "prompt": "Which is NOT a drawback of EVs?",
+      "options": [
+        "Higher initial cost",
+        "Charging time",
+        "Battery replacement",
+        "Quick refuel"
+      ],
+      "correct": 3,
+      "answer": "Quick refueling is an ICE advantage; EVs have higher initial cost, charging time and battery replacement."
+    },
+    {
+      "id": "ev-vs-ice-vehicles-1bcfc8cc55",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "When will ICE vehicle sales be banned in the EU?",
+      "answer": "2035."
+    },
+    {
+      "id": "ev-vs-ice-vehicles-c8a6a021f5",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A friend says EVs are pointless in a country powered by coal. What is the valid part of that point?",
+      "answer": "EV emissions shift to power plants; they are fully clean only with clean energy such as wind or solar. Indonesia still uses coal, gas and oil."
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "slug": "expression-parser-pratt",
+  "title": "Prattausdruckparser (Pratt Parsing)",
+  "url": "/expression-parser-pratt/",
+  "sourceHash": "64a63c7a617099581a7dfca61646d3bb5f080c08e114bfe64c2601148061a241",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:27:36.651Z",
+  "cards": [
+    {
+      "id": "expression-parser-pratt-f98e1913aa",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What does lhs stand for in Pratt parsing?",
+      "answer": "Left Hand Side (linke Seite)."
+    },
+    {
+      "id": "expression-parser-pratt-f183e1349b",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "In Pratt parsing, the function that starts the parse is called ____.",
+      "answer": "expr_bp"
+    },
+    {
+      "id": "expression-parser-pratt-1126e9e165",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "When does the loop in expr_bp stop on seeing the next token?",
+      "options": [
+        "When it is a number",
+        "When it is EOF or semicolon",
+        "When it is a plus",
+        "Never"
+      ],
+      "correct": 1,
+      "answer": "When it is EOF or a semicolon."
+    },
+    {
+      "id": "expression-parser-pratt-2455826103",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "What does BP stand for in Pratt parsing?",
+      "answer": "Binding power, defined manually per operator, with a left BP and a right BP."
+    },
+    {
+      "id": "expression-parser-pratt-3fa9154d4b",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "In Pratt parsing, l_bp is less than min_bp. What happens?",
+      "answer": "The loop ends; otherwise parsing continues to the next operand."
+    },
+    {
+      "id": "expression-parser-pratt-9904d8a997",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: how does the parser get rhs?",
+      "answer": "It calls the same function again (recursion) to parse the right part, then combines the operator with lhs and rhs."
+    },
+    {
+      "id": "expression-parser-pratt-84767a0990",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What does 'die Schleife' mean?",
+      "answer": "The loop."
+    },
+    {
+      "id": "expression-parser-pratt-e575c13f14",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "'Flussdiagram' is the German word for a flowchart.",
+      "correct": true,
+      "answer": "Fact: Flussdiagram means flowchart."
+    },
+    {
+      "id": "expression-parser-pratt-144e6c0406",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What does 'Zunächst' mean?",
+      "answer": "First."
+    }
+  ]
+}

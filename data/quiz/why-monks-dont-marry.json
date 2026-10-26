@@ -1,0 +1,91 @@
+{
+  "slug": "why-monks-dont-marry",
+  "title": "Why Monks Don't Marry and Islam Perspective",
+  "url": "/why-monks-dont-marry/",
+  "sourceHash": "a648a998c0b1e84d72f3fffeac9e99e4e33419b3d18ed95bdba0744d2cd3a848",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.164Z",
+  "cards": [
+    {
+      "id": "why-monks-dont-marry-7114c9e7ba",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is celibacy, as practiced by monks?",
+      "answer": "Abstaining from sexual and romantic relationships as a spiritual practice."
+    },
+    {
+      "id": "why-monks-dont-marry-3a7bb6727c",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "Monks choose celibacy because they don't love anyone.",
+      "correct": false,
+      "answer": "Myth: a monk's love is equal, unconditional and universal compassion for all living beings."
+    },
+    {
+      "id": "why-monks-dont-marry-3b17a57d1a",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which is a reason monks give for avoiding romantic attachments?",
+      "options": [
+        "Attachment may increase suffering, jealousy and grief",
+        "Marriage is forbidden by law",
+        "Love is considered meaningless",
+        "Families cost too much money"
+      ],
+      "correct": 0,
+      "answer": "Worldly ties may bring suffering, jealousy and grief."
+    },
+    {
+      "id": "why-monks-dont-marry-56a901c849",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "No romantic ties means more ____ to serve, travel and dedicate fully to God.",
+      "answer": "freedom"
+    },
+    {
+      "id": "why-monks-dont-marry-30bf4f42e1",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Islam has an institution of monks similar to other religions.",
+      "correct": false,
+      "answer": "Islam does not have monks; marriage is encouraged instead."
+    },
+    {
+      "id": "why-monks-dont-marry-c577e3cad9",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "What did the Prophet say about marriage in Islam?",
+      "answer": "\"Marriage is half of faith.\""
+    },
+    {
+      "id": "why-monks-dont-marry-40b1a69a9b",
+      "type": "odd_one_out",
+      "difficulty": "hard",
+      "prompt": "Which is NOT one of the Islamic rules for gender interaction described?",
+      "options": [
+        "Lowering the gaze",
+        "No khalwa (being alone together in private)",
+        "No physical contact between unrelated man and woman",
+        "Mandatory celibacy for unmarried adults forever"
+      ],
+      "correct": 3,
+      "answer": "Celibacy isn't an Islamic rule; Islam encourages marriage. The others are interaction rules."
+    },
+    {
+      "id": "why-monks-dont-marry-a5e8060dc7",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "What is khalwa in Islamic gender rules?",
+      "answer": "A man and a woman who are unrelated being alone together in private, which is not allowed."
+    },
+    {
+      "id": "why-monks-dont-marry-1e8e61cd59",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A friend says 'monks and Islam both forbid love, they just differ on marriage.' How would you correct this?",
+      "answer": "Neither forbids love: monks practice universal compassion instead of romantic love, while Islam encourages marriage and sets rules for gender interaction.",
+      "explanation": "Islam: marriage is half of faith."
+    }
+  ]
+}

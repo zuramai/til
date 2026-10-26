@@ -1,0 +1,61 @@
+{
+  "slug": "starbucks-in-seattle",
+  "title": "Starbucks in Seattle",
+  "url": "/starbucks-in-seattle/",
+  "sourceHash": "2b58398e59f090551d9a41ab8c29318a25dc1432aa54bbb85c10539df6f59347",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.157Z",
+  "cards": [
+    {
+      "id": "starbucks-in-seattle-4bc69e1ae6",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "Is Washington D.C. part of Washington state?",
+      "options": [
+        "Yes, it is the capital of the state",
+        "No, it is an independent district",
+        "It is part of Virginia",
+        "It is part of Maryland"
+      ],
+      "correct": 1,
+      "answer": "No. It is an independent district called District of Columbia, not part of any state."
+    },
+    {
+      "id": "starbucks-in-seattle-18b41f3d48",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "In which city was Starbucks founded?",
+      "answer": "Seattle, Washington."
+    },
+    {
+      "id": "starbucks-in-seattle-94efe39b93",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Name three reasons Seattle Starbucks prices are among the highest in the US.",
+      "answer": "Regional rent, local labor wage, and its status as the birthplace of Starbucks."
+    },
+    {
+      "id": "starbucks-in-seattle-521b019e93",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "A $3.9 latte in Seattle costs only $____ in Mississippi.",
+      "answer": "2.89"
+    },
+    {
+      "id": "starbucks-in-seattle-d5c8b4c0a1",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "Washington D.C. is a state in the US.",
+      "correct": false,
+      "answer": "Myth: it is a district (District of Columbia), not part of any state."
+    },
+    {
+      "id": "starbucks-in-seattle-87041273ab",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A friend says a latte should cost the same at every Starbucks. Using the Seattle example, what do you reply?",
+      "answer": "Prices vary by region: rent and local wages differ, so a Seattle latte can cost much more than the same one in Mississippi."
+    }
+  ]
+}

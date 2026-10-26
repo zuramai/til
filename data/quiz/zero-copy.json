@@ -1,0 +1,46 @@
+{
+  "slug": "zero-copy",
+  "title": "Zero Copy",
+  "url": "/zero-copy/",
+  "sourceHash": "d19171636a38358433b8decb7e1f11594ee3349e9ebe501abd8db11af8cfb85f",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.165Z",
+  "cards": [
+    {
+      "id": "zero-copy-e486f6fcfa",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is zero copy?",
+      "answer": "A technique to transfer data without the CPU copying it from one memory area to another."
+    },
+    {
+      "id": "zero-copy-aa427607f6",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "In Rust, how can you achieve zero copy?",
+      "options": [
+        "Cloning every buffer",
+        "Passing references like &[u8] or &str",
+        "Using global variables only",
+        "Converting to String each time"
+      ],
+      "correct": 1,
+      "answer": "Pass references such as &[u8] or &str, which copy only the pointer to the original buffer."
+    },
+    {
+      "id": "zero-copy-fc181f85bd",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Passing a reference only copies the ____ to the original buffer, not the data.",
+      "answer": "pointer"
+    },
+    {
+      "id": "zero-copy-cdc8405575",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A Rust function takes a String and the caller has a &str, so it allocates a copy each call. How can you apply zero copy?",
+      "answer": "Make the function accept &str so it receives a pointer to the original data without copying it."
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "descartes",
+  "title": "Descartes",
+  "url": "/descartes/",
+  "sourceHash": "329b30027a46f92d324196bf9776c5762e022a48996fa76c2dd844890ec90a64",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.130Z",
+  "cards": [
+    {
+      "id": "descartes-9145801c9c",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Siapa yang dijuluki 'bapak filsafat modern'?",
+      "answer": "René Descartes."
+    },
+    {
+      "id": "descartes-d59cc996b2",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Prinsip terkenal Descartes: 'Cogito, ergo sum' yang artinya ____.",
+      "answer": "aku berpikir, maka aku ada"
+    },
+    {
+      "id": "descartes-4028daacbf",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Apa pandangan Descartes tentang jiwa dan tubuh?",
+      "options": [
+        "Satu bentuk dan materi",
+        "Dualisme: dua zat terpisah",
+        "Keduanya ilusi",
+        "Keduanya sama persis"
+      ],
+      "correct": 1,
+      "answer": "Dualisme: dua zat terpisah."
+    },
+    {
+      "id": "descartes-2b699cd8f7",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Bagaimana Aristoteles memandang jiwa dan tubuh?",
+      "options": [
+        "Dua zat terpisah",
+        "Satu bentuk dan materi",
+        "Tidak ada jiwa",
+        "Tubuh itu ilusi"
+      ],
+      "correct": 1,
+      "answer": "Satu bentuk dan materi."
+    },
+    {
+      "id": "descartes-ca0b8c24d4",
+      "type": "explain",
+      "difficulty": "hard",
+      "prompt": "Jelaskan seperti ke anak 10 tahun: bedanya cara Descartes dan Aristoteles memulai mencari kebenaran.",
+      "answer": "Aristoteles mulai dengan mengamati dunia nyata dulu. Descartes mulai dari pikirannya sendiri dan meragukan segalanya, dengan akal di atas pengalaman indrawi."
+    },
+    {
+      "id": "descartes-afdde2d890",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Descartes mengutamakan pengalaman indrawi di atas akal.",
+      "correct": false,
+      "answer": "Mitos: Descartes mengutamakan akal dan rasionalitas di atas pengalaman indrawi."
+    },
+    {
+      "id": "descartes-ddc54c9ac5",
+      "type": "myth_or_fact",
+      "difficulty": "hard",
+      "prompt": "Descartes tidak percaya Tuhan dan memulai filsafat dari ateisme.",
+      "correct": false,
+      "answer": "Mitos: Descartes percaya Tuhan dan menjadikannya fondasi utama filsafatnya."
+    },
+    {
+      "id": "descartes-418b3b5155",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Temanmu bilang 'Aku percaya indraku, jadi dunia pasti nyata'. Bagaimana Descartes menanggapinya?",
+      "answer": "Descartes akan meragukan semua hal, termasuk indra, dan memulai dari yang pasti: bahwa ia berpikir, maka ia ada."
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "slug": "new-english-vocabularies2",
+  "title": "New English Vocabularies",
+  "url": "/new-english-vocabularies2/",
+  "sourceHash": "7aa767d308746ce4059418f33f1a0fc403deef0c2046fe822aca694eabc1ed7a",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.152Z",
+  "cards": [
+    {
+      "id": "new-english-vocabularies2-e460bf3d8b",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What does the word \"deriding\" mean?",
+      "answer": "Mocking or insulting someone, treating them as worthless or foolish."
+    },
+    {
+      "id": "new-english-vocabularies2-5500557143",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "A ____ is the curved or straight path a moving object follows over time.",
+      "answer": "trajectory"
+    },
+    {
+      "id": "new-english-vocabularies2-c5683e9e22",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which word means an educated guess made from incomplete information, without firm proof?",
+      "options": [
+        "Conjecture",
+        "Trajectory",
+        "Accrued",
+        "Deriding"
+      ],
+      "correct": 0,
+      "answer": "Conjecture: a guess based on incomplete information with no firm proof."
+    },
+    {
+      "id": "new-english-vocabularies2-2745bfe8a5",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Your savings account balance keeps growing as unpaid interest piles up each month. Which vocabulary word describes this interest, and what does it mean?",
+      "answer": "Accrued: accumulated over time, like expense, revenue or interest."
+    },
+    {
+      "id": "new-english-vocabularies2-0f2be477a5",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which word means to offer something by presenting it for acceptance?",
+      "options": [
+        "Proffer",
+        "Deride",
+        "Accrue",
+        "Conjecture"
+      ],
+      "correct": 0,
+      "answer": "Proffer: to offer something by presenting it for acceptance."
+    },
+    {
+      "id": "new-english-vocabularies2-645867be3e",
+      "type": "mcq",
+      "difficulty": "hard",
+      "prompt": "A cruel crowd laughs at a player's mistake and calls him useless. Which word fits their behavior?",
+      "options": [
+        "Deriding",
+        "Accrued",
+        "Proffering",
+        "Conjecturing"
+      ],
+      "correct": 0,
+      "answer": "Deriding: mocking someone as having no value."
+    }
+  ]
+}

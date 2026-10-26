@@ -1,0 +1,40 @@
+{
+  "slug": "ekstrusi-gigi",
+  "title": "Ekstrusi Gigi",
+  "url": "/ekstrusi-gigi/",
+  "sourceHash": "31938a8f463cebaadf4dc8007c2d8c9b35b14becebce550acd771b9b02514210",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:27:36.651Z",
+  "cards": [
+    {
+      "id": "ekstrusi-gigi-b52d234c6b",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Apa itu ekstrusi gigi?",
+      "answer": "Gigi bergeser secara vertikal keluar dari soket atau rahang karena gigi antagonisnya tidak ada."
+    },
+    {
+      "id": "ekstrusi-gigi-2dd6350eae",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Gigi bawah seseorang dicabut dan tidak diganti. Apa yang dapat terjadi pada gigi atas di atasnya?",
+      "answer": "Gigi atas bisa turun ke bawah (ekstrusi) karena tidak ada gigi lawan yang menahannya."
+    },
+    {
+      "id": "ekstrusi-gigi-9df8cefb49",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Ekstrusi terjadi akibat gigi ____ (lawan) tidak ada.",
+      "answer": "antagonis"
+    },
+    {
+      "id": "ekstrusi-gigi-67334c41f4",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Ekstrusi gigi adalah pergeseran gigi secara horizontal.",
+      "correct": false,
+      "answer": "Mitos: pergeserannya vertikal."
+    }
+  ]
+}

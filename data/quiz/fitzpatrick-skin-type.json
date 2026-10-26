@@ -1,0 +1,11 @@
+{
+  "slug": "fitzpatrick-skin-type",
+  "title": "Fitzpatrick Skin Type",
+  "url": "/fitzpatrick-skin-type/",
+  "sourceHash": "e6829818ce99d8fdd6b763ded830b4ac05c31b6ab20410247c738875e918a0b6",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.133Z",
+  "skipReason": "too-short",
+  "cards": []
+}

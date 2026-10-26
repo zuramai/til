@@ -1,0 +1,74 @@
+{
+  "slug": "ielts-writing-tips",
+  "title": "IELTS Writing Tips",
+  "url": "/ielts-writing-tips/",
+  "sourceHash": "bf73ab822a6ecfbbf7ae9bb9202a365aeb7430307a747d1b6e21a1e64f51b186",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.142Z",
+  "cards": [
+    {
+      "id": "ielts-writing-tips-69f3ba4244",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Instead of 'this shows that...', what kind of specific word can you use?",
+      "answer": "Words like approach, concept, context, evidence, or factor."
+    },
+    {
+      "id": "ielts-writing-tips-81d65cd57e",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "To sound cautious, write 'Over-dependence on AI ____ have a negative effect'.",
+      "answer": "may"
+    },
+    {
+      "id": "ielts-writing-tips-8836923270",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which is the more academic version of 'There is a difference between cultures'?",
+      "options": [
+        "Cultures differ",
+        "Cultural diversity requires the adoption of varied communication strategies",
+        "People are different",
+        "Cultures are not same"
+      ],
+      "correct": 1,
+      "answer": "Cultural diversity requires the adoption of varied communication strategies."
+    },
+    {
+      "id": "ielts-writing-tips-1e6fce4214",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "How can nouns improve writing?",
+      "answer": "Turn clauses into noun phrases, e.g. 'They have saved the cost' becomes 'Cost saving'."
+    },
+    {
+      "id": "ielts-writing-tips-545facb400",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You wrote 'These people are wrong'. How to make it diplomatic?",
+      "answer": "Use cautious language: Recent research suggests that this is not the case."
+    },
+    {
+      "id": "ielts-writing-tips-0bbdefea93",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Name two ways to express importance of a topic.",
+      "answer": "Use superlatives like 'one of the most significant causes' or adverbs like 'is becoming increasingly important'."
+    },
+    {
+      "id": "ielts-writing-tips-27e8051206",
+      "type": "odd_one_out",
+      "difficulty": "hard",
+      "prompt": "Which is not an adjective-noun combo expressing importance?",
+      "options": [
+        "increasing concern",
+        "a major problem",
+        "an important part",
+        "has been extensively researched"
+      ],
+      "correct": 3,
+      "answer": "'Has been extensively researched' uses an adverb."
+    }
+  ]
+}

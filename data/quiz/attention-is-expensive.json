@@ -1,0 +1,97 @@
+{
+  "slug": "attention-is-expensive",
+  "title": "Brain and Thinking Power",
+  "url": "/attention-is-expensive/",
+  "sourceHash": "083f2147e021d210fae8da626558eec63ab75282e59e7ead09c1fcc451f80692",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.122Z",
+  "cards": [
+    {
+      "id": "attention-is-expensive-ef1db42a7b",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "How many chunks of information can working memory hold at once?",
+      "answer": "About 4 chunks."
+    },
+    {
+      "id": "attention-is-expensive-f8418c3859",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Working memory capacity peaks in the 20s to early ____.",
+      "answer": "30s"
+    },
+    {
+      "id": "attention-is-expensive-b1de55a552",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why does focusing on hard work like coding feel difficult when you could be eating or gaming?",
+      "answer": "Your brain adds up what you give up by working hard. It knows eating, sleeping, or playing would feel more rewarding, so it keeps nudging you toward a new reward. That is the opportunity cost model."
+    },
+    {
+      "id": "attention-is-expensive-160a52a6c6",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which activity is the only one described as a proven exercise to train working memory?",
+      "options": [
+        "Sudoku",
+        "Crosswords",
+        "Dual N-back",
+        "Chess"
+      ],
+      "correct": 2,
+      "answer": "Dual N-back: remember a sequence and recall what happened N steps back."
+    },
+    {
+      "id": "attention-is-expensive-b2ab48eb8d",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "How does aerobic exercise help the brain?",
+      "options": [
+        "It raises BDNF, a fertilizer-like protein for neurons",
+        "It removes the need for sleep",
+        "It shrinks the hippocampus",
+        "It permanently stops aging"
+      ],
+      "correct": 0,
+      "answer": "It improves BDNF, which acts like fertilizer for neurons in the hippocampus and prefrontal cortex, and boosts blood flow."
+    },
+    {
+      "id": "attention-is-expensive-0c8a570fc2",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Working memory is consolidated during stage 2 non-REM sleep.",
+      "correct": true,
+      "answer": "Stage 2 non-REM sleep consolidates working memory."
+    },
+    {
+      "id": "attention-is-expensive-89f7a4d8d1",
+      "type": "mcq",
+      "difficulty": "hard",
+      "prompt": "Which person is accelerating working memory decline the most?",
+      "options": [
+        "Someone who runs three times a week",
+        "Someone sleeping 8 hours nightly",
+        "Someone sleeping under 7 hours nightly",
+        "Someone playing Dual N-back"
+      ],
+      "correct": 2,
+      "answer": "Sleeping under 7 hours speeds up working memory degradation."
+    },
+    {
+      "id": "attention-is-expensive-5c4951914b",
+      "type": "myth_or_fact",
+      "difficulty": "hard",
+      "prompt": "Regular brain games and exercise can stop the decline of working memory entirely.",
+      "correct": false,
+      "answer": "They can slow the decline but cannot stop aging."
+    },
+    {
+      "id": "attention-is-expensive-6e679693af",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Your 45-year-old coworker wants to protect their memory and processing speed. Name two habits you would recommend and why.",
+      "answer": "Regular aerobic exercise (raises BDNF and brain blood flow) and 7+ hours of sleep (consolidates working memory)."
+    }
+  ]
+}

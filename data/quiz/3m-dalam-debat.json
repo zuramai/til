@@ -1,0 +1,60 @@
+{
+  "slug": "3m-dalam-debat",
+  "title": "3M Dalam Debat",
+  "url": "/3m-dalam-debat/",
+  "sourceHash": "19fa871acb312d47b48ef578054f6d38064302b499fec7df8fdba4543c82ef12",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.114Z",
+  "cards": [
+    {
+      "id": "3m-dalam-debat-10f780e251",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Sebutkan tiga aspek (3M) dalam penilaian debat.",
+      "answer": "Matter (materi), Manner (cara penyampaian), dan Method (struktur)."
+    },
+    {
+      "id": "3m-dalam-debat-0417f5d581",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "Dalam debat, intonasi suara dan bahasa tubuh termasuk aspek yang mana?",
+      "options": [
+        "Matter",
+        "Manner",
+        "Method",
+        "Motivation"
+      ],
+      "correct": 1,
+      "answer": "Manner, yaitu cara penyampaian."
+    },
+    {
+      "id": "3m-dalam-debat-3944468821",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "Logika, data, dan bukti dari sebuah argumen termasuk aspek ____ dalam debat.",
+      "answer": "Matter (materi)"
+    },
+    {
+      "id": "3m-dalam-debat-938bb234e4",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Mana yang BUKAN termasuk aspek Method (struktur) dalam debat?",
+      "options": [
+        "Pengaturan waktu",
+        "Alur berpikir",
+        "Strategi bertahan dan menyerang",
+        "Mimik wajah"
+      ],
+      "correct": 3,
+      "answer": "Mimik wajah masuk Manner (cara penyampaian), sedangkan lainnya masuk Method."
+    },
+    {
+      "id": "3m-dalam-debat-e969245663",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Temanmu berdebat dengan data kuat dan logika rapi, tapi suaranya gemetar dan menunduk terus. Aspek 3M mana yang perlu ia perbaiki?",
+      "answer": "Manner: kepercayaan diri, intonasi, dan bahasa tubuh. Matter-nya sudah bagus."
+    }
+  ]
+}

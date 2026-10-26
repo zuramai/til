@@ -1,0 +1,68 @@
+{
+  "slug": "molecules-and-atoms",
+  "title": "Molecules and Atoms",
+  "url": "/molecules-and-atoms/",
+  "sourceHash": "25147f1be9054aeeabecb7e4a6232cf565b7b6d9ca26c8377431cedc43b8001f",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.150Z",
+  "cards": [
+    {
+      "id": "molecules-and-atoms-d391379cda",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is a molecule?",
+      "answer": "Two or more atoms bonded together; the smallest piece of a substance."
+    },
+    {
+      "id": "molecules-and-atoms-6974c60530",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "How many carbon and oxygen atoms does CO2 have?",
+      "options": [
+        "1 C, 1 O",
+        "2 C, 1 O",
+        "1 C, 2 O",
+        "2 C, 2 O"
+      ],
+      "correct": 2,
+      "answer": "1 carbon and 2 oxygen."
+    },
+    {
+      "id": "molecules-and-atoms-d36a82a332",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "How many atoms are in one caffeine molecule C8H10N4O2?",
+      "answer": "24 atoms."
+    },
+    {
+      "id": "molecules-and-atoms-21688c67b9",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "A hydrogen atom contains 1 proton, 1 electron and ____ neutrons.",
+      "answer": "0"
+    },
+    {
+      "id": "molecules-and-atoms-4bfa63f164",
+      "type": "mcq",
+      "difficulty": "hard",
+      "prompt": "An oxygen atom has how many protons, neutrons and electrons?",
+      "options": [
+        "8/8/8",
+        "8/0/8",
+        "16/8/8",
+        "1/1/0"
+      ],
+      "correct": 0,
+      "answer": "8, 8 and 8."
+    },
+    {
+      "id": "molecules-and-atoms-7bd20c9f06",
+      "type": "myth_or_fact",
+      "difficulty": "hard",
+      "prompt": "Hydrogen is the simplest atom, with no neutrons.",
+      "correct": true,
+      "answer": "Yes, it has 1 proton and 1 electron."
+    }
+  ]
+}

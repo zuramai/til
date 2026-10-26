@@ -1,0 +1,77 @@
+{
+  "slug": "text-embeddings-llm",
+  "title": "Text Embeddings (LLM)",
+  "url": "/text-embeddings-llm/",
+  "sourceHash": "18625735e37d490c1363b5cf8506dd368e1aac71838efe27b388cb5cc969fe87",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.158Z",
+  "cards": [
+    {
+      "id": "text-embeddings-llm-3aa9aa7664",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Apa itu text embedding?",
+      "answer": "Representasi angka (vektor) dari sebuah kata."
+    },
+    {
+      "id": "text-embeddings-llm-c9536f2731",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Jelaskan seperti ke anak 10 tahun: kenapa kata 'apel' ditaruh dekat 'pisang' dan 'anggur' di peta embedding?",
+      "answer": "Karena mereka sama-sama buah, jadi artinya mirip. Kata yang mirip ditaruh berdekatan seperti teman satu geng.",
+      "explanation": "Kata ditempatkan dekat kata lain yang skornya mirip."
+    },
+    {
+      "id": "text-embeddings-llm-96d2a43886",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Koordinat sebuah kata dalam embedding disebut ____.",
+      "answer": "vector"
+    },
+    {
+      "id": "text-embeddings-llm-19acb941f3",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Di peta embedding, anjing ke anak anjing sama seperti sapi ke anak sapi. Sumbu x di contoh itu mewakili apa?",
+      "options": [
+        "Warna bulu",
+        "Usia",
+        "Jumlah kaki",
+        "Ukuran badan"
+      ],
+      "correct": 1,
+      "answer": "Usia: bergeser ke kanan berarti makin tua."
+    },
+    {
+      "id": "text-embeddings-llm-3586e02409",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Di contoh hewan, sumbu y memberi anjing angka 1 dan sapi angka 4. Apa yang kemungkinan diwakili sumbu y?",
+      "answer": "Ukuran tubuh hewan: makin tinggi angka, makin besar badannya."
+    },
+    {
+      "id": "text-embeddings-llm-9e44bfeecc",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Embedding yang bagus hanya perlu satu atau dua properti (dimensi).",
+      "correct": false,
+      "answer": "Mitos: embedding yang bagus punya banyak properti, bahkan ribuan dimensi seperti 4096 pada banyak LLM."
+    },
+    {
+      "id": "text-embeddings-llm-5be3ec7dff",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Seorang teman bertanya: dari mana AI tahu bahwa 'Machine Learning Engineer' dekat dengan 'Data Scientist'?",
+      "answer": "Dari dataset: kedua istilah sering diasosiasikan dengan hal yang sama (misalnya AI dan perusahaan teknologi), sehingga embedding-nya bergerak berdekatan.",
+      "explanation": "Makna properti didefinisikan oleh data yang diberikan."
+    },
+    {
+      "id": "text-embeddings-llm-a2b2a8876c",
+      "type": "recall",
+      "difficulty": "hard",
+      "prompt": "Apa yang terjadi pada nilai embedding di dalam attention mechanism saat training?",
+      "answer": "Nilainya di-adjust (disesuaikan) selama training."
+    }
+  ]
+}

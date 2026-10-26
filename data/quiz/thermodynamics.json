@@ -1,0 +1,84 @@
+{
+  "slug": "thermodynamics",
+  "title": "Thermodynamics",
+  "url": "/thermodynamics/",
+  "sourceHash": "225bd2c77438412aa68401fcc1a7b9c6c7de93e09d920986e2e16371b77a991d",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.159Z",
+  "cards": [
+    {
+      "id": "thermodynamics-c346493e35",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What does the first law of thermodynamics say about energy?",
+      "answer": "Energy is constant; it cannot be created or destroyed."
+    },
+    {
+      "id": "thermodynamics-d45a2d6909",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Entropy is measured in ____ per kelvin.",
+      "answer": "joules"
+    },
+    {
+      "id": "thermodynamics-b049a00d3b",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "What does the third law (as listed) say?",
+      "options": [
+        "Entropy of the universe always increases",
+        "Energy is constant",
+        "Heat flows until temperatures are equal",
+        "A perfect crystal has zero entropy"
+      ],
+      "correct": 0,
+      "answer": "The entropy of the universe always increases over time."
+    },
+    {
+      "id": "thermodynamics-7363d73fca",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "A perfectly crystalline substance has zero entropy.",
+      "correct": true,
+      "answer": "Fact: the most ordered state a substance can be in has zero entropy."
+    },
+    {
+      "id": "thermodynamics-3f144cac9e",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why does a hot coffee cool down?",
+      "answer": "Its heat spreads into the air, glass and table until everything is the same temperature. Energy spreads out and doesn't spread back.",
+      "explanation": "This is entropy rising: the arrow of time."
+    },
+    {
+      "id": "thermodynamics-93d87798ee",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Someone says solar panels create energy from nothing. How would you answer?",
+      "answer": "Energy is conserved. Solar panels convert the sun's existing energy (released as photons) into DC electricity through the photovoltaic effect.",
+      "explanation": "Mass is stored energy, per E = mc^2."
+    },
+    {
+      "id": "thermodynamics-e24d03622c",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "What is the thermodynamic arrow of time?",
+      "answer": "Entropy only goes one direction: energy becomes more dispersed over time."
+    },
+    {
+      "id": "thermodynamics-9c5ea6dd93",
+      "type": "odd_one_out",
+      "difficulty": "hard",
+      "prompt": "Which is NOT an example of energy dispersal increasing entropy?",
+      "options": [
+        "Hot coffee warming the air",
+        "A LED giving off heat",
+        "Plants using sunlight",
+        "Creating energy from nothing"
+      ],
+      "correct": 3,
+      "answer": "Energy being created from nothing would break the first law."
+    }
+  ]
+}

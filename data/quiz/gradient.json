@@ -1,0 +1,54 @@
+{
+  "slug": "gradient",
+  "title": "Gradient",
+  "url": "/gradient/",
+  "sourceHash": "ef0f81666669a2cbd3fe0a1f499039578281c6dd9a8ac427de5faf7909d4b497",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.135Z",
+  "cards": [
+    {
+      "id": "gradient-37113666de",
+      "type": "explain",
+      "difficulty": "easy",
+      "prompt": "Explain like I'm 10: What is a gradient in AI?",
+      "answer": "It's like a slope that tells you which way is downhill. A model follows it to make its mistakes (loss) smaller."
+    },
+    {
+      "id": "gradient-d35dbcdb72",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "If the gradient is negative, what happens if we move lower?",
+      "options": [
+        "The loss increases",
+        "The loss decreases",
+        "The loss stays the same",
+        "The model stops learning"
+      ],
+      "correct": 1,
+      "answer": "The loss decreases."
+    },
+    {
+      "id": "gradient-d34be655d3",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "A gradient is a ____ that shows the correct direction to go.",
+      "answer": "slope"
+    },
+    {
+      "id": "gradient-ed2794c25a",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "What is the gradient calculated from?",
+      "answer": "The difference between the loss and the prediction."
+    },
+    {
+      "id": "gradient-a7956889d4",
+      "type": "myth_or_fact",
+      "difficulty": "hard",
+      "prompt": "A negative gradient means the model is getting worse.",
+      "correct": false,
+      "answer": "Myth: with a negative gradient, going lower reduces the loss, meaning improvement."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "being-a-leader",
+  "title": "Being a Leader",
+  "url": "/being-a-leader/",
+  "sourceHash": "cbe14f3dc9b7a071febd474cddf1738a85d4ce1f9db8b33b6982184dfdc8c953",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.123Z",
+  "cards": [
+    {
+      "id": "being-a-leader-2d84a3d04f",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "Leadership is a talent that only some people are born with.",
+      "correct": false,
+      "answer": "Leadership skill can be learned."
+    },
+    {
+      "id": "being-a-leader-9ada9ab510",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Which book is recommended as one of the best on leadership here?",
+      "answer": "Leaders Eat Last"
+    }
+  ]
+}

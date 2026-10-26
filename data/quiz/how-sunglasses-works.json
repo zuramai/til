@@ -1,0 +1,76 @@
+{
+  "slug": "how-sunglasses-works",
+  "title": "How Sunglasses Work?",
+  "url": "/how-sunglasses-works/",
+  "sourceHash": "1874f23b429045d142593ec37924efa437845905dd1548e83f31969beeb4cc1a",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.138Z",
+  "cards": [
+    {
+      "id": "how-sunglasses-works-34c7261041",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Berapa kira-kira rentang panjang gelombang radiasi ultraviolet?",
+      "answer": "Sekitar 100 hingga 400 nm."
+    },
+    {
+      "id": "how-sunglasses-works-3cc7b9d7f9",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "Kacamata hitam super murah di pinggir jalan biasanya hanya plastik dengan lapisan warna tipis, bukan perlindungan UV sungguhan.",
+      "correct": true,
+      "answer": "Benar: yang sangat murah umumnya cuma plastik dengan lapisan tint tipis."
+    },
+    {
+      "id": "how-sunglasses-works-f1d2fe3d94",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Why do polarized lenses cut glare from a lake surface?",
+      "options": [
+        "They absorb all blue light",
+        "Lake glare is horizontally polarized and the filter passes only vertical light",
+        "They reflect UV back",
+        "They just make the lens darker"
+      ],
+      "correct": 1,
+      "answer": "Lake glare is horizontally polarized, and the filter only lets vertically polarized light pass."
+    },
+    {
+      "id": "how-sunglasses-works-b7042921fd",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Which two tint colors are mentioned, and what does each do?",
+      "answer": "Gray tints protect from glare; yellow tints strongly reduce blue light."
+    },
+    {
+      "id": "how-sunglasses-works-86ab50a087",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "The eye absorbs all UV-B and most UV-A, and over time this can lead to ____.",
+      "answer": "cataracts"
+    },
+    {
+      "id": "how-sunglasses-works-0ceb6d49c4",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Name four of the technologies used to make sunglasses.",
+      "answer": "Any four of: tinting, polarization, photochromic lenses, mirroring, anti-reflective coating, UV coating."
+    },
+    {
+      "id": "how-sunglasses-works-f0a0afbecb",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why can you barely see below the surface of a lake in bright sun, and how do polarized glasses help?",
+      "answer": "Sunlight bouncing off the water gets squished into a flat, horizontal wave that glares in your eyes. Polarized glasses only let up-and-down waves through, so the glare is blocked and you can see better."
+    },
+    {
+      "id": "how-sunglasses-works-87ae249639",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A friend buys a very dark pair for 5 dollars and says dark lenses mean UV protection. Why is that risky?",
+      "answer": "Darkness is only tint; without UV coating, dark lenses make pupils open wider and UV can still enter. A good UV coating is what filters UV and prevents cataracts.",
+      "explanation": "Check for a real UV coating, not just tint."
+    }
+  ]
+}

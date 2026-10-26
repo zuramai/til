@@ -1,0 +1,107 @@
+{
+  "slug": "essay-exercise-ai-usage",
+  "title": "Essay Exercise: AI Controversy",
+  "url": "/essay-exercise-ai-usage/",
+  "sourceHash": "9409a0e4674703a0692865f078d5819213194d51dc97fadbd4100a735f065d9d",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.133Z",
+  "cards": [
+    {
+      "id": "essay-exercise-ai-usage-93d7efe356",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Correct preposition: 'Companies should comply ____ copyright laws.'",
+      "answer": "with"
+    },
+    {
+      "id": "essay-exercise-ai-usage-bad3272d14",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Which article is missing in 'in creative field'?",
+      "answer": "'the': 'in the creative field'."
+    },
+    {
+      "id": "essay-exercise-ai-usage-50f24f8b10",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "What does 'strike a balance' mean?",
+      "options": [
+        "To hit something",
+        "To find a middle ground between contrasting views",
+        "To refuse a compromise",
+        "To measure weight"
+      ],
+      "correct": 1,
+      "answer": "To find a middle ground between two contrasting opinions or demands."
+    },
+    {
+      "id": "essay-exercise-ai-usage-91512d6583",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "In the improved essay, which linking word introduces the opposing view (proponents argue AI is a tool)?",
+      "answer": "Conversely."
+    },
+    {
+      "id": "essay-exercise-ai-usage-ba6e63f40e",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Which word is NOT a synonym-style fit for 'help'?",
+      "options": [
+        "Aids",
+        "Accelerates",
+        "Leverages",
+        "Hinders"
+      ],
+      "correct": 3,
+      "answer": "'Hinders' means to limit someone's ability, the opposite of 'aids'."
+    },
+    {
+      "id": "essay-exercise-ai-usage-b1fbfa934c",
+      "type": "sequence",
+      "difficulty": "hard",
+      "prompt": "Order the body structure of the essay's first body paragraph.",
+      "items": [
+        "Point: job displacement and copyright theft",
+        "Evidence: AI trained on scraped data",
+        "Result: artists are boycotting"
+      ],
+      "answer": "Point, then evidence, then result."
+    },
+    {
+      "id": "essay-exercise-ai-usage-4b0f181037",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "What is the thesis of the structured essay about AI in creative fields?",
+      "answer": "AI offers productivity benefits but poses a significant threat to copyright and employment stability."
+    },
+    {
+      "id": "essay-exercise-ai-usage-d547384fe4",
+      "type": "mcq",
+      "difficulty": "hard",
+      "prompt": "Which sentence is the best formal replacement for 'AI can make a new one from the art style'?",
+      "options": [
+        "AI can make a new one",
+        "AI can replicate an artist's style",
+        "AI can do the style",
+        "AI makes style new"
+      ],
+      "correct": 1,
+      "answer": "AI can replicate or derive new works from an artist's style."
+    },
+    {
+      "id": "essay-exercise-ai-usage-176a17bf7b",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "'Leveraging' means to use something we already have to ____ something.",
+      "answer": "achieve"
+    },
+    {
+      "id": "essay-exercise-ai-usage-c42933083f",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You are writing about AI's drawbacks. Which two arguments from the essay support the claim that it threatens artists?",
+      "answer": "Job displacement as businesses replace labor with AI, and copyright infringement because AI trains on public data and clones artists' styles."
+    }
+  ]
+}

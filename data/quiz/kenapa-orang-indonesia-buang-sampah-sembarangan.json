@@ -1,0 +1,75 @@
+{
+  "slug": "kenapa-orang-indonesia-buang-sampah-sembarangan",
+  "title": "Kenapa Orang Indonesia Buang Sampah Sembarangan?",
+  "url": "/kenapa-orang-indonesia-buang-sampah-sembarangan/",
+  "sourceHash": "7d1642e5950fdfca00bd2ba99e7f0eeeaaae4c3bce9bc83b1b5df249d43b1110",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.146Z",
+  "cards": [
+    {
+      "id": "kenapa-orang-indonesia-buang-sampah-sembarangan-5bbf09799f",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "Yang mengambil sampah dari rumah-rumah warga biasanya adalah petugas pemerintah.",
+      "correct": false,
+      "answer": "Mitos: biasanya petugas swasta atau vendor; petugas pemerintah mengurus tempat umum seperti pinggir jalan."
+    },
+    {
+      "id": "kenapa-orang-indonesia-buang-sampah-sembarangan-0e6485e9aa",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Apa sebutan untuk petugas sampah berseragam oren yang biasa dilihat di jalan, dan siapa kebanyakan mereka?",
+      "answer": "Pasukan oren; kebanyakan petugas dari vendor, bukan pemerintah."
+    },
+    {
+      "id": "kenapa-orang-indonesia-buang-sampah-sembarangan-c1d45328a6",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Kenapa warga miskin memilih membuang sampah di pinggir jalan?",
+      "options": [
+        "Mereka tidak peduli lingkungan",
+        "Iuran bulanan RT (misal 50 ribu) terlalu berat dan buang di jalan gratis",
+        "Pemerintah melarang tempat sampah rumah",
+        "Tidak ada jalan di gang"
+      ],
+      "correct": 1,
+      "answer": "Iuran bulanan RT jadi beban berat, jadi mereka berharap petugas memungut gratis di pinggir jalan."
+    },
+    {
+      "id": "kenapa-orang-indonesia-buang-sampah-sembarangan-3cd04ed684",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "Meski tong sampah sudah dipisah organik dan anorganik, sampah akhirnya disatukan lagi di ____.",
+      "answer": "gerobak petugas"
+    },
+    {
+      "id": "kenapa-orang-indonesia-buang-sampah-sembarangan-5dd5fa0e3b",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Kamu jadi pejabat daerah dengan anggaran terbatas dan ingin mengatasi banjir akibat sampah di kali. Apa solusi yang disarankan dan kenapa untung?",
+      "answer": "Tambah petugas yang mengambil sampah dari rumah, gaji layak minimal UMR dan pilah sampah. Biaya gaji sebanding dengan penghematan: tak perlu keruk kali, sewa alat berat, dan risiko banjir turun."
+    },
+    {
+      "id": "kenapa-orang-indonesia-buang-sampah-sembarangan-ccdb9af367",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: kenapa orang di pinggir kali lebih mudah melempar sampah ke kali?",
+      "answer": "Tempat pembuangan sementara jauh, sedangkan kali ada di depan rumah. Membuang ke kali lebih gampang dan gratis, jadi mereka memilih itu."
+    },
+    {
+      "id": "kenapa-orang-indonesia-buang-sampah-sembarangan-0c8f36f132",
+      "type": "odd_one_out",
+      "difficulty": "hard",
+      "prompt": "Mana yang BUKAN penyebab buang sampah sembarangan menurut penjelasan itu?",
+      "options": [
+        "Rumah scattered di gang dan pinggir kali",
+        "Iuran sampah yang memberatkan",
+        "TPS yang jauh",
+        "Singapura melarang warga membuang sampah"
+      ],
+      "correct": 3,
+      "answer": "Singapura dibandingkan sebagai contoh pengelolaan terstruktur, bukan penyebab."
+    }
+  ]
+}

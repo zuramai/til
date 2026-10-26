@@ -1,0 +1,89 @@
+{
+  "slug": "kenapa-kita-takut-menyampaikan-masalah",
+  "title": "Mengapa Kita Takut Menyampaikan Masalah ke Atasan/Pemimpin?",
+  "url": "/kenapa-kita-takut-menyampaikan-masalah/",
+  "sourceHash": "65da541f95533f9b9967fb163c47b2fdd7e99262a9c2dbf5ab6e375699f6bc30",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.145Z",
+  "cards": [
+    {
+      "id": "kenapa-kita-takut-menyampaikan-masalah-1a754f1df6",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Apa kepanjangan dan fungsi PDI dalam konteks hubungan atasan-bawahan?",
+      "answer": "Power Distance Index: mengukur seberapa jauh jarak antara atasan dan bawahan, yaitu seberapa bawahan menerima kekuasaan pemimpin."
+    },
+    {
+      "id": "kenapa-kita-takut-menyampaikan-masalah-f5a48847ec",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "Berapa skor Power Distance Index Indonesia?",
+      "options": [
+        "18",
+        "40",
+        "78",
+        "100"
+      ],
+      "correct": 2,
+      "answer": "78, jauh lebih tinggi dari US (40) dan Denmark (18).",
+      "explanation": "Skor tinggi berarti jarak atasan dan bawahan lebar."
+    },
+    {
+      "id": "kenapa-kita-takut-menyampaikan-masalah-ea59988607",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Mana yang BUKAN ciri budaya dengan skor PDI tinggi?",
+      "options": [
+        "Senioritas mengakar",
+        "Atasan dianggap selalu benar",
+        "Atasan tidak boleh dikritik",
+        "Bawahan bebas berdiskusi setara dengan pemimpin"
+      ],
+      "correct": 3,
+      "answer": "Diskusi setara adalah ciri skor PDI rendah (egaliter), bukan tinggi."
+    },
+    {
+      "id": "kenapa-kita-takut-menyampaikan-masalah-2effe2a2b7",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Budaya tidak enakan yang membuat orang menyembunyikan masalah dari bos disebut budaya ____.",
+      "answer": "sungkan"
+    },
+    {
+      "id": "kenapa-kita-takut-menyampaikan-masalah-c89f571c4e",
+      "type": "riddle",
+      "difficulty": "medium",
+      "prompt": "Aku singkatan tiga kata yang lahir dari budaya sungkan: bawahan hanya melapor yang enak didengar agar pimpinan tenang. Siapa aku?",
+      "answer": "ABS (Asal Bapak Senang)"
+    },
+    {
+      "id": "kenapa-kita-takut-menyampaikan-masalah-d25997d497",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Semakin tinggi skor PDI, semakin egaliter dan setara hubungan atasan dengan bawahan.",
+      "correct": false,
+      "answer": "Salah: skor tinggi berarti makin otoriter dan berjarak; skor rendah yang egaliter."
+    },
+    {
+      "id": "kenapa-kita-takut-menyampaikan-masalah-51ba45960c",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Seorang manajer merasa semua proyek lancar, padahal tim sering diam saja saat rapat. Berdasarkan konsep PDI dan sungkan, apa kemungkinan yang terjadi?",
+      "answer": "Bawahan mungkin takut atau sungkan menyampaikan masalah, sehingga masalah menumpuk tersembunyi sementara pemimpin mengira semuanya baik-baik saja.",
+      "explanation": "Jarak kekuasaan tinggi membuat kritik terasa terlarang."
+    },
+    {
+      "id": "kenapa-kita-takut-menyampaikan-masalah-d5157f49c5",
+      "type": "sequence",
+      "difficulty": "medium",
+      "prompt": "Urutkan dari skor PDI tertinggi ke terendah.",
+      "items": [
+        "Indonesia (78)",
+        "US (40)",
+        "Denmark (18)"
+      ],
+      "answer": "Indonesia paling tinggi, lalu US, lalu Denmark paling rendah."
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "grinding-strategy",
+  "title": "My Grinding Strategy",
+  "url": "/grinding-strategy/",
+  "sourceHash": "94ab91beb9c60c9a867156c58e431793b73cc62650b1494c238b39cd3a19ff1f",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.136Z",
+  "cards": [
+    {
+      "id": "grinding-strategy-10727bdcc3",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "In the 2-year grinding plan, what IELTS band is the English goal?",
+      "answer": "Band 7.5, plus excelling in mock interviews."
+    },
+    {
+      "id": "grinding-strategy-3973783695",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What yearly salary target does the plan aim for, and in what kind of countries?",
+      "answer": "More than $30K/year, in 1st world English-speaking countries."
+    },
+    {
+      "id": "grinding-strategy-19559af959",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "What is the daily LeetCode rule in the grinding strategy?",
+      "answer": "Solve at least 1 problem each morning and self-explain the solution."
+    },
+    {
+      "id": "grinding-strategy-b87ee951f6",
+      "type": "sequence",
+      "difficulty": "medium",
+      "prompt": "Order the daily/weekly rhythm in the plan from earliest to latest:",
+      "items": [
+        "Morning: LeetCode, 1 solution minimum",
+        "Night: explore, read, experiment, code",
+        "Weekend: read and absorb something new",
+        "Weekend: weekly review of progress"
+      ],
+      "answer": "Morning LeetCode, night exploration and coding, then weekend reading and review."
+    },
+    {
+      "id": "grinding-strategy-baa2614e42",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "What should you conclude if the weekly review shows you aren't getting closer to your goals?",
+      "options": [
+        "Work longer hours",
+        "You're doing something wrong and should adjust",
+        "Drop the goals",
+        "Do nothing, it takes time"
+      ],
+      "correct": 1,
+      "answer": "You were doing something wrong and must adjust."
+    },
+    {
+      "id": "grinding-strategy-5ac6355544",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "The plan sets a bedtime of ____ PM at the latest to think clearly and remember better.",
+      "answer": "10.30"
+    },
+    {
+      "id": "grinding-strategy-43c2361a8d",
+      "type": "odd_one_out",
+      "difficulty": "hard",
+      "prompt": "Which is NOT one of the six goals to be met?",
+      "options": [
+        "AI Engineering",
+        "Low-level knowledge",
+        "Open source",
+        "Mobile game design"
+      ],
+      "correct": 3,
+      "answer": "Learning mobile game design isn't listed; the others are goals (English, LeetCode, AI engineering, low-level, open source, SWE knowledge)."
+    },
+    {
+      "id": "grinding-strategy-ab538f7e20",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Your goal is to explain a solution in proficient English. Which habit from the plan best trains this while learning?",
+      "answer": "Involve English in all learning: write up solutions and elaborate what you learned in English."
+    },
+    {
+      "id": "grinding-strategy-87e2a55870",
+      "type": "recall",
+      "difficulty": "hard",
+      "prompt": "What does the plan expect from the low-level goal?",
+      "answer": "Use C++ or Rust to significantly improve workflow performance and be able to use the GPU for performance."
+    }
+  ]
+}

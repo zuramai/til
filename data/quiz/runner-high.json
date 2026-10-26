@@ -1,0 +1,68 @@
+{
+  "slug": "runner-high",
+  "title": "Runner High",
+  "url": "/runner-high/",
+  "sourceHash": "d816072625e6c66da795fa5e72b73a530899955d9aaab6b43ad0dfe95abc872a",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.155Z",
+  "cards": [
+    {
+      "id": "runner-high-ae1a10b8cf",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is a 'runner high'?",
+      "answer": "A feeling of happiness or euphoria gained by runners."
+    },
+    {
+      "id": "runner-high-f34beb3d5f",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which chemicals are linked to runner high?",
+      "options": [
+        "Endorphins and endocannabinoids",
+        "Insulin and glucagon",
+        "Melatonin and cortisol",
+        "Adrenaline only"
+      ],
+      "correct": 0,
+      "answer": "Endorphins and a surge of endocannabinoids."
+    },
+    {
+      "id": "runner-high-1546cffa5a",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "A short, easy jog is enough to trigger a runner high.",
+      "correct": false,
+      "answer": "Myth: it needs prolonged, high-intensity exercise."
+    },
+    {
+      "id": "runner-high-283d13c29d",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Endocannabinoids are neurotransmitters that regulate mood, memory, and ____.",
+      "answer": "appetite"
+    },
+    {
+      "id": "runner-high-cda96c8f26",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Your friend walks gently for 10 minutes and wonders why she never feels the euphoria runners describe. What would you tell her?",
+      "answer": "The runner high needs prolonged, high-intensity exercise, so a short gentle walk is unlikely to trigger it."
+    },
+    {
+      "id": "runner-high-7146c14dec",
+      "type": "riddle",
+      "difficulty": "easy",
+      "prompt": "I'm a feeling that comes after a long, hard run: euphoria, less pain, less anxiety. What am I?",
+      "answer": "Runner high."
+    },
+    {
+      "id": "runner-high-c2eba202d7",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why can a long hard run make you feel super happy?",
+      "answer": "When you run hard for a long time, your body releases happy chemicals like endorphins and endocannabinoids. They make you feel joyful and make pain feel smaller."
+    }
+  ]
+}

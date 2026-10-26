@@ -1,0 +1,120 @@
+{
+  "slug": "brain-training",
+  "title": "Cara belajar",
+  "url": "/brain-training/",
+  "sourceHash": "7b1858a2614715db40a15b2de4a06bdf900acc74833f28b095a33f5ec86f7151",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.126Z",
+  "cards": [
+    {
+      "id": "brain-training-ebc1ba45e7",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Apa yang dimaksud dengan fluid intelligence?",
+      "answer": "Kemampuan berpikir abstrak dan melakukan reasoning."
+    },
+    {
+      "id": "brain-training-ba803c2cd2",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Crystallized intelligence paling tepat digambarkan sebagai…",
+      "options": [
+        "Kemampuan berpikir abstrak yang cepat",
+        "Akumulasi ilmu dan skill seiring usia",
+        "Bakat bawaan sejak lahir yang tak berubah",
+        "Kemampuan menghafal angka"
+      ],
+      "correct": 1,
+      "answer": "Akumulasi ilmu dan skill yang terkumpul seiring bertambahnya usia."
+    },
+    {
+      "id": "brain-training-7f942d8851",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "Highlighting dan membaca ulang adalah cara belajar yang paling efektif karena terasa paham.",
+      "correct": false,
+      "answer": "Mitos: highlighting dan rereading kurang efektif dan hanya memberi illusion of knowing."
+    },
+    {
+      "id": "brain-training-20ec32aa09",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Merasa paham setelah membaca ulang padahal tidak benar-benar menempel di otak disebut ____.",
+      "answer": "illusion of knowing"
+    },
+    {
+      "id": "brain-training-6ffd6451cd",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Jelaskan seperti ke anak 10 tahun: kenapa self-quizzing yang terasa melelahkan justru membuat ingatan lebih kuat?",
+      "answer": "Otak seperti otot: makin keras dipakai untuk mengingat, makin kuat ia jadi. Saat mencoba mengingat, otak membangun hubungan neuron baru, jadi rasa susahnya itu tanda belajar sedang terjadi.",
+      "explanation": "Retrieval practice terasa membuat frustrasi, tapi itulah esensi belajar."
+    },
+    {
+      "id": "brain-training-c809d74b7d",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Kamu belajar kata Jerman 'Tisch' (meja) tapi sulit ingat. Teknik apa yang cocok dan bagaimana menerapkannya?",
+      "answer": "Pakai memory cues: Tisch mirip 'tissue' dalam bahasa Inggris, jadi bayangkan tisu di atas meja untuk mengaitkannya dengan arti 'meja'."
+    },
+    {
+      "id": "brain-training-861850f75d",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Massed practice (belajar menumpuk sekaligus) lebih efektif untuk retensi jangka panjang daripada belajar berjarak.",
+      "correct": false,
+      "answer": "Mitos: massed practice terasa produktif dan bisa tinggi di awal, tapi seiring waktu kurang efektif dibanding spaced repetition."
+    },
+    {
+      "id": "brain-training-0d84034699",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Mengapa spaced repetition membantu ingatan?",
+      "options": [
+        "Otak jadi lebih lelah sehingga lebih fokus",
+        "Memberi ruang otak mengubah memori jangka pendek ke jangka panjang",
+        "Materi jadi lebih sedikit",
+        "Kita jadi tidak perlu mengulang lagi"
+      ],
+      "correct": 1,
+      "answer": "Memberi jarak antar sesi memberi ruang bagi otak mengubah short-term memory menjadi long-term memory."
+    },
+    {
+      "id": "brain-training-38c15d3e84",
+      "type": "odd_one_out",
+      "difficulty": "hard",
+      "prompt": "Mana yang BUKAN teknik belajar efektif menurut daftar retrieval, elaboration, generation, reflection?",
+      "options": [
+        "Self-quizzing",
+        "Menjelaskan dengan bahasa sendiri",
+        "Membaca ulang catatan berkali-kali",
+        "Membuat paragraf baru dari materi yang dipelajari"
+      ],
+      "correct": 2,
+      "answer": "Rereading adalah illusion of knowing, bukan teknik efektif seperti tiga lainnya."
+    },
+    {
+      "id": "brain-training-e7dda896f6",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Apa itu elaboration practice?",
+      "answer": "Belajar dengan menjelaskan sesuatu dengan bahasa sendiri dan mengaitkannya dengan diri kita."
+    },
+    {
+      "id": "brain-training-7eb710f396",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Kamu belajar IELTS hanya dari Duolingo dan skor tidak naik. Praktik belajar mana yang paling menolong menemukan penyebabnya?",
+      "answer": "Reflection: evaluasi diri untuk tahu lubang yang belum dipelajari, misalnya belum latihan speaking, reading, dan paraphrasing."
+    },
+    {
+      "id": "brain-training-7bce90f1d9",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Hubungan antara privilege sosioekonomik dan IQ yang lebih tinggi adalah korelasi, bukan bukti kausalitas.",
+      "correct": true,
+      "answer": "Fakta: orang berprivilege cenderung ber-IQ lebih tinggi, tapi itu korelasi, bukan kausalitas."
+    }
+  ]
+}

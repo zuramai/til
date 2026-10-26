@@ -1,0 +1,95 @@
+{
+  "slug": "mikroekonomi-klasik-biaya-produksi",
+  "title": "Mikroekonomi Klasik: Biaya Produksi",
+  "url": "/mikroekonomi-klasik-biaya-produksi/",
+  "sourceHash": "b22233f8856f846044305a35c519bb1e60f891fc80e23da23fd0c069c64706b4",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.149Z",
+  "cards": [
+    {
+      "id": "mikroekonomi-klasik-biaya-produksi-b64d3a94ce",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Apa perbedaan fokus mikroekonomi dan makroekonomi?",
+      "answer": "Mikro fokus ke individu/entitas kecil, makro ke perekonomian besar seperti inflasi, pengangguran, dan pertumbuhan."
+    },
+    {
+      "id": "mikroekonomi-klasik-biaya-produksi-bf43b73bdf",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "Mana contoh biaya tetap (fixed cost) bagi toko kue?",
+      "options": [
+        "Tepung",
+        "Telur",
+        "Sewa tempat",
+        "Gula"
+      ],
+      "correct": 2,
+      "answer": "Sewa pabrik/oven tetap dibayar berapa pun output-nya."
+    },
+    {
+      "id": "mikroekonomi-klasik-biaya-produksi-3d2c825310",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Rumus total cost adalah TC = FC + ____.",
+      "answer": "VC"
+    },
+    {
+      "id": "mikroekonomi-klasik-biaya-produksi-398a1a45d5",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Bagaimana rumus average fixed cost (AFC)?",
+      "answer": "AFC = FC / Q, dengan Q jumlah output."
+    },
+    {
+      "id": "mikroekonomi-klasik-biaya-produksi-27bf7ba540",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Kamu sewa ruko 5 juta dan hanya menghasilkan 10 kue. Berapa AFC per kue, dan apa artinya jika produksi naik?",
+      "answer": "500 ribu per kue; jika produksi bertambah AFC per kue menurun karena fixed cost tersebar ke lebih banyak unit."
+    },
+    {
+      "id": "mikroekonomi-klasik-biaya-produksi-e36c7208d6",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: apa itu marginal cost?",
+      "answer": "Marginal cost adalah ongkos tambahan untuk membuat satu barang lagi. Misal sudah buat 100 kue, ongkos kue ke-101 itulah marginal cost."
+    },
+    {
+      "id": "mikroekonomi-klasik-biaya-produksi-7ebd8ce806",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Mana yang bukan biaya variabel bagi produksi kue?",
+      "options": [
+        "Tepung",
+        "Telur",
+        "Gula",
+        "Sewa oven"
+      ],
+      "correct": 3,
+      "answer": "Sewa oven adalah fixed cost."
+    },
+    {
+      "id": "mikroekonomi-klasik-biaya-produksi-ba03fc6b82",
+      "type": "myth_or_fact",
+      "difficulty": "hard",
+      "prompt": "Menaikkan jumlah output otomatis menaikkan fixed cost.",
+      "correct": false,
+      "answer": "Fixed cost tidak berubah ketika output naik."
+    },
+    {
+      "id": "mikroekonomi-klasik-biaya-produksi-7f89e97d13",
+      "type": "sequence",
+      "difficulty": "hard",
+      "prompt": "Urutkan langkah menghitung biaya per unit.",
+      "items": [
+        "Tentukan FC dan VC",
+        "Jumlahkan TC = FC + VC",
+        "Tentukan jumlah output Q",
+        "Hitung AC = AFC + AVC"
+      ],
+      "answer": "Hitung FC dan VC, jumlahkan jadi TC, lalu bagi per Q untuk mendapat AC."
+    }
+  ]
+}

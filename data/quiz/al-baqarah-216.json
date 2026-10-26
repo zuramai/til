@@ -1,0 +1,47 @@
+{
+  "slug": "al-baqarah-216",
+  "title": "Al Baqarah: 216",
+  "url": "/al-baqarah-216/",
+  "sourceHash": "20356c1479abf4f99919113a751c04679cfc0d18edf8562ba3e332b29940a5e5",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.120Z",
+  "cards": [
+    {
+      "id": "al-baqarah-216-f468f27426",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Surah dan ayat berapakah yang menyatakan 'boleh jadi kamu membenci sesuatu padahal ia amat baik bagimu'?",
+      "answer": "Al-Baqarah ayat 216."
+    },
+    {
+      "id": "al-baqarah-216-63fe7e6976",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Ayat itu berkata: boleh jadi kamu membenci sesuatu padahal ia amat ____ bagimu.",
+      "answer": "baik"
+    },
+    {
+      "id": "al-baqarah-216-e068252d65",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Ayat Al-Baqarah 216 hanya relevan untuk konteks perang dan tidak bisa diterapkan pada aspek hidup lain.",
+      "correct": false,
+      "answer": "Mitos: konteksnya perang, tetapi bagian tentang membenci/menyukai sesuatu bisa diterapkan ke semua aspek hidup."
+    },
+    {
+      "id": "al-baqarah-216-17f15f1d04",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Kamu sangat kecewa gagal diterima di kantor impianmu. Bagaimana ayat ini membantu menyikapinya?",
+      "answer": "Bisa jadi yang kamu benci atau sesalkan justru baik bagimu; Allah mengetahui, sedangkan kita tidak."
+    },
+    {
+      "id": "al-baqarah-216-2252209366",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: apa pesan 'Allah mengetahui, sedang kamu tidak mengetahui'?",
+      "answer": "Kita sering tidak tahu mana yang terbaik. Hal yang tidak kita suka bisa jadi baik, dan yang kita suka bisa jadi buruk, jadi kita perlu percaya pada Allah."
+    }
+  ]
+}

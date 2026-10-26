@@ -1,0 +1,84 @@
+{
+  "slug": "vernacular-vs-dialect",
+  "title": "Vernacular vs Dialect",
+  "url": "/vernacular-vs-dialect/",
+  "sourceHash": "ddf4fd5ad57f6f0ef364ec5bd328c908a558366a677637257c25c774a94531e1",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.161Z",
+  "cards": [
+    {
+      "id": "vernacular-vs-dialect-441cabe390",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What does 'vernacular' mean in language?",
+      "answer": "The casual, informal way people talk day to day, with everyday vocabulary and slang, instead of strictly following standard rules."
+    },
+    {
+      "id": "vernacular-vs-dialect-8c4ea12bb1",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "A regional version of a language with its own grammar, accent and words is called a ____.",
+      "answer": "dialect",
+      "explanation": "Examples: Cockney in London and Yorkshire in northern England."
+    },
+    {
+      "id": "vernacular-vs-dialect-18f1fbca7c",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which is an example of vernacular rather than standard English?",
+      "options": [
+        "'Gonna' instead of 'going to'",
+        "'Going to' in a formal essay",
+        "'Cockney' as a regional name",
+        "'Grammar' as a word"
+      ],
+      "correct": 0,
+      "answer": "'Gonna' instead of 'going to': casual everyday speech that bends the standard form."
+    },
+    {
+      "id": "vernacular-vs-dialect-c537baa27f",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "In standard English a double negative like 'he's not going nowhere' cancels out into a positive, but many speakers use it just to intensify the negation.",
+      "correct": true,
+      "answer": "Fact: standard grammar says two negatives cancel, but in vernacular speech the double negative reinforces the negation."
+    },
+    {
+      "id": "vernacular-vs-dialect-50a7bba00a",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why do Indonesian learners struggle to understand locals even after studying the language?",
+      "answer": "Learners study the formal, textbook Indonesian, but locals talk in a relaxed street version where words get shortened or dropped. So 'Saya tidak tahu' becomes 'nggak tau' in daily talk."
+    },
+    {
+      "id": "vernacular-vs-dialect-7738f22171",
+      "type": "riddle",
+      "difficulty": "hard",
+      "prompt": "We are two versions of one language, formal and casual, and both live in the same society, each picked by the situation. What is the name for this arrangement?",
+      "answer": "Diglossia",
+      "explanation": "Bahasa baku vs bahasa gaul, and Arabic Fusha vs Amiyah, are examples."
+    },
+    {
+      "id": "vernacular-vs-dialect-04ee430c11",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Your friend learns Arabic from the Quran and is baffled that people in daily life sound different, with word endings dropped. What is going on?",
+      "answer": "Diglossia: Fusha (used in the Quran) is the formal form, while Amiyah is the daily-life form where speakers cut the final harakat (i'rab) for simpler pronunciation."
+    },
+    {
+      "id": "vernacular-vs-dialect-d35b648940",
+      "type": "odd_one_out",
+      "difficulty": "hard",
+      "prompt": "Which one does NOT belong with the others as informal everyday speech?",
+      "options": [
+        "Nggak tau",
+        "Wicked cold",
+        "Gonna",
+        "Saya tidak tahu"
+      ],
+      "correct": 3,
+      "answer": "'Saya tidak tahu' is the formal standard (bahasa baku) form; the others are informal everyday speech."
+    }
+  ]
+}

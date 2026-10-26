@@ -1,0 +1,95 @@
+{
+  "slug": "financial-mistakes",
+  "title": "Financial Mistakes",
+  "url": "/financial-mistakes/",
+  "sourceHash": "94d7fa5068917556a968bcb8cd2f1817635055e8e3184df18a24c8a9335e6664",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.133Z",
+  "cards": [
+    {
+      "id": "financial-mistakes-a7174a2aa7",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Sebutkan empat tipe Money Script.",
+      "answer": "Money avoidance, vigilance, worship, dan status."
+    },
+    {
+      "id": "financial-mistakes-f5edcb7971",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Orang yang menghabiskan uang demi validasi lewat barang mewah termasuk tipe apa?",
+      "options": [
+        "Money avoider",
+        "Money vigilance",
+        "Money worship",
+        "Money status"
+      ],
+      "correct": 3,
+      "answer": "Money status."
+    },
+    {
+      "id": "financial-mistakes-04d6093e28",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Apa itu financial enmeshment?",
+      "answer": "Batasan keuangan orang tua dan anak menjadi kabur, anak ditekan membantu keuangan orang tua."
+    },
+    {
+      "id": "financial-mistakes-ad7f1e41ba",
+      "type": "riddle",
+      "difficulty": "medium",
+      "prompt": "Aku orang yang takut membelanjakan uang dan sangat pelit atau frugal. Siapa aku di Money Script?",
+      "answer": "Money vigilance"
+    },
+    {
+      "id": "financial-mistakes-25e9f88389",
+      "type": "sequence",
+      "difficulty": "hard",
+      "prompt": "Urutkan empat prioritas pengumpulan uang.",
+      "items": [
+        "Dana darurat",
+        "Housing",
+        "Dana membesarkan anak",
+        "Dana pensiun"
+      ],
+      "answer": "Dana darurat, housing, dana membesarkan anak, lalu dana pensiun."
+    },
+    {
+      "id": "financial-mistakes-b6fd546ed7",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Anak berkewajiban membalas biaya pendidikan orang tua.",
+      "correct": false,
+      "answer": "Mitos: pendidikan anak adalah hak anak dan kewajiban orang tua."
+    },
+    {
+      "id": "financial-mistakes-3b9e49bc71",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Kamu belum punya dana darurat tapi ingin liburan mahal. Apa saran prioritas?",
+      "answer": "Bangun dana darurat dulu; tanpanya bersenang-senang tidak dianjurkan."
+    },
+    {
+      "id": "financial-mistakes-938a0dbe0e",
+      "type": "mcq",
+      "difficulty": "hard",
+      "prompt": "Mana yang BUKAN ciri siap finansial level 1?",
+      "options": [
+        "Punya dana darurat",
+        "Penghasilan stabil",
+        "Gaya hidup mewah",
+        "Bayar BPJS"
+      ],
+      "correct": 2,
+      "answer": "Gaya hidup mewah bukan ciri; level 1 butuh gaya hidup sederhana."
+    },
+    {
+      "id": "financial-mistakes-7b32a16f71",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Jelaskan sederhana: kenapa pola 'anak adalah investasi' berbahaya?",
+      "answer": "Anak diharapkan berbagi penghasilan setelah dewasa sehingga kebanyakan terbebani secara finansial dan siklusnya berulang."
+    }
+  ]
+}

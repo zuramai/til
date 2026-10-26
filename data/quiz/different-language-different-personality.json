@@ -1,0 +1,89 @@
+{
+  "slug": "different-language-different-personality",
+  "title": "Different Language, Different Personality",
+  "url": "/different-language-different-personality/",
+  "sourceHash": "f9a91ffaf84ef1a01146c465880f5784b6b11e55b834b9dc2fc630c28aa724a6",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:27:36.649Z",
+  "cards": [
+    {
+      "id": "different-language-different-personality-c940dd1ad1",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What are the two main reasons we feel like a different person in a different language?",
+      "answer": "Language structure and culture."
+    },
+    {
+      "id": "different-language-different-personality-de93cecc5d",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "In a survey of over 1000 multilinguals, ____ percent felt like a different person when speaking different languages.",
+      "answer": "65"
+    },
+    {
+      "id": "different-language-different-personality-3d99c719a7",
+      "type": "scenario",
+      "difficulty": "medium",
+      "prompt": "In Javanese or Japanese, how should you speak to your boss or an older person?",
+      "answer": "Use the polite form, since vocabulary shifts depending on who and where."
+    },
+    {
+      "id": "different-language-different-personality-34f13c42f1",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: what is pragmatic competence?",
+      "answer": "It's knowing not just words and grammar, but how to use a language in a socially appropriate way."
+    },
+    {
+      "id": "different-language-different-personality-6784ae1ece",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Who is most likely to feel the 'different personality' effect?",
+      "options": [
+        "Those who studied only grammar",
+        "Those with high immersion, like living abroad",
+        "Those who speak only one language",
+        "Those who never speak aloud"
+      ],
+      "correct": 1,
+      "answer": "People with high immersion and constant exposure to cultural norms."
+    },
+    {
+      "id": "different-language-different-personality-cb7c1c3d09",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Memories feel more vivid when recalled in your mother language.",
+      "correct": true,
+      "answer": "Fact: emotions and memories are more intense in the native language."
+    },
+    {
+      "id": "different-language-different-personality-b156c15c5e",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Why might you swear more easily in your second language?",
+      "answer": "Second language feels emotionally less connected, so you can express with less anxiety and embarrassment."
+    },
+    {
+      "id": "different-language-different-personality-f61a259620",
+      "type": "odd_one_out",
+      "difficulty": "hard",
+      "prompt": "Which culture-quality pairing does NOT match the examples given?",
+      "options": [
+        "US: assertiveness",
+        "Germany: directness",
+        "Indonesia: assertiveness above all",
+        "Indonesia: small talk"
+      ],
+      "correct": 2,
+      "answer": "Indonesia values humility and small talk, not assertiveness."
+    },
+    {
+      "id": "different-language-different-personality-db3d28b90d",
+      "type": "recall",
+      "difficulty": "hard",
+      "prompt": "Why do German speakers often come across as direct?",
+      "answer": "As a form of respect for others' time; they value efficiency and honesty."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "7-38-55-rule",
+  "title": "7-38-55 Rule",
+  "url": "/7-38-55-rule/",
+  "sourceHash": "506792670f41185bc084d8e42ab05bc6c402d4e2c86bdac813504adb4cb320de",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.118Z",
+  "cards": [
+    {
+      "id": "7-38-55-rule-7a6e8fc624",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Dalam aturan 7-38-55, siapa yang menciptakan aturan ini?",
+      "answer": "Albert Mehrabian."
+    },
+    {
+      "id": "7-38-55-rule-5cf3aabcfb",
+      "type": "sequence",
+      "difficulty": "medium",
+      "prompt": "Urutkan komponen pesan dari kontribusi terkecil ke terbesar menurut aturan 7-38-55.",
+      "items": [
+        "Kata-kata (7%)",
+        "Nada dan suara (38%)",
+        "Gerak tubuh (55%)"
+      ],
+      "answer": "Kata-kata 7%, nada suara 38%, gerak tubuh 55%."
+    },
+    {
+      "id": "7-38-55-rule-4278748192",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "In the 7-38-55 rule, body gestures account for ____ of the perceived message.",
+      "answer": "55%"
+    },
+    {
+      "id": "7-38-55-rule-29ec35476f",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Someone says 'I'm totally fine' but avoids eye contact and sounds tense. What does the rule suggest?",
+      "options": [
+        "Believe the words, they are the main message",
+        "The words and body language don't align; they may be unconvinced",
+        "Ignore tone completely",
+        "They are definitely happy"
+      ],
+      "correct": 1,
+      "answer": "The words and body language don't align, so they may be lying or unconvinced."
+    },
+    {
+      "id": "7-38-55-rule-2a43501578",
+      "type": "recall",
+      "difficulty": "hard",
+      "prompt": "What technique can you use to find the source of incongruence when words and body language don't match?",
+      "answer": "The labeling technique."
+    }
+  ]
+}

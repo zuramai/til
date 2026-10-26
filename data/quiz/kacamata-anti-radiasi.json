@@ -1,0 +1,82 @@
+{
+  "slug": "kacamata-anti-radiasi",
+  "title": "Kacamata Anti Radiasi, Scam?",
+  "url": "/kacamata-anti-radiasi/",
+  "sourceHash": "e2351b3a478b3cf84e31340a5e6f88c380ab5ea93baed5ee176bb1cce816984f",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.144Z",
+  "cards": [
+    {
+      "id": "kacamata-anti-radiasi-8a88557ff9",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "Kacamata anti radiasi pada dasarnya melindungi mata dari kerusakan akibat layar.",
+      "correct": false,
+      "answer": "Sebagian besar hanya gimmick; blue light dari layar tidak menyebabkan kerusakan mata."
+    },
+    {
+      "id": "kacamata-anti-radiasi-bb489f7650",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Apa penyebab utama mata lelah (eye-strain) di depan layar?",
+      "answer": "Brightness dan kebiasaan kita, seperti jarang berkedip dan fokus lama pada satu titik dekat."
+    },
+    {
+      "id": "kacamata-anti-radiasi-f6927fbc8b",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Kenapa orang bisa merasa mata lebih nyaman setelah beli kacamata anti radiasi (placebo trap)?",
+      "options": [
+        "Lensa menyerap seluruh blue light",
+        "Mereka jadi lebih peduli, lebih sering berkedip dan istirahat",
+        "Layar jadi lebih redup",
+        "Radiasi layar berkurang"
+      ],
+      "correct": 1,
+      "answer": "Mereka jadi lebih peduli pada kesehatan mata sehingga sering berkedip dan istirahat."
+    },
+    {
+      "id": "kacamata-anti-radiasi-ab2d0ca012",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "Kacamata anti radiasi rata-rata hanya memblokir ____ blue light.",
+      "answer": "10-20%"
+    },
+    {
+      "id": "kacamata-anti-radiasi-cd03ac3c20",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Organisasi mana yang tidak merekomendasikan kacamata anti-blue light karena kurang bukti ilmiah?",
+      "options": [
+        "WHO",
+        "American Academy of Ophthalmology (AAO)",
+        "FDA",
+        "IEEE"
+      ],
+      "correct": 1,
+      "answer": "American Academy of Ophthalmology (AAO)."
+    },
+    {
+      "id": "kacamata-anti-radiasi-80cf010cf9",
+      "type": "explain",
+      "difficulty": "hard",
+      "prompt": "Jelaskan seperti ke anak 10 tahun: satu pengecualian di mana blue light memang berpengaruh?",
+      "answer": "Blue light mengganggu jam tubuh kita dan menekan melatonin, hormon tidur. Jadi menatap layar malam hari bisa bikin sulit tidur."
+    },
+    {
+      "id": "kacamata-anti-radiasi-44be02f766",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Temanmu sulit tidur karena main HP tengah malam dan mau beli kacamata anti radiasi untuk melindungi matanya. Apa saranmu?",
+      "answer": "Kacamata itu tidak melindungi mata dari kerusakan, tapi night mode atau kacamata tersebut cukup membantu mengurangi gangguan blue light pada melatonin."
+    },
+    {
+      "id": "kacamata-anti-radiasi-601db3b319",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Kenapa blue light layar LCD bukan hal yang perlu terlalu dikhawatirkan dibanding sumber lain?",
+      "answer": "Blue light dari matahari jauh lebih banyak daripada dari layar, dan LCD modern tidak memancarkan radiasi berbahaya."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "aksara-sejarah-tulisan",
+  "title": "Aksara: Sejarah Tulisan",
+  "url": "/aksara-sejarah-tulisan/",
+  "sourceHash": "30082a0f944090b0c14b051387f9945282c80d1b128b99d1c6c6316baddd99d6",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.119Z",
+  "cards": [
+    {
+      "id": "aksara-sejarah-tulisan-d76afd35e3",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Di mana piktograf pertama kali ditemukan, dan di atas apa diukirnya?",
+      "answer": "Sumeria (Mesopotamia selatan), diukir di atas tanah liat."
+    },
+    {
+      "id": "aksara-sejarah-tulisan-4c4b463a4e",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Tulisan Mesir kuno yang juga menggunakan metode piktograf disebut ____.",
+      "answer": "hieroglyph"
+    },
+    {
+      "id": "aksara-sejarah-tulisan-ddff641f20",
+      "type": "sequence",
+      "difficulty": "medium",
+      "prompt": "Urutkan asal-usul alfabet Latin dari yang paling awal.",
+      "items": [
+        "Hieroglyph Mesir",
+        "Aksara Semitik",
+        "Alfabet Yunani",
+        "Huruf Romawi/Latin"
+      ],
+      "answer": "Hieroglyph Mesir, aksara Semitik, Yunani, lalu Romawi/Latin."
+    },
+    {
+      "id": "aksara-sejarah-tulisan-f8ad9eeaa1",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: apa bedanya piktograf dan sistem fonografis?",
+      "answer": "Piktograf menggambar benda sesuai bentuknya. Sistem fonografis memakai tulisan untuk mewakili bunyi, jadi menjadi cikal bakal alfabet."
+    },
+    {
+      "id": "aksara-sejarah-tulisan-0ae24ddf6a",
+      "type": "mcq",
+      "difficulty": "hard",
+      "prompt": "Aksara Semitik, nenek moyang alfabet modern, ditulis ke arah mana?",
+      "options": [
+        "Kiri ke kanan",
+        "Atas ke bawah",
+        "Kanan ke kiri",
+        "Berputar spiral"
+      ],
+      "correct": 2,
+      "answer": "Kanan ke kiri."
+    },
+    {
+      "id": "aksara-sejarah-tulisan-88738bbda2",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Orang Romawi menciptakan huruf Latin sepenuhnya dari nol tanpa meminjam sistem lain.",
+      "correct": false,
+      "answer": "Mitos: mereka meminjam alfabet Yunani."
+    },
+    {
+      "id": "aksara-sejarah-tulisan-c69efc160e",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Mengapa banyak bahasa saling mirip?",
+      "options": [
+        "Kebetulan saja",
+        "Orang bermigrasi dan bahasa beradaptasi",
+        "Semua berasal dari Sumeria saja",
+        "Karena mesin cetak"
+      ],
+      "correct": 1,
+      "answer": "Karena orang bermigrasi dan bahasa beradaptasi sehingga membentuk kelompok bahasa."
+    }
+  ]
+}

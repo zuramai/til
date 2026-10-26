@@ -1,0 +1,75 @@
+{
+  "slug": "how-to-make-scrambled-egg-with-cheese",
+  "title": "How to Make Scrambled Egg With Cheese",
+  "url": "/how-to-make-scrambled-egg-with-cheese/",
+  "sourceHash": "0b6d7435ac43185d50eba64119555791f3bdaa4a30ef6ce0da129abbbc6c2a30",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.140Z",
+  "cards": [
+    {
+      "id": "how-to-make-scrambled-egg-with-cheese-f1b5241fdc",
+      "type": "sequence",
+      "difficulty": "medium",
+      "prompt": "Order these steps for cheese scrambled egg.",
+      "items": [
+        "Whisk egg with a pinch of salt",
+        "Pour egg into buttered pan",
+        "Push set edges toward center",
+        "Add cheese at 75% cooked",
+        "Turn off heat and fold"
+      ],
+      "answer": "Whisk, pour, set edges and push, add cheese, then turn off heat and fold."
+    },
+    {
+      "id": "how-to-make-scrambled-egg-with-cheese-8e66b0e84b",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What heat and pan should you use?",
+      "answer": "A non-stick pan on medium-low heat."
+    },
+    {
+      "id": "how-to-make-scrambled-egg-with-cheese-187dcedfb7",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "Add the cheese when the egg is about ____ cooked, no longer fluid but still slightly wet and glossy.",
+      "answer": "75%"
+    },
+    {
+      "id": "how-to-make-scrambled-egg-with-cheese-bdb1a9d92c",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why can you turn off the heat after putting the cheese on the egg?",
+      "answer": "The egg is still hot even without the stove. That leftover heat is enough to melt the cheese."
+    },
+    {
+      "id": "how-to-make-scrambled-egg-with-cheese-a4609e6928",
+      "type": "mcq",
+      "difficulty": "hard",
+      "prompt": "Why should you use less salt when making scrambled egg with cheese?",
+      "options": [
+        "Salt makes egg rubbery",
+        "Cheese is already salty",
+        "Salt burns butter",
+        "Salt stops cheese melting"
+      ],
+      "correct": 1,
+      "answer": "Cheese is already salty."
+    },
+    {
+      "id": "how-to-make-scrambled-egg-with-cheese-f7d2f7232c",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "For fluffy scrambled egg you should scramble it as much as possible.",
+      "correct": false,
+      "answer": "Myth: don't over scramble if you want fluffy egg."
+    },
+    {
+      "id": "how-to-make-scrambled-egg-with-cheese-1e1c1b946b",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Your cheese keeps sticking to the pan. What does the recipe tell you to check about heat, pan and timing?",
+      "answer": "Use a non-stick pan with low heat, add cheese only at about 75% cooked on top of the egg, and cook with residual heat."
+    }
+  ]
+}

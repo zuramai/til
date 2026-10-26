@@ -1,0 +1,81 @@
+{
+  "slug": "timeline-4-mazhab",
+  "title": "Timeline 4 Mazhab",
+  "url": "/timeline-4-mazhab/",
+  "sourceHash": "222c24966ba22a42e5aa68c2854d0f107ed3482e6c64d39021fee66f8468d0b2",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.160Z",
+  "cards": [
+    {
+      "id": "timeline-4-mazhab-75455f3ffb",
+      "type": "sequence",
+      "difficulty": "medium",
+      "prompt": "Urutkan pendiri empat mazhab dari yang paling awal lahir.",
+      "items": [
+        "Imam Abu Hanifah",
+        "Imam Malik",
+        "Imam Syafi'i",
+        "Imam Ahmad bin Hambal"
+      ],
+      "answer": "Abu Hanifah (80H), Malik (93H), Syafi'i (150H), lalu Ahmad bin Hambal (164H)."
+    },
+    {
+      "id": "timeline-4-mazhab-c468d25807",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "Mazhab mana yang dikenal sebagai Ahlur Ray'i, menekankan rasionalitas?",
+      "options": [
+        "Hanafi",
+        "Maliki",
+        "Syafi'i",
+        "Hambali"
+      ],
+      "correct": 0,
+      "answer": "Hanafi."
+    },
+    {
+      "id": "timeline-4-mazhab-b1c8fa35f5",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Apa yang dijadikan rujukan utama Mazhab Maliki?",
+      "answer": "Ijma' sahabat serta tradisi dan amal penduduk Madinah, dengan penekanan pada hadis."
+    },
+    {
+      "id": "timeline-4-mazhab-81c59a4cff",
+      "type": "riddle",
+      "difficulty": "medium",
+      "prompt": "Aku menggabungkan metode Hanafi dan Maliki, dan penemuku murid dari keduanya. Mazhab apakah aku?",
+      "answer": "Mazhab Syafi'i."
+    },
+    {
+      "id": "timeline-4-mazhab-f8c4ddb35b",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Apa ciri pendekatan Mazhab Hambali?",
+      "answer": "Tekstual dan konservatif; mendahulukan hadis dhoif daripada qiyas."
+    },
+    {
+      "id": "timeline-4-mazhab-42cf89be05",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Bagaimana narkoba ditetapkan haram padahal tidak ada dalil langsung, menurut konsep qiyas?",
+      "answer": "Dengan menganalogikan ke khamr yang memabukkan dan merusak akal.",
+      "explanation": "Qiyas: penetapan hukum atas perkara yang belum ada dalilnya."
+    },
+    {
+      "id": "timeline-4-mazhab-e27def84eb",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Apa saja penyebab suatu hadis disebut dhoif?",
+      "answer": "Sanad terputus atau perawi bermasalah (hafalan buruk, tidak dikenal, kredibilitas kurang, pelupa, atau berbeda dengan perawi yang lebih kredibel)."
+    },
+    {
+      "id": "timeline-4-mazhab-7a86b79333",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Sebab adanya perbedaan mazhab adalah perbedaan ____.",
+      "answer": "interpretasi"
+    }
+  ]
+}

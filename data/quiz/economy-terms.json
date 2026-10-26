@@ -1,0 +1,102 @@
+{
+  "slug": "economy-terms",
+  "title": "Economy Terms",
+  "url": "/economy-terms/",
+  "sourceHash": "eacbff44aeb8d392f1759ad67b19d07b6ce7272e75380b05c0db3ca1504cc909",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.132Z",
+  "cards": [
+    {
+      "id": "economy-terms-1fe31309f6",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Rasio proporsi pendapatan pajak terhadap GDP disebut tax ____.",
+      "answer": "ratio"
+    },
+    {
+      "id": "economy-terms-660a56f450",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Apa itu defisit menurut tulisan ini?",
+      "answer": "Selisih antara pengeluaran pemerintah dan pemasukannya (seperti pajak)."
+    },
+    {
+      "id": "economy-terms-3487494143",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Mana penyebab inflasi?",
+      "options": [
+        "Supply naik tajam",
+        "Demand naik sementara supply konstan atau turun",
+        "Mata uang menguat",
+        "Pajak dihapus"
+      ],
+      "correct": 1,
+      "answer": "Demand meningkat sementara supply konstan atau menurun."
+    },
+    {
+      "id": "economy-terms-c24cbaa787",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: kenapa inflasi sedang bisa mendorong ekonomi?",
+      "answer": "Karena harga naik terus, orang memilih membelanjakan uangnya daripada menyimpannya. Uang jadi lebih sering berputar sehingga ekonomi tumbuh, asal tidak sampai hyperinflation."
+    },
+    {
+      "id": "economy-terms-9305e009b5",
+      "type": "sequence",
+      "difficulty": "hard",
+      "prompt": "Urutkan deflationary spiral.",
+      "items": [
+        "Harga turun",
+        "Masyarakat berharap harga turun lagi dan tidak belanja",
+        "Demand turun, bisnis melemah",
+        "Bisnis memotong biaya produksi, harga makin turun"
+      ],
+      "answer": "Harga turun, orang menunda belanja, demand turun, bisnis memotong biaya produksi."
+    },
+    {
+      "id": "economy-terms-4fbda11b40",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Melemahnya mata uang selalu buruk tanpa manfaat apa pun.",
+      "correct": false,
+      "answer": "Mitos: ekspor jadi lebih murah dan kompetitif."
+    },
+    {
+      "id": "economy-terms-e1459144fe",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Mana yang bukan merupakan efek deflasi?",
+      "options": [
+        "Harga turun",
+        "Purchasing power naik",
+        "Pengeluaran dan investasi terhambat",
+        "Pengeluaran melonjak"
+      ],
+      "correct": 3,
+      "answer": "Deflasi menurunkan harga dan menaikkan purchasing power, tetapi justru menghambat, bukan mendorong, pengeluaran."
+    },
+    {
+      "id": "economy-terms-6ba91a667a",
+      "type": "recall",
+      "difficulty": "hard",
+      "prompt": "Mengapa tax ratio era SBY (~11%) lebih tinggi dari era Jokowi (10,5%)?",
+      "answer": "Karena di era SBY sektor swasta mendominasi, sedangkan di era Jokowi BUMN lebih mendominasi."
+    },
+    {
+      "id": "economy-terms-ff3a9ebf90",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "Defisit Indonesia sekitar 3% dan debt ratio di bawah ____%, lebih aman dibanding Eropa yang mendekati 100%.",
+      "answer": "40"
+    },
+    {
+      "id": "economy-terms-9c8e882fec",
+      "type": "riddle",
+      "difficulty": "easy",
+      "prompt": "Aku berasal dari kata Latin 'fiscus' yang berarti kas negara. Aku merujuk pada keuangan negara. Siapa aku?",
+      "answer": "Fiskal"
+    }
+  ]
+}

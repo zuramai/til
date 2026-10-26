@@ -1,0 +1,11 @@
+{
+  "slug": "body-dysmorphic",
+  "title": "Body Dysmorphic Disorder",
+  "url": "/body-dysmorphic/",
+  "sourceHash": "ca9afc9f7a0dd77f2ec78510d80b86417291abedf2a8724a6def4fb2cccb0602",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.125Z",
+  "skipReason": "too-short",
+  "cards": []
+}

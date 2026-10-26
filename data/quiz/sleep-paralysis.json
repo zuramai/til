@@ -1,0 +1,73 @@
+{
+  "slug": "sleep-paralysis",
+  "title": "Sleep Paralysis (Ketindihan)",
+  "url": "/sleep-paralysis/",
+  "sourceHash": "a87ae793e8c45d771ebeceb0b9a21b27024bc647c33df0a6885fc8df1a25efcb",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.157Z",
+  "cards": [
+    {
+      "id": "sleep-paralysis-d16d96b043",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is sleep paralysis?",
+      "answer": "Being unable to move your body while sleeping, lasting seconds to minutes."
+    },
+    {
+      "id": "sleep-paralysis-7af055df9e",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why can't you move during sleep paralysis?",
+      "answer": "While we sleep, the brain freezes the body for safety. In sleep paralysis, the brain wakes up but forgets to flip the switch that unfreezes the body."
+    },
+    {
+      "id": "sleep-paralysis-6c56a84250",
+      "type": "sequence",
+      "difficulty": "medium",
+      "prompt": "Order a normal wake-up.",
+      "items": [
+        "Brain turns on",
+        "Body starts to unfreeze",
+        "You can move your body"
+      ],
+      "answer": "Brain turns on first, then the body unfreezes, then you can move."
+    },
+    {
+      "id": "sleep-paralysis-6aeeb139a9",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Why do people hallucinate during sleep paralysis?",
+      "options": [
+        "It happens during REM with dream mode still on",
+        "The body lacks oxygen",
+        "Muscles are too active",
+        "The brain is fully asleep in deep sleep"
+      ],
+      "correct": 0,
+      "answer": "It happens during REM, when the brain is still in dream mode."
+    },
+    {
+      "id": "sleep-paralysis-f9bbafffa9",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "The body being paralyzed during sleep is a pointless malfunction.",
+      "correct": false,
+      "answer": "Myth: the brain paralyzes the body on purpose for safety so it won't move."
+    },
+    {
+      "id": "sleep-paralysis-2c710b87c6",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Sleep paralysis happens during the ____ phase.",
+      "answer": "REM (Rapid Eye Movement)"
+    },
+    {
+      "id": "sleep-paralysis-00241dfe62",
+      "type": "riddle",
+      "difficulty": "hard",
+      "prompt": "I'm a brain that woke up but forgot to flip the unfreeze switch. What condition am I?",
+      "answer": "Sleep paralysis (ketindihan)."
+    }
+  ]
+}

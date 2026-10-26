@@ -1,0 +1,75 @@
+{
+  "slug": "markov-chain",
+  "title": "Probability Theory: Markov Chain",
+  "url": "/markov-chain/",
+  "sourceHash": "76aff51302c2d8bc0788e861e7e0f6116648243f98e0feb833f1578ea91562e6",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.149Z",
+  "cards": [
+    {
+      "id": "markov-chain-71cb21db78",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Which mathematician showed the law of large numbers also works for dependent events?",
+      "answer": "Andrey Markov."
+    },
+    {
+      "id": "markov-chain-b817031c63",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Why did Markov develop his chain model?",
+      "options": [
+        "To predict stock prices for the Tsar",
+        "To prove the law of large numbers also holds for dependent events",
+        "To disprove the law of large numbers",
+        "To measure free will"
+      ],
+      "correct": 1,
+      "answer": "To prove the law of large numbers also holds for dependent values, opposing Nekrasov's view."
+    },
+    {
+      "id": "markov-chain-b144b44408",
+      "type": "odd_one_out",
+      "difficulty": "hard",
+      "prompt": "Which is NOT a dependent-event pattern that Markov chains fit well?",
+      "options": [
+        "Tomorrow's weather from today's",
+        "Web navigation patterns",
+        "Stock market trends",
+        "Rolling a fair die"
+      ],
+      "correct": 3,
+      "answer": "Rolling a fair die repeatedly gives independent outcomes; the others each depend on a previous state."
+    },
+    {
+      "id": "markov-chain-48b4554749",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "In Markov's letter experiment, predicting the next letter repeatedly makes the vowel and consonant frequencies converge to about 45% and ____ respectively.",
+      "answer": "55%"
+    },
+    {
+      "id": "markov-chain-673a842a00",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "In a Markov chain, the probability of the next event can depend on the current state.",
+      "correct": true,
+      "answer": "Yes, Markov chains model dependent events where the next outcome depends on the current one."
+    },
+    {
+      "id": "markov-chain-94feb34f02",
+      "type": "explain",
+      "difficulty": "hard",
+      "prompt": "Explain like I'm 10: how can guessing the next letter from the previous letter still give stable overall vowel and consonant percentages?",
+      "answer": "Each guess depends on the last letter, like a game with rules. But if you keep playing for a long time, the mix of vowels and consonants settles to a steady share, about 45% vowels and 55% consonants."
+    },
+    {
+      "id": "markov-chain-f842d99e78",
+      "type": "riddle",
+      "difficulty": "easy",
+      "prompt": "Tsarist vs Socialist: I was the socialist mathematician who fought Nekrasov with numbers. Who am I?",
+      "answer": "Markov."
+    }
+  ]
+}

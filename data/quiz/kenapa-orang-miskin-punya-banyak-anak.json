@@ -1,0 +1,75 @@
+{
+  "slug": "kenapa-orang-miskin-punya-banyak-anak",
+  "title": "Kenapa Orang Miskin Punya Banyak Anak",
+  "url": "/kenapa-orang-miskin-punya-banyak-anak/",
+  "sourceHash": "323fa23edb8fa1f785dd986469926dcb2bdea9a8324a787b7ac4a7daa54e6d6b",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.146Z",
+  "cards": [
+    {
+      "id": "kenapa-orang-miskin-punya-banyak-anak-c022b18688",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Apa anggapan orang miskin tentang punya banyak anak terkait rezeki dan usaha?",
+      "answer": "Banyak anak dianggap banyak rezeki dan banyak tenaga yang bisa membantu usaha orang tua, misalnya bertani."
+    },
+    {
+      "id": "kenapa-orang-miskin-punya-banyak-anak-e9a2cd91ae",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Bagian otak mana yang kurang terlatih pada kaum rentan sehingga analisis risiko dan berpikir jangka panjang lemah?",
+      "options": [
+        "Amygdala",
+        "Prefrontal cortex",
+        "Cerebellum",
+        "Hippocampus"
+      ],
+      "correct": 1,
+      "answer": "Prefrontal cortex, yang bertanggung jawab pada pikiran rasional dan analisis risiko."
+    },
+    {
+      "id": "kenapa-orang-miskin-punya-banyak-anak-c122fa032b",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "Bagian otak yang mengelola rasa takut dan berkontribusi pada stres akan masa depan adalah ____.",
+      "answer": "amygdala"
+    },
+    {
+      "id": "kenapa-orang-miskin-punya-banyak-anak-801b44d2e1",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Seorang ayah harus memikirkan makan hari ini dan besok, lalu berharap salah satu dari banyak anaknya sukses. Mekanisme pikiran apa yang berperan?",
+      "answer": "Fokus bertahan hidup membuat prefrontal cortex tak sempat memikirkan jangka panjang. Harapan jackpot (salah satu anak sukses) membuatnya makin buta terhadap risiko."
+    },
+    {
+      "id": "kenapa-orang-miskin-punya-banyak-anak-5d78b65e67",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Kelas menengah cenderung punya anak lebih banyak karena akses pendidikan dini membuatnya santai soal biaya.",
+      "correct": false,
+      "answer": "Mitos: kelas menengah mempertimbangkan banyak hal (investasi, inflasi), sehingga makin banyak anak makin repot."
+    },
+    {
+      "id": "kenapa-orang-miskin-punya-banyak-anak-912f765b12",
+      "type": "odd_one_out",
+      "difficulty": "hard",
+      "prompt": "Mana yang BUKAN alasan yang disebut mengapa orang miskin punya banyak anak?",
+      "options": [
+        "Harapan jackpot salah satu anak sukses",
+        "Hiburan berdopamin terbatas dan seks gratis",
+        "Alasan dogma agama menolak KB gratis",
+        "Mereka memiliki investasi jangka panjang yang aman"
+      ],
+      "correct": 3,
+      "answer": "Investasi dan perencanaan jangka panjang justru ciri kelas menengah."
+    },
+    {
+      "id": "kenapa-orang-miskin-punya-banyak-anak-144b0c6b01",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: kenapa orang yang cemas dengan masa depan lebih suka kesenangan cepat?",
+      "answer": "Rasa takut akan masa depan membuat stres, jadi otak mencari kesenangan cepat yang gampang didapat. Dopamin cepat itu terasa menenangkan sesaat."
+    }
+  ]
+}

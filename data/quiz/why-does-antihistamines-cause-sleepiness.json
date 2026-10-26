@@ -1,0 +1,68 @@
+{
+  "slug": "why-does-antihistamines-cause-sleepiness",
+  "title": "Why Does Antihistamines/Paracetamol Cause Sleepiness",
+  "url": "/why-does-antihistamines-cause-sleepiness/",
+  "sourceHash": "425e37ba0d5236a17c216fa554a2024cdea63fc3158e976da87652451f68043f",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.163Z",
+  "cards": [
+    {
+      "id": "why-does-antihistamines-cause-sleepiness-5e7ea3b84b",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Why do antihistamines make you sleepy?",
+      "answer": "They block the histamine signals that keep your brain alert."
+    },
+    {
+      "id": "why-does-antihistamines-cause-sleepiness-1af9b3f084",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: what does histamine do during an allergy?",
+      "answer": "Histamine is released and makes blood vessels leakier so white blood cells can get to the invader, giving you runny nose and itching."
+    },
+    {
+      "id": "why-does-antihistamines-cause-sleepiness-056a38411c",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Antihistamines cure the underlying cause of an allergy.",
+      "correct": false,
+      "answer": "Myth: they only manage symptoms."
+    },
+    {
+      "id": "why-does-antihistamines-cause-sleepiness-a8c4a5f21a",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Which is NOT an allergy symptom caused by histamine?",
+      "options": [
+        "Runny nose",
+        "Red rash",
+        "Itchy nose",
+        "Sleepiness from the drug"
+      ],
+      "correct": 3,
+      "answer": "Sleepiness is a side effect of the drug."
+    },
+    {
+      "id": "why-does-antihistamines-cause-sleepiness-6ae5df8b20",
+      "type": "mcq",
+      "difficulty": "hard",
+      "prompt": "Which ingredient is paired for wet cough?",
+      "options": [
+        "Guaifenesin",
+        "Pseudoephedrine",
+        "Paracetamol",
+        "Histamine"
+      ],
+      "correct": 0,
+      "answer": "Guaifenesin for wet cough; pseudoephedrine for runny nose or flu."
+    },
+    {
+      "id": "why-does-antihistamines-cause-sleepiness-30c57e38dc",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Which cells act as sentinels detecting parasites and dangers?",
+      "answer": "Mast cells."
+    }
+  ]
+}

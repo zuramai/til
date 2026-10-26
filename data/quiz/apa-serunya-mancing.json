@@ -1,0 +1,61 @@
+{
+  "slug": "apa-serunya-mancing",
+  "title": "Apa Serunya Mancing?",
+  "url": "/apa-serunya-mancing/",
+  "sourceHash": "ca05dc48d4d611b225d9eebd66a1791a20834f109fbd555d549c4fb1ca6c0c40",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.120Z",
+  "cards": [
+    {
+      "id": "apa-serunya-mancing-8892146682",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Apa yang membuat mancing terasa menenangkan menurut hobiis itu?",
+      "answer": "Lepas dari gadget, bengong, berkontemplasi, stress relief, dan me time."
+    },
+    {
+      "id": "apa-serunya-mancing-c3d0687de6",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Apa momen yang paling membuat pemancing itu senang?",
+      "answer": "Berhasil menangkap ikan besar, apalagi lebih cepat dari teman-temannya."
+    },
+    {
+      "id": "apa-serunya-mancing-a8dcda0a4e",
+      "type": "riddle",
+      "difficulty": "medium",
+      "prompt": "Aku orang di laut yang menangkap ikan dengan setruman, dan pemancing malas bertemu aku. Siapa aku?",
+      "answer": "'PLN'."
+    },
+    {
+      "id": "apa-serunya-mancing-cb602c7000",
+      "type": "riddle",
+      "difficulty": "medium",
+      "prompt": "Aku menangkap ikan pakai jaring dan dijuluki nama pahlawan super. Siapa aku?",
+      "answer": "'Spiderman'."
+    },
+    {
+      "id": "apa-serunya-mancing-565fc623fc",
+      "type": "myth_or_fact",
+      "difficulty": "hard",
+      "prompt": "Saat mancing di laut, 'PLN' dan 'Spiderman' dimaklumi pemancing hobi karena mereka menangkap ikan untuk mencari nafkah.",
+      "correct": true,
+      "answer": "Fakta: meski menyebalkan, mereka mencari nafkah, sedangkan pemancing hobi memancing for fun."
+    },
+    {
+      "id": "apa-serunya-mancing-f815e3df4c",
+      "type": "mcq",
+      "difficulty": "hard",
+      "prompt": "Mengapa pertanyaan 'udah izin istri mas?' sering terdengar di tempat mancing?",
+      "options": [
+        "Mancing butuh izin resmi",
+        "Banyak istri melarang suaminya mancing",
+        "Tempatnya milik istri",
+        "Bercanda tanpa alasan"
+      ],
+      "correct": 1,
+      "answer": "Banyak istri melarang suami pergi mancing."
+    }
+  ]
+}

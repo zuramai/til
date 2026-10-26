@@ -1,0 +1,102 @@
+{
+  "slug": "bagaimana-kopi-bisa-mencapai-jawa",
+  "title": "Bagaimana Kopi Bisa Mencapai Jawa?",
+  "url": "/bagaimana-kopi-bisa-mencapai-jawa/",
+  "sourceHash": "0831c1aebfdc019873da10b409c7f826a4c726596b69a4b74dbdd6e74448a82e",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.122Z",
+  "cards": [
+    {
+      "id": "bagaimana-kopi-bisa-mencapai-jawa-7e34b26b24",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Di negara mana spesies kopi pertama, Coffea Arabica, ditemukan?",
+      "answer": "Ethiopia"
+    },
+    {
+      "id": "bagaimana-kopi-bisa-mencapai-jawa-3793ebf0ed",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "Negara mana yang sempat menjadi satu-satunya penyedia kopi dunia selama satu abad?",
+      "options": [
+        "Brasil",
+        "Yaman",
+        "India",
+        "Belanda"
+      ],
+      "correct": 1,
+      "answer": "Yaman, setelah biji kopi menyebar dari Ethiopia."
+    },
+    {
+      "id": "bagaimana-kopi-bisa-mencapai-jawa-7aed8e9a1b",
+      "type": "sequence",
+      "difficulty": "medium",
+      "prompt": "Urutkan penyebaran kopi dari asalnya sampai Jawa.",
+      "items": [
+        "Ethiopia",
+        "Yaman",
+        "India",
+        "Sri Lanka",
+        "Jawa"
+      ],
+      "answer": "Kopi berasal dari Ethiopia, lalu Yaman, India, Sri Lanka, dan akhirnya Jawa."
+    },
+    {
+      "id": "bagaimana-kopi-bisa-mencapai-jawa-6c18788f50",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "Pedagang Belanda membawa kopi ke Eropa sejak tahun ____.",
+      "answer": "1616"
+    },
+    {
+      "id": "bagaimana-kopi-bisa-mencapai-jawa-4154e68385",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: bagaimana kopi sampai ke Indonesia lewat orang Belanda?",
+      "answer": "Pedagang Belanda membawa kopi ke Eropa. Beberapa tanaman ditaruh di kebun botani Amsterdam, lalu dibawa ke East Indies seperti Indonesia untuk ditanam dan dibudidayakan."
+    },
+    {
+      "id": "bagaimana-kopi-bisa-mencapai-jawa-cdc15c01c1",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Di ketinggian berapa tanaman kopi biasanya tumbuh?",
+      "options": [
+        "0 sampai 300 meter",
+        "300 sampai 800 meter",
+        "1100 sampai 2000 meter",
+        "3000 meter ke atas"
+      ],
+      "correct": 2,
+      "answer": "Sekitar 1100 sampai 2000 meter di atas permukaan laut."
+    },
+    {
+      "id": "bagaimana-kopi-bisa-mencapai-jawa-062cb0a965",
+      "type": "mcq",
+      "difficulty": "hard",
+      "prompt": "Kenapa coffee roaster lebih suka kopi dari dataran tinggi?",
+      "options": [
+        "Rasanya lebih melimpah dan lebih awet saat disimpan",
+        "Harganya selalu lebih murah",
+        "Bijinya lebih besar dan berat",
+        "Tidak perlu disangrai"
+      ],
+      "correct": 0,
+      "answer": "Rasanya lebih melimpah dan bijinya mempertahankan rasa lebih baik dalam penyimpanan lama."
+    },
+    {
+      "id": "bagaimana-kopi-bisa-mencapai-jawa-62bb0ab1e3",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Indonesia adalah produsen kopi terbesar ke berapa di dunia?",
+      "answer": "Ke-4"
+    },
+    {
+      "id": "bagaimana-kopi-bisa-mencapai-jawa-836b4d721d",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Kamu memilih biji kopi untuk disimpan berbulan-bulan agar rasanya tetap kaya. Biji dari ketinggian mana yang lebih baik, dan kenapa?",
+      "answer": "Pilih biji dari altitude tinggi, karena rasanya lebih melimpah dan bertahan lebih baik dalam penyimpanan lama."
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "slug": "trias-politika",
+  "title": "Trias Politika",
+  "url": "/trias-politika/",
+  "sourceHash": "d48e17093ec0b83cb9a3ca5a0bdaa0cb0564bf3b674ec709f6b6a478d2e1616c",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.160Z",
+  "cards": [
+    {
+      "id": "trias-politika-eecd3c4d8e",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Apa tiga kekuasaan dalam Trias Politika?",
+      "answer": "Legislatif, eksekutif, dan yudikatif."
+    },
+    {
+      "id": "trias-politika-478ae9bf0c",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Siapa yang mengenalkan konsep Trias Politika dan siapa yang mengembangkannya?",
+      "options": [
+        "Montesquieu lalu Locke",
+        "John Locke lalu Montesquieu",
+        "Aristoteles lalu Locke",
+        "Rousseau lalu Montesquieu"
+      ],
+      "correct": 1,
+      "answer": "Dikenalkan John Locke dan dikembangkan Montesquieu."
+    },
+    {
+      "id": "trias-politika-69778eb83d",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Mana yang BUKAN termasuk lembaga yudikatif?",
+      "options": [
+        "Mahkamah Agung",
+        "Mahkamah Konstitusi",
+        "Komisi Yudisial",
+        "Presiden"
+      ],
+      "correct": 3,
+      "answer": "Presiden dan menteri adalah eksekutif, bukan yudikatif."
+    },
+    {
+      "id": "trias-politika-6e19c4b044",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Lembaga legislatif memiliki kewenangan untuk membuat ____.",
+      "answer": "undang-undang"
+    },
+    {
+      "id": "trias-politika-c5e26b2357",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Jelaskan seperti ke anak 10 tahun: kenapa kekuasaan negara dibagi tiga?",
+      "answer": "Supaya satu pihak tidak memegang semua kuasa. Satu membuat aturan, satu menjalankan, satu menghukum yang melanggar, jadi saling mengawasi."
+    },
+    {
+      "id": "trias-politika-b2fd7aad8f",
+      "type": "recall",
+      "difficulty": "hard",
+      "prompt": "Menurut tulisan itu, kenapa raja boleh mengatur semuanya tapi presiden tidak?",
+      "answer": "Raja bertindak sendiri, sedangkan presiden tidak sendiri dan hanya eksekutor."
+    },
+    {
+      "id": "trias-politika-07254ab66f",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "DPR membuat aturan yang selalu menuruti keinginan presiden dan hakim MK punya hubungan keluarga dengan presiden. Apa yang dilanggar dan apa risikonya?",
+      "answer": "Prinsip pemisahan kekuasaan (tidak saling intervensi). Risikonya, potensi korupsi dari semua pihak."
+    }
+  ]
+}

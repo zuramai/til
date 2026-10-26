@@ -1,0 +1,40 @@
+{
+  "slug": "buah-itu-air",
+  "title": "Fruit is Water",
+  "url": "/buah-itu-air/",
+  "sourceHash": "bf15adcc28dd882565e23cc92dc77fb8d71928276f93f96dd0314c2af17b70a0",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.126Z",
+  "cards": [
+    {
+      "id": "buah-itu-air-01ef4d83e5",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "Fact or myth: a watermelon is about 92% water and fiber.",
+      "correct": true,
+      "answer": "Fact: watermelon contains about 92% water and fiber."
+    },
+    {
+      "id": "buah-itu-air-74a2735c96",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: if a watermelon is about 92% water, why is it solid instead of a puddle?",
+      "answer": "The fiber inside the fruit holds the water in place, like a sponge holding water, so the fruit keeps its shape."
+    },
+    {
+      "id": "buah-itu-air-a599987900",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "What holds the water inside a fruit so that it stays solid?",
+      "options": [
+        "Sugar",
+        "Fiber",
+        "Fat",
+        "Salt"
+      ],
+      "correct": 1,
+      "answer": "Fiber holds the water into shape."
+    }
+  ]
+}

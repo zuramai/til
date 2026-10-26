@@ -1,0 +1,54 @@
+{
+  "slug": "ai-jobs",
+  "title": "AI Jobs",
+  "url": "/ai-jobs/",
+  "sourceHash": "cffdcc72667363756f156f63995a3ab7d4c5dcae9c6e9669f8364ee43097a39c",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.119Z",
+  "cards": [
+    {
+      "id": "ai-jobs-fb0c77eb86",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "Based on an analysis of 180M jobs, backend engineering roles were declining while frontend roles were growing.",
+      "correct": false,
+      "answer": "Myth: backend engineers showed a positive increase while frontend engineers were declining."
+    },
+    {
+      "id": "ai-jobs-9f07e179c2",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which kind of creative roles were doing fine against AI according to the analysis?",
+      "options": [
+        "Execution roles",
+        "Creative directors, managers, and producers",
+        "Entry-level data entry",
+        "None of them"
+      ],
+      "correct": 1,
+      "answer": "Creative director, manager, and producer roles were going positive, unlike execution roles."
+    },
+    {
+      "id": "ai-jobs-afea001fdc",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: which jobs get replaced first by AI and technology?",
+      "answer": "Mundane, easy jobs get replaced first, just like machines took over repetitive factory work in earlier industrial revolutions."
+    },
+    {
+      "id": "ai-jobs-8841248668",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Mundane jobs are getting scarcer as they get replaced by AI and ____.",
+      "answer": "technologies"
+    },
+    {
+      "id": "ai-jobs-e9d8bb1e34",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A friend says AI is just like past industrial revolutions, so nothing is different. What's the argument that this time is different?",
+      "answer": "AI could actually replace humans instead of just assisting them, and the world population is far bigger (8 billion vs 1-2 billion a century ago)."
+    }
+  ]
+}

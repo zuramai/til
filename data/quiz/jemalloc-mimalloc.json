@@ -1,0 +1,89 @@
+{
+  "slug": "jemalloc-mimalloc",
+  "title": "Jemalloc Mimalloc",
+  "url": "/jemalloc-mimalloc/",
+  "sourceHash": "3d643789c8938d13b58b248faebafc8f9c6b155ac0040a094fcab8158667bb5e",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.143Z",
+  "cards": [
+    {
+      "id": "jemalloc-mimalloc-a8c0508a3e",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What does a memory allocator decide?",
+      "answer": "How much memory to allocate, when and what to free, and where the bytes come from (heap, arena)."
+    },
+    {
+      "id": "jemalloc-mimalloc-2bfe325c4b",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "jemalloc was originally developed by Jason Evans for which system?",
+      "options": [
+        "Linux",
+        "FreeBSD",
+        "Windows",
+        "macOS"
+      ],
+      "correct": 1,
+      "answer": "FreeBSD."
+    },
+    {
+      "id": "jemalloc-mimalloc-3ad1361476",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: what is memory fragmentation?",
+      "answer": "Imagine a shelf where the free spots are scattered in tiny gaps between boxes. There is empty space in total, but no big gap to fit a large item. That wasted, chopped-up space is fragmentation."
+    },
+    {
+      "id": "jemalloc-mimalloc-28223f22e5",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "jemalloc uses size classes and ____ caching to reduce lock contention in multithreaded apps.",
+      "answer": "thread"
+    },
+    {
+      "id": "jemalloc-mimalloc-ee836c149e",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "How does traditional malloc allocate memory?",
+      "options": [
+        "It searches a large continuous memory region for heap space and returns a pointer",
+        "It uses per-thread caches",
+        "It uses size classes only",
+        "It never returns pointers"
+      ],
+      "correct": 0,
+      "answer": "It searches a large contiguous region, allocates heap space and returns the pointer."
+    },
+    {
+      "id": "jemalloc-mimalloc-c1879fb8ab",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "jemalloc aims to improve performance mainly for multithreaded applications by reducing fragmentation.",
+      "correct": true,
+      "answer": "Yes, that is its goal, using strategies like size classes and thread caching."
+    },
+    {
+      "id": "jemalloc-mimalloc-cc78db2e04",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Your multithreaded Rust service wastes memory and threads fight over allocator locks. Which kind of allocator change might help and why?",
+      "answer": "Switch to an allocator like jemalloc or mimalloc. Thread caching reduces lock contention, and size classes reduce fragmentation."
+    },
+    {
+      "id": "jemalloc-mimalloc-805e976d13",
+      "type": "odd_one_out",
+      "difficulty": "hard",
+      "prompt": "Which is NOT a jemalloc strategy?",
+      "options": [
+        "Size classes",
+        "Thread caching",
+        "Delayed reclamation",
+        "Searching one huge region for every request"
+      ],
+      "correct": 3,
+      "answer": "Searching one large region is how traditional malloc works; jemalloc uses size classes and caches instead."
+    }
+  ]
+}

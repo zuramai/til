@@ -1,0 +1,68 @@
+{
+  "slug": "why-book-paper-turns-yellow",
+  "title": "Why Book Paper Turns Yellow?",
+  "url": "/why-book-paper-turns-yellow/",
+  "sourceHash": "b2504a0bac44ef04f4376ed11b2e30aca4896d631360401f7484f20aeae9b0d1",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.163Z",
+  "cards": [
+    {
+      "id": "why-book-paper-turns-yellow-e1f8cdc520",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What chemical mainly causes book paper to turn yellow?",
+      "answer": "The oxidation of lignin."
+    },
+    {
+      "id": "why-book-paper-turns-yellow-5fcdad34f6",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: what is lignin?",
+      "answer": "Lignin is a natural glue-like polymer in plants, a big molecule made by bonding. In paper it breaks things down in air and light and makes it turn yellow."
+    },
+    {
+      "id": "why-book-paper-turns-yellow-f76ff65892",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Why does newspaper yellow faster than higher-quality paper?",
+      "options": [
+        "Higher quality paper has more lignin removed",
+        "It is thicker",
+        "Ink reacts",
+        "It has higher pH"
+      ],
+      "correct": 0,
+      "answer": "Cheaper paper like newspaper retains more lignin."
+    },
+    {
+      "id": "why-book-paper-turns-yellow-e7557ce659",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "You can completely stop paper from yellowing with proper storage.",
+      "correct": false,
+      "answer": "Myth: you can only slow it down."
+    },
+    {
+      "id": "why-book-paper-turns-yellow-2d9f6d4604",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "The ideal humidity for storing books is ____ percent.",
+      "answer": "30-50"
+    },
+    {
+      "id": "why-book-paper-turns-yellow-b6d54bd6a1",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "What is the downside of lignin-free paper with neutral pH 7?",
+      "answer": "It is expensive."
+    },
+    {
+      "id": "why-book-paper-turns-yellow-d61372ddff",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You keep old books next to a sunny window with an AC blowing on them. What damages them?",
+      "answer": "UV light, humidity and temperature swings from direct AC exposure all accelerate yellowing."
+    }
+  ]
+}

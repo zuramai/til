@@ -1,0 +1,96 @@
+{
+  "slug": "beethoven-was-deaf",
+  "title": "Beethoven Was Deaf",
+  "url": "/beethoven-was-deaf/",
+  "sourceHash": "33a45252da2fa10f701e35674c0fc8c4820b6519cb00547cbd7fe27a218f45a0",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.123Z",
+  "cards": [
+    {
+      "id": "beethoven-was-deaf-c700b7a14d",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "At what stage of life did Beethoven begin losing his hearing?",
+      "answer": "His mid 20s."
+    },
+    {
+      "id": "beethoven-was-deaf-18020e3d2f",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Beethoven lost his entire hearing by the age of ____.",
+      "answer": "45"
+    },
+    {
+      "id": "beethoven-was-deaf-ef2242c39e",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which piece did he compose when his hearing was about 60% lost?",
+      "options": [
+        "Ninth Symphony",
+        "Missa Solemnis",
+        "Moonlight Sonata",
+        "Symphony No. 1"
+      ],
+      "correct": 2,
+      "answer": "Moonlight Sonata, composed around age 31."
+    },
+    {
+      "id": "beethoven-was-deaf-801855e219",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which works did he compose after losing hearing almost completely?",
+      "options": [
+        "Ninth Symphony and Missa Solemnis",
+        "Moonlight Sonata only",
+        "Just piano lessons",
+        "Nothing"
+      ],
+      "correct": 0,
+      "answer": "Ninth Symphony and Missa Solemnis."
+    },
+    {
+      "id": "beethoven-was-deaf-ebdcad696f",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: how could Beethoven compose music after going deaf?",
+      "answer": "He relied on his memory, imagination, and the vibrations he could feel. He already knew music very well before losing hearing."
+    },
+    {
+      "id": "beethoven-was-deaf-72409b270c",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Beethoven openly announced his deafness early on.",
+      "correct": false,
+      "answer": "He hid it because he feared losing his career."
+    },
+    {
+      "id": "beethoven-was-deaf-90c85ea7a8",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is the \"curse\" many composers associate with the Ninth Symphony?",
+      "answer": "Composers feared writing more than nine symphonies, since Beethoven wrote only up to nine."
+    },
+    {
+      "id": "beethoven-was-deaf-0815542bfa",
+      "type": "mcq",
+      "difficulty": "hard",
+      "prompt": "Who taught Beethoven, according to the listing?",
+      "options": [
+        "Bach",
+        "Mozart",
+        "Chopin",
+        "Vivaldi"
+      ],
+      "correct": 1,
+      "answer": "He studied from famous composers such as Wolfgang Amadeus Mozart."
+    },
+    {
+      "id": "beethoven-was-deaf-91403973d6",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A friend says deaf people cannot create great music. Use Beethoven to respond.",
+      "answer": "Beethoven composed the Ninth Symphony and Missa Solemnis after almost total deafness, relying on memory, imagination, and vibrations."
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "oxytocin",
+  "title": "Oxytocin: The Love Hormone",
+  "url": "/oxytocin/",
+  "sourceHash": "56b9d0e4b2e809748d3d629a8d09b22405b930fc35e430f86071c4db2c9bf311",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.153Z",
+  "cards": [
+    {
+      "id": "oxytocin-c9b559c126",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Which hormone is called the love hormone and is released during intimate social bonding?",
+      "answer": "Oxytocin."
+    },
+    {
+      "id": "oxytocin-6c3eab452b",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which brain region does rising oxytocin calm, creating a feeling of security?",
+      "options": [
+        "Amygdala",
+        "Cerebellum",
+        "Retina",
+        "Hippocampus"
+      ],
+      "correct": 0,
+      "answer": "The amygdala, the brain's threat-processing center."
+    },
+    {
+      "id": "oxytocin-296fcd154f",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Oxytocin fosters ____ ejection during breastfeeding.",
+      "answer": "milk"
+    },
+    {
+      "id": "oxytocin-562dcf8aaf",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Which is NOT a sign of rising oxytocin?",
+      "options": [
+        "Goosebumps",
+        "Sense of peace",
+        "Increased sociability",
+        "Feeling threatened"
+      ],
+      "correct": 3,
+      "answer": "Oxytocin calms the threat center, so feeling threatened is not a sign."
+    },
+    {
+      "id": "oxytocin-c948d71d25",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A stressed friend with no one to hug asks for a quick oxytocin boost. What could they do?",
+      "answer": "Pet an animal, or get physical touch with emotional closeness.",
+      "explanation": "Petting animals can also boost oxytocin."
+    },
+    {
+      "id": "oxytocin-7f410c7bfb",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Oxytocin lowers blood pressure and reduces stress.",
+      "correct": true,
+      "answer": "Yes, it reduces stress, lowers blood pressure and improves emotional well-being."
+    },
+    {
+      "id": "oxytocin-bcd69ee651",
+      "type": "riddle",
+      "difficulty": "hard",
+      "prompt": "I rise with a hug, make goosebumps, quiet the brain's alarm and help milk flow. What am I?",
+      "answer": "Oxytocin."
+    }
+  ]
+}

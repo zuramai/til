@@ -1,0 +1,53 @@
+{
+  "slug": "vitamin-d-antidepressant",
+  "title": "Vitamin D > Antidepressant",
+  "url": "/vitamin-d-antidepressant/",
+  "sourceHash": "3fe23f1c55530edb4476f23078989ade95a35e04def59456cf2b952a9db54210",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:27:36.653Z",
+  "cards": [
+    {
+      "id": "vitamin-d-antidepressant-d0af25577e",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What standardized effect size is given for antidepressants versus placebo?",
+      "answer": "About 0.4."
+    },
+    {
+      "id": "vitamin-d-antidepressant-223af67156",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which has the largest effect size for depression among these?",
+      "options": [
+        "Antidepressants (0.4)",
+        "Omega-3 with >=60% EPA (0.6)",
+        "Vitamin D at 5000 per day (~1.8)",
+        "Placebo"
+      ],
+      "correct": 2,
+      "answer": "Vitamin D at around 1.8, far above Omega-3 (0.6) and antidepressants (0.4)."
+    },
+    {
+      "id": "vitamin-d-antidepressant-d70bb0344f",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "Omega-3 supplements rich in ____ (at least 60% of the content) are cheaper and have fewer side effects than antidepressants.",
+      "answer": "EPA"
+    },
+    {
+      "id": "vitamin-d-antidepressant-6ff89ae8ae",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why not just get all vitamin D from the sun?",
+      "answer": "Staying in the sun a long time exposes you to UV rays, which raise the risk of skin cancer. Taking a supplement is easier and avoids that."
+    },
+    {
+      "id": "vitamin-d-antidepressant-cfbb4860e2",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A friend wants vitamin D but plans to sunbathe for hours every day. What risk should you point out and what alternative?",
+      "answer": "Prolonged UV exposure increases skin cancer risk; a vitamin D supplement is a more effortless alternative."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "coffee-is-sensitive",
+  "title": "Coffee Is Sensitive",
+  "url": "/coffee-is-sensitive/",
+  "sourceHash": "b12cf7dd6e66c4e9029b61f5c168c43fe2b344e390ba4000f0a6084ac05337c2",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.129Z",
+  "cards": [
+    {
+      "id": "coffee-is-sensitive-b8e4d45cf8",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Name three factors in crafting coffee that influence its taste.",
+      "answer": "Examples: water pouring, container, water temperature, grind, roast, storage, cultivation."
+    },
+    {
+      "id": "coffee-is-sensitive-757a811f19",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "What distinguishes specialty coffee from commodity coffee?",
+      "options": [
+        "Mass production",
+        "Meticulous cultivation and high quality standard",
+        "Cheaper beans",
+        "Faster roasting"
+      ],
+      "correct": 1,
+      "answer": "Specialty is meticulously cultivated and processed for high quality and unique flavors; commodity prioritizes quantity."
+    },
+    {
+      "id": "coffee-is-sensitive-6ad92e9a27",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Commodity coffee prioritizes quality over quantity.",
+      "correct": false,
+      "answer": "Myth: commodity coffee is mass-produced and prioritizes quantity over quality."
+    },
+    {
+      "id": "coffee-is-sensitive-d4f9abdb75",
+      "type": "scenario",
+      "difficulty": "medium",
+      "prompt": "You want to learn to tell tastes from notes in coffee, including acidity and aroma. What could you do?",
+      "answer": "Join a sensory class to learn notes, acidity types, aroma analysis, and flavor identification."
+    },
+    {
+      "id": "coffee-is-sensitive-a02ac4dd52",
+      "type": "odd_one_out",
+      "difficulty": "hard",
+      "prompt": "Which does NOT influence coffee taste, per what we learned?",
+      "options": [
+        "Water temperature",
+        "Grind size",
+        "Roast",
+        "Lid brand"
+      ],
+      "correct": 3,
+      "answer": "The brand of the cup's lid isn't a factor; water temperature, grind, and roast are."
+    },
+    {
+      "id": "coffee-is-sensitive-c7dc4162b3",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "Specialty coffee has unique flavors and a ____ quality standard.",
+      "answer": "high"
+    }
+  ]
+}

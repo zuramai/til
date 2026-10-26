@@ -1,0 +1,73 @@
+{
+  "slug": "personality-evolvement",
+  "title": "Personality Evolvement",
+  "url": "/personality-evolvement/",
+  "sourceHash": "12bde590b866dabfca4e8270b71c87002f90e6d0f576814b10d1972f402667d5",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.153Z",
+  "cards": [
+    {
+      "id": "personality-evolvement-54fc65bbff",
+      "type": "sequence",
+      "difficulty": "easy",
+      "prompt": "Put the three areas of life in the order listed: work, relationship to self, relationship to others.",
+      "items": [
+        "Work",
+        "Relationship to others",
+        "Relationship to self"
+      ],
+      "answer": "Work, then relationship to others, then relationship to self."
+    },
+    {
+      "id": "personality-evolvement-32f5b4b888",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What does agency mean?",
+      "answer": "The capability to act and actively shape your circumstances."
+    },
+    {
+      "id": "personality-evolvement-6287c3c003",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "A person is equally high-agency in every area of life.",
+      "correct": false,
+      "answer": "People are selectively agentic: they excel in some areas and are stuck in others."
+    },
+    {
+      "id": "personality-evolvement-bd47c440d6",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "At 25 you conquer fears at work but still cannot fix the anxiety you had at 15. What explains this?",
+      "answer": "You are high agency at work but low agency in relationship to self; your persistence is not applied to the anxiety."
+    },
+    {
+      "id": "personality-evolvement-1c84a9a850",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which area is the hardest to change?",
+      "options": [
+        "Relationship to others",
+        "Work",
+        "Hobbies",
+        "Relationship to self"
+      ],
+      "correct": 0,
+      "answer": "Relationship to others, because we carry social expectations from how we first learned to behave."
+    },
+    {
+      "id": "personality-evolvement-8df0461729",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Someone says thank you easily to new colleagues but not to their closest family. Why?",
+      "answer": "New people have no expectations of them, so they can rebuild their image; close people hold old expectations that make appreciation feel awkward."
+    },
+    {
+      "id": "personality-evolvement-fe702c7069",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why might someone feel more loving in English than in Indonesian?",
+      "answer": "Each language comes with its own culture and rules. A person can be comfortable showing love in one language and shy in another, so they feel like two personalities."
+    }
+  ]
+}

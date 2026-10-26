@@ -1,0 +1,88 @@
+{
+  "slug": "mlflow",
+  "title": "MLFlow",
+  "url": "/mlflow/",
+  "sourceHash": "a3c13ad1d7160fca978677c73c4714060a15c9df4dc99716f55f22e56ab9c41e",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.150Z",
+  "cards": [
+    {
+      "id": "mlflow-4c5c855bdd",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is MLFlow used for?",
+      "answer": "An ML experiment platform for saving and monitoring training metrics and managing models."
+    },
+    {
+      "id": "mlflow-7e22e97677",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "What happens each time you call log_model with registered_model_name?",
+      "options": [
+        "It overwrites the old model",
+        "It adds a new version",
+        "It deletes the alias",
+        "It deploys to production"
+      ],
+      "correct": 1,
+      "answer": "It adds a new incremental version to that registered model."
+    },
+    {
+      "id": "mlflow-6a8ca772af",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which alias marks the version used in production?",
+      "options": [
+        "challenger",
+        "champion",
+        "stable",
+        "latest"
+      ],
+      "correct": 1,
+      "answer": "champion; challenger is for staging."
+    },
+    {
+      "id": "mlflow-c24b71bdcb",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "To load a registered model in MLFlow, call the ____ function.",
+      "answer": "load_model"
+    },
+    {
+      "id": "mlflow-077f47fb02",
+      "type": "odd_one_out",
+      "difficulty": "hard",
+      "prompt": "Which is NOT a typical training metric saved in MLFlow?",
+      "options": [
+        "Epoch number",
+        "Batch loss",
+        "Learning rate",
+        "Server uptime"
+      ],
+      "correct": 3,
+      "answer": "Server uptime isn't a training metric listed; others are."
+    },
+    {
+      "id": "mlflow-0ca68b24b6",
+      "type": "recall",
+      "difficulty": "hard",
+      "prompt": "What model URI format loads the production model by alias?",
+      "answer": "models:/<model_name>@champion"
+    },
+    {
+      "id": "mlflow-e43f2536d0",
+      "type": "sequence",
+      "difficulty": "hard",
+      "prompt": "Order the steps from training to inference.",
+      "items": [
+        "Log model with registered name",
+        "Set alias champion",
+        "Load via models:/name@champion",
+        "Call model.eval()",
+        "Run model(tensor)"
+      ],
+      "answer": "Log/register the model, assign alias, load by URI, set eval mode, run model on tensor."
+    }
+  ]
+}

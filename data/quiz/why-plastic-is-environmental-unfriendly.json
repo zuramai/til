@@ -1,0 +1,82 @@
+{
+  "slug": "why-plastic-is-environmental-unfriendly",
+  "title": "Why Plastic Is Environmental Unfriendly",
+  "url": "/why-plastic-is-environmental-unfriendly/",
+  "sourceHash": "bec839fe54b4578e85434d16c0f119b1a86e4a85ae856530b98bad96c912bbf1",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.164Z",
+  "cards": [
+    {
+      "id": "why-plastic-is-environmental-unfriendly-1e4e0cbb4e",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "About how much plastic waste enters aquatic ecosystems every year?",
+      "answer": "Around 19–23 million tons."
+    },
+    {
+      "id": "why-plastic-is-environmental-unfriendly-19348635f2",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "What is plastic made from?",
+      "options": [
+        "Wood cellulose",
+        "Fossil fuel",
+        "Recycled glass",
+        "Plant starch"
+      ],
+      "correct": 1,
+      "answer": "Fossil fuel, which is not renewable."
+    },
+    {
+      "id": "why-plastic-is-environmental-unfriendly-7f818a3534",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Paper bags are made from wood ____, a renewable resource.",
+      "answer": "cellulose"
+    },
+    {
+      "id": "why-plastic-is-environmental-unfriendly-86af8889dc",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Plastic breaks down quickly in nature, so its main problem is only its price.",
+      "correct": false,
+      "answer": "Myth: plastic takes a very long time to decompose and is hard to recycle."
+    },
+    {
+      "id": "why-plastic-is-environmental-unfriendly-5154212a8f",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why are paper bags considered friendlier to Earth than plastic bags?",
+      "answer": "Paper comes from trees, which can grow back, while plastic comes from fossil fuel that runs out. Paper is easier to recycle and doesn't leave harmful bits behind in nature."
+    },
+    {
+      "id": "why-plastic-is-environmental-unfriendly-4cb812104e",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Besides pollution of waterways, how does plastic production harm the environment?",
+      "answer": "Extraction of fossil fuel, production and distribution keep emitting greenhouse gases."
+    },
+    {
+      "id": "why-plastic-is-environmental-unfriendly-303e2e8f6b",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Which is NOT a stated problem of plastic?",
+      "options": [
+        "Hard to recycle",
+        "Renewable raw material",
+        "Creates microplastics",
+        "Pollutes seas, lakes and rivers"
+      ],
+      "correct": 1,
+      "answer": "Plastic's raw material (fossil fuel) is NOT renewable, so that isn't a problem listed—it's the opposite of its reality."
+    },
+    {
+      "id": "why-plastic-is-environmental-unfriendly-5dd23f3fe5",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A shop owner says paper bags are pointless because 'plastic bags can just be recycled anyway'. Give two points against this.",
+      "answer": "Plastic is hard to recycle and persists for a very long time, and it can turn into microplastics and pollute water. Paper is renewable and easy to recycle."
+    }
+  ]
+}

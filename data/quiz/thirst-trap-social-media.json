@@ -1,0 +1,26 @@
+{
+  "slug": "thirst-trap-social-media",
+  "title": "Thirst Trap Social Media",
+  "url": "/thirst-trap-social-media/",
+  "sourceHash": "8c4519f3dfff4007c4afefec00af62979bf49ce0cafd79660922e4727193409f",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.159Z",
+  "cards": [
+    {
+      "id": "thirst-trap-social-media-a01b311f6a",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is a 'thirst trap' post?",
+      "answer": "A post intended to entice viewers sexually, usually by showing physical attractiveness."
+    },
+    {
+      "id": "thirst-trap-social-media-908e05174d",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Male social media users, especially on Meta platforms, are likely to see more thirst trap posts.",
+      "correct": true,
+      "answer": "Fact: this was observed after an HN discussion and matches the author's own feeds."
+    }
+  ]
+}

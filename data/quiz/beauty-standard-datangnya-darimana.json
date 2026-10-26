@@ -1,0 +1,103 @@
+{
+  "slug": "beauty-standard-datangnya-darimana",
+  "title": "Beauty Standard Datangnya Darimana?",
+  "url": "/beauty-standard-datangnya-darimana/",
+  "sourceHash": "2b4d84794ff80569d2aaa732560bd661ea9f6087da9452aa56b80db8b26388a8",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.123Z",
+  "cards": [
+    {
+      "id": "beauty-standard-datangnya-darimana-19b5e64952",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Dari sudut pandang evolusi, apa yang ditandakan oleh wajah yang simetris?",
+      "answer": "Kesehatan dan fertilitas."
+    },
+    {
+      "id": "beauty-standard-datangnya-darimana-871cf46e94",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Dulu wajah asimetris dianggap tanda apa?",
+      "options": [
+        "Kecerdasan",
+        "Penyakit atau infeksi parasit saat tumbuh",
+        "Kekayaan",
+        "Usia tua"
+      ],
+      "correct": 1,
+      "answer": "Wajah asimetris menandakan penyakit atau infeksi parasit."
+    },
+    {
+      "id": "beauty-standard-datangnya-darimana-83191ca60e",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: kenapa dulu orang gemuk dianggap menarik, tapi sekarang orang langsing?",
+      "answer": "Saat makanan langka, gemuk berarti kaya dan makmur. Sekarang makanan berkalori tinggi murah, sedangkan makanan sehat lebih mahal, sehingga langsing jadi tanda mampu."
+    },
+    {
+      "id": "beauty-standard-datangnya-darimana-0715f97839",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "Standar kecantikan sama di seluruh dunia.",
+      "correct": false,
+      "answer": "Standar kecantikan berbeda-beda di berbagai belahan dunia."
+    },
+    {
+      "id": "beauty-standard-datangnya-darimana-ffa8ceea1d",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Kenapa kulit terang dianggap menarik di Asia?",
+      "options": [
+        "Karena tidak perlu bekerja lama di bawah matahari",
+        "Karena lebih sehat",
+        "Karena lebih kuat",
+        "Karena tradisi agama"
+      ],
+      "correct": 0,
+      "answer": "Itu menandakan tidak harus bekerja lama di bawah sinar matahari."
+    },
+    {
+      "id": "beauty-standard-datangnya-darimana-ba6eb07a45",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Kenapa kulit tan menjadi standar di barat?",
+      "options": [
+        "Karena menandakan mampu liburan ke tempat bermatahari terik",
+        "Karena tidak perlu bekerja",
+        "Karena lebih sehat",
+        "Karena lebih cerdas"
+      ],
+      "correct": 0,
+      "answer": "Kulit tan menandakan mampu liburan ke negara yang bermatahari terik."
+    },
+    {
+      "id": "beauty-standard-datangnya-darimana-034d3d48f1",
+      "type": "cloze",
+      "difficulty": "hard",
+      "prompt": "Orang good looking cenderung diperlakukan lebih baik, sebuah fenomena bernama ____ effect.",
+      "answer": "halo"
+    },
+    {
+      "id": "beauty-standard-datangnya-darimana-345b8f072e",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Temanmu heran kenapa standar cantik berubah dari gemuk ke langsing. Jelaskan dengan faktor kelangkaan makanan.",
+      "answer": "Standar mengikuti sinyal kekayaan: saat makanan langka, gemuk berarti makmur; saat makanan kalori tinggi murah, langsing menjadi sinyal mampu."
+    },
+    {
+      "id": "beauty-standard-datangnya-darimana-5ce9e6218b",
+      "type": "mcq",
+      "difficulty": "hard",
+      "prompt": "Pada akhirnya beauty standard berfungsi sebagai sinyal apa selain keturunan sehat?",
+      "options": [
+        "Kekayaan dan kelas",
+        "Kemiskinan",
+        "Usia",
+        "Pendidikan"
+      ],
+      "correct": 0,
+      "answer": "Beauty standard berkembang menjadi sinyal bahwa seseorang kaya dan berkelas."
+    }
+  ]
+}

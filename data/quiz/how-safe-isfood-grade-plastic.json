@@ -1,0 +1,40 @@
+{
+  "slug": "how-safe-isfood-grade-plastic",
+  "title": "How Safe Is Food Grade Plastic?",
+  "url": "/how-safe-isfood-grade-plastic/",
+  "sourceHash": "bd7d6a9549473ae6a7ab126767321ec84c0dfbdbaab3ffd64cbde2f787f74092",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:27:36.652Z",
+  "cards": [
+    {
+      "id": "how-safe-isfood-grade-plastic-1c28ee2d96",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Which agencies certify food grade plastic?",
+      "answer": "FDA or BPOM."
+    },
+    {
+      "id": "how-safe-isfood-grade-plastic-f19549495f",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "What does BPA free mean?",
+      "answer": "The plastic has no Bisphenol A, a synthetic chemical that may disrupt hormones and health."
+    },
+    {
+      "id": "how-safe-isfood-grade-plastic-4065a0bd9c",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Food grade plastic is certified not to transmit harmful ____.",
+      "answer": "chemicals"
+    },
+    {
+      "id": "how-safe-isfood-grade-plastic-1928491ab8",
+      "type": "myth_or_fact",
+      "difficulty": "hard",
+      "prompt": "BPA is a natural harmless compound.",
+      "correct": false,
+      "answer": "Myth: it is a synthetic chemical that may disrupt hormones."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "slug": "zigzag-conversion",
+  "title": "Zigzag Conversion",
+  "url": "/zigzag-conversion/",
+  "sourceHash": "e24899429f8835319a81434e2d582a06118041aa1f18944e103c4bf13236368d",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.165Z",
+  "cards": [
+    {
+      "id": "zigzag-conversion-6feae3f868",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "In the zigzag problem, if numRows is 1 the solution simply returns the ____ string.",
+      "answer": "original"
+    },
+    {
+      "id": "zigzag-conversion-e1a518efdd",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "In the zigzag solution, what is the cycle length for numRows rows?",
+      "answer": "(numRows - 1) * 2"
+    },
+    {
+      "id": "zigzag-conversion-cab3a659a8",
+      "type": "recall",
+      "difficulty": "hard",
+      "prompt": "For a middle row (not first or last) in the zigzag solution, how is the index of the diagonal character computed from index i?",
+      "answer": "diag = i + cycle - 2 * row"
+    },
+    {
+      "id": "zigzag-conversion-080805cc6d",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Writing 'PAYPALISHIRING' zigzag on 4 rows and reading row by row gives what string?",
+      "answer": "PINALSIGYAHRPI"
+    },
+    {
+      "id": "zigzag-conversion-076c4130d0",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which rows get an extra diagonal character per cycle in the zigzag solution?",
+      "options": [
+        "Only the first row",
+        "Only the last row",
+        "All rows except first and last",
+        "All rows"
+      ],
+      "correct": 2,
+      "answer": "Middle rows only; the first and last rows have no diagonal character."
+    },
+    {
+      "id": "zigzag-conversion-b00a9a95e4",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "The zigzag solution walks each row, stepping through the string by the cycle length.",
+      "correct": true,
+      "answer": "Fact: for each row it starts at index row and jumps by cycle."
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "slug": "ackerman-bargaining-method-for-negotiation",
+  "title": "Ackerman Bargaining Method for Negotiation",
+  "url": "/ackerman-bargaining-method-for-negotiation/",
+  "sourceHash": "e0a40272e7038031f0dbb0c53a48837bba0ac0aeeb903a509705797e8d89300f",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.118Z",
+  "cards": [
+    {
+      "id": "ackerman-bargaining-method-for-negotiation-990c085e3f",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Which book by Chriss Voss introduced the Ackerman bargaining method discussed here?",
+      "answer": "Never Split the Difference."
+    },
+    {
+      "id": "ackerman-bargaining-method-for-negotiation-949b415996",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "In the Ackerman method, your first offer is ____ of your target price.",
+      "answer": "65%"
+    },
+    {
+      "id": "ackerman-bargaining-method-for-negotiation-7a1bebd8b7",
+      "type": "sequence",
+      "difficulty": "medium",
+      "prompt": "Order the Ackerman offer steps from first to last.",
+      "items": [
+        "65% of target",
+        "85% of target",
+        "95% of target",
+        "100% of target"
+      ],
+      "answer": "Start at 65%, then 85%, 95%, and finally 100% of the target price."
+    },
+    {
+      "id": "ackerman-bargaining-method-for-negotiation-4ba0accb7c",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why start with an extremely low 65% offer in Ackerman bargaining?",
+      "answer": "It is an extreme anchor, like a big surprise punch. The other side reacts with fight-or-flight, so they think less clearly and the later offers feel more reasonable."
+    },
+    {
+      "id": "ackerman-bargaining-method-for-negotiation-3960dc95bc",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which final offer follows the Ackerman method's advice on the final amount?",
+      "options": [
+        "$11,500",
+        "$11,000",
+        "$11,389",
+        "$12,000"
+      ],
+      "correct": 2,
+      "answer": "A non-round number like $11,389 looks calculated and shows you're near your limit."
+    },
+    {
+      "id": "ackerman-bargaining-method-for-negotiation-4ac9195f9a",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You're at your final offer in a negotiation and want to signal that you can't go higher. What Ackerman move helps?",
+      "answer": "Throw in a non-monetary item they probably don't want, as a concession to show you're at your limit."
+    },
+    {
+      "id": "ackerman-bargaining-method-for-negotiation-d68251b4b6",
+      "type": "myth_or_fact",
+      "difficulty": "hard",
+      "prompt": "In Ackerman bargaining you should avoid empathy and just push your numbers.",
+      "correct": false,
+      "answer": "Myth: you should use lots of empathy, calibrated questions, labeling, and ways to say no."
+    }
+  ]
+}

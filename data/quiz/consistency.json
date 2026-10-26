@@ -1,0 +1,33 @@
+{
+  "slug": "consistency",
+  "title": "Consistency",
+  "url": "/consistency/",
+  "sourceHash": "e8b33602abb086c74f83550af2544c2d151ff28068008dfb7965247457b0e120",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.129Z",
+  "cards": [
+    {
+      "id": "consistency-d60a0b4018",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What should you do daily to build discipline, even if it is hard?",
+      "answer": "Write in the blog every day, even one sentence."
+    },
+    {
+      "id": "consistency-9f56153b74",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "To stay disciplined, one has to control their ____.",
+      "answer": "dopamine"
+    },
+    {
+      "id": "consistency-139fc0a22b",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "Consistency and discipline are described as everything.",
+      "correct": true,
+      "answer": "Fact: consistency and discipline are everything."
+    }
+  ]
+}

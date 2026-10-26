@@ -1,0 +1,66 @@
+{
+  "slug": "writing-summaries-more-important-than-reading-more",
+  "title": "Writing Summaries is More Important Than Reading More Books",
+  "url": "/writing-summaries-more-important-than-reading-more/",
+  "sourceHash": "00a304d278d372860acd8c1d2df0565f38597c42fddb0938b404feae5e444141",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.165Z",
+  "cards": [
+    {
+      "id": "writing-summaries-more-important-than-reading-more-aac747ff11",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why does writing a summary of a book help you understand it better than just reading more books?",
+      "answer": "Writing makes you remember and rebuild what you read in your own words. That makes you read more carefully."
+    },
+    {
+      "id": "writing-summaries-more-important-than-reading-more-43e2b6d56a",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is the first question in the book summary template?",
+      "answer": "In 1–2 sentences, what is the book about as a whole?"
+    },
+    {
+      "id": "writing-summaries-more-important-than-reading-more-ef9ed8dc27",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "The summary template asks for ____ central questions the book tries to answer.",
+      "answer": "3–4"
+    },
+    {
+      "id": "writing-summaries-more-important-than-reading-more-c78d9644ac",
+      "type": "sequence",
+      "difficulty": "hard",
+      "prompt": "Put the summary template steps in order.",
+      "items": [
+        "Describe the whole book in 1–2 sentences",
+        "List the 3–4 central questions",
+        "Summarize each answer in a paragraph",
+        "Write the most important personal lessons"
+      ],
+      "answer": "Overall idea, central questions, answers, then personal takeaways."
+    },
+    {
+      "id": "writing-summaries-more-important-than-reading-more-81f7b6c916",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "If your goal is to maximize comprehension, what is more valuable?",
+      "options": [
+        "Reading as many books as possible",
+        "Writing summaries",
+        "Speed-reading",
+        "Re-reading the same page"
+      ],
+      "correct": 1,
+      "answer": "Writing summaries, since they force recall and reconstruction."
+    },
+    {
+      "id": "writing-summaries-more-important-than-reading-more-cb6153ce8b",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A friend reads 50 books a year but can barely remember them. What habit would you suggest and why?",
+      "answer": "Write a summary of each book using a template (overall idea, central questions, answers, personal lessons) because it forces recall and deliberate reading."
+    }
+  ]
+}

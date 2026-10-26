@@ -1,0 +1,75 @@
+{
+  "slug": "first-24-hours-mind-detox",
+  "title": "First 24 Hours of Mind Detox",
+  "url": "/first-24-hours-mind-detox/",
+  "sourceHash": "7bb3408b58fcfdd07438addfa998355fde31313eab516c6cacdcca3f8a73112b",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:27:36.651Z",
+  "cards": [
+    {
+      "id": "first-24-hours-mind-detox-1ca9d38e5e",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is a mind detox?",
+      "answer": "Removing distractions that diminish mental clarity and focus."
+    },
+    {
+      "id": "first-24-hours-mind-detox-47a49d6982",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Who wrote the book Digital Minimalism?",
+      "options": [
+        "Cal Newport",
+        "James Clear",
+        "Nir Eyal",
+        "Tim Ferriss"
+      ],
+      "correct": 0,
+      "answer": "Cal Newport."
+    },
+    {
+      "id": "first-24-hours-mind-detox-e274ad617c",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Which was NOT a benefit noticed in the first 24 hours?",
+      "options": [
+        "Sharper",
+        "More creative",
+        "Clearer mind",
+        "More anxious"
+      ],
+      "correct": 3,
+      "answer": "Sharper, more creative and clearer mind; anxiety was a cost."
+    },
+    {
+      "id": "first-24-hours-mind-detox-724b1c0df7",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "What uncomfortable feelings tend to show up in the first 24 hours of a mind detox?",
+      "answer": "Emptiness, loneliness, and anxiety."
+    },
+    {
+      "id": "first-24-hours-mind-detox-685b6c34dc",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Feeling anxious early in a digital detox means the detox is not working.",
+      "correct": false,
+      "answer": "Myth: it is normal because the mind needs recalibration."
+    },
+    {
+      "id": "first-24-hours-mind-detox-8c35de5a00",
+      "type": "explain",
+      "difficulty": "hard",
+      "prompt": "Explain like I'm 10: why is 'free' social media not really free?",
+      "answer": "The app doesn't cost money but it keeps your time and data. Because you are the product, they earn from your attention."
+    },
+    {
+      "id": "first-24-hours-mind-detox-279d2b3d45",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You are on day 1 of quitting social media and feel lonely and restless. What should you expect?",
+      "answer": "That's normal; the mind recalibrates away from the phone for pleasure and feels better after a few days."
+    }
+  ]
+}

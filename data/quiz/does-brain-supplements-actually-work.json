@@ -1,0 +1,47 @@
+{
+  "slug": "does-brain-supplements-actually-work",
+  "title": "Does Brain Supplements Actually Work?",
+  "url": "/does-brain-supplements-actually-work/",
+  "sourceHash": "2d5f5785fb93ac9565031e0efe4664e8c46e2bfcddb7274f0b835648767a23f8",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.131Z",
+  "cards": [
+    {
+      "id": "does-brain-supplements-actually-work-dd4cd2576d",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "Brain supplements have strong scientific evidence that they improve your focus.",
+      "correct": false,
+      "answer": "Myth: there is no strong evidence that brain supplements actually work."
+    },
+    {
+      "id": "does-brain-supplements-actually-work-c879d9c410",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Name three typical ingredients found in brain supplements.",
+      "answer": "Caffeine, B vitamins, and natural ingredients like Ginkgo Biloba."
+    },
+    {
+      "id": "does-brain-supplements-actually-work-bfb77bf3a4",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "What is a better way to improve focus than buying brain supplements?",
+      "options": [
+        "Take more caffeine",
+        "Exercise, sleep enough, and eat well",
+        "Buy a more expensive supplement",
+        "Take Ginkgo Biloba daily"
+      ],
+      "correct": 1,
+      "answer": "Maintain body and mental health through exercise, enough sleep, and a good diet."
+    },
+    {
+      "id": "does-brain-supplements-actually-work-4c84872fa3",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Your friend spends lots of money on a 'focus pill' with caffeine, B vitamins and Ginkgo, but sleeps 4 hours a night. What advice fits?",
+      "answer": "Evidence for such supplements is weak; fix the basics first: sleep, exercise and diet, which actually maintain mental performance."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "slug": "why-do-we-sweat",
+  "title": "Why Do We Sweat",
+  "url": "/why-do-we-sweat/",
+  "sourceHash": "9bfe7e811bce76afdfc119eefbe12b4ba5e615dc758b1497e16169a23a83d6cd",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.163Z",
+  "cards": [
+    {
+      "id": "why-do-we-sweat-765625d46e",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What temperature does the body try to keep via thermoregulation?",
+      "answer": "About 36-37 degrees Celsius."
+    },
+    {
+      "id": "why-do-we-sweat-5f5388d0e9",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: how does sweating cool you?",
+      "answer": "When sweat dries off your skin, it takes heat with it, which cools your blood and body."
+    },
+    {
+      "id": "why-do-we-sweat-03ab455649",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "Sweat cools by ____ cooling.",
+      "answer": "evaporative"
+    },
+    {
+      "id": "why-do-we-sweat-e14b225175",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "What happens when core temperature rises to about 40C?",
+      "options": [
+        "Nothing",
+        "Body begins to malfunction",
+        "Metabolism speeds usefully",
+        "Skin hardens"
+      ],
+      "correct": 1,
+      "answer": "Cells get damaged, brain function falls, and organs dehydrate."
+    },
+    {
+      "id": "why-do-we-sweat-dfd2451bba",
+      "type": "sequence",
+      "difficulty": "hard",
+      "prompt": "Order brain symptoms as heat worsens.",
+      "items": [
+        "Confusion",
+        "Dizziness",
+        "Loss of consciousness",
+        "Coma"
+      ],
+      "answer": "From confusion to dizziness to unconsciousness then coma."
+    },
+    {
+      "id": "why-do-we-sweat-ec190fccc6",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Your friend stops sweating in extreme heat and feels confused. Why is it dangerous?",
+      "answer": "Without sweat cooling, core temperature may reach ~40C, and the brain is heat sensitive, causing confusion and worse."
+    }
+  ]
+}

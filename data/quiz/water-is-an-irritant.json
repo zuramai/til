@@ -1,0 +1,68 @@
+{
+  "slug": "water-is-an-irritant",
+  "title": "Water Is an Irritant",
+  "url": "/water-is-an-irritant/",
+  "sourceHash": "38b8de69510bf3658a6d3c8717c7a078dfc0e333f85b08c815a1a15458ad2f54",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.162Z",
+  "cards": [
+    {
+      "id": "water-is-an-irritant-491b52b6f0",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "Water can act as a mild irritant to skin when exposure is prolonged.",
+      "correct": true,
+      "answer": "Fact: prolonged water exposure strips natural oils and disrupts the skin barrier."
+    },
+    {
+      "id": "water-is-an-irritant-261c5edda8",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What does hot water strip from the skin that leaves it dry?",
+      "answer": "Natural lipids (sebum)."
+    },
+    {
+      "id": "water-is-an-irritant-02f81e70f7",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: how does hard water dry out your skin?",
+      "answer": "Hard water has lots of calcium and magnesium. They react with soap and make gunk that sticks on your skin, which adds to the drying."
+    },
+    {
+      "id": "water-is-an-irritant-bf5511e539",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "What role does chlorine in tap water play on skin?",
+      "options": [
+        "Moisturiser",
+        "Oxidizing agent weakening the barrier",
+        "Natural lipid source",
+        "Neutralizes soap residue"
+      ],
+      "correct": 1,
+      "answer": "It is an oxidizing agent that can further weaken the skin barrier."
+    },
+    {
+      "id": "water-is-an-irritant-64c6e38617",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Which is NOT something that makes water harsher on skin?",
+      "options": [
+        "Hot temperature",
+        "Chlorine",
+        "Rich in minerals",
+        "Lukewarm temperature"
+      ],
+      "correct": 3,
+      "answer": "Lukewarm water is the recommended fix; the others make water more irritating."
+    },
+    {
+      "id": "water-is-an-irritant-3a489bfa52",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Your skin feels tight and itchy after every shower. What two changes could help?",
+      "answer": "Use lukewarm water close to body temperature and keep showers short, since water itself may be partly to blame."
+    }
+  ]
+}

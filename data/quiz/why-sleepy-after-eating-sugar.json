@@ -1,0 +1,81 @@
+{
+  "slug": "why-sleepy-after-eating-sugar",
+  "title": "Why We're Sleepy After Eating Sugar?",
+  "url": "/why-sleepy-after-eating-sugar/",
+  "sourceHash": "63661059e1d0e65ebe742e8d64ea5e5d0da92222033d7bced9341e5286952cdb",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.164Z",
+  "cards": [
+    {
+      "id": "why-sleepy-after-eating-sugar-dbefb62678",
+      "type": "sequence",
+      "difficulty": "medium",
+      "prompt": "Order what happens in the body after eating sugar, leading to a crash.",
+      "items": [
+        "Blood sugar spikes",
+        "Pancreas releases insulin",
+        "Sugar is absorbed for energy and blood sugar drops",
+        "Energy fluctuates and fatigue appears"
+      ],
+      "answer": "Spike, insulin release, absorption and drop, then fatigue."
+    },
+    {
+      "id": "why-sleepy-after-eating-sugar-dc5c61d18b",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Which organ releases insulin after you eat sugar?",
+      "answer": "The pancreas."
+    },
+    {
+      "id": "why-sleepy-after-eating-sugar-a51bc536f1",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "The tired feeling after a sugar spike is called a sugar ____.",
+      "answer": "crash"
+    },
+    {
+      "id": "why-sleepy-after-eating-sugar-e462bf65bd",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which hormone linked to calmness may add to post-sugar drowsiness?",
+      "options": [
+        "Adrenaline",
+        "Serotonin",
+        "Cortisol",
+        "Testosterone"
+      ],
+      "correct": 1,
+      "answer": "Serotonin, which regulates mood and relaxation and can cause drowsiness."
+    },
+    {
+      "id": "why-sleepy-after-eating-sugar-c0d54f7de8",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "What is a 'sugar influx'?",
+      "answer": "The rapid entry of sugar into the bloodstream."
+    },
+    {
+      "id": "why-sleepy-after-eating-sugar-7cd93ca99c",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: what happens to extra glucose your body doesn't need right away?",
+      "answer": "Your body stores it for later. It moves the extra sugar into muscles, the liver and fat cells."
+    },
+    {
+      "id": "why-sleepy-after-eating-sugar-9911fc7b9f",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "Eating lots of sugar can make you fat because extra glucose gets stored in fat cells.",
+      "correct": true,
+      "answer": "Fact: glucose beyond what's needed for energy is stored, including in fat cells."
+    },
+    {
+      "id": "why-sleepy-after-eating-sugar-4e763fef7c",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You eat a huge sweet dessert at lunch and feel sluggish at 2pm. Explain what is going on in your body.",
+      "answer": "Blood sugar spiked, insulin pulled it down, causing an energy swing, and serotonin may add drowsiness. Excess glucose also gets stored away."
+    }
+  ]
+}

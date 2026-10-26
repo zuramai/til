@@ -1,0 +1,33 @@
+{
+  "slug": "pelajaran-hidup-dari-abang-grab",
+  "title": "Pelajaran Hidup Dari Abang Grab",
+  "url": "/pelajaran-hidup-dari-abang-grab/",
+  "sourceHash": "bd8b63f804362cd61d64896b179340a0e7b964ee0887114aa06f48d6032be257",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:27:36.652Z",
+  "cards": [
+    {
+      "id": "pelajaran-hidup-dari-abang-grab-bef4ac9eeb",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Menurut pengalaman hidup seorang driver ojol yang pernah terpuruk, pasangan seperti apa yang layak dicari?",
+      "answer": "Yang mau susah bareng dan selalu mendukung kita apa pun keadaannya, terutama saat down atau terpuruk."
+    },
+    {
+      "id": "pelajaran-hidup-dari-abang-grab-03e27f3488",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Trading forex bisa dimainkan siapa saja tanpa belajar, karena hanya soal keberuntungan.",
+      "correct": false,
+      "answer": "Forex ada ilmunya dan tidak bisa dimainkan sembarangan; sebaiknya belajar dulu, misalnya dari orang yang ahli."
+    },
+    {
+      "id": "pelajaran-hidup-dari-abang-grab-f0fd85233d",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Seorang pemilik warnet sukses pulang jam 2 malam dan meninggalkan warnet kosong tanpa penjaga. Paginya semua aset hilang dicuri. Pelajaran usaha apa yang bisa diambil?",
+      "answer": "Usaha yang sudah besar tidak boleh dibiarkan tanpa penjagaan, karena kerja keras bertahun-tahun bisa hilang dalam semalam."
+    }
+  ]
+}

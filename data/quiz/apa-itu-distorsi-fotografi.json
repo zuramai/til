@@ -1,0 +1,67 @@
+{
+  "slug": "apa-itu-distorsi-fotografi",
+  "title": "Apa Itu Distorsi dalam Fotografi?",
+  "url": "/apa-itu-distorsi-fotografi/",
+  "sourceHash": "4ba69b15fe9dd09a59213790652bb06fb1eca0fa2f36c2a46f089d686e7dcabd",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.120Z",
+  "cards": [
+    {
+      "id": "apa-itu-distorsi-fotografi-74ac655961",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Apa itu distorsi dalam fotografi?",
+      "answer": "Ketika lensa gagal memproyeksikan garis lurus secara akurat sehingga tampak melengkung."
+    },
+    {
+      "id": "apa-itu-distorsi-fotografi-002de883bf",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "Garis lurus tampak melengkung keluar seperti drum. Itu distorsi apa?",
+      "options": [
+        "Pincushion",
+        "Barrel",
+        "Chromatic",
+        "Vignette"
+      ],
+      "correct": 1,
+      "answer": "Barrel distortion, efek khas lensa wide."
+    },
+    {
+      "id": "apa-itu-distorsi-fotografi-8d75c65bc7",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "Pincushion distortion membuat garis lurus tampak melengkung ke ____ dan biasa pada lensa telephoto.",
+      "answer": "dalam"
+    },
+    {
+      "id": "apa-itu-distorsi-fotografi-d9b7d1724a",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Mana yang tidak cocok dengan barrel distortion?",
+      "options": [
+        "Garis melengkung keluar",
+        "Bentuk drum atau bola",
+        "Efek kamera wide",
+        "Efek lensa telephoto"
+      ],
+      "correct": 3,
+      "answer": "Telephoto/pincushion melengkung ke dalam, bukan keluar."
+    },
+    {
+      "id": "apa-itu-distorsi-fotografi-fabd88c940",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Kamu memotret potret orang dan wajahnya tampak aneh karena distorsi. Lensa dan teknik apa yang disarankan?",
+      "answer": "Gunakan focal length normal seperti 35mm; dan mundur sedikit jika memakai lensa dengan focal length lebih besar."
+    },
+    {
+      "id": "apa-itu-distorsi-fotografi-e1a9a2579f",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Rentang focal length apa yang disarankan untuk landscape dan street photography?",
+      "answer": "15-27mm."
+    }
+  ]
+}

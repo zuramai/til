@@ -1,0 +1,61 @@
+{
+  "slug": "arabic-transliteration",
+  "title": "Arabic Transliteration",
+  "url": "/arabic-transliteration/",
+  "sourceHash": "969111c9108ea607dce76b72cf5bd1973d4084a4e1f97b1c8dadfb8057f2020d",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.121Z",
+  "cards": [
+    {
+      "id": "arabic-transliteration-1b82b4aff0",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What writing system does Arabic use?",
+      "answer": "Hijaiyah."
+    },
+    {
+      "id": "arabic-transliteration-9c859ac9ba",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Besides Arabic, Farsi, Urdu, and Pashto, ____ is Malay written in Arabic script.",
+      "answer": "Jawi"
+    },
+    {
+      "id": "arabic-transliteration-f17a9dd7d9",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "There is only one correct way to transliterate Arabic words into Latin letters.",
+      "correct": false,
+      "answer": "Myth: there is no single correct way; variants like salat, sholat, and solat are all valid."
+    },
+    {
+      "id": "arabic-transliteration-a7e542643d",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why are there many spellings of صلاة?",
+      "answer": "Arabic has sounds that English or Indonesian don't, so people spell them by ear. Each language and culture picks a different way, like ṣalāh, salat, or sholat."
+    },
+    {
+      "id": "arabic-transliteration-798330c96d",
+      "type": "odd_one_out",
+      "difficulty": "hard",
+      "prompt": "Which is NOT given as a valid transliteration of صلاة?",
+      "options": [
+        "salat",
+        "sholat",
+        "shalat",
+        "zalat"
+      ],
+      "correct": 3,
+      "answer": "Only ṣalāh, salat, sholat, shalat, and solat were listed as valid."
+    },
+    {
+      "id": "arabic-transliteration-a491386dd5",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "How is ص pronounced in English and Indonesian transliterations?",
+      "answer": "ṣa in English; sha or so in Indonesian."
+    }
+  ]
+}

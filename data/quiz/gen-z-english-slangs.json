@@ -1,0 +1,11 @@
+{
+  "slug": "gen-z-english-slangs",
+  "title": "Gen Z English Slangs",
+  "url": "/gen-z-english-slangs/",
+  "sourceHash": "e6222aecfb633b13a1892e0d18f8f99894c1ff55977ea462a3b88e3545c25336",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.135Z",
+  "skipReason": "too-short",
+  "cards": []
+}

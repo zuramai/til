@@ -1,0 +1,89 @@
+{
+  "slug": "kenapa-orang-india-dukung-israel",
+  "title": "Kenapa India Dukung Israel",
+  "url": "/kenapa-orang-india-dukung-israel/",
+  "sourceHash": "a822547cd91c3717142a3a1794b02ae26c3905564046e3d16f53e0b19b6dfd70",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.146Z",
+  "cards": [
+    {
+      "id": "kenapa-orang-india-dukung-israel-c3959aeec9",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Sebutkan tiga alasan utama banyak orang India mendukung Israel.",
+      "answer": "Agama (bertentangannya ajaran Islam dan Hindu), sejarah (Mughal dan pecah belah Inggris), dan politik (kepentingan bilateral)."
+    },
+    {
+      "id": "kenapa-orang-india-dukung-israel-a1290c5a7e",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Kaisar Mughal mana yang dikenal toleran dan menghapus jizyah bagi non-muslim?",
+      "options": [
+        "Aurangzeb",
+        "Akbar the Great",
+        "Babur",
+        "Humayun"
+      ],
+      "correct": 1,
+      "answer": "Akbar the Great (Muhammad Jalaludin Akbar), kaisar ketiga Mughal."
+    },
+    {
+      "id": "kenapa-orang-india-dukung-israel-ee9336103a",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Aurangzeb, kaisar terakhir Mughal pada abad ke-17, dikenal sangat toleran terhadap agama lain.",
+      "correct": false,
+      "answer": "Mitos: ia kontroversial karena menghancurkan kuil dan memaksakan Islam tanpa toleransi."
+    },
+    {
+      "id": "kenapa-orang-india-dukung-israel-ca7e7d8f80",
+      "type": "sequence",
+      "difficulty": "medium",
+      "prompt": "Urutkan peristiwa sejarah India berikut.",
+      "items": [
+        "Akbar toleran pada agama lain",
+        "Aurangzeb memaksakan Islam",
+        "Inggris memecah belah rakyat",
+        "Pembagian India dan Pakistan berdasarkan agama"
+      ],
+      "answer": "Dari Akbar toleran, Aurangzeb represif, Inggris memecah belah, hingga pemisahan India-Pakistan."
+    },
+    {
+      "id": "kenapa-orang-india-dukung-israel-d1cb96f3ce",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Pakistan mayoritas muslim dan India mayoritas Hindu karena pemisahan wilayah dari ____ berdasarkan agama.",
+      "answer": "British India (British Raj)"
+    },
+    {
+      "id": "kenapa-orang-india-dukung-israel-78aef219ca",
+      "type": "riddle",
+      "difficulty": "hard",
+      "prompt": "Pepatah politik apa yang mungkin ada di kepala pemerintah India: musuh dari musuhku adalah ...?",
+      "answer": "Kawanku (The enemy of my enemy is my friend)."
+    },
+    {
+      "id": "kenapa-orang-india-dukung-israel-686d86e927",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Seseorang bilang dukungan India ke Israel hanya soal agama. Tambahkan faktor non-agama yang menjelaskan hubungan kedua negara.",
+      "answer": "Faktor politik dan pertahanan: Israel adalah pemasok pertahanan terbesar India dan ada kerjasama bilateral di banyak sektor.",
+      "explanation": "Palestina juga dianggap tidak bisa menawarkan bantuan berarti."
+    },
+    {
+      "id": "kenapa-orang-india-dukung-israel-58a20243c5",
+      "type": "odd_one_out",
+      "difficulty": "hard",
+      "prompt": "Mana yang BUKAN faktor penyebab sentimen anti-Islam di India menurut penjelasan di atas?",
+      "options": [
+        "Perbedaan konsep tuhan dalam ajaran",
+        "Sapi sakral dalam Hindu yang disembelih",
+        "Strategi pecah belah Inggris",
+        "Persamaan bahasa resmi kedua agama"
+      ],
+      "correct": 3,
+      "answer": "Persamaan bahasa tidak disebut sebagai faktor; yang lain adalah faktor agama dan sejarah."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "why-high-altitude-is-colder-than-low-altitude",
+  "title": "Why Higher Altitude Is Colder?",
+  "url": "/why-high-altitude-is-colder-than-low-altitude/",
+  "sourceHash": "68fad05ca7541a2c387761faa537071436506920384856f65bf8402a97cac331",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.164Z",
+  "cards": [
+    {
+      "id": "why-high-altitude-is-colder-than-low-altitude-fa501a2c81",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is the main reason higher altitudes are colder?",
+      "answer": "Lower air pressure: fewer air molecules per volume to trap heat."
+    },
+    {
+      "id": "why-high-altitude-is-colder-than-low-altitude-39c8cdb796",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "The atmosphere is mainly heated from the ground up.",
+      "correct": true,
+      "answer": "Fact: higher altitudes are farther from the heat source."
+    },
+    {
+      "id": "why-high-altitude-is-colder-than-low-altitude-1fb309806a",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why is a mountaintop colder?",
+      "answer": "Less air up high means fewer air molecules to hold heat, and it is farther from the warm ground."
+    },
+    {
+      "id": "why-high-altitude-is-colder-than-low-altitude-10c862cdf9",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Why does a mountain village get cold at night even in sunny weather?",
+      "answer": "Thin air holds little heat and it is far from the ground heat source."
+    }
+  ]
+}

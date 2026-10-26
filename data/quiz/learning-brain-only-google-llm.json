@@ -1,0 +1,52 @@
+{
+  "slug": "learning-brain-only-google-llm",
+  "title": "Study: Brain Only > Google > AI",
+  "url": "/learning-brain-only-google-llm/",
+  "sourceHash": "a5677205f93c1ad7ca7a693907cbd96fc0229821d373e955cf45e8c0cafba969",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.147Z",
+  "cards": [
+    {
+      "id": "learning-brain-only-google-llm-97bc9e3167",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What three essay-writing methods were compared in the MIT study 'Your Brain on ChatGPT'?",
+      "answer": "Brain-only, search engine, and LLM-assisted."
+    },
+    {
+      "id": "learning-brain-only-google-llm-aff1d9e7a1",
+      "type": "sequence",
+      "difficulty": "medium",
+      "prompt": "Order groups from strongest to weakest neural connectivity.",
+      "items": [
+        "Brain-only",
+        "Search engine",
+        "LLM-assisted"
+      ],
+      "answer": "Brain-only strongest, search engine moderate, LLM-assisted weakest."
+    },
+    {
+      "id": "learning-brain-only-google-llm-909ceed5ea",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "The more cognitive load used when learning, the worse we recall what we learned.",
+      "correct": false,
+      "answer": "Myth: more cognitive load in learning leads to better recall."
+    },
+    {
+      "id": "learning-brain-only-google-llm-e193698ec4",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A student has an LLM write all their essay drafts to save time. What does the study suggest about their learning?",
+      "answer": "Less cognitive effort and weaker neural connectivity, so recall is likely worse than writing by themselves."
+    },
+    {
+      "id": "learning-brain-only-google-llm-adc1ae3ab2",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "The group that exhibited the weakest neural connection was the ____ group.",
+      "answer": "LLM"
+    }
+  ]
+}

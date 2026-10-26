@@ -1,0 +1,68 @@
+{
+  "slug": "kenapa-dunia-ini-dilaknat",
+  "title": "Kenapa Dunia Ini Dilaknat?",
+  "url": "/kenapa-dunia-ini-dilaknat/",
+  "sourceHash": "7494c7e0222c9f5e04b9a6cf72bb622386ae1480643c64117962796932255e39",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.145Z",
+  "cards": [
+    {
+      "id": "kenapa-dunia-ini-dilaknat-2b181a9c6c",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Apa 'quest' utama yang diberikan Allah saat manusia diciptakan?",
+      "answer": "Beribadah kepada-Nya."
+    },
+    {
+      "id": "kenapa-dunia-ini-dilaknat-47e38b0669",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Ayat tentang tujuan penciptaan jin dan manusia untuk beribadah adalah surat Adz-Dzariyat ayat ____.",
+      "answer": "56"
+    },
+    {
+      "id": "kenapa-dunia-ini-dilaknat-542521474c",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Menurut analogi kelinci dan kura-kura, mengapa kura-kura menang?",
+      "options": [
+        "Ia lebih cepat",
+        "Ia pelan tapi istiqamah, sementara kelinci sombong dan terlena",
+        "Kelinci sakit",
+        "Jalurnya lebih pendek"
+      ],
+      "correct": 1,
+      "answer": "Kura-kura menang karena istiqamah; kelinci kalah karena menyombongkan diri dan terlena."
+    },
+    {
+      "id": "kenapa-dunia-ini-dilaknat-7293ee2698",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Jelaskan seperti ke anak 10 tahun: kenapa free will bisa jadi tantangan?",
+      "answer": "Manusia bebas memilih antara taat atau menyimpang. Kebebasan itu berarti kita bisa salah pilih, padahal panduan hidup (Al-Quran) sudah lengkap."
+    },
+    {
+      "id": "kenapa-dunia-ini-dilaknat-f2819e78a3",
+      "type": "myth_or_fact",
+      "difficulty": "hard",
+      "prompt": "Orang miskin yang taat dan menyumbang dengan jumlah sama derajatnya sama saja dengan orang kaya yang menyumbang.",
+      "correct": false,
+      "answer": "Derajat orang miskin yang taat dan rela berinfak lebih tinggi karena rasionya terhadap hartanya berbeda."
+    },
+    {
+      "id": "kenapa-dunia-ini-dilaknat-233c83cf37",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Kamu tidak punya uang untuk menyumbang dan juga sedang kekurangan waktu. Menurut tulisan itu, apa yang tetap berharga?",
+      "answer": "Niat baik. Jika tidak punya semuanya, niat baikmu sudah mewakili dan Allah Maha Tahu."
+    },
+    {
+      "id": "kenapa-dunia-ini-dilaknat-8c54b8dbba",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Apa kunci agar kita tidak terus mencari hal berlebihan dan melampaui batas?",
+      "answer": "Bersyukur, yaitu mencari lebih sedikit daripada terus mengejar lebih banyak."
+    }
+  ]
+}

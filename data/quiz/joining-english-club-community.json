@@ -1,0 +1,75 @@
+{
+  "slug": "joining-english-club-community",
+  "title": "Joining English Club Community",
+  "url": "/joining-english-club-community/",
+  "sourceHash": "f930dc21b9db98a153ade869c23ca2b83ce94ffd304de14acc145deb8b088cd2",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.144Z",
+  "cards": [
+    {
+      "id": "joining-english-club-community-8a8024394d",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "Which sentence is grammatically correct?",
+      "options": [
+        "He understand English.",
+        "He understands English.",
+        "He understanding English.",
+        "He understood English now."
+      ],
+      "correct": 1,
+      "answer": "He understands English: third-person singular present takes -s."
+    },
+    {
+      "id": "joining-english-club-community-7fae1a7963",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "Correct the phrase: 'I never ____ English this much before' (use past perfect of speak, with had).",
+      "answer": "had never spoken (I had never spoken English this much before)"
+    },
+    {
+      "id": "joining-english-club-community-1117f5040a",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which is the correct past tense of 'hang out'?",
+      "options": [
+        "hanged out",
+        "hung out",
+        "hang out",
+        "hanging out"
+      ],
+      "correct": 1,
+      "answer": "hung out"
+    },
+    {
+      "id": "joining-english-club-community-586697853b",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "For formal IELTS writing, contractions like 'didn't' are recommended.",
+      "correct": false,
+      "answer": "Avoid contractions and colloquialisms in IELTS writing; write 'did not' instead."
+    },
+    {
+      "id": "joining-english-club-community-0d42c0df70",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Name two linking words that improve cohesion between paragraphs in IELTS writing.",
+      "answer": "For example: However, Nevertheless, Consequently."
+    },
+    {
+      "id": "joining-english-club-community-54e89034e3",
+      "type": "odd_one_out",
+      "difficulty": "hard",
+      "prompt": "Which word is too informal for an IELTS essay?",
+      "options": [
+        "somewhat",
+        "enjoyable",
+        "kinda",
+        "activities"
+      ],
+      "correct": 2,
+      "answer": "'kinda' is informal; 'somewhat' is the formal alternative."
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "slug": "macam-macam-twitter-account",
+  "title": "Macam-macam Twitter Account",
+  "url": "/macam-macam-twitter-account/",
+  "sourceHash": "e2fd48f07dc6f4ef87168e260affb9c90f2df491c05aae8b65c9c19bcc2b50cd",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.148Z",
+  "cards": [
+    {
+      "id": "macam-macam-twitter-account-1b5a0626bb",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Apa kepanjangan CA pada tipe akun Twitter/X, dan apa cirinya?",
+      "answer": "Cyber Account: punya personality dan nickname sendiri, dan tidak membocorkan kehidupan nyata (IRL)."
+    },
+    {
+      "id": "macam-macam-twitter-account-addb175faf",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "Akun Twitter/X yang berisi tentang Korea, F1, atau idol disebut apa?",
+      "options": [
+        "Personal Account",
+        "Cyber Account",
+        "Fans Account",
+        "Alter Account"
+      ],
+      "correct": 2,
+      "answer": "Fans Account (FA)."
+    },
+    {
+      "id": "macam-macam-twitter-account-f5fb3c37da",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Mana yang BUKAN tipe akun yang biasanya terbuka dan berkepribadian asli/personal?",
+      "options": [
+        "Cyber Account",
+        "Personal Account",
+        "Fans Account",
+        "Alter Account"
+      ],
+      "correct": 3,
+      "answer": "Alter account berbeda karena biasanya 18+ dan sifatnya transaksional, sedangkan yang lain adalah akun biasa."
+    },
+    {
+      "id": "macam-macam-twitter-account-d26fe57e41",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Mendekati Personal Account adalah yang paling gampang, sedangkan Cyber Account yang paling susah.",
+      "correct": false,
+      "answer": "Sebaliknya: Cyber Account paling gampang didekati, Personal Account paling susah."
+    },
+    {
+      "id": "macam-macam-twitter-account-723057f04d",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Apa itu jbjb dalam pendekatan di Twitter?",
+      "answer": "Join bareng: saling reply untuk menaikkan engagement, kamu reply dia, dia reply kamu."
+    },
+    {
+      "id": "macam-macam-twitter-account-4bedd3ddad",
+      "type": "sequence",
+      "difficulty": "hard",
+      "prompt": "Urutkan langkah pendekatan pelan (low risk) ke seseorang di Twitter.",
+      "items": [
+        "Profiling hobi dan sukanya",
+        "Mulai dari 'thanks udah mutualan'",
+        "Reply jarang-jarang, jangan tiap tweet",
+        "Berlanjut ke obrolan lewat DM",
+        "Ajak move ke WA"
+      ],
+      "answer": "Mulai dari profiling, ucapkan thanks mutualan, reply jarang-jarang, lanjut ke DM, lalu ajak pindah WA."
+    },
+    {
+      "id": "macam-macam-twitter-account-34f4d30cb7",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Temanmu langsung nge-DM seseorang tepat setelah di-follow-back. Apa risiko dan untungnya?",
+      "answer": "Ini cara blak-blakan (high risk high return): bisa cepat akrab, tapi di mata mereka kamu terlihat 'ada maunya'."
+    },
+    {
+      "id": "macam-macam-twitter-account-10be2919ba",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "Salah satu hal yang menandakan kamu penting bagi dia adalah ketika dia ____ kamu saat kamu tidak ngechat.",
+      "answer": "nyariin"
+    },
+    {
+      "id": "macam-macam-twitter-account-986c440590",
+      "type": "explain",
+      "difficulty": "hard",
+      "prompt": "Explain like I'm 10: kenapa cari kenalan lewat Cyber Account di X beda dengan aplikasi dating seperti Tinder?",
+      "answer": "Di Tinder atau Bumble orang menilai dari tampilan luar dulu. Di Cyber Account orang melihat kepribadian dulu, jadi kenalannya lebih dari obrolan."
+    }
+  ]
+}

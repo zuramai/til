@@ -1,0 +1,61 @@
+{
+  "slug": "jenis-jenis-kelapa",
+  "title": "Perbedaan Kelapa Tua dan Kelapa Muda",
+  "url": "/jenis-jenis-kelapa/",
+  "sourceHash": "e8298e416437f607b7cb8c67fd671ed77d593577969eed6f69b49712278d2b62",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.143Z",
+  "cards": [
+    {
+      "id": "jenis-jenis-kelapa-bd1a2e2dfe",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Apa warna kelapa tua dan kelapa muda?",
+      "answer": "Kelapa tua berwarna coklat, kelapa muda berwarna hijau."
+    },
+    {
+      "id": "jenis-jenis-kelapa-25d3ccfab2",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Kelapa hijau berusia sekitar ____ bulan.",
+      "answer": "6-7"
+    },
+    {
+      "id": "jenis-jenis-kelapa-be0bd60473",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Berapa usia kelapa tua?",
+      "options": [
+        "3-4 bulan",
+        "6-7 bulan",
+        "11-12 bulan",
+        "24 bulan"
+      ],
+      "correct": 2,
+      "answer": "11-12 bulan."
+    },
+    {
+      "id": "jenis-jenis-kelapa-34f0ef6599",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Air kelapa tua tidak boleh diminum karena berbahaya.",
+      "correct": false,
+      "answer": "Air kelapa tua bisa diminum dan menghidrasi, hanya saja gulanya lebih rendah dan rasanya berubah."
+    },
+    {
+      "id": "jenis-jenis-kelapa-ac2c792a7b",
+      "type": "explain",
+      "difficulty": "hard",
+      "prompt": "Jelaskan seperti ke anak 10 tahun: kenapa air kelapa tua rasanya beda dan kurang manis?",
+      "answer": "Seiring kelapa menua, sebagian zat dalam airnya terserap untuk membentuk daging kelapa yang tebal. Jadi gulanya berkurang dan rasanya berubah."
+    },
+    {
+      "id": "jenis-jenis-kelapa-5493442a77",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Ibumu beli kelapa coklat untuk santan, lalu airnya mau dibuang. Apa yang bisa kamu bilang?",
+      "answer": "Air itu masih bisa diminum dan menghidrasi, meski kurang manis dibanding kelapa muda karena gulanya lebih rendah."
+    }
+  ]
+}

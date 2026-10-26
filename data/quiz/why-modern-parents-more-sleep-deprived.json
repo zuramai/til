@@ -1,0 +1,96 @@
+{
+  "slug": "why-modern-parents-more-sleep-deprived",
+  "title": "Why Modern Parents More Sleep Deprived Than Our Ancestors",
+  "url": "/why-modern-parents-more-sleep-deprived/",
+  "sourceHash": "0d48b8740e2a24a851a4c9272be271a6bf0721424e03b1b69f56f6902356767d",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.164Z",
+  "cards": [
+    {
+      "id": "why-modern-parents-more-sleep-deprived-72f4b552f2",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Roughly how many hours a night do hunter-gatherer adults sleep, and how do they feel about it compared with modern parents?",
+      "answer": "About 6–8 hours, and they feel good about their sleep; modern parents sleep a similar amount but often feel terrible.",
+      "explanation": "The amount of sleep isn't the main difference."
+    },
+    {
+      "id": "why-modern-parents-more-sleep-deprived-af8c6fbe2d",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Why did ancient mothers feel more rested after night feeds?",
+      "options": [
+        "They slept far longer than modern mothers",
+        "They slept next to the baby and breastfed through the night without fully waking",
+        "They never woke at night because babies slept alone",
+        "They napped for hours during the day"
+      ],
+      "correct": 1,
+      "answer": "They slept beside the baby and breastfed through the night, so they never fully woke up.",
+      "explanation": "Breastfeeding hormones also made them naturally sleepier."
+    },
+    {
+      "id": "why-modern-parents-more-sleep-deprived-11f2d98145",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "Modern parents feel more exhausted than ancient ones mainly because they sleep far fewer total hours.",
+      "correct": false,
+      "answer": "Myth: total sleep is similar; how they sleep and how much support they have differs.",
+      "explanation": "Experts say everything around modern parents makes the job feel harder."
+    },
+    {
+      "id": "why-modern-parents-more-sleep-deprived-191ec3055c",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "In foraging communities, children were born about ____ years apart.",
+      "answer": "four",
+      "explanation": "Parents weren't handling several tiny children at once."
+    },
+    {
+      "id": "why-modern-parents-more-sleep-deprived-95d8ca9c4d",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Which of these was NOT a feature of ancient parents' life that helped them cope?",
+      "options": [
+        "Grandparents helping with babies",
+        "Older siblings helping",
+        "Alarm clocks to schedule feeds",
+        "Kids spaced several years apart"
+      ],
+      "correct": 2,
+      "answer": "Ancient parents had no alarms or feed tracking; the others were real sources of help or relief."
+    },
+    {
+      "id": "why-modern-parents-more-sleep-deprived-137668df4c",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why do modern parents feel more tired than parents long ago, even with similar sleep?",
+      "answer": "Long ago, a whole group helped look after babies and mothers slept right next to them. Today, parents often do the work, the house and the baby almost alone, so it feels much heavier.",
+      "explanation": "Some infants spent over half their time with someone other than their mother."
+    },
+    {
+      "id": "why-modern-parents-more-sleep-deprived-f1766bda32",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A new mom sleeps 7 hours but feels wrecked; she works full-time, does most housework and has no family nearby. Based on ancient parenting, what is the likely main issue and fix?",
+      "answer": "The issue is lack of shared support, not sleep quantity. Getting others (family, helpers) to share childcare and chores, and easing night-feed disruption, would help.",
+      "explanation": "Ancient babies were raised by a group."
+    },
+    {
+      "id": "why-modern-parents-more-sleep-deprived-e8112c16ea",
+      "type": "mcq",
+      "difficulty": "hard",
+      "prompt": "A friend says 'parents back then just had it easier because babies slept better.' Which point from hunter-gatherer studies best challenges that?",
+      "options": [
+        "Babies there slept 12 hours straight",
+        "Parents had support from many carers and no job or alarms",
+        "Mothers avoided night feeds altogether",
+        "Parents lived much longer"
+      ],
+      "correct": 1,
+      "answer": "Parents had many carers and no job or alarm pressure; the difference is context, not baby sleep.",
+      "explanation": "Nothing suggests night feeds were avoided."
+    }
+  ]
+}

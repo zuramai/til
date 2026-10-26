@@ -1,0 +1,32 @@
+{
+  "slug": "why-food-presentation-is-important",
+  "title": "Why Food Presentation Is Important",
+  "url": "/why-food-presentation-is-important/",
+  "sourceHash": "efff3f9c136baec2f6e451c39599fe293797c8a5bd242b0655971e0d6b2de2cd",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.163Z",
+  "cards": [
+    {
+      "id": "why-food-presentation-is-important-b32c65a05f",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What two words explain why food presentation matters?",
+      "answer": "Psychological impact."
+    },
+    {
+      "id": "why-food-presentation-is-important-5268e3a7a9",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "The eyes ____ first.",
+      "answer": "eat"
+    },
+    {
+      "id": "why-food-presentation-is-important-007a236398",
+      "type": "scenario",
+      "difficulty": "medium",
+      "prompt": "Why would a chef arrange colorful distinct ingredients carefully?",
+      "answer": "It signals craftsmanship and care and improves perceived quality and the dining experience."
+    }
+  ]
+}

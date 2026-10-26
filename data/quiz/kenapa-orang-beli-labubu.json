@@ -1,0 +1,76 @@
+{
+  "slug": "kenapa-orang-beli-labubu",
+  "title": "Kenapa Orang Beli Labubu?",
+  "url": "/kenapa-orang-beli-labubu/",
+  "sourceHash": "6969cf5380628d143af889d7b6843448acf581842615e1b2cec1f65786139ea5",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.146Z",
+  "cards": [
+    {
+      "id": "kenapa-orang-beli-labubu-cfb043ca08",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Apa yang menciptakan 'cultural value' dari Labubu menurut penjelasan fenomenanya?",
+      "answer": "Media sosial, yang membuat orang FOMO dan sekaligus menjadi iklan gratis bagi Pop Mart."
+    },
+    {
+      "id": "kenapa-orang-beli-labubu-102d128af8",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Labubu dijual dalam bentuk ____ secara sengaja karena efek psikologisnya seperti mesin slot.",
+      "answer": "mystery box (blind box)"
+    },
+    {
+      "id": "kenapa-orang-beli-labubu-590ff51a11",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Kecanduan membeli blind box Labubu efeknya mirip dengan berjudi.",
+      "correct": true,
+      "answer": "Fakta: efek reward dari kotak misteri mirip mesin slot dan judi."
+    },
+    {
+      "id": "kenapa-orang-beli-labubu-6be39527da",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Kenapa mengunggah foto bersama Labubu dianggap penting oleh banyak orang?",
+      "options": [
+        "Karena Labubu sangat langka secara fisik",
+        "Menandakan kamu culturally relevant dan up-to-date di media sosial",
+        "Karena Pop Mart membayar pengguna",
+        "Karena Labubu berfungsi sebagai alat praktis"
+      ],
+      "correct": 1,
+      "answer": "Mengunggahnya menandakan kita relevan secara budaya dan mengikuti tren media sosial."
+    },
+    {
+      "id": "kenapa-orang-beli-labubu-1a95d9b385",
+      "type": "odd_one_out",
+      "difficulty": "hard",
+      "prompt": "Mana yang nilainya BUKAN terutama bergantung pada persepsi sosial?",
+      "options": [
+        "Fashion",
+        "Tattoo",
+        "Perhiasan",
+        "Sebotol air minum di tengah gurun"
+      ],
+      "correct": 3,
+      "answer": "Air di gurun bernilai karena kebutuhan nyata, sedangkan yang lain bernilai karena persepsi sosial."
+    },
+    {
+      "id": "kenapa-orang-beli-labubu-17e5cd4f39",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Temanmu membeli blind box Labubu berulang kali padahal tidak suka koleksinya, hanya ingin 'dapat yang langka'. Mekanisme psikologis apa yang bekerja?",
+      "answer": "Efek reward tak terduga dari mystery box, mirip mesin slot dan like media sosial, membuat ketagihan seperti berjudi.",
+      "explanation": "Ketidakpastian hadiah membuat otak terus mengejar."
+    },
+    {
+      "id": "kenapa-orang-beli-labubu-c8cd51bde2",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: bagaimana mainan yang awalnya biasa bisa jadi berharga?",
+      "answer": "Kalau banyak orang memamerkan dan membicarakannya di media sosial, mainan itu jadi dianggap keren dan penting. Karena semua orang menganggapnya berharga, nilainya ikut naik."
+    }
+  ]
+}

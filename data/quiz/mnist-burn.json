@@ -1,0 +1,11 @@
+{
+  "slug": "mnist-burn",
+  "title": "Rust: MNIST Burn Model Implementation",
+  "url": "/mnist-burn/",
+  "sourceHash": "57ef5160178a7a9a8e608fae1f110a8fcca3310f32e47347328dfe65b973bdeb",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.149Z",
+  "skipReason": "too-short",
+  "cards": []
+}

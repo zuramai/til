@@ -1,0 +1,83 @@
+{
+  "slug": "rabies",
+  "title": "Rabies",
+  "url": "/rabies/",
+  "sourceHash": "42c4d0b07b273fb8bf5b8a41ff11383ebe46d177e077e3b80f56636d58202303",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.154Z",
+  "cards": [
+    {
+      "id": "rabies-8896417603",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "Rabies spreads through the air like flu.",
+      "correct": false,
+      "answer": "Rabies cannot survive in open air; it spreads through direct contact such as bites and scratches."
+    },
+    {
+      "id": "rabies-d1254e1477",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Rabies is called the ____ killer because symptoms take weeks to months to appear.",
+      "answer": "silent"
+    },
+    {
+      "id": "rabies-9d3b9c9f98",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which bite shows symptoms faster?",
+      "options": [
+        "Fingertip",
+        "Foot",
+        "Calf",
+        "Thigh"
+      ],
+      "correct": 0,
+      "answer": "The fingertip: it is closer to the brain and has dense nerves, which the virus travels along."
+    },
+    {
+      "id": "rabies-d975fd1188",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why does a bite far from the brain take longer to cause symptoms?",
+      "answer": "The virus travels through nerves toward the brain. A bite far away has a longer way to go, so it takes longer to cause harm."
+    },
+    {
+      "id": "rabies-b4e6df62d2",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Why can people with late-stage rabies not drink water?",
+      "answer": "It triggers painful spasms in the throat and larynx."
+    },
+    {
+      "id": "rabies-829ba1c536",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A dog scratches your hand. What first aid should you do right away?",
+      "answer": "Wash the wound with water for at least 15 minutes, then use soap, and get the vaccine.",
+      "explanation": "Treatment works if not too late."
+    },
+    {
+      "id": "rabies-6f68a28eeb",
+      "type": "recall",
+      "difficulty": "hard",
+      "prompt": "Why is rabies undetectable in early stages?",
+      "answer": "The virus evades the immune system and is not present in body fluid tests until the fatal stage."
+    },
+    {
+      "id": "rabies-347215e30e",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Which is NOT an early symptom of rabies?",
+      "options": [
+        "Salivating",
+        "Fatigue",
+        "Fever",
+        "Broken bones"
+      ],
+      "correct": 3,
+      "answer": "Early symptoms include salivating, fatigue, fever and irritability."
+    }
+  ]
+}

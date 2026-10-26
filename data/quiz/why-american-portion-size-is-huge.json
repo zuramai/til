@@ -1,0 +1,46 @@
+{
+  "slug": "why-american-portion-size-is-huge",
+  "title": "Why American Portion Size Is Huge",
+  "url": "/why-american-portion-size-is-huge/",
+  "sourceHash": "a43acef640b299002bdf6f83f793662e9397dac65786bcbc7cd76eafabc060b7",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.163Z",
+  "cards": [
+    {
+      "id": "why-american-portion-size-is-huge-8b395a997d",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Name one reason American food portions are huge related to government policy.",
+      "answer": "The U.S. government heavily subsidizes and gives incentives to beef, grain, dairy and soy."
+    },
+    {
+      "id": "why-american-portion-size-is-huge-607e8fe4c1",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which cultural idea helps explain big portions?",
+      "options": [
+        "Food shows hospitality, love and care",
+        "Eating little is polite",
+        "Restaurants charge per bite",
+        "Food is rationed"
+      ],
+      "correct": 0,
+      "answer": "Giving food is a symbol of hospitality; a hungry guest reflects badly on the host."
+    },
+    {
+      "id": "why-american-portion-size-is-huge-af38197aa7",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You visit an American host and leave hungry. How might that be seen?",
+      "answer": "As a shortcoming of the hostess for not providing enough food."
+    },
+    {
+      "id": "why-american-portion-size-is-huge-ba5ef315a0",
+      "type": "riddle",
+      "difficulty": "medium",
+      "prompt": "Which 1930s economic hardship is historically linked to huge American portions?",
+      "answer": "The Great Depression."
+    }
+  ]
+}

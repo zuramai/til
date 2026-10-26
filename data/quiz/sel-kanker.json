@@ -1,0 +1,95 @@
+{
+  "slug": "sel-kanker",
+  "title": "Sel Kanker",
+  "url": "/sel-kanker/",
+  "sourceHash": "28a3548867dea114cb7a672d2b0766eaf4f894225760b29c71632fa7d870cc18",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.156Z",
+  "cards": [
+    {
+      "id": "sel-kanker-8c66a46de1",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Zat apa yang merusak DNA sel dan menyebabkan kanker?",
+      "answer": "Zat karsinogenik (karsinogen)."
+    },
+    {
+      "id": "sel-kanker-ee0fb80507",
+      "type": "odd_one_out",
+      "difficulty": "easy",
+      "prompt": "Mana yang BUKAN contoh karsinogen menurut daftar?",
+      "options": [
+        "Asbes",
+        "Merokok",
+        "Makanan gosong",
+        "Olahraga teratur"
+      ],
+      "correct": 3,
+      "answer": "Olahraga teratur bukan karsinogen; asbes, merokok, makanan gosong adalah contohnya."
+    },
+    {
+      "id": "sel-kanker-b2340fabb2",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Sel rusak yang sudah hopeless dapat bunuh diri lewat proses yang disebut ____.",
+      "answer": "apoptosis"
+    },
+    {
+      "id": "sel-kanker-4cd5e8452b",
+      "type": "sequence",
+      "difficulty": "medium",
+      "prompt": "Urutkan terbentuknya tumor.",
+      "items": [
+        "Sel sehat terganggu aktivitasnya",
+        "Sel rusak gagal apoptosis",
+        "Sel rusak berakumulasi",
+        "Terbentuk tumor"
+      ],
+      "answer": "Sel sehat terganggu, sel rusak gagal apoptosis, sel menumpuk lalu jadi tumor."
+    },
+    {
+      "id": "sel-kanker-66cf186e2a",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Apa yang membuat sel rusak berubah jadi tumor?",
+      "options": [
+        "Mereka tidak bisa apoptosis dan menumpuk",
+        "Mereka dimakan sel imun",
+        "Mereka berhenti membelah",
+        "Mereka berubah jadi sel darah"
+      ],
+      "correct": 0,
+      "answer": "Mereka tidak dapat apoptosis sehingga menumpuk."
+    },
+    {
+      "id": "sel-kanker-2245de05f8",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Semua sel kanker yang bergerak lewat pembuluh darah pasti berhasil bertahan hidup.",
+      "correct": false,
+      "answer": "Mitos: banyak yang diserang sistem imun dan tidak survive."
+    },
+    {
+      "id": "sel-kanker-878057c44e",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: kenapa sel yang rusak bisa jadi bahaya?",
+      "answer": "Biasanya sel rusak akan 'pamit' sendiri dan diganti sel baru. Kalau sel rusak tidak mau pamit, ia menumpuk jadi benjolan dan terus menyebar."
+    },
+    {
+      "id": "sel-kanker-f8a594f065",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Seorang perokok berat bertanya kenapa rokok bisa memicu kanker. Jelaskan singkat.",
+      "answer": "Rokok adalah karsinogen yang merusak DNA sel; jika sel rusak tak bisa apoptosis, ia menumpuk, bermutasi, dan bisa menjadi tumor."
+    },
+    {
+      "id": "sel-kanker-6d6d8d5e16",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Sebutkan tiga contoh penyakit/virus yang disebut karsinogen.",
+      "answer": "Herpes, HPV, Hepatitis."
+    }
+  ]
+}

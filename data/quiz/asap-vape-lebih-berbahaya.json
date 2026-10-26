@@ -1,0 +1,63 @@
+{
+  "slug": "asap-vape-lebih-berbahaya",
+  "title": "Asap Vape Lebih Berbahaya",
+  "url": "/asap-vape-lebih-berbahaya/",
+  "sourceHash": "c95fd733b26602212685dbde0dea6417d294f5323ecdb4a946fe44c9aa4dc876",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.121Z",
+  "cards": [
+    {
+      "id": "asap-vape-lebih-berbahaya-bbdb6f0df7",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "Vape itu pasti lebih aman daripada rokok karena tidak membakar apa pun.",
+      "correct": false,
+      "answer": "Vape tidak lebih aman: ia tetap menghasilkan zat kimia beracun dan mengandung nikotin yang adiktif."
+    },
+    {
+      "id": "asap-vape-lebih-berbahaya-9218e463cb",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "Zat apa dari rokok yang tidak dihasilkan vape, karena vape tidak melalui pembakaran?",
+      "options": [
+        "Nikotin",
+        "Karbon monoksida dan tar",
+        "Zat karsinogenik",
+        "Uap air"
+      ],
+      "correct": 1,
+      "answer": "Karbon monoksida dan tar, karena zat itu berasal dari pembakaran tembakau dan kertas."
+    },
+    {
+      "id": "asap-vape-lebih-berbahaya-6e78c8b410",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "Asap rokok berasal dari pembakaran tembakau dan kertas, sedangkan vape berasal dari pemanasan ____.",
+      "answer": "cairan",
+      "explanation": "Itu sebabnya uap vape terasa lebih nyaman dihirup."
+    },
+    {
+      "id": "asap-vape-lebih-berbahaya-c551a4731b",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: kenapa asap vape terasa lebih 'nyaman' dihirup daripada asap rokok?",
+      "answer": "Rokok dibuat dengan membakar tembakau dan kertas, jadi asapnya kasar. Vape hanya memanaskan cairan sampai jadi uap, jadi terasa lebih halus. Tapi lebih halus bukan berarti lebih sehat."
+    },
+    {
+      "id": "asap-vape-lebih-berbahaya-147ca2b552",
+      "type": "myth_or_fact",
+      "difficulty": "hard",
+      "prompt": "Riset jangka panjang sudah membuktikan bahwa vape pasti menyebabkan kanker.",
+      "correct": false,
+      "answer": "Belum ada riset jangka panjang karena vape masih baru, meski uapnya mengandung zat karsinogenik."
+    },
+    {
+      "id": "asap-vape-lebih-berbahaya-415c0fb98a",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Temanmu bilang, \"Aku pindah ke vape saja, kan tidak ada karbon monoksida, jadi aman.\" Bagaimana kamu menanggapi?",
+      "answer": "Karbon monoksida memang tidak ada, tapi vape tetap punya nikotin adiktif dan zat kimia beracun, termasuk yang karsinogenik. Jadi tidak bisa disebut aman."
+    }
+  ]
+}

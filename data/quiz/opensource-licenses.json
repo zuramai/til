@@ -1,0 +1,76 @@
+{
+  "slug": "opensource-licenses",
+  "title": "Opensource Licenses",
+  "url": "/opensource-licenses/",
+  "sourceHash": "3269e61dd48ea5d943b7ad6cb3f5014a33384c157cc0399dfccc643b93fd6641",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.152Z",
+  "cards": [
+    {
+      "id": "opensource-licenses-2ce46ad432",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Which license lets you do almost anything, even inside closed-source software, as long as you keep the copyright notice?",
+      "answer": "The MIT license."
+    },
+    {
+      "id": "opensource-licenses-1063feb2f2",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "Which license is a strong copyleft: using the code forces your whole project to be open source under the same license?",
+      "options": [
+        "GPLv2",
+        "MIT",
+        "BSD 3-Clause",
+        "Apache 2.0"
+      ],
+      "correct": 0,
+      "answer": "GPLv2 is strong copyleft; the entire project must be open source under the same license."
+    },
+    {
+      "id": "opensource-licenses-5343698fc6",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "Under the ____ license you gain a patent grant from contributors.",
+      "answer": "Apache 2.0"
+    },
+    {
+      "id": "opensource-licenses-1c240b5cf5",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You modify an LGPL library such as the one FFmpeg uses and ship your version. What does the license expect?",
+      "answer": "You may use it free, but you must publish your changes to the library.",
+      "explanation": "FFmpeg and 7zip are popular examples of LGPL projects."
+    },
+    {
+      "id": "opensource-licenses-05521f618b",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Under BSD 3-Clause you may advertise your product as \"Recommended by [project name]\".",
+      "correct": false,
+      "answer": "No. You cannot use the project name for endorsement, though attribution like Powered by is fine."
+    },
+    {
+      "id": "opensource-licenses-de5deb2d43",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Which license does NOT require your own project to be open sourced when used?",
+      "options": [
+        "GPLv2",
+        "MIT",
+        "Apache 2.0",
+        "BSD 3-Clause"
+      ],
+      "correct": 0,
+      "answer": "GPLv2 is strong copyleft, while the others are permissive."
+    },
+    {
+      "id": "opensource-licenses-db8bdf3b09",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You use Apache 2.0 software and then sue someone claiming a patent related to that software. What happens to your license?",
+      "answer": "Your license terminates automatically."
+    }
+  ]
+}

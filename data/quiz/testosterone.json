@@ -1,0 +1,84 @@
+{
+  "slug": "testosterone",
+  "title": "Testosterone",
+  "url": "/testosterone/",
+  "sourceHash": "d912741abd314a4bd925f0a9500d8f6bb4fa313d062f765e6f7b68346e2a983c",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.158Z",
+  "cards": [
+    {
+      "id": "testosterone-0d8b3ad012",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Which organs produce testosterone in males and in females?",
+      "answer": "Testicles in males and ovaries in females."
+    },
+    {
+      "id": "testosterone-7acfd32562",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "Which of these is NOT a typical effect of testosterone?",
+      "options": [
+        "Building muscle and bone",
+        "Deepening the voice",
+        "Lowering the basal metabolic rate",
+        "Boosting libido"
+      ],
+      "correct": 2,
+      "answer": "Lowering the basal metabolic rate; testosterone actually raises BMR."
+    },
+    {
+      "id": "testosterone-841b276ac5",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Women have no testosterone at all.",
+      "correct": false,
+      "answer": "Myth: women have it too, but only about 5% to 10% of the amount men have."
+    },
+    {
+      "id": "testosterone-79ed2eb5fe",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "Women produce only ____ of the testosterone level found in men.",
+      "answer": "5% to 10%"
+    },
+    {
+      "id": "testosterone-87c8e9809a",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Which is NOT a factor that influences testosterone production?",
+      "options": [
+        "Sleep",
+        "Exercise",
+        "Zinc",
+        "Hair length"
+      ],
+      "correct": 3,
+      "answer": "Hair length is not a listed factor; sleep, exercise and zinc all affect testosterone production."
+    },
+    {
+      "id": "testosterone-a2ae9eeecd",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A man feels constantly tired, irritable and gloomy, and has lost muscle mass. Which hormone might be low, and what lifestyle factors could help?",
+      "answer": "Low testosterone is linked to these symptoms. Better sleep, diet, exercise, less stress, and enough zinc and vitamin D can support production.",
+      "explanation": "Low T is also tied to erectile dysfunction and infertility."
+    },
+    {
+      "id": "testosterone-daf9d2dbf1",
+      "type": "myth_or_fact",
+      "difficulty": "hard",
+      "prompt": "Bodybuilders who abuse steroids to boost testosterone gain muscle with no health cost.",
+      "correct": false,
+      "answer": "Myth: steroid abuse can cause muscle growth but also harms fertility, the heart and the liver."
+    },
+    {
+      "id": "testosterone-21fb10f4a3",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Where does the word 'testosterone' come from?",
+      "answer": "From 'testicles' plus 'sterone', meaning steroid ketone."
+    }
+  ]
+}

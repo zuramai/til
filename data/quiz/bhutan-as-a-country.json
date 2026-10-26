@@ -1,0 +1,96 @@
+{
+  "slug": "bhutan-as-a-country",
+  "title": "Bhutan as a Country",
+  "url": "/bhutan-as-a-country/",
+  "sourceHash": "543cefb6b346e2f9cf69b57d1ba6a53129e7bb1fc1b80ed54aa4221e3b134a2c",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.124Z",
+  "cards": [
+    {
+      "id": "bhutan-as-a-country-f8877badae",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Between which two countries is Bhutan located?",
+      "answer": "China and India."
+    },
+    {
+      "id": "bhutan-as-a-country-2132691bb4",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "Bhutan is a country that is...",
+      "options": [
+        "Landlocked",
+        "An island",
+        "A peninsula",
+        "Coastal"
+      ],
+      "correct": 0,
+      "answer": "Bhutan is landlocked in the Himalayas."
+    },
+    {
+      "id": "bhutan-as-a-country-75ddddde02",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Why does Bhutan limit tourism?",
+      "options": [
+        "To preserve its culture and prevent over-tourism",
+        "Due to political isolation",
+        "Because of war",
+        "Due to bad weather"
+      ],
+      "correct": 0,
+      "answer": "To preserve culture, unlike North Korea which locks itself for political reasons."
+    },
+    {
+      "id": "bhutan-as-a-country-93168cf458",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Bhutan limits tourism for the same reason as North Korea.",
+      "correct": false,
+      "answer": "Bhutan limits tourists to avoid over-tourism, not due to political issues."
+    },
+    {
+      "id": "bhutan-as-a-country-c35e04c54e",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "Only 20-50 pilots are allowed to land at ____ airport in Bhutan.",
+      "answer": "Paro"
+    },
+    {
+      "id": "bhutan-as-a-country-6273bd817a",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why did Bhutan avoid becoming like Bali?",
+      "answer": "Bali got crowded with traffic and western bars when many tourists came. Bhutan limits visitors so its traditions and culture stay safe."
+    },
+    {
+      "id": "bhutan-as-a-country-7e3946549a",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Who must foreign visitors use to travel to Bhutan?",
+      "answer": "An authorized travel agent handling visa, entry fee, and guide fee."
+    },
+    {
+      "id": "bhutan-as-a-country-0acfa6c387",
+      "type": "mcq",
+      "difficulty": "hard",
+      "prompt": "Which place is mentioned as having the same over-tourism problem as Bali, near Bhutan?",
+      "options": [
+        "Nepal (Kathmandu)",
+        "Mongolia",
+        "Japan",
+        "Laos"
+      ],
+      "correct": 0,
+      "answer": "Kathmandu in Nepal is polluted and congested."
+    },
+    {
+      "id": "bhutan-as-a-country-d8565eadeb",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A friend wants to backpack Bhutan alone without arranging anything. What do you tell them?",
+      "answer": "Foreign visitors need a Bhutan authorized travel agent, who handles visa, entry fee, and guide fee."
+    }
+  ]
+}

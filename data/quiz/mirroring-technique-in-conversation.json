@@ -1,0 +1,40 @@
+{
+  "slug": "mirroring-technique-in-conversation",
+  "title": "Mirroring Technique in Conversation",
+  "url": "/mirroring-technique-in-conversation/",
+  "sourceHash": "f7cb618ea650b8001cd73d88f69a36d5d71abcfca692f5b5a01104e75b7a6cdd",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.149Z",
+  "cards": [
+    {
+      "id": "mirroring-technique-in-conversation-066703d7ca",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is the mirroring technique in conversation?",
+      "answer": "Matching another person's body language, words and tone to build trust and comfort."
+    },
+    {
+      "id": "mirroring-technique-in-conversation-37f42db3c7",
+      "type": "scenario",
+      "difficulty": "medium",
+      "prompt": "A friend says 'I've been so stressed at work lately.' How can you use mirroring to get them to open up?",
+      "answer": "Repeat the last three words as a question, e.g. 'Stressed at work?', which makes them feel heard and prompts elaboration."
+    },
+    {
+      "id": "mirroring-technique-in-conversation-416d506f0d",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "In mirroring, you repeat the last ____ words in a questioning tone.",
+      "answer": "three"
+    },
+    {
+      "id": "mirroring-technique-in-conversation-19711f7299",
+      "type": "myth_or_fact",
+      "difficulty": "hard",
+      "prompt": "Mirroring only involves copying someone's words, not their body language or tone.",
+      "correct": false,
+      "answer": "It matches body language, words and tone."
+    }
+  ]
+}

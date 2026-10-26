@@ -1,0 +1,95 @@
+{
+  "slug": "bitmask-operations-leetcode-s3120",
+  "title": "Bitmask Operations Leetcode S3120",
+  "url": "/bitmask-operations-leetcode-s3120/",
+  "sourceHash": "5e0e1401ae36d8aff389e6952d95da54b12c9c5ee676b598934f948ac515a437",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.124Z",
+  "cards": [
+    {
+      "id": "bitmask-operations-leetcode-s3120-c3445e948c",
+      "type": "mcq",
+      "difficulty": "easy",
+      "prompt": "What does `1 << 2` produce in binary?",
+      "options": [
+        "001",
+        "010",
+        "100",
+        "110"
+      ],
+      "correct": 2,
+      "answer": "100, the 1 shifted left twice."
+    },
+    {
+      "id": "bitmask-operations-leetcode-s3120-21fa2f7873",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "To get the letter index for byte b, the code uses (b - b'____).",
+      "answer": "a"
+    },
+    {
+      "id": "bitmask-operations-leetcode-s3120-d43bf9bb6d",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which operator combines bits so that a bit is 1 if either side has 1?",
+      "options": [
+        "Bitwise AND",
+        "Bitwise OR",
+        "Bitwise XOR",
+        "Bitwise NOT"
+      ],
+      "correct": 1,
+      "answer": "Bitwise OR sets the bit if either side has it."
+    },
+    {
+      "id": "bitmask-operations-leetcode-s3120-e72fd5c1c7",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: how can one number remember which letters you saw?",
+      "answer": "Give each letter its own switch (bit). When you see a letter, flip its switch on. The final number shows which switches are on."
+    },
+    {
+      "id": "bitmask-operations-leetcode-s3120-efe0c04070",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "What does `lower & upper` give?",
+      "options": [
+        "Letters present in either case",
+        "Letters present in both cases",
+        "Letters missing",
+        "Total letters"
+      ],
+      "correct": 1,
+      "answer": "Only the bits set in both: letters appearing in lowercase and uppercase."
+    },
+    {
+      "id": "bitmask-operations-leetcode-s3120-99887b75e0",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "What does .count_ones() do in the final line?",
+      "answer": "Counts the 1 bits, i.e., the number of letters appearing in both cases."
+    },
+    {
+      "id": "bitmask-operations-leetcode-s3120-47c37f67f5",
+      "type": "recall",
+      "difficulty": "hard",
+      "prompt": "With lower = 101 and upper = 011, what is lower & upper?",
+      "answer": "001, only letter a."
+    },
+    {
+      "id": "bitmask-operations-leetcode-s3120-d588fd7dfd",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Why convert the string to bytes?",
+      "answer": "Only the ASCII representation is needed."
+    },
+    {
+      "id": "bitmask-operations-leetcode-s3120-4102e678c4",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "For letter c (ASCII 99) and a (97), what bit position is set for c?",
+      "answer": "Bit 2 because 99 - 97 = 2, so 1 << 2 = 100."
+    }
+  ]
+}

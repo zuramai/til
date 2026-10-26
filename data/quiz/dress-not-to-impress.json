@@ -1,0 +1,102 @@
+{
+  "slug": "dress-not-to-impress",
+  "title": "\"I dress for myself, not to impress\" is a bullshit",
+  "url": "/dress-not-to-impress/",
+  "sourceHash": "e6863214ed9ab5fb49c6dd008f155d3c3e695b9f5bc53ffcc5925a0289ecfd5e",
+  "promptVersion": 1,
+  "model": "agent-authored",
+  "generatedAt": "2026-10-26T23:26:53.132Z",
+  "cards": [
+    {
+      "id": "dress-not-to-impress-069dd14c0f",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Apa itu enclothed cognition?",
+      "answer": "Ketika pakaian yang kita kenakan mempengaruhi pikiran dan perilaku kita sendiri."
+    },
+    {
+      "id": "dress-not-to-impress-2154c16e17",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "Kecenderungan menyesuaikan diri dengan ekspektasi kelompok agar diterima disebut normative social ____.",
+      "answer": "influence"
+    },
+    {
+      "id": "dress-not-to-impress-cb04af03cb",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Apa yang diukur oleh Fear of Negative Evaluation (FNE)?",
+      "options": [
+        "Seberapa kaya seseorang",
+        "Seberapa cemas kita terhadap penilaian buruk orang lain",
+        "Seberapa tinggi IQ seseorang",
+        "Seberapa sering berbelanja"
+      ],
+      "correct": 1,
+      "answer": "Seberapa cemas kita terhadap penilaian buruk orang lain."
+    },
+    {
+      "id": "dress-not-to-impress-ff370ca99d",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Berapa korelasi antara social desirability dan FNE pada studi anak muda tersebut?",
+      "answer": "r = 0.95, sangat tinggi."
+    },
+    {
+      "id": "dress-not-to-impress-e80168195a",
+      "type": "mcq",
+      "difficulty": "hard",
+      "prompt": "Dalam riset 2024, mengapa wajah yang diberi beauty filter dinilai lebih terpercaya dan cerdas?",
+      "options": [
+        "Orangnya berbeda",
+        "Bias psikologis terhadap wajah atraktif",
+        "Filter mengubah kepribadian",
+        "Peserta tahu itu orang yang sama"
+      ],
+      "correct": 1,
+      "answer": "Karena bias psikologis: wajah atraktif dianggap lebih jujur dan kompeten, padahal orangnya sama."
+    },
+    {
+      "id": "dress-not-to-impress-f1774f0cf0",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: kenapa memakai jas dokter bisa membuat orang lebih teliti?",
+      "answer": "Otak mengaitkan pakaian dengan peran, jadi jas dokter membuat kita merasa seperti dokter yang hati-hati. Itu mempengaruhi cara kita berpikir dan bekerja."
+    },
+    {
+      "id": "dress-not-to-impress-af8c340655",
+      "type": "myth_or_fact",
+      "difficulty": "hard",
+      "prompt": "Dalam studi Galinsky 2012, grup yang memakai jas dokter punya attention lebih panjang dan lebih sedikit kesalahan daripada grup berjas pelukis.",
+      "correct": true,
+      "answer": "Fakta: ini menunjukkan efek feedback loop pakaian terhadap pikiran."
+    },
+    {
+      "id": "dress-not-to-impress-b91fc77957",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Temanmu bilang 'aku dandan cuma buat diri sendiri, bukan orang lain'. Menurut tulisan ini, bagaimana sanggahannya?",
+      "answer": "Penampilan dipengaruhi konformitas dan FNE; orang good-looking dihargai lebih, jadi kita berpakaian juga untuk menghindari evaluasi negatif dan dipercaya orang lain."
+    },
+    {
+      "id": "dress-not-to-impress-325dd09cc8",
+      "type": "sequence",
+      "difficulty": "hard",
+      "prompt": "Urutkan alur logika: kenapa 'dress for myself' dianggap bullshit.",
+      "items": [
+        "Manusia berkonformitas untuk bertahan hidup",
+        "Muncul Fear of Negative Evaluation",
+        "Orang good-looking dinilai lebih terpercaya",
+        "Berpakaian baik jadi cara mudah dianggap terpercaya"
+      ],
+      "answer": "Konformitas, ketakutan dinilai negatif, good-looking lebih dihargai, sehingga berpakaian untuk orang lain."
+    },
+    {
+      "id": "dress-not-to-impress-c8a4d9b1f3",
+      "type": "riddle",
+      "difficulty": "easy",
+      "prompt": "Kacamata = fokus, celemek = kreatif, jas = profesional. Aku kemampuan otak yang mengaitkan benda dengan tanda sesuatu berjalan. Apa aku?",
+      "answer": "Associative memory"
+    }
+  ]
+}
