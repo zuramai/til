@@ -1,0 +1,99 @@
+{
+  "slug": "how-to-gain-weight",
+  "title": "How to Gain Weight",
+  "url": "/how-to-gain-weight/",
+  "sourceHash": "89877754482b5d6f13c175e0aa11632f437e2ed47ce8ca0b97d548e6b570ea53",
+  "promptVersion": 1,
+  "model": "deepseek/deepseek-v4.1-flash-1017",
+  "generatedAt": "2026-10-27T15:11:24.003Z",
+  "cards": [
+    {
+      "id": "how-to-gain-weight-a1fa7529cd",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "To gain weight, what must be true about calorie intake compared with calorie expenditure?",
+      "answer": "Intake must be higher than expenditure—a calorie surplus.",
+      "explanation": "A surplus over time is the basic requirement for weight gain."
+    },
+    {
+      "id": "how-to-gain-weight-b7c00b4b3e",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which person is likely to burn the most calories at rest?",
+      "options": [
+        "A taller, heavier person with more lean mass",
+        "A shorter, lighter person with less lean mass",
+        "A person the same size with less muscle",
+        "Everyone burns the same at rest"
+      ],
+      "correct": 0,
+      "answer": "A taller, heavier person with more lean mass—body size and lean mass raise resting burn.",
+      "explanation": "Resting calorie needs vary with body composition and size."
+    },
+    {
+      "id": "how-to-gain-weight-b83a785410",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "BMR, or ____, measures how many calories the body burns while at rest.",
+      "answer": "Basal Metabolic Rate",
+      "explanation": "BMR is the resting-energy baseline."
+    },
+    {
+      "id": "how-to-gain-weight-8c036b9b3a",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "What does NEAT cover, and what is its full name?",
+      "answer": "Non-exercise Activity Thermogenesis: energy used for all activity except sleeping, eating, and exercise—everyday movement.",
+      "explanation": "NEAT is the calories burned by daily movement, not formal workouts."
+    },
+    {
+      "id": "how-to-gain-weight-51ccc7e1e2",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "A dedicated workout usually burns more calories than all the everyday movement you do outside exercise.",
+      "correct": false,
+      "answer": "False—NEAT, the everyday movement outside exercise, tends to burn more than a workout.",
+      "explanation": "Daily non-exercise movement can add up to a large calorie burn."
+    },
+    {
+      "id": "how-to-gain-weight-dfeb126b20",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Which factors can affect how much energy digestion uses?",
+      "answer": "Sleep, stress, hormones, and how efficiently food is digested.",
+      "explanation": "Digestion cost is not fixed; these factors can shift it."
+    },
+    {
+      "id": "how-to-gain-weight-3b82b1f6e4",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Average BMR is about ____ kcal per day.",
+      "answer": "1500",
+      "explanation": "This is a rough resting baseline before activity is added."
+    },
+    {
+      "id": "how-to-gain-weight-cbc84e70dc",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Maya lifts several times a week and is fairly active. She eats about 3000 kcal one day and assumes that guarantees weight gain. What is the flaw?",
+      "answer": "For her, 3000 kcal may only match maintenance needs (roughly 2600–3000), so it may not be a surplus.",
+      "explanation": "A high-sounding calorie number only causes gain if it exceeds total daily expenditure."
+    },
+    {
+      "id": "how-to-gain-weight-18971e26a1",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Leo eats a big surplus on Monday, then unknowingly eats much less on Tuesday and Wednesday. Why might he not gain weight?",
+      "answer": "The later low-intake days can cancel Monday's surplus; consistency is what matters.",
+      "explanation": "Unnoticed compensation can erase a short-term surplus."
+    },
+    {
+      "id": "how-to-gain-weight-a43bbfc567",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain simply why a thin person might think they eat a lot yet still not gain weight.",
+      "answer": "They may overestimate how much they eat, and without noticing they may eat less on other days or burn extra calories through daily movement, cancelling a surplus.",
+      "explanation": "Both intake misjudgment and compensation can hide why weight stays stable."
+    }
+  ]
+}
