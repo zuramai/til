@@ -1,0 +1,97 @@
+{
+  "slug": "solomons-paradox",
+  "title": "Solomon's Paradox",
+  "url": "/solomons-paradox/",
+  "sourceHash": "be7bd3c1fc3a84c2658e891a51b9df9386e63cd1448fc45e5d725e77d5d911ca",
+  "promptVersion": 1,
+  "model": "deepseek/deepseek-v4.1-flash-1017",
+  "generatedAt": "2026-10-28T13:22:27.712Z",
+  "cards": [
+    {
+      "id": "solomons-paradox-e8bf096973",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Apa inti dari Solomon's Paradox?",
+      "answer": "Seseorang bisa bijak saat menasihati masalah orang lain, tetapi kehilangan kebijaksanaan itu saat menghadapi masalahnya sendiri.",
+      "explanation": "Kebijaksanaan untuk orang lain belum tentu otomatis dipakai untuk diri sendiri."
+    },
+    {
+      "id": "solomons-paradox-34a5dedf4d",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "Self-distancing berarti menarik diri dari ____ agar dapat melihat masalah seperti seorang observer.",
+      "answer": "perasaan yang melekat pada diri",
+      "explanation": "Dengan menjauh dari keterikatan emosi, kita bisa memakai sudut pandang yang berbeda."
+    },
+    {
+      "id": "solomons-paradox-834629215f",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Bias kognitif yang paling spesifik disebut sebagai penyebab Solomon's Paradox adalah...",
+      "options": [
+        "Egocentric bias",
+        "Confirmation bias",
+        "Hindsight bias",
+        "Anchoring bias"
+      ],
+      "correct": 0,
+      "answer": "Egocentric bias, yaitu terlalu mengandalkan sudut pandang diri sendiri.",
+      "explanation": "Dalam penjelasan ini, egocentric bias juga mencakup melebih-lebihkan peran pribadi dan menganggap orang lain berpikiran sama."
+    },
+    {
+      "id": "solomons-paradox-d39e1ca2c4",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Sebutkan tiga ciri egocentric bias yang disebut dalam penjelasan Solomon's Paradox.",
+      "answer": "Terlalu mengandalkan POV sendiri, melebih-lebihkan peran pribadi, dan menganggap orang lain memiliki pemikiran yang sama.",
+      "explanation": "Karena itu, pemikiran yang sudah terbawa perasaan bisa terasa lebih valid."
+    },
+    {
+      "id": "solomons-paradox-66c6d6140b",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "SOLOMON'S PARADOX BERARTI SESEORANG SAMA SEKALI TIDAK MEMILIKI KEBIJAKSANAAN.",
+      "correct": false,
+      "answer": "Mitos. Orang tersebut bisa bijak saat menasihati orang lain, tetapi tidak memakai kebijaksanaan itu untuk masalahnya sendiri."
+    },
+    {
+      "id": "solomons-paradox-94485903cd",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Rina sangat jernih menasihati temannya yang galau memilih karier, tetapi saat menghadapi pilihan yang sama ia bingung dan emosional. Konsep apa yang paling menjelaskan ini, dan mengapa?",
+      "answer": "Solomon's Paradox. Saat masalahnya sendiri, ia gagal melakukan self-distancing sehingga sudut pandang observer dan kebijaksanaannya hilang.",
+      "explanation": "Kedekatan emosional dengan situasi membuatnya sulit melihat masalah secara lebih objektif."
+    },
+    {
+      "id": "solomons-paradox-d5e51c1275",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Jelaskan seperti ke anak 10 tahun: mengapa orang bisa pintar memberi solusi untuk masalah orang lain tetapi bingung saat kena masalah sendiri?",
+      "answer": "Karena saat masalah itu milik sendiri, perasaan dan kedekatan dengan situasi membuat kita melihat terlalu banyak detail dan sulit melihat gambaran besar. Kalau untuk orang lain, kita bisa menjauh sedikit dan melihat seperti penonton.",
+      "explanation": "Ini menggabungkan ide self-distancing dan psychological proximity."
+    },
+    {
+      "id": "solomons-paradox-e38be1f9ac",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Manakah yang BUKAN bagian dari egocentric bias seperti dijelaskan dalam Solomon's Paradox?",
+      "options": [
+        "Terlalu mengandalkan sudut pandang sendiri",
+        "Melebih-lebihkan peran pribadi",
+        "Menganggap orang lain berpikiran sama",
+        "Fokus pada gambaran besar daripada detail"
+      ],
+      "correct": 3,
+      "answer": "Fokus pada gambaran besar bukan ciri egocentric bias. Egocentric bias berkaitan dengan sudut pandang diri sendiri, sedangkan fokus pada detail muncul saat psychological proximity tinggi.",
+      "explanation": "Kedekatan emosional atau personal dengan situasi membuat orang cenderung terlalu detail, bukan melihat garis besar."
+    },
+    {
+      "id": "solomons-paradox-4dc68fe1af",
+      "type": "riddle",
+      "difficulty": "medium",
+      "prompt": "Aku membuat orang yang terlalu dekat secara emosional dengan masalah justru sibuk melihat detail dan lupa garis besar. Siapa aku?",
+      "answer": "Psychological proximity atau kedekatan psikologis.",
+      "explanation": "Semakin dekat seseorang dengan situasi secara emosional atau personal, semakin besar kecenderungan ini."
+    }
+  ]
+}
