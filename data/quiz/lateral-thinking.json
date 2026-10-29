@@ -1,0 +1,82 @@
+{
+  "slug": "lateral-thinking",
+  "title": "Lateral Thinking",
+  "url": "/lateral-thinking/",
+  "sourceHash": "59df3013efdbb4d0e26d3696288801e9373bd7939cb9a4020367336cc55aca17",
+  "promptVersion": 1,
+  "model": "deepseek/deepseek-v4.1-flash-1017",
+  "generatedAt": "2026-10-29T15:05:20.307Z",
+  "cards": [
+    {
+      "id": "lateral-thinking-9b98788bd9",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Apa inti dari lateral thinking?",
+      "answer": "Pendekatan memecahkan masalah secara tidak langsung atau kreatif, dengan melihat masalah dari berbagai sudut pandang dan asumsi alternatif.",
+      "explanation": "Fokusnya bukan hanya satu jalur logis lurus, tetapi membuka kemungkinan dari perspektif lain."
+    },
+    {
+      "id": "lateral-thinking-31cd15c749",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "Pada kasus lift yang dikeluhkan lambat, solusi yang dipakai adalah memasang ____ di setiap sisi bagian dalam lift.",
+      "answer": "cermin",
+      "explanation": "Cermin membuat penumpang sibuk dengan penampilan mereka, sehingga rasa menunggu berubah."
+    },
+    {
+      "id": "lateral-thinking-6c9f45f66b",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Jelaskan dengan sederhana: kenapa cermin bisa mengurangi keluhan soal lift lambat?",
+      "answer": "Karena masalahnya bukan cuma lama menunggu, tapi bosan saat menunggu. Cermin memberi kegiatan lain sambil menunggu, jadi keluhan berkurang.",
+      "explanation": "Ini contoh mengubah sudut pandang akar masalah, bukan sekadar mempercepat lift."
+    },
+    {
+      "id": "lateral-thinking-7cf34c2aab",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Dalam contoh lift, bagaimana akar masalahnya digeser lewat lateral thinking?",
+      "options": [
+        "Dari 'lift terlalu lambat' menjadi 'lift terlalu kecil'",
+        "Dari 'menunggu lama' menjadi 'menunggu bosan'",
+        "Dari 'cermin kurang' menjadi 'lampu kurang'",
+        "Dari 'customer rewel' menjadi 'gedung salah desain'"
+      ],
+      "correct": 1,
+      "answer": "Dari 'menunggu lama' menjadi 'menunggu bosan', sehingga solusinya bisa berupa cermin, bukan hanya mempercepat lift.",
+      "explanation": "Lateral thinking mencari framing masalah yang berbeda agar solusi kreatif muncul."
+    },
+    {
+      "id": "lateral-thinking-99328a74a9",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Temanmu bilang aplikasinya lambat karena loading terlalu lama, lalu ingin hanya menambah kecepatan server. Bagaimana sudut pandang lateral thinking bisa membantunya?",
+      "answer": "Jangan berhenti pada asumsi 'durasi loading terlalu lama'; pertimbangkan bahwa pengguna mungkin bosan menunggu. Solusi bisa mengubah pengalaman menunggu, seperti memberi progres atau hiburan, bukan cuma menambah kecepatan.",
+      "explanation": "Prinsipnya sama seperti cermin di lift: ubah akar masalah dari lama menjadi bosan."
+    },
+    {
+      "id": "lateral-thinking-c2369c77c5",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Klaim: Lateral thinking berarti selalu memilih jalur solusi paling langsung dan paling standar.",
+      "correct": false,
+      "answer": "Mitos. Lateral thinking justru memakai pendekatan tidak langsung atau kreatif dan mempertimbangkan berbagai sudut pandang.",
+      "explanation": "Kadang solusi terbaik tidak datang dari jalur logis yang paling lurus."
+    },
+    {
+      "id": "lateral-thinking-a25a3afd4e",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Manakah yang BUKAN ciri lateral thinking?",
+      "options": [
+        "Melihat masalah dari berbagai POV",
+        "Membuat asumsi dari sudut pandang berbeda",
+        "Memakai cara berpikir tidak langsung atau kreatif",
+        "Selalu mengikuti satu prosedur standar tanpa alternatif"
+      ],
+      "correct": 3,
+      "answer": "Selalu mengikuti satu prosedur standar tanpa alternatif, karena lateral thinking justru membuka perspektif dan pendekatan lain.",
+      "explanation": "Lateral thinking menantang asumsi awal, bukan mengunci diri pada satu prosedur."
+    }
+  ]
+}
