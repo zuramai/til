@@ -1,0 +1,11 @@
+{
+  "slug": "hybrid-search",
+  "title": "Hybrid Search",
+  "url": "/hybrid-search/",
+  "sourceHash": "b2b174db71a7b1e4c4264ee2dc654430cfc1773ff420f4a64eb097792883b65e",
+  "promptVersion": 1,
+  "model": "deepseek/deepseek-v4.1-flash-1017",
+  "generatedAt": "2026-10-31T13:59:14.681Z",
+  "skipReason": "too-short",
+  "cards": []
+}
