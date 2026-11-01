@@ -1,0 +1,11 @@
+{
+  "slug": "simple-recommendation-system",
+  "title": "Simple Recommendation System",
+  "url": "/simple-recommendation-system/",
+  "sourceHash": "d566689e45fc7220c8ea8126ef2dda2359abc193d50fadb0f468954ab14422dd",
+  "promptVersion": 1,
+  "model": "deepseek/deepseek-v4.1-flash-1017",
+  "generatedAt": "2026-11-01T16:01:48.280Z",
+  "skipReason": "too-short",
+  "cards": []
+}
