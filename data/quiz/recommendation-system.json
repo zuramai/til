@@ -1,0 +1,10 @@
+{
+  "slug": "recommendation-system",
+  "title": "Recommendation System",
+  "url": "/recommendation-system/",
+  "sourceHash": "7e79c8b3d985a198419ee9ad040c1da7792f401a5c8510a45564d476a3ee7dc1",
+  "promptVersion": 1,
+  "model": "deepseek/deepseek-v4.1-flash-1017",
+  "generatedAt": "2026-11-02T16:38:41.181Z",
+  "cards": []
+}
