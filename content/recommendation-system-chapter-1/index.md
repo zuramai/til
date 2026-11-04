@@ -1,12 +1,12 @@
 ---
 title: "Recommendation System Chapter 1"
 date: 2026-11-03T22:20:58+07:00
-draft: true
+draft: false
 tags:
-  - Language
+  - Tech
 
 # Author
-language: de
+language: en
 ---
 
 ![1](1.png)
