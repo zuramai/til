@@ -1,0 +1,11 @@
+{
+  "slug": "recommendation-system-chapter-2",
+  "title": "Recommendation System Chapter 2",
+  "url": "/recommendation-system-chapter-2/",
+  "sourceHash": "c89805955a0f5c1716d4934e5a55edb2299f3974c9a1422af8fcdbf4e3f53b0f",
+  "promptVersion": 1,
+  "model": "deepseek/deepseek-v4.1-flash-1017",
+  "generatedAt": "2026-11-05T15:48:46.181Z",
+  "skipReason": "too-short",
+  "cards": []
+}
