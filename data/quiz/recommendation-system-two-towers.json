@@ -1,0 +1,11 @@
+{
+  "slug": "recommendation-system-two-towers",
+  "title": "Recommendation System: Two Towers",
+  "url": "/recommendation-system-two-towers/",
+  "sourceHash": "b58bfffdadf8f16f20e22015890fe7b5f87c1db2ffd614b0fcf716c0a22f6f67",
+  "promptVersion": 1,
+  "model": "deepseek/deepseek-v4.1-flash-1017",
+  "generatedAt": "2026-11-06T16:15:06.453Z",
+  "skipReason": "too-short",
+  "cards": []
+}
