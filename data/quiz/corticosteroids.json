@@ -1,0 +1,93 @@
+{
+  "slug": "corticosteroids",
+  "title": "Corticosteroids",
+  "url": "/corticosteroids/",
+  "sourceHash": "733f8610f2a6ad91e89f9006163e1fbc2bbbdecb10bcd72435b5122be6ecc2f6",
+  "promptVersion": 1,
+  "model": "deepseek/deepseek-v4.1-flash-1017",
+  "generatedAt": "2026-11-11T15:08:49.957Z",
+  "cards": [
+    {
+      "id": "corticosteroids-4714609785",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "A corticosteroid belongs to which broad category of medicine, and what is its signature effect on the body?",
+      "answer": "It is a synthetic steroid medication, and its signature effect is reducing inflammation.",
+      "explanation": "Because it calms inflammation fast, it gets used across many very different conditions."
+    },
+    {
+      "id": "corticosteroids-ce6f028a79",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "A pharmacy shelf lists four drugs. Which one is NOT one of the common corticosteroids (Prednisone, Cortisone, Hydrocortisone, Methylprednisone)?",
+      "options": [
+        "Prednisone",
+        "Hydrocortisone",
+        "Ibuprofen",
+        "Methylprednisone"
+      ],
+      "correct": 2,
+      "answer": "Ibuprofen — it is not a corticosteroid; the four common corticosteroids are prednisone, cortisone, hydrocortisone and methylprednisone."
+    },
+    {
+      "id": "corticosteroids-cc4268bf1f",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Among anti-inflammatory options, corticosteroids are described as the ____ way to bring inflammation down.",
+      "answer": "fastest"
+    },
+    {
+      "id": "corticosteroids-a8b4175935",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Claim: The side effects of corticosteroids are the same whether you take them for a few days or for months.",
+      "correct": false,
+      "answer": "Myth — side effects increase the longer the medication is taken.",
+      "explanation": "This is why doctors often aim for the shortest course that still works."
+    },
+    {
+      "id": "corticosteroids-44f601ff84",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Besides inflammatory conditions like lupus, asthma and eczema, what kind of problem can corticosteroids also be used for?",
+      "answer": "An injury (for example, treating it with a steroid)."
+    },
+    {
+      "id": "corticosteroids-000cb85d8c",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Three of these are known side effects of corticosteroids. Which one does not belong?",
+      "options": [
+        "Increased appetite",
+        "Muscle weakness",
+        "Weight gain",
+        "Sharper eyesight"
+      ],
+      "correct": 3,
+      "answer": "Sharper eyesight — the listed side effects are increased appetite, muscle weakness, skin changes and weight gain."
+    },
+    {
+      "id": "corticosteroids-f39955a818",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Your friend sprains an ankle and the doctor offers a cortisone shot straight into the painful joint. How does this fit with what corticosteroids are, and why inject instead of a pill?",
+      "answer": "A cortisone shot is simply a corticosteroid given as an injection, which lets the drug act directly on the inflamed spot rather than affecting the whole body.",
+      "explanation": "It is the same fast anti-inflammatory effect, just delivered to the target area."
+    },
+    {
+      "id": "corticosteroids-7997c2f0ee",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why does a doctor get more careful about side effects when someone has been on corticosteroids for months instead of days?",
+      "answer": "Corticosteroids are strong inflammation fighters, but the longer they stay in your body, the more the unwanted effects pile up — bigger appetite, weaker muscles, skin changes and weight gain. So a short course is usually gentler than a long one.",
+      "explanation": "Side-effect risk scales with duration of use, not just dose."
+    },
+    {
+      "id": "corticosteroids-22739d8847",
+      "type": "riddle",
+      "difficulty": "medium",
+      "prompt": "I'm a synthetic steroid. I might come as a pill or as a shot aimed right at a sore joint, and my talent is cooling inflammation faster than anything else. What am I?",
+      "answer": "A corticosteroid."
+    }
+  ]
+}
