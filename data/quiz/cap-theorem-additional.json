@@ -1,0 +1,64 @@
+{
+  "slug": "cap-theorem-additional",
+  "title": "CAP Theorem Additional",
+  "url": "/cap-theorem-additional/",
+  "sourceHash": "07129f6a3f7ff002fd10cecfbfdb8d4e6275f4df4ef086eb95cf95773a1626cd",
+  "promptVersion": 1,
+  "model": "deepseek/deepseek-v4.1-flash-1017",
+  "generatedAt": "2026-11-12T16:23:47.225Z",
+  "cards": [
+    {
+      "id": "cap-theorem-additional-7a125ed1e5",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Why is CA practically never on the table when designing a distributed system?",
+      "answer": "Because a network partition is a fault, not something you design away. Since you can't assume the network stays intact 100% of the time, partition tolerance is non-negotiable — leaving only CP or AP."
+    },
+    {
+      "id": "cap-theorem-additional-2047881ab6",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "Under CAP, partition tolerance is not a design decision but a ____ that will eventually occur in any real network.",
+      "answer": "fault",
+      "explanation": "Reframing partitions as faults is what collapses the 'three choose two' story into a simple CP-versus-AP decision."
+    },
+    {
+      "id": "cap-theorem-additional-60dfbb4266",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Nodes A and B both store x = 1. User A writes x = 2 on node A. User B then reads x from node B and receives 1. What did the system just demonstrate?",
+      "options": [
+        "It chose availability over consistency by serving a stale value",
+        "It chose consistency over availability by returning the latest value",
+        "It achieved CA by avoiding the partition entirely",
+        "It lost the write, since node B never received x = 2"
+      ],
+      "correct": 0,
+      "answer": "Availability won: node B answered immediately with the old value instead of coordinating to return the fresh one.",
+      "explanation": "Any answer is a trade-off — stale-and-fast means AP, fresh-but-maybe-blocking means CP."
+    },
+    {
+      "id": "cap-theorem-additional-63ff519814",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Your teammate suggests answering reads with the newly written value even if node B must wait for cross-node coordination before replying. Which side of the CAP trade-off is the system taking, and what does it risk?",
+      "answer": "That's the CP path: consistency is preserved by coordinating, but if a node can't reach its peer the read may stall or fail, so availability takes the hit.",
+      "explanation": "The same read returning 1 instead of 2 would be the AP answer — fast, but possibly stale."
+    },
+    {
+      "id": "cap-theorem-additional-2fe6ba4e25",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why is 'pick two out of three' a misleading way to describe CAP?",
+      "answer": "One of the three — partition tolerance — isn't something you get to pick, because networks break on their own, like a phone line going dead mid-call. You can't promise the line will never fail, so you must design as if it will. That leaves only the real choice: when the line does break, do you keep answering (AP) or keep everyone seeing the same data (CP)?"
+    },
+    {
+      "id": "cap-theorem-additional-857a62e3c2",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "In the two-node example where x is updated to 2 on node A: what does it mean if node B answers a read with 2, and what does it mean if it answers with 1?",
+      "answer": "Returning 2 means the system stayed consistent; returning 1 means it stayed available. Either way the design has picked its side of the CP/AP trade-off.",
+      "explanation": "The post's point is that 'which is right?' has no universal answer — it depends on what the application needs."
+    }
+  ]
+}
