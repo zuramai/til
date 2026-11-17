@@ -1,0 +1,128 @@
+{
+  "slug": "androgens",
+  "title": "Androgens",
+  "url": "/androgens/",
+  "sourceHash": "b9a47e82b38e455ebdb86fc4e66b086b06089ae01b03a6febbd73cae496c38ce",
+  "promptVersion": 1,
+  "model": "deepseek/deepseek-v4.1-flash-1017",
+  "generatedAt": "2026-11-17T23:00:07.851Z",
+  "cards": [
+    {
+      "id": "androgens-45f6c62557",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Androgens are a group of which type of hormone, and what broad job do they support in males?",
+      "answer": "Steroid hormones; they help maintain male physical health.",
+      "explanation": "They are a category of hormones, not a single hormone."
+    },
+    {
+      "id": "androgens-b4932d20cb",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Where is testosterone made in males, in females, and in everyone?",
+      "answer": "Mostly in male testicles; in female ovaries; and in the adrenal glands of all people.",
+      "explanation": "The adrenal glands provide testosterone in everyone."
+    },
+    {
+      "id": "androgens-c0a289e5ff",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "In the first acne step, androgens stimulate ____, the main oil-producing cells, to produce excess sebum.",
+      "answer": "sebocytes",
+      "explanation": "Sebocytes are the main oil-producing cells of the skin."
+    },
+    {
+      "id": "androgens-85219b4497",
+      "type": "riddle",
+      "difficulty": "medium",
+      "prompt": "I am the stronger androgen made from testosterone; I help shape male external genitalia and facial hair. Who am I?",
+      "answer": "Dihydrotestosterone (DHT).",
+      "explanation": "DHT is a converted, stronger form of testosterone."
+    },
+    {
+      "id": "androgens-638fe46b93",
+      "type": "sequence",
+      "difficulty": "medium",
+      "prompt": "Order the four androgen-linked acne stages from start to finish.",
+      "items": [
+        "Sebum overproduction",
+        "Follicular hyperkeratinization",
+        "Bacterial proliferation",
+        "Inflammation"
+      ],
+      "answer": "Sebum overproduction → follicular hyperkeratinization → bacterial proliferation → inflammation.",
+      "explanation": "Androgens set off excess oil, then plugging, then C. acnes growth, then immune inflammation."
+    },
+    {
+      "id": "androgens-367fe0a4e9",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "What happens during follicular hyperkeratinization in androgen-related acne?",
+      "options": [
+        "Keratinocytes stick together and form a microcomedone instead of shedding.",
+        "Sebocytes shrink and stop making oil.",
+        "C. acnes are killed by white blood cells.",
+        "Testosterone is converted into DHT in the follicle."
+      ],
+      "correct": 0,
+      "answer": "Keratinocytes stick together instead of sloughing off, creating a microcomedone.",
+      "explanation": "This plug is the second step after excess sebum."
+    },
+    {
+      "id": "androgens-fe427b1192",
+      "type": "odd_one_out",
+      "difficulty": "hard",
+      "prompt": "Which item is NOT part of the androgen-driven acne sequence described?",
+      "options": [
+        "Sebum overproduction",
+        "Follicular hyperkeratinization",
+        "Bacterial proliferation",
+        "DHT converting back into testosterone"
+      ],
+      "correct": 3,
+      "answer": "DHT converting back into testosterone is not an acne step; DHT is made from testosterone, not the reverse.",
+      "explanation": "The pathway is oil excess, plugging, C. acnes growth, then inflammation."
+    },
+    {
+      "id": "androgens-3092b0329f",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "DHT is a weaker androgen than testosterone.",
+      "correct": false,
+      "answer": "False: DHT is a stronger androgen converted from testosterone.",
+      "explanation": "It drives male external genitalia and facial hair growth."
+    },
+    {
+      "id": "androgens-7639d70a5b",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A friend says acne is only about dirt and that hormones like testosterone have nothing to do with it. Using this post, what correction would you give?",
+      "answer": "Androgens, especially testosterone, can drive acne: they boost sebum, cause follicle plugging, feed C. acnes, and trigger inflammation.",
+      "explanation": "The post calls androgens the main culprit, not just surface dirt."
+    },
+    {
+      "id": "androgens-a16ce892de",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: How can an androgen like testosterone end up causing a pimple?",
+      "answer": "It tells oil cells to make extra oil. That oil helps plug the follicle and feeds C. acnes bacteria, and the immune response makes the red, swollen pimple.",
+      "explanation": "The four steps are extra sebum, plugged follicle, bacterial growth, and inflammation."
+    },
+    {
+      "id": "androgens-874d3d3e69",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What does C. acnes do once excess sebum is trapped behind a follicle plug?",
+      "answer": "It multiplies rapidly because the trapped sebum provides a rich nutrient environment.",
+      "explanation": "That bacterial overgrowth then triggers the immune response."
+    },
+    {
+      "id": "androgens-6ea34f1e5d",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "In the last acne step, the immune system sends ____ to the affected follicle, leading to inflammatory pustules, papules, nodules, and cysts.",
+      "answer": "white blood cells",
+      "explanation": "This immune reaction is what makes the acne lesion inflamed."
+    }
+  ]
+}
