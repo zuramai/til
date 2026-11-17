@@ -1,10 +1,11 @@
 ---
 title: Androgens
 date: 2026-11-17T22:35:05+00:00
-draft: true
+draft: false
 tags:
-  - Language
-language: de
+  - Biology
+  - Science
+language: en
 ---
 Androgens is a group of steroid hormones that maintains male physical health.
 
