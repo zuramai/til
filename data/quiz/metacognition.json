@@ -1,0 +1,70 @@
+{
+  "slug": "metacognition",
+  "title": "Metacognition",
+  "url": "/metacognition/",
+  "sourceHash": "92a2bc963b2f68c7a5b4672912a82b942ada3bcd2dae9a598e0abb80c5e4c81d",
+  "promptVersion": 1,
+  "model": "deepseek/deepseek-v4.1-flash-1017",
+  "generatedAt": "2026-11-18T15:55:59.527Z",
+  "cards": [
+    {
+      "id": "metacognition-37c78dec38",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is metacognition?",
+      "answer": "Thinking about your own thinking — stepping back to observe and reflect on how your mind is working.",
+      "explanation": "It's a second layer of thought: the mind turning its attention back onto itself."
+    },
+    {
+      "id": "metacognition-5fe8677c20",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "The human ability to step back, observe and reflect on one's own thought process is known as ______.",
+      "answer": "metacognition"
+    },
+    {
+      "id": "metacognition-73ebacd072",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Does everyone have the same amount of metacognitive skill?",
+      "answer": "No — most people have the ability, but how strong that skill is varies from person to person."
+    },
+    {
+      "id": "metacognition-3e3dccf94c",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Metacognition is something you either have or don't have — there are no degrees of it.",
+      "correct": false,
+      "answer": "Myth: most people possess the ability, but the skill level differs between individuals."
+    },
+    {
+      "id": "metacognition-340d656f7d",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which of these is the clearest example of metacognition in action?",
+      "options": [
+        "Noticing mid-task that your mind has drifted and you feel unsure",
+        "Memorizing a formula by repeating it ten times",
+        "Following a recipe step by step without thinking",
+        "Solving a problem you have solved many times before"
+      ],
+      "correct": 0,
+      "answer": "Noticing mid-task that you drifted or feel unsure — that's observing your own thought process as it happens.",
+      "explanation": "Reflecting on your thoughts, gauging your decisions and catching distraction are all named examples of metacognition."
+    },
+    {
+      "id": "metacognition-018a3f32d4",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Your friend studies for an hour, then only afterwards realizes they spent most of it daydreaming. Which metacognitive habit were they missing, and what would it look like in practice?",
+      "answer": "Real-time awareness of their own thinking state — catching the distraction or uncertainty while it happens instead of after, and gauging whether their decisions (like staying on that task) are working."
+    },
+    {
+      "id": "metacognition-d715b29b6a",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: what does it mean to think about your own thinking?",
+      "answer": "Your brain normally just does things — reads, decides, remembers. Metacognition is when your brain acts like a little coach watching itself: 'Am I actually paying attention? Was that choice a good one? Do I really know this?' That watching-and-checking is metacognition."
+    }
+  ]
+}
