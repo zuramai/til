@@ -1,0 +1,49 @@
+{
+  "slug": "flash-photography-technique",
+  "title": "Flash Photography Technique",
+  "url": "/flash-photography-technique/",
+  "sourceHash": "1a3bfa70dcef1afaf493de83fb2ecd3318982e1c57f53f2d127346bbc85f6841",
+  "promptVersion": 1,
+  "model": "deepseek/deepseek-v4.1-flash-1017",
+  "generatedAt": "2026-11-19T15:31:13.743Z",
+  "cards": [
+    {
+      "id": "flash-photography-technique-683535252f",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "In photography, what counts as ambient light?",
+      "answer": "Light that already exists in the room, whether naturally or from artificial sources, without adding a flash or strobes.",
+      "explanation": "It is the background light the camera can collect during a longer exposure."
+    },
+    {
+      "id": "flash-photography-technique-c7aff33126",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "You are using flash and want the room behind your subject to stay visible. Which setting change helps?",
+      "options": [
+        "Faster shutter speed and lower ISO",
+        "Slower shutter speed and higher ISO",
+        "Faster shutter speed and higher ISO",
+        "Slower shutter speed and lower ISO"
+      ],
+      "correct": 1,
+      "answer": "Slower shutter speed plus higher ISO — the longer exposure lets the lens gather more ambient background light."
+    },
+    {
+      "id": "flash-photography-technique-4de0f5c9b0",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "To keep the background visible in a flash photo, a typical slow shutter choice is 1/15 or ____, combined with a higher ISO.",
+      "answer": "1/30",
+      "explanation": "The slow shutter gives the sensor more time to pick up ambient room light."
+    },
+    {
+      "id": "flash-photography-technique-7825ff72b1",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A friend shoots an indoor portrait with flash: the subject is well lit, but the background is almost black. What should they adjust?",
+      "answer": "Slow the shutter to around 1/15–1/30 and raise the ISO so ambient room light registers in the background; the flash still highlights the subject.",
+      "explanation": "A fast shutter cuts out the room's ambient light, leaving only the flash-lit subject."
+    }
+  ]
+}
