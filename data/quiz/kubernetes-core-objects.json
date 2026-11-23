@@ -1,0 +1,85 @@
+{
+  "slug": "kubernetes-core-objects",
+  "title": "Kubernetes Core Objects",
+  "url": "/kubernetes-core-objects/",
+  "sourceHash": "89da7631923c62031210a6c17b8273f13bc06fbaeea6b29333eef9e6d1438e8c",
+  "promptVersion": 1,
+  "model": "deepseek/deepseek-v4.1-flash-1017",
+  "generatedAt": "2026-11-23T16:16:49.076Z",
+  "cards": [
+    {
+      "id": "kubernetes-core-objects-186fe1ddc7",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "In Kubernetes, what is the smallest unit you can deploy?",
+      "answer": "A Pod.",
+      "explanation": "A Pod wraps one or more containers that share networking and storage."
+    },
+    {
+      "id": "kubernetes-core-objects-264651cd79",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "A Deployment replaces old Pods with new ones gradually, which enables a ____ update without taking the app offline.",
+      "answer": "rolling",
+      "explanation": "Rolling updates let a Deployment change versions incrementally instead of all at once."
+    },
+    {
+      "id": "kubernetes-core-objects-dde52278b4",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Which Kubernetes object gives Pods a stable network identity and spreads incoming traffic across them?",
+      "options": [
+        "Pod",
+        "Service",
+        "ConfigMap",
+        "Namespace"
+      ],
+      "correct": 1,
+      "answer": "Service — it provides network identity and load balancing for Pods."
+    },
+    {
+      "id": "kubernetes-core-objects-589949a0bf",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Where should you put a database password so it is kept separate from the container image?",
+      "options": [
+        "ConfigMap",
+        "Secret",
+        "Service",
+        "Namespace"
+      ],
+      "correct": 1,
+      "answer": "Secret — it is meant for sensitive values such as credentials."
+    },
+    {
+      "id": "kubernetes-core-objects-dcf119e780",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "A colleague wants to run three copies of a web app and update them one by one with no outage. Which Kubernetes object should they use to manage this?",
+      "answer": "A Deployment, because it manages replicas and performs rolling updates without downtime."
+    },
+    {
+      "id": "kubernetes-core-objects-02ba545b85",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "**All containers in a Pod share the same network and storage.**",
+      "correct": true,
+      "answer": "True — containers grouped in a Pod share network and storage."
+    },
+    {
+      "id": "kubernetes-core-objects-0901032022",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why keep configuration and passwords in ConfigMaps or Secrets instead of inside the container image?",
+      "answer": "So the same app image can run in different places with different settings, and sensitive passwords aren't baked into the image where they could leak."
+    },
+    {
+      "id": "kubernetes-core-objects-9ff092aca1",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Two teams share one Kubernetes cluster but need separate resource names and boundaries. What core object provides that logical isolation?",
+      "answer": "A Namespace.",
+      "explanation": "Namespaces create logical isolation boundaries inside a single cluster."
+    }
+  ]
+}
