@@ -1,0 +1,91 @@
+{
+  "slug": "homelab-setup",
+  "title": "Homelab Setup",
+  "url": "/homelab-setup/",
+  "sourceHash": "9ff5576cc4327ca36a461ed165fef65d88cffb15bca69ab2eaea74d2a12c83c0",
+  "promptVersion": 1,
+  "model": "deepseek/deepseek-v4.1-flash-1017",
+  "generatedAt": "2026-11-25T15:48:28.553Z",
+  "cards": [
+    {
+      "id": "homelab-setup-5aebbbb2a2",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Which component runs all the applications and the PostgreSQL/MongoDB databases in the homelab?",
+      "answer": "k3s",
+      "explanation": "k3s is the platform where the apps and databases are hosted."
+    },
+    {
+      "id": "homelab-setup-25cf80a7c9",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "The home server is joined to ____, so it can be reached from anywhere.",
+      "answer": "Tailscale",
+      "explanation": "Tailscale provides remote access to the device."
+    },
+    {
+      "id": "homelab-setup-2147e0575c",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "What is `tailscale serve` used for in the public-access path?",
+      "options": [
+        "It exposes self-hosted apps so they can be served through a domain",
+        "It replaces k3s for running containers",
+        "It stores secrets for Vaultwarden and Infisical",
+        "It creates the PostgreSQL and MongoDB databases"
+      ],
+      "correct": 0,
+      "answer": "It serves the self-hosted apps; Cloudflare then routes the domain to that locally served URL."
+    },
+    {
+      "id": "homelab-setup-4a7651a010",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Which item is not one of the self-hosted apps listed alongside Vaultwarden, Infisical, Navidrome, Cloudflared, and AFFiNE?",
+      "options": [
+        "k3s",
+        "Vaultwarden",
+        "Navidrome",
+        "AFFiNE"
+      ],
+      "correct": 0,
+      "answer": "k3s is the platform hosting apps/databases, not one of the self-hosted apps."
+    },
+    {
+      "id": "homelab-setup-72fa05b42b",
+      "type": "myth_or_fact",
+      "difficulty": "easy",
+      "prompt": "**Cloudflared and the app it exposes should be connected within the same network.**",
+      "correct": true,
+      "answer": "True: the app and cloudflared need to be on one network for the routing to work."
+    },
+    {
+      "id": "homelab-setup-4b942b71d8",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Which two databases are run inside k3s?",
+      "answer": "PostgreSQL and MongoDB"
+    },
+    {
+      "id": "homelab-setup-8247ca06f1",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "You deploy a new self-hosted app and want it reachable at a public domain through Cloudflare. What needs to be configured?",
+      "answer": "Serve the app locally with `tailscale serve`, then create a Cloudflare published application that routes the domain to that local served URL; keep the app and cloudflared on the same network."
+    },
+    {
+      "id": "homelab-setup-14bfd198ba",
+      "type": "explain",
+      "difficulty": "hard",
+      "prompt": "Explain like I'm 10: how do Tailscale and Cloudflare work together to make a homelab app reachable by domain?",
+      "answer": "Tailscale lets the server be reached from anywhere and serves the app locally. Cloudflare then takes requests for your public domain and points them to that locally served URL."
+    },
+    {
+      "id": "homelab-setup-6f66910dfc",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What is the purpose of a Cloudflare published application here?",
+      "answer": "It routes a domain to the local URL served by Tailscale."
+    }
+  ]
+}
