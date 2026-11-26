@@ -1,0 +1,124 @@
+{
+  "slug": "why-ext4-is-better-than-exfat-for-servers",
+  "title": "Why ext4 Is Better Than exFAT For Servers",
+  "url": "/why-ext4-is-better-than-exfat-for-servers/",
+  "sourceHash": "1bab935e4afc9393733c6aa062b3bb4da31623b15f32399b2761f2d456861f33",
+  "promptVersion": 1,
+  "model": "deepseek/deepseek-v4.1-flash-1017",
+  "generatedAt": "2026-11-26T15:27:01.707Z",
+  "cards": [
+    {
+      "id": "why-ext4-is-better-than-exfat-for-servers-4fbb84ab1a",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "What was exFAT originally designed for, and why does that matter for servers?",
+      "answer": "Removable media like SD cards and USB drives — not for long-running server workloads.",
+      "explanation": "Design intent matters: exFAT optimizes for portability, not crash safety."
+    },
+    {
+      "id": "why-ext4-is-better-than-exfat-for-servers-ce1e28c98e",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Which feature does ext4 have that lets it recover after power loss or a kernel panic?",
+      "answer": "A journal (journaling), which allows replaying and rolling back writes to a consistent state."
+    },
+    {
+      "id": "why-ext4-is-better-than-exfat-for-servers-3be136ff11",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Claim: exFAT keeps a journal so it can recover after an unclean shutdown.",
+      "correct": false,
+      "answer": "Myth — exFAT has no journal, so an unclean shutdown can leave file allocation out of sync and potentially corrupt the disk."
+    },
+    {
+      "id": "why-ext4-is-better-than-exfat-for-servers-74056be673",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "A server running exFAT is yanked from power mid-write. What is the most likely consequence compared to ext4?",
+      "options": [
+        "The journal replays and the disk returns to a consistent state",
+        "File allocation can go out of sync and the disk may be corrupted",
+        "exFAT automatically remounts read-only until repaired",
+        "Nothing happens because exFAT writes are atomic"
+      ],
+      "correct": 1,
+      "answer": "File allocation can go out of sync and the disk may be corrupted — exFAT has no journal to recover from."
+    },
+    {
+      "id": "why-ext4-is-better-than-exfat-for-servers-7218d31e36",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Why can't you rely on Unix file ownership and permissions on an exFAT volume?",
+      "answer": "exFAT has no concept of Unix users/groups, while ext4 supports POSIX permissions."
+    },
+    {
+      "id": "why-ext4-is-better-than-exfat-for-servers-858dbc23c8",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Which of these is NOT a feature or trait associated with ext4 in this comparison?",
+      "options": [
+        "Journaling with crash recovery",
+        "POSIX permission support",
+        "Designed primarily for SD cards and USB drives",
+        "Symbolic links and sockets"
+      ],
+      "correct": 2,
+      "answer": "Designed for removable media describes exFAT, not ext4."
+    },
+    {
+      "id": "why-ext4-is-better-than-exfat-for-servers-c7960a1a7c",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "After a kernel panic, ext4 can replay its journal and roll back writes so the filesystem returns to a ____ state.",
+      "answer": "consistent"
+    },
+    {
+      "id": "why-ext4-is-better-than-exfat-for-servers-6a2c74b81c",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Your friend is setting up a database server and asks whether to format the data disk as exFAT since it 'works on everything'. What do you tell them?",
+      "answer": "Use ext4: the server needs journaling/crash recovery, POSIX permissions, and features like symlinks and sockets, which exFAT lacks."
+    },
+    {
+      "id": "why-ext4-is-better-than-exfat-for-servers-1cdb66af71",
+      "type": "sequence",
+      "difficulty": "hard",
+      "prompt": "Order what happens on an ext4 system after an unclean shutdown.",
+      "items": [
+        "Power is lost or the kernel panics during writes",
+        "The filesystem detects an unclean state at mount",
+        "The journal is replayed, rolling back incomplete writes",
+        "The filesystem is consistent again"
+      ],
+      "answer": "Unclean shutdown → journal detected → replay/rollback → consistency restored."
+    },
+    {
+      "id": "why-ext4-is-better-than-exfat-for-servers-dd953d2b8e",
+      "type": "explain",
+      "difficulty": "medium",
+      "prompt": "Explain like I'm 10: why does a journal make ext4 safer than exFAT when the power goes out?",
+      "answer": "Imagine writing a to-do list of every change before making it. If the lights go out, ext4 reads the to-do list and finishes or undoes the half-done work. exFAT skips the list, so half-finished changes stay broken."
+    },
+    {
+      "id": "why-ext4-is-better-than-exfat-for-servers-1b12758364",
+      "type": "riddle",
+      "difficulty": "medium",
+      "prompt": "I'm the on-disk notebook that lets Linux replay or undo writes after a crash. What am I?",
+      "answer": "The ext4 journal."
+    },
+    {
+      "id": "why-ext4-is-better-than-exfat-for-servers-b0d428dcb1",
+      "type": "mcq",
+      "difficulty": "hard",
+      "prompt": "Which pair of traits best explains why ext4 suits long-running server workloads rather than exFAT?",
+      "options": [
+        "Larger maximum file size and better compression",
+        "Journaled crash recovery and POSIX permissions",
+        "Native Windows support and hot-plug safety",
+        "Read-only mounting and no metadata overhead"
+      ],
+      "correct": 1,
+      "answer": "Crash recovery via journaling plus POSIX users/groups — ext4's server-relevant strengths."
+    }
+  ]
+}
