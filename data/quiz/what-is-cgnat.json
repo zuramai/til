@@ -1,0 +1,11 @@
+{
+  "slug": "what-is-cgnat",
+  "title": "What Is Cgnat",
+  "url": "/what-is-cgnat/",
+  "sourceHash": "af808a6f9a5f8537c59718b18ce2bf398619c5ad993d2ab0edcd30fb32d89e26",
+  "promptVersion": 1,
+  "model": "deepseek/deepseek-v4.1-flash-1017",
+  "generatedAt": "2026-11-28T03:26:55.377Z",
+  "skipReason": "too-short",
+  "cards": []
+}
