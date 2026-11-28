@@ -1,0 +1,131 @@
+{
+  "slug": "variables-in-audio",
+  "title": "Variables In Audio",
+  "url": "/variables-in-audio/",
+  "sourceHash": "09076f2d9541ce03eb25968a2c2e00167d024d9774daf299d5bbeb6b9ec44426",
+  "promptVersion": 1,
+  "model": "deepseek/deepseek-v4.1-flash-1017",
+  "generatedAt": "2026-11-28T16:47:12.417Z",
+  "cards": [
+    {
+      "id": "variables-in-audio-47fcb34750",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Saat orang membicarakan 'tonality' sebuah IEM, sebenarnya apa yang sedang dibahas?",
+      "answer": "Karakter atau 'rasa' suara IEM tersebut, yang bisa dicocokkan dengan selera atau genre lewat grafik FR.",
+      "explanation": "Tonality adalah soal rasa, bukan soal seberapa 'mahal' atau 'canggih' drivernya."
+    },
+    {
+      "id": "variables-in-audio-7e72c9e0ca",
+      "type": "cloze",
+      "difficulty": "easy",
+      "prompt": "Pada FR Graph, bagian ____ yang menentukan dentuman dalam (rumble) dan biasanya disukai untuk EDM atau Hip-hop.",
+      "answer": "sub-bass",
+      "explanation": "Sub-bass ada di ujung kiri grafik, wilayah frekuensi paling rendah."
+    },
+    {
+      "id": "variables-in-audio-fea0b6d426",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Sebuah IEM terasa sangat 'punchy' setiap kali kick drum dan bass dipukul. Bagian grafik mana yang paling bertanggung jawab?",
+      "options": [
+        "Sub-bass",
+        "Mid-bass",
+        "Lower-mid",
+        "Treble"
+      ],
+      "correct": 1,
+      "answer": "Mid-bass — wilayah inilah yang memberi punch pada kick drum dan bass.",
+      "explanation": "Sub-bass terasa sebagai getaran dalam, sedangkan mid-bass terasa sebagai pukulan."
+    },
+    {
+      "id": "variables-in-audio-ec0f333cd8",
+      "type": "recall",
+      "difficulty": "medium",
+      "prompt": "Bagian midrange dibagi dua. Bagian mana yang menghangatkan vokal pria, dan bagian mana yang menjernihkan vokal wanita?",
+      "answer": "Lower-mid memberi warmth pada vokal pria, upper-mid memberi clarity pada vokal wanita."
+    },
+    {
+      "id": "variables-in-audio-b2d911b239",
+      "type": "riddle",
+      "difficulty": "medium",
+      "prompt": "Aku bersembunyi di sisi kanan grafik. Tanpa aku, musik terasa tertutup; denganku, suara terasa jernih dan lapang seperti udara terbuka. Siapa aku?",
+      "answer": "Treble.",
+      "explanation": "Treble yang pas memberi kesan jernih dan airy (terbuka)."
+    },
+    {
+      "id": "variables-in-audio-13b3e52adb",
+      "type": "mcq",
+      "difficulty": "medium",
+      "prompt": "Dua IEM punya grafik FR yang hampir identik, tapi kualitas suaranya terasa jauh berbeda. Apa penjelasan paling masuk akal?",
+      "options": [
+        "Grafik FR pasti salah ukur",
+        "Perbedaan ada di technicality, yang tidak tercermin di grafik",
+        "Yang satu pasti palsu",
+        "Grafik FR hanya berlaku untuk TWS, bukan IEM"
+      ],
+      "correct": 1,
+      "answer": "Perbedaan ada pada technicality — faktor ini tidak masuk ke dalam grafik FR.",
+      "explanation": "Tonality mirip belum tentu pengalaman mendengarnya sama."
+    },
+    {
+      "id": "variables-in-audio-bef38bedf4",
+      "type": "scenario",
+      "difficulty": "hard",
+      "prompt": "Temanmu mengeluh: di lagu favoritnya, gitar, piano, dan vokal terdengar saling menumpuk sehingga sulit fokus ke salah satunya. Aspek technicality apa yang kurang pada IEM-nya?",
+      "answer": "Separation — kemampuannya memisahkan instrumen sehingga suara tidak saling menumpuk."
+    },
+    {
+      "id": "variables-in-audio-ff6384cff9",
+      "type": "recall",
+      "difficulty": "easy",
+      "prompt": "Kalau kamu bisa merasakan suara drum di depan, gitar di kanan, dan vokal di kiri, kemampuan IEM apa yang sedang bekerja?",
+      "answer": "Imaging, yaitu penempatan arah datangnya suara."
+    },
+    {
+      "id": "variables-in-audio-c4efa77ea9",
+      "type": "myth_or_fact",
+      "difficulty": "medium",
+      "prompt": "Kalau dua IEM punya grafik FR yang sama persis, kualitas suaranya dijamin sama.",
+      "correct": false,
+      "answer": "Mitos — tonality bisa mirip, tetapi technicality (separation, imaging, soundstage, timbre, coherence) tidak terlihat di grafik dan bisa membuat kualitas suara berbeda jauh."
+    },
+    {
+      "id": "variables-in-audio-adc98aa9a2",
+      "type": "odd_one_out",
+      "difficulty": "medium",
+      "prompt": "Mana yang BUKAN termasuk technicality?",
+      "options": [
+        "Separation",
+        "Imaging",
+        "Soundstage",
+        "Mid-bass"
+      ],
+      "correct": 3,
+      "answer": "Mid-bass — itu bagian dari tonality/frequency response yang terlihat di grafik, bukan technicality."
+    },
+    {
+      "id": "variables-in-audio-d1c527a835",
+      "type": "cloze",
+      "difficulty": "medium",
+      "prompt": "____ menunjukkan seberapa akurat earphone mereproduksi karakter unik dari tiap instrumen (naturalitas).",
+      "answer": "Timbre",
+      "explanation": "Timbre sering disebut juga naturalitas suara."
+    },
+    {
+      "id": "variables-in-audio-65a14b8909",
+      "type": "explain",
+      "difficulty": "easy",
+      "prompt": "Jelaskan seperti ke anak 10 tahun: apa itu soundstage pada IEM?",
+      "answer": "Bayangkan musisi tampil di atas panggung. Soundstage adalah seberapa luas panggung itu terasa di telingamu — sempit dan sesak, atau lebar dan lapang.",
+      "explanation": "Soundstage hanya soal kesan keluasan, bukan arah suara (itu imaging)."
+    },
+    {
+      "id": "variables-in-audio-8e94fd5ce5",
+      "type": "recall",
+      "difficulty": "hard",
+      "prompt": "Sebuah IEM terasa 'patah' saat suara berpindah dari bass ke tengah ke treble. Aspek technicality mana yang bermasalah?",
+      "answer": "Coherence, yaitu kepaduan transisi suara antar frekuensi."
+    }
+  ]
+}
